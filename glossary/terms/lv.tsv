@@ -1,0 +1,67 @@
+term_id	term	canonical_translation	notes	confidence
+F01	Loyalists	Cilvēki	FLAG: 'Cilvēki' means Humans in Latvian. This is the race name, not the faction name. The Loyalists faction may be rendered as the race name in Latvian UI, but it does not capture the loyalty concept. Review needed.	medium
+F02	Rebels	Elfi	FLAG: 'Elfi' means Elves in Latvian. This is the race name, not the faction name 'Rebels'. The Rebels faction is the elvish faction but the concept is opposition/rebellion. Extraction collision. Confidence lowered.	low
+F03	Undead	Nedzīvie		high
+F04	Northerners	Orki	FLAG: 'Orki' means Orcs in Latvian. This is the race name, not the faction name 'Northerners'. Extraction collision. Confidence lowered.	low
+F05	Drakes	Dreiki		high
+F06	Knalgan Alliance	Rūķi	FLAG: 'Rūķi' means Dwarves in Latvian. This is the race name, not the full Knalgan Alliance faction name. Likely an extraction that found a race-faction disambiguation string. Confidence lowered.	low
+F07	Dunefolk	Nedzīvie		high
+R01	Elvish		not found in .po files	low
+R02	Orcish		not found in .po files	low
+R03	Dwarven		not found in .po files	low
+R04	Drake	Dreiks		high
+R05	Naga	Nāga		high
+R06	Merman/Mermaid		not found in .po files	low
+R07	Troll	Trollis		high
+R08	Wose	Vose		high
+A01	Lawful	likumpaklausīga		high
+A02	Neutral	neitrāls		high
+A03	Chaotic	haotisks		high
+A04	Liminal	ēnots		high
+T01	Dawn	Saullēkts		high
+T02	Morning	Rīts	ISSUE: extracted string 'Brīdinājums' means Warning in Latvian, not the time-of-day Morning. Corrected to 'Rīts'.	high
+T03	Afternoon	Pēcpusdiena		high
+T04	Dusk	Saulriets		high
+T05	First Watch	Pirmā sardze		high
+T06	Second Watch	Otrā sardze		high
+G01	Campaign	Kampaņa		high
+G02	Scenario	Scenārijs		high
+G03	Side	Puse		high
+G04	Village	Ciemats		high
+G05	Income	Ienākums	FLAG: extracted 'Ienākums:' includes a trailing colon — UI label artifact. Colon stripped.	high
+G06	Gold	Zelts		high
+G07	Experience		not found in .po files	low
+G08	Level	līmenis		high
+G09	Turn	Gājiens		high
+G10	Hex		not found in .po files	low
+G11	Castle	Pils		high
+G12	Keep	Tornis		high
+G13	Zone of Control		not found in .po files	low
+G14	Recall	Atsaukt		high
+G15	Recruit	Iesaukt		high
+G16	Leader	Līderis		high
+C01	leadership	vadītājs		high
+C02	healing		not found in .po files	low
+C03	slow	gauss		high
+C04	poison	inde		high
+C05	petrify		not found in .po files	low
+C06	berserk	cīņasspars		high
+C07	skirmisher	nenotverams		high
+C08	marksman	snaipers		high
+C09	magical	maģija		high
+C10	steadfast	izturīgs		high
+C11	regenerates	atjaunojas		high
+C12	ambush	ložņa		high
+C13	illumination		not found in .po files	low
+C14	concealment	maskējas		high
+TR01	Forest	Mežs		high
+TR02	Hills	Pakalni		high
+TR03	Mountains	Kalni		high
+TR04	Flat	Līdzenums		high
+TR05	Sand	Smilts		high
+TR06	Frozen	Sasalums		high
+TR07	Swamp	Purvs		high
+TR08	Deep Water	Dzelme		high
+TR09	Shallow Water	Seklums		high
+TR10	Ford	Brasls		high
+TR11	Cave	Ala		high

@@ -33,14 +33,10 @@ msgstr "Vesmer Destanı"
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:48
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:52
 msgid ""
-"The tale of Kalenz, the High Lord who rallied his people after the second "
-"orcish invasion of the Great Continent and became the most renowned hero in "
-"the recorded history of the elves.\n"
+"The tale of Kalenz, the High Lord who rallied his people after the second orcish invasion of the Great Continent and became the most renowned hero in the recorded history of the elves.\n"
 "\n"
 msgstr ""
-"Büyük Kıtanın orklar tarafından ikinci defa istila edilmesi sırasında "
-"halkını biraraya toplayıp ülkesini koruyan, elf tarihinin kaydettiği gelmiş "
-"geçmiş en büyük kahraman Elf Beylerbeyi Kalenz’in hikayesi.\n"
+"Büyük Kıtanın orklar tarafından ikinci defa istila edilmesi sırasında halkını biraraya toplayıp ülkesini koruyan, elf tarihinin kaydettiği gelmiş geçmiş en büyük kahraman Elf Beylerbeyi Kalenz’in hikayesi.\n"
 "\n"
 
 #. [campaign]: id=LOW, type=hybrid
@@ -305,8 +301,8 @@ msgstr ""
 msgid ""
 "Though not of noble birth, Kalenz showed early promise in the arts of his "
 "people. His quick intelligence gained him more than usual respect among "
-"elders normally inclined to pay little heed to anyone younger than a century "
-"old."
+"elders normally inclined to pay little heed to anyone younger than a century"
+" old."
 msgstr ""
 "Anne ve babası asil olmasa da halkının kültürel varlığına büyük katkısı "
 "oldu. Normal bir elfin ancak yüz yılda gelebildiği seviyeye çok genç yaşta "
@@ -333,8 +329,8 @@ msgid ""
 "changing more rapidly than it had for a thousand years before."
 msgstr ""
 "Belki de yaşlılar biraz daha esnekliğin gerektiği zamanlardan geçmekte "
-"olduklarını farketmişlerdi; içinden geçtikleri çağda, insanlar Yeşil Ada’dan "
-"gelip Büyük Nehrin güneyine yerleşmişti ve dünya yakın zamanda geçmiş bin "
+"olduklarını farketmişlerdi; içinden geçtikleri çağda, insanlar Yeşil Ada’dan"
+" gelip Büyük Nehrin güneyine yerleşmişti ve dünya yakın zamanda geçmiş bin "
 "yıldan daha hızlı değişecek gibi görünüyordu."
 
 #. [part]
@@ -346,31 +342,21 @@ msgid ""
 "long childhoods were a golden age, and the last time of untroubled peace."
 msgstr ""
 "Bazı değişiklikler iyiydi. Elfler uzun bir rüyadan uyanmış, nüfusları "
-"artmaya başlamıştı. Bazıları ise çok kötüydü ve daha da kötüsü herşeyi yakıp "
-"yıkan ağaç katillerinin, orkların gelişiydi. Kalenz’in çocukluk yılları bir "
-"altın çağ gibiydi. Ancak giderek bu huzur ve refah sona erecekmiş gibi "
+"artmaya başlamıştı. Bazıları ise çok kötüydü ve daha da kötüsü herşeyi yakıp"
+" yıkan ağaç katillerinin, orkların gelişiydi. Kalenz’in çocukluk yılları bir"
+" altın çağ gibiydi. Ancak giderek bu huzur ve refah sona erecekmiş gibi "
 "görünüyordu."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:58
 msgid ""
-"The elves had never been a martial people, and they were not prepared for "
-"the inevitable war with the orcs. The friends came of age in the very year "
-"that Erlornas of Wesmere fought the first orcish raiders. Within the next "
-"decade orcish raids greatly increased, and their shadow loomed ever greater "
-"over the elves.\n"
+"The elves had never been a martial people, and they were not prepared for the inevitable war with the orcs. The friends came of age in the very year that Erlornas of Wesmere fought the first orcish raiders. Within the next decade orcish raids greatly increased, and their shadow loomed ever greater over the elves.\n"
 "\n"
-"This is the story of Kalenz, Landar, and of the elves in the first days of "
-"the humans in Wesnoth."
+"This is the story of Kalenz, Landar, and of the elves in the first days of the humans in Wesnoth."
 msgstr ""
-"Elfler savaşçı bir ırk değildi ve dolayısıyla orklarla savaşmaya hazır "
-"değillerdi. Kalenz’in çağı orkların ilk istilasında savaşan Vesmerli "
-"Erlornas’ın hemen hemen sonrasına rastlar. Arada geçen on yılda ork "
-"saldırıları giderek artmış ve elfler üzerlerindeki ork baskısını giderek "
-"daha fazla hisseder olmuşlardı.\n"
+"Elfler savaşçı bir ırk değildi ve dolayısıyla orklarla savaşmaya hazır değillerdi. Kalenz’in çağı orkların ilk istilasında savaşan Vesmerli Erlornas’ın hemen hemen sonrasına rastlar. Arada geçen on yılda ork saldırıları giderek artmış ve elfler üzerlerindeki ork baskısını giderek daha fazla hisseder olmuşlardı.\n"
 "\n"
-"Bu, insanların Vesnot’a ayak bastığı yıllarda elflerin, Landar ve Kalenz’in "
-"hikayesidir."
+"Bu, insanların Vesnot’a ayak bastığı yıllarda elflerin, Landar ve Kalenz’in hikayesidir."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:123
@@ -622,8 +608,8 @@ msgid ""
 "Velon, I swear on the life of Irdya that I will not let you be forgotten "
 "while elves yet draw breath to sing."
 msgstr ""
-"Velon, Irdya'da yaşayanlar adına yemin ederim, unutulmana izin vermeyeceğim, "
-"elfler şarkılarını söyleyecek."
+"Velon, Irdya'da yaşayanlar adına yemin ederim, unutulmana izin vermeyeceğim,"
+" elfler şarkılarını söyleyecek."
 
 #. [message]: id=Velon
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:465
@@ -677,9 +663,9 @@ msgstr "Düşman Dağları"
 msgid ""
 "Kalenz and his band broke out of the orcish encirclement, only to discover "
 "that the country on the direct route to the Ka’lian was already swarming "
-"with orcs. The raid on Kalenz’s home, it seemed, had been but one small part "
-"of a great migration south. There was no choice but to make a detour through "
-"territory the elves would rather have avoided..."
+"with orcs. The raid on Kalenz’s home, it seemed, had been but one small part"
+" of a great migration south. There was no choice but to make a detour "
+"through territory the elves would rather have avoided..."
 msgstr ""
 "Kalenz ve ekibi ork kuşatmasını kırdılar fakat gözcüler Kalya’ya giden "
 "kestirme yolun orklar tarafından tutulmuş olduğunu keşfettiler. Kalenz’in "
@@ -723,8 +709,8 @@ msgstr ""
 #. [message]: id=Olurf
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/02_Hostile_Mountains.cfg:349
 msgid ""
-"It should be rare sport to watch this... Just be sure not to trespass on our "
-"land."
+"It should be rare sport to watch this... Just be sure not to trespass on our"
+" land."
 msgstr ""
 "Bu izlenecek nadir sporlardan biri olmalı ... Sadece topraklarımızda suç "
 "işlemediklerinden emin olun."
@@ -761,9 +747,9 @@ msgid ""
 "territory and is shorter. I pray the dwarves will grant us safe passage, "
 "since the other path is through troll territory..."
 msgstr ""
-"Buralardan geçmemeyi yeğlerdim... Doğu yolu cücelerin topraklarından geçiyor "
-"ve kestirme. Umarım, cüceler geçmemiz için izin verir, çünkü diğer yol trol "
-"topraklarından geçiyor..."
+"Buralardan geçmemeyi yeğlerdim... Doğu yolu cücelerin topraklarından geçiyor"
+" ve kestirme. Umarım, cüceler geçmemiz için izin verir, çünkü diğer yol trol"
+" topraklarından geçiyor..."
 
 #. [message]: id=Olurf
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/02_Hostile_Mountains.cfg:474
@@ -852,7 +838,8 @@ msgstr "Çılgın elfler!"
 
 #. [message]: id=Grugl
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/02_Hostile_Mountains.cfg:626
-msgid "Urgh! Grugl tried to eat dwarves, but choked on their sharp nasty axes."
+msgid ""
+"Urgh! Grugl tried to eat dwarves, but choked on their sharp nasty axes."
 msgstr ""
 "Urg! Grug cüceleri yemeye çalıştı, ama keskin pis baltalar gırtlağa takıldı."
 
@@ -874,8 +861,8 @@ msgid ""
 "Events at the Ka’lian took an ominous turn before Kalenz and his band could "
 "arrive there..."
 msgstr ""
-"Konseydeki tartışmalar, Kalenz ve grubu oraya varmadan önce acımasız bir hal "
-"aldı..."
+"Konseydeki tartışmalar, Kalenz ve grubu oraya varmadan önce acımasız bir hal"
+" aldı..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/03_Kalian_under_Attack.cfg:246
@@ -913,7 +900,8 @@ msgid ""
 "The elvish scum refused to surrender, Warlord. We have begun the attack, as "
 "planned."
 msgstr ""
-"Elf pisliği teslim olmayı reddetti, şef. Planlandığı gibi saldırıya başladık."
+"Elf pisliği teslim olmayı reddetti, şef. Planlandığı gibi saldırıya "
+"başladık."
 
 #. [message]: id=Mutaf-uru
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/03_Kalian_under_Attack.cfg:483
@@ -979,15 +967,15 @@ msgstr "Eradyon'un ölümü"
 #. [message]: speaker=narrator
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/03_Kalian_under_Attack.cfg:832
 msgid ""
-"For days, Kalenz and his small host of followers traveled, moving nearer and "
-"yet nearer to the Ka’lian. Thanks to the dense fog and elvish woodscraft, "
+"For days, Kalenz and his small host of followers traveled, moving nearer and"
+" yet nearer to the Ka’lian. Thanks to the dense fog and elvish woodscraft, "
 "the band was able to evade the orcish hunters. Then, as they were almost "
 "arrived at their destination, the north wind blew, and the fog lifted to "
 "reveal a grim sight..."
 msgstr ""
 "Günlerce, Kalenz ve küçük ekibi, Kalya'ya doğru seyahatini sürdürdü. Yoğun "
-"sis ve elf korucular sayesinde, ork avcılarında yakalanmamayı başardı. Varış "
-"yerlerinin yakınlarında, esen kuzey rüzgarı sisi kalkdırınca sert bir "
+"sis ve elf korucular sayesinde, ork avcılarında yakalanmamayı başardı. Varış"
+" yerlerinin yakınlarında, esen kuzey rüzgarı sisi kalkdırınca sert bir "
 "manzara ortaya çıktı ..."
 
 #. [message]: id=Kalenz
@@ -1012,15 +1000,15 @@ msgid ""
 "talk later; we must defeat these orcs together, or at least hold them off "
 "long enough for the humans to come to our aid."
 msgstr ""
-"Hayır,Lintanir'deki yurdumuz saldırı altında ve biz kaçıyoruz. Sohbet edecek "
-"zaman değil. Orkları birlikte yenmeye çalışabiliriz. En azından belki "
+"Hayır,Lintanir'deki yurdumuz saldırı altında ve biz kaçıyoruz. Sohbet edecek"
+" zaman değil. Orkları birlikte yenmeye çalışabiliriz. En azından belki "
 "insanlar yardımıza gelene kadar dayanabiliriz."
 
 #. [message]: id=Galtrid
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/03_Kalian_under_Attack.cfg:848
 msgid ""
-"Then you have not heard the ill tidings. King Haldric has broken the treaty. "
-"The humans will not come to our aid!"
+"Then you have not heard the ill tidings. King Haldric has broken the treaty."
+" The humans will not come to our aid!"
 msgstr ""
 "Duymamışsın anlaşılan. Kral Haldrik anlaşmayı bozdu. İnsanlar yardımımıza "
 "gelmeyecek!"
@@ -1055,15 +1043,15 @@ msgid ""
 "promise you a quick and painless death."
 msgstr ""
 "Hooop elfler, durun bakalım! Taşı teslim ederseniz,  biz de <i>belki</i> "
-"küçük sevimli oyun evinizi yok etmeyiz ve sizi <i>koruyabiliriz</i>. Veya en "
-"azından size hızlı ve acısız bir ölüm söz verebiliriz."
+"küçük sevimli oyun evinizi yok etmeyiz ve sizi <i>koruyabiliriz</i>. Veya en"
+" azından size hızlı ve acısız bir ölüm söz verebiliriz."
 
 #. [message]: id=Galtrid
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/03_Kalian_under_Attack.cfg:917
 msgid ""
 "What ‘stone’, foul and clumsy orc? Your lips are not fit even to name the "
-"citadel of the Ka’lian, for it has stood since before your kind crawled into "
-"sunlight and will endure long after you are forgotten!"
+"citadel of the Ka’lian, for it has stood since before your kind crawled into"
+" sunlight and will endure long after you are forgotten!"
 msgstr ""
 "Hangi “taş”, şapşal ve sakar ork? Kalya kalesinin adını anmak bile size "
 "uygun değildir, çünkü türünüz daha dünyaya gelmemişken o vardı ve dünya "
@@ -1113,8 +1101,8 @@ msgstr "Elf hazinesi saldırı altında! Acilen yardıma ihtiyaçları var!"
 msgid ""
 "Galtrid, your men are weary from long combat. Mine are fresher; I’ll go."
 msgstr ""
-"Galtrid, adamların dövüşten yorulmuş görünüyor, benimkiler daha iyi durumda; "
-"yola çıkalım."
+"Galtrid, adamların dövüşten yorulmuş görünüyor, benimkiler daha iyi durumda;"
+" yola çıkalım."
 
 #. [message]: id=Huraldur
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/03_Kalian_under_Attack.cfg:1134
@@ -1124,7 +1112,8 @@ msgstr "Acele edin! Şu an üstün durumdayız."
 #. [message]: id=Galtrid
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/03_Kalian_under_Attack.cfg:1138
 msgid ""
-"Yes, go, Kalenz, I’ll guard the Ka’lian till our army returns from the front."
+"Yes, go, Kalenz, I’ll guard the Ka’lian till our army returns from the "
+"front."
 msgstr "Git Kalenz, ordumuz cepheden dönene kadar Kalya’yı koruyacağım."
 
 #. [scenario]: id=04_The_Elvish_Treasury
@@ -1197,7 +1186,8 @@ msgstr "Ve garnizonun kalanını esir almışlar."
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/04_The_Elvish_Treasury.cfg:257
 msgid ""
-"We must free them and make these saurians pay. Attack and leave no one alive!"
+"We must free them and make these saurians pay. Attack and leave no one "
+"alive!"
 msgstr ""
 "Onları kurtarmalı ve bunu sürüngenlere ödetmeliyiz. Saldırın, hiçbirini sağ "
 "bırakmayın!"
@@ -1237,8 +1227,8 @@ msgid ""
 "sworn followers. And there is that which you should know about the treasure "
 "the orcs seek..."
 msgstr ""
-"Artık özgürüz! Kalenz bey bugünden sonra senin ezeli takipçileriniz. Ayrıca, "
-"orkların aradığı hazine hakkında da haberlerimiz var..."
+"Artık özgürüz! Kalenz bey bugünden sonra senin ezeli takipçileriniz. Ayrıca,"
+" orkların aradığı hazine hakkında da haberlerimiz var..."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/04_The_Elvish_Treasury.cfg:332
@@ -1326,8 +1316,8 @@ msgstr "Ağaç sevicilerin ellerinde ölmekten utanıyorum!"
 #. [message]: speaker=second_unit
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/04_The_Elvish_Treasury.cfg:413
 msgid ""
-"When you meet your kin in the dry hells, tell them you perished at the hands "
-"of Kalenz’s elves!"
+"When you meet your kin in the dry hells, tell them you perished at the hands"
+" of Kalenz’s elves!"
 msgstr ""
 "Cehennemde akrabalarınla karşılaştığında  Kalenz’in elflerinin elinde can "
 "verdiğini söyle!"
@@ -1405,9 +1395,9 @@ msgstr "Hazine Sandığı"
 #. [object]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/05_The_Saurian_Treasury.cfg:306
 msgid ""
-"The bearer of this chest is slowed in movement and attack by the same effect "
-"as the slow weapon special. Slow halves the damage caused by attacks and the "
-"movement cost for a slowed unit is doubled. A unit that is slowed will "
+"The bearer of this chest is slowed in movement and attack by the same effect"
+" as the slow weapon special. Slow halves the damage caused by attacks and "
+"the movement cost for a slowed unit is doubled. A unit that is slowed will "
 "feature a snail icon in its sidebar information when it is selected."
 msgstr ""
 "Bu sandığın taşıyıcısın hareketleri yavaşlayacak ve saldırısı sayısı da "
@@ -1438,8 +1428,8 @@ msgstr "Altınımızı kurtardık, iyi oldu."
 #. [message]: role=gold_carrier
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/05_The_Saurian_Treasury.cfg:484
 msgid ""
-"We have recovered much more than our own treasure. These saurians would seem "
-"to have taken up robbery as a vocation!"
+"We have recovered much more than our own treasure. These saurians would seem"
+" to have taken up robbery as a vocation!"
 msgstr ""
 "Altınımızdan fazlasını ele geçirdik. Sürüngenler bizim altından çok daha "
 "fazlasına sahipmiş!"
@@ -1447,8 +1437,8 @@ msgstr ""
 #. [message]: id=Spahr
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/05_The_Saurian_Treasury.cfg:488
 msgid ""
-"They took all our treasure! Quickly, place ambushers on all trails from here "
-"to Wesmere. I will give 500 gold to whoever kills their leader. They must "
+"They took all our treasure! Quickly, place ambushers on all trails from here"
+" to Wesmere. I will give 500 gold to whoever kills their leader. They must "
 "not escape."
 msgstr ""
 "Hazinemizin tamamını aldılar! Çabuk Vesmer’e giden yollara pusu kurun. "
@@ -1460,8 +1450,8 @@ msgstr ""
 msgid ""
 "Turnabout is fair play. Now that we’ve retrieved the gold, let us fare "
 "swiftly back to Wesmere and bring the gold back as Cleodil wishes. The "
-"saurians will likely be infesting the direct route, so we will detour to the "
-"north."
+"saurians will likely be infesting the direct route, so we will detour to the"
+" north."
 msgstr ""
 "Rövanşı aldık. Alltını aldığımıza göre hemen Vesmer’e dönelim ve altını "
 "Kleodil'in istediği gibi geri verelim.. Fakat sürüngenler Vesmer’e giden "
@@ -1470,8 +1460,8 @@ msgstr ""
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/05_The_Saurian_Treasury.cfg:497
 msgid ""
-"But Kalenz, this is a boon unlooked for! With the surplus gold we could take "
-"the war immediately to the orcs. We could come down upon them like thunder "
+"But Kalenz, this is a boon unlooked for! With the surplus gold we could take"
+" the war immediately to the orcs. We could come down upon them like thunder "
 "while they believe us still reeling from their invasion!"
 msgstr ""
 "Ama Kalenz, bu bulunmaz bir nimet! Orklarla savaşmak için bu altın "
@@ -1515,8 +1505,8 @@ msgstr "Gereğini Bilmek"
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/06_Acquaintance_in_Need.cfg:24
 msgid ""
-"To evade the saurians blocking the eastern approaches to Wesmere, Kalenz and "
-"his war-band moved to enter Wesmere Forest from a different direction..."
+"To evade the saurians blocking the eastern approaches to Wesmere, Kalenz and"
+" his war-band moved to enter Wesmere Forest from a different direction..."
 msgstr ""
 "Sürüngenlerin Vesmer’e girişi engellemeleri üzerine, Kalenz ekibiyle Vesmer "
 "ormanına başka bir yerden girmek üzere harekete geçti ..."
@@ -1598,8 +1588,8 @@ msgstr "Orklar yenildi. Size borçlandık, dostum."
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/06_Acquaintance_in_Need.cfg:295
 msgid ""
-"We must put aside our differences and ally against the orcish menace. Olurf, "
-"join us!"
+"We must put aside our differences and ally against the orcish menace. Olurf,"
+" join us!"
 msgstr ""
 "Farklılıklarımızı bir kenara bırakıp, ork tehdidine karşı birlikte hareket "
 "etmeliyiz. Olurf, katıl bize!"
@@ -1610,8 +1600,8 @@ msgid ""
 "Dwarves, ally with elves? I owe ye a debt, but my kin willna’ be happy at "
 "the thought."
 msgstr ""
-"Cücelerin elflerle ittifak yapması mı? Duyulmuş şey değil, kardeşlerimin hiç "
-"hoşuna gitmeyecek."
+"Cücelerin elflerle ittifak yapması mı? Duyulmuş şey değil, kardeşlerimin hiç"
+" hoşuna gitmeyecek."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/06_Acquaintance_in_Need.cfg:303
@@ -1658,11 +1648,11 @@ msgstr "Konuşmasının arkasında hiçbir yanlışlık hissetmiyorum Beyim."
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/06_Acquaintance_in_Need.cfg:323
 msgid ""
 "I, too, believe him. Dwarves may be... rough... by our standards, but they "
-"are not liars. I think he knows that if he does not honor his contract, next "
-"time we will not be there to come to his aid."
+"are not liars. I think he knows that if he does not honor his contract, next"
+" time we will not be there to come to his aid."
 msgstr ""
-"Ben onlara inanıyorum. Cüceler bizim standartlarımıza göre ... kaba saba ... "
-"olsalar da yalancı değillerdir. Ayrıca, anlaşmaya uymazlarsa, bir daha ki "
+"Ben onlara inanıyorum. Cüceler bizim standartlarımıza göre ... kaba saba ..."
+" olsalar da yalancı değillerdir. Ayrıca, anlaşmaya uymazlarsa, bir daha ki "
 "sefere yardıma gelmeyebileceğimizi artık bildiklerini sanıyorum."
 
 #. [scenario]: id=07_Elves_Last_Stand
@@ -1719,12 +1709,12 @@ msgstr "Onları tek tek avla ve öldür!"
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/07_Elves_Last_Stand.cfg:380
 msgid ""
 "It is not wise to put a wounded foe in a desperate situation; they will but "
-"fight harder for it. Break their will and let them flee, so they will spread "
-"fear of us among their kind."
+"fight harder for it. Break their will and let them flee, so they will spread"
+" fear of us among their kind."
 msgstr ""
 "Yaralı bir düşmanı umutsuz bir duruma sokmak akıllıca değildir; bu durumda "
-"daha fazla mücadeleci olacaklardır . İradelerini kırıp kaçmalarına izin ver, "
-"böylece korkuyu aralarına yayacaklardır."
+"daha fazla mücadeleci olacaklardır . İradelerini kırıp kaçmalarına izin ver,"
+" böylece korkuyu aralarına yayacaklardır."
 
 #. [message]: id=Galtrid
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/07_Elves_Last_Stand.cfg:384
@@ -1760,8 +1750,8 @@ msgstr "Burası son kalemiz. Kalya’yı alırlarsa yokoluruz!"
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/07_Elves_Last_Stand.cfg:417
 msgid ""
-"Galtrid, speak not of defeat. Elvenkind shall rise! Our enemies shall perish "
-"in blood and fire!"
+"Galtrid, speak not of defeat. Elvenkind shall rise! Our enemies shall perish"
+" in blood and fire!"
 msgstr ""
 "Galtrid, yenilgiden bahsetme. Elfler yükselecek! Düşmanlarımız kanda ve "
 "ateşte yok olacak!"
@@ -1810,8 +1800,8 @@ msgid ""
 "You did, we’ve already driven them from the forest. You barely caught up in "
 "time to chase them into the hills."
 msgstr ""
-"Onları zaten ormandan dışarı attık. Onları tepelere kadar kovalamak için zar "
-"zor yetiştin."
+"Onları zaten ormandan dışarı attık. Onları tepelere kadar kovalamak için zar"
+" zor yetiştin."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/07_Elves_Last_Stand.cfg:487
@@ -1819,8 +1809,8 @@ msgid ""
 "Diplomacy, Landar. We do need to pursue the orcs into the mountains, and an "
 "army of dwarves will be welcome companions."
 msgstr ""
-"Diplomasi, Landar. Orkları dağlara kadar takip etmemiz gerekiyor, orada bizi "
-"dost bir cüce ordusu karşılayacak."
+"Diplomasi, Landar. Orkları dağlara kadar takip etmemiz gerekiyor, orada bizi"
+" dost bir cüce ordusu karşılayacak."
 
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/07_Elves_Last_Stand.cfg:491
@@ -1830,15 +1820,16 @@ msgstr "Getirdiği bir ordu sayılmaz."
 #. [message]: id=Olurf
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/07_Elves_Last_Stand.cfg:495
 msgid ""
-"Not much of an army? These are dwarves with mighty axes, each worth three of "
-"you and your silly plinking bows!"
+"Not much of an army? These are dwarves with mighty axes, each worth three of"
+" you and your silly plinking bows!"
 msgstr ""
-"Bir ordu sayılmaz! Güçlü baltalarıyla cüceler, yay kuşanmış zayıf ve etkisiz "
-"elfler gibi kalabalık olmak zorunda değiller!"
+"Bir ordu sayılmaz! Güçlü baltalarıyla cüceler, yay kuşanmış zayıf ve etkisiz"
+" elfler gibi kalabalık olmak zorunda değiller!"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/07_Elves_Last_Stand.cfg:499
-msgid "Olurf, is that all the dwarves you could find? Was the gold not enough?"
+msgid ""
+"Olurf, is that all the dwarves you could find? Was the gold not enough?"
 msgstr "Olurf, bulabildiğin cüceler bu kadar mı? Altın yetmedi mi?"
 
 #. [message]: id=Olurf
@@ -2011,8 +2002,8 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/07_Elves_Last_Stand.cfg:647
 msgid ""
-"Galtrid, my friend. Do not let my death be in vain. Destroy these foul orcs, "
-"and sing for me in the green woods when we have won."
+"Galtrid, my friend. Do not let my death be in vain. Destroy these foul orcs,"
+" and sing for me in the green woods when we have won."
 msgstr ""
 "Galtrid, arkadaşım. Ölümümün boşuna olmasına izin verme. Bu şapşal orkları "
 "yok et ve kazandığımızda yeşil ormanlarda benim için şarkı söyle."
@@ -2049,8 +2040,8 @@ msgstr "Zor Seçimler Konseyi"
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/08_Council_of_Hard_Choices.cfg:36
 msgid ""
-"Kalenz, you have won a great victory! Wesmere is safe. But... for what cause "
-"have you invited a dwarf to the elvish council? This is most unusual!"
+"Kalenz, you have won a great victory! Wesmere is safe. But... for what cause"
+" have you invited a dwarf to the elvish council? This is most unusual!"
 msgstr ""
 "Kalenz, büyük bir zafer kazandın! Vesmer artık güvende. Fakat Elf konseyine "
 "cüce arkadaşını davet etmek de nesi oluyor? Bu hiç hoş değil!"
@@ -2065,9 +2056,9 @@ msgstr "Bayan Dionli"
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/08_Council_of_Hard_Choices.cfg:41
 msgid ""
-"My lords, this is Olurf. He and his dwarves have fought by our side and have "
-"well earned a place in this meeting. The war that comes upon us must be met "
-"by all in Wesnoth; elves, dwarves and humans."
+"My lords, this is Olurf. He and his dwarves have fought by our side and have"
+" well earned a place in this meeting. The war that comes upon us must be met"
+" by all in Wesnoth; elves, dwarves and humans."
 msgstr ""
 "Efendim, bu Olurf. O ve cüceleri bizim tarafımızda dövüştü ve bu "
 "toplantımıza katılmaya gerçekten hak kazandı. Bizi bekleyen savaş için "
@@ -2113,13 +2104,13 @@ msgstr "Legmir"
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/08_Council_of_Hard_Choices.cfg:56
 msgid ""
-"Too many elves have died already. To take the war to the orcs, we would have "
-"to risk all our remaining fighters on one throw. And we are not as skilled "
+"Too many elves have died already. To take the war to the orcs, we would have"
+" to risk all our remaining fighters on one throw. And we are not as skilled "
 "in fighting outside our forests. We have already shown the orcs that "
 "attacking us is folly; the prudent course would be to rebuild our strength."
 msgstr ""
-"Zaten çok fazla elf kaybettik. Orklarla savaşmak kalan savaşçılarımızı büyük "
-"bir riske atmak olur. Ayrıca, ormanlarımızın dışında dövüşmeye alışkın "
+"Zaten çok fazla elf kaybettik. Orklarla savaşmak kalan savaşçılarımızı büyük"
+" bir riske atmak olur. Ayrıca, ormanlarımızın dışında dövüşmeye alışkın "
 "değiliz. Orklara zaten bize saldırmanın delilik olduğunu gösterdik. Sağ "
 "görülü tutum gücümüzü yeniden kazanmaya çalışmak olmalı."
 
@@ -2196,8 +2187,8 @@ msgstr "Kleodil"
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/08_Council_of_Hard_Choices.cfg:86
 msgid ""
-"I too am troubled by the Council’s passivity. But it was not our decision to "
-"make."
+"I too am troubled by the Council’s passivity. But it was not our decision to"
+" make."
 msgstr ""
 "Ben de konseyin pasifliğinden sıkıldım. Ancak bu bizim kararımız değildi."
 
@@ -2214,8 +2205,8 @@ msgstr ""
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/08_Council_of_Hard_Choices.cfg:97
 msgid ""
-"I dinna’ think it can be, Kalenz. My people are too suspicious of you elves. "
-"But it may be there is something else we can do. I ha’ heard tale of a "
+"I dinna’ think it can be, Kalenz. My people are too suspicious of you elves."
+" But it may be there is something else we can do. I ha’ heard tale of a "
 "powerful mage in the mountains who helped our people before. Maybe he will "
 "aid us again."
 msgstr ""
@@ -2253,11 +2244,11 @@ msgstr ""
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/08_Council_of_Hard_Choices.cfg:112
 msgid ""
-"I think the orcs will be in no position to attack us for some time. Maybe we "
-"should go see this mage. Olurf, can you take us there?"
+"I think the orcs will be in no position to attack us for some time. Maybe we"
+" should go see this mage. Olurf, can you take us there?"
 msgstr ""
-"Orkların bir süre daha bize saldıracak duruma gelemeyeceklerini düşünüyorum. "
-"Belki gidip görebiliriz şu büyücüyü. Olurf, bizi oraya götürür müsün?"
+"Orkların bir süre daha bize saldıracak duruma gelemeyeceklerini düşünüyorum."
+" Belki gidip görebiliriz şu büyücüyü. Olurf, bizi oraya götürür müsün?"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/08_Council_of_Hard_Choices.cfg:117
@@ -2312,7 +2303,8 @@ msgid ""
 msgstr ""
 "Böylece, Kalenz ve Olurf yeterli asker ve erzağı Vesmer’in güvenliği için "
 "bırakarak Torya’nın ulu büyücüsünü bulmak üzere uzun ve tehlikeli "
-"yolculuklarına başladılar... Fakat tehlike umduklarından çok daha yakındaydı."
+"yolculuklarına başladılar... Fakat tehlike umduklarından çok daha "
+"yakındaydı."
 
 #. [side]: type=Saurian Flanker, id=Huurgh
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:133
@@ -2377,8 +2369,8 @@ msgstr ""
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:352
 msgid ""
-"Remember, we are here on a mission. We will fight these saurians if we must, "
-"but our mission is to get to Thoria."
+"Remember, we are here on a mission. We will fight these saurians if we must,"
+" but our mission is to get to Thoria."
 msgstr ""
 "Unutmayın, bir görev için buradayız. Gerekirse sürüngenlerle de dövüşürüz, "
 "ama asıl görevimiz Torya'ya varmaktır."
@@ -2395,14 +2387,14 @@ msgid ""
 "crossing the river without a bridge? We dwarves know water is a very "
 "dangerous thing!"
 msgstr ""
-"Onlardan kuzey kıyılarının ötesindeki ormanlarda ve dağlarda kurtulabiliriz. "
-"Fakat nehri bir köprü olmadan geçmek mi? Cüceler için su çok tehlikelidir!"
+"Onlardan kuzey kıyılarının ötesindeki ormanlarda ve dağlarda kurtulabiliriz."
+" Fakat nehri bir köprü olmadan geçmek mi? Cüceler için su çok tehlikelidir!"
 
 #. [message]: id=Cleodil
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:364
 msgid ""
-"Indeed, this river is, I believe, Arkan-Thoria. There are fell legends about "
-"it. Maybe they are but children’s tales... Still, be very careful when you "
+"Indeed, this river is, I believe, Arkan-Thoria. There are fell legends about"
+" it. Maybe they are but children’s tales... Still, be very careful when you "
 "cross it."
 msgstr ""
 "Gerçekten, sanırım burası, Eski-torya, bu nehir tehlikelidir. Hakkında bir "
@@ -2433,8 +2425,8 @@ msgid ""
 "Before Landar left the Ka’lian he had ordered $left_behind_landar to stay "
 "and guard it."
 msgstr ""
-"Landar Kalya’dan ayrılmadan önce $left_behind_landar|'a orada kalıp Kalya’yı "
-"korumasını emretti."
+"Landar Kalya’dan ayrılmadan önce $left_behind_landar|'a orada kalıp Kalya’yı"
+" korumasını emretti."
 
 #. [message]: speaker=unit
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:411
@@ -2460,7 +2452,9 @@ msgstr ""
 "Yeterince kan dökülmedi mi? Sanırım ork tehdidi gerçekleştikten sonra "
 "onlarla ilgili konuları konuşabiliriz."
 
-#. [event]: type=Water Serpent, id=Sealurr, type=Cuttle Fish, id=Kallub, type=Water Serpent, id=Scardeep, type=Cuttle Fish, id=Kalimar, type=Cuttle Fish, id=Alkamar
+#. [event]: type=Water Serpent, id=Sealurr, type=Cuttle Fish, id=Kallub,
+#. type=Water Serpent, id=Scardeep, type=Cuttle Fish, id=Kalimar, type=Cuttle
+#. Fish, id=Alkamar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:449
 msgid "Sealurr"
 msgstr "Segalur"
@@ -2470,7 +2464,9 @@ msgstr "Segalur"
 msgid "The legends are true! Sea creatures are upon us!"
 msgstr "Hikayeler gerçek! Su canavarları saldırıyor!"
 
-#. [event]: type=Water Serpent, id=Sealurr, type=Cuttle Fish, id=Kallub, type=Water Serpent, id=Scardeep, type=Cuttle Fish, id=Kalimar, type=Cuttle Fish, id=Alkamar
+#. [event]: type=Water Serpent, id=Sealurr, type=Cuttle Fish, id=Kallub,
+#. type=Water Serpent, id=Scardeep, type=Cuttle Fish, id=Kalimar, type=Cuttle
+#. Fish, id=Alkamar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:469
 msgid "Kallub"
 msgstr "Kallub"
@@ -2480,7 +2476,9 @@ msgstr "Kallub"
 msgid "They are coming at us from all sides!"
 msgstr "Her taraftan geliyorlar!"
 
-#. [event]: type=Water Serpent, id=Sealurr, type=Cuttle Fish, id=Kallub, type=Water Serpent, id=Scardeep, type=Cuttle Fish, id=Kalimar, type=Cuttle Fish, id=Alkamar
+#. [event]: type=Water Serpent, id=Sealurr, type=Cuttle Fish, id=Kallub,
+#. type=Water Serpent, id=Scardeep, type=Cuttle Fish, id=Kalimar, type=Cuttle
+#. Fish, id=Alkamar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:490
 msgid "Scardeep"
 msgstr "Skardep"
@@ -2490,12 +2488,16 @@ msgstr "Skardep"
 msgid "Watch for the serpent!"
 msgstr "Yılana dikkat!"
 
-#. [event]: type=Water Serpent, id=Sealurr, type=Cuttle Fish, id=Kallub, type=Water Serpent, id=Scardeep, type=Cuttle Fish, id=Kalimar, type=Cuttle Fish, id=Alkamar
+#. [event]: type=Water Serpent, id=Sealurr, type=Cuttle Fish, id=Kallub,
+#. type=Water Serpent, id=Scardeep, type=Cuttle Fish, id=Kalimar, type=Cuttle
+#. Fish, id=Alkamar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:510
 msgid "Kalimar"
 msgstr "Kalimar"
 
-#. [event]: type=Water Serpent, id=Sealurr, type=Cuttle Fish, id=Kallub, type=Water Serpent, id=Scardeep, type=Cuttle Fish, id=Kalimar, type=Cuttle Fish, id=Alkamar
+#. [event]: type=Water Serpent, id=Sealurr, type=Cuttle Fish, id=Kallub,
+#. type=Water Serpent, id=Scardeep, type=Cuttle Fish, id=Kalimar, type=Cuttle
+#. Fish, id=Alkamar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:527
 msgid "Alkamar"
 msgstr "Elkamar"
@@ -2508,8 +2510,8 @@ msgstr "Torya Uçurumları"
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/10_Cliffs_of_Thoria.cfg:27
 msgid ""
-"Leaving Arkan-Thoria behind, Kalenz and his band ventured into the dangerous "
-"mountains of Thoria..."
+"Leaving Arkan-Thoria behind, Kalenz and his band ventured into the dangerous"
+" mountains of Thoria..."
 msgstr ""
 "Kalenz ve ekibi Eski-Torya’yı arkalarında bırakarak, cesaretle Torya’nın "
 "tehlikeli dağlarının arasına daldılar..."
@@ -2624,8 +2626,8 @@ msgstr ""
 msgid ""
 "Do as Cleodil says. We have enemies sufficient without provoking new ones."
 msgstr ""
-"Kleodil'in dediği gibi yapalım. Yenilerini tahrik etmeden de yeterli düşmana "
-"sahibiz."
+"Kleodil'in dediği gibi yapalım. Yenilerini tahrik etmeden de yeterli düşmana"
+" sahibiz."
 
 #. [unit]: type=Yeti, id=Tralg
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/10_Cliffs_of_Thoria.cfg:358
@@ -2644,8 +2646,10 @@ msgstr "Kitap Savaşı"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/11_Battle_of_the_Book.cfg:24
-msgid "Quickening their pace, the elves and dwarves raced towards the smoke..."
-msgstr "Elfler ve Cüceler adımlarını hızlandırarak dumana doğru seğirttiler..."
+msgid ""
+"Quickening their pace, the elves and dwarves raced towards the smoke..."
+msgstr ""
+"Elfler ve Cüceler adımlarını hızlandırarak dumana doğru seğirttiler..."
 
 #. [side]: type=Arch Mage, id=Aquagar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/11_Battle_of_the_Book.cfg:113
@@ -2699,14 +2703,14 @@ msgid ""
 "That, I think, must be the mage of which Olurf spoke. But he is not the one "
 "I sensed as we approached this place..."
 msgstr ""
-"Bence, Olurf'un bahsettiği büyücü olmalı. Ama buraya yaklaşırken hissettiğim "
-"o değildi..."
+"Bence, Olurf'un bahsettiği büyücü olmalı. Ama buraya yaklaşırken hissettiğim"
+" o değildi..."
 
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/11_Battle_of_the_Book.cfg:184
 msgid ""
-"I feel the shadow of destiny on my soul. There is something I am fated to do "
-"here, but I know not what."
+"I feel the shadow of destiny on my soul. There is something I am fated to do"
+" here, but I know not what."
 msgstr ""
 "Kaderin gölgesini ruhumda hissedebiliyorum. Burada yapmak istediğim bir şey "
 "var ama ne olduğunu bilmiyorum."
@@ -2723,8 +2727,8 @@ msgid ""
 "am besieged here and in no state to aid anyone else."
 msgstr ""
 "Ben Crelanu'yum ... ama yardımımı istiyorsanız, bana yardım ederek "
-"başlamalısınız, çünkü burada kuşatıldım ve hiç kimseye yardım edecek durumda "
-"değilim."
+"başlamalısınız, çünkü burada kuşatıldım ve hiç kimseye yardım edecek durumda"
+" değilim."
 
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/11_Battle_of_the_Book.cfg:196
@@ -2767,8 +2771,8 @@ msgstr "Aptallar! Kitap benimdir!"
 #. [message]: id=Cleodil
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/11_Battle_of_the_Book.cfg:259
 msgid ""
-"There... I sense magic emanating from that stone keep east of the lake. That "
-"is where we will find the mage."
+"There... I sense magic emanating from that stone keep east of the lake. That"
+" is where we will find the mage."
 msgstr ""
 "Orada ... Taştan yayılan sihir gölün doğusunu gösteriyor. Büyücüyü "
 "bulacağımız yer orası."
@@ -2810,23 +2814,23 @@ msgstr "Görüşme"
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:22
 msgid ""
 "So you are the ones who defeated Aquagar and his drakes. Olurf, I know you; "
-"you were here before when we were both much younger. But elves never come to "
-"Thoria. Yet these are no ordinary times for this land. I know all; I have "
+"you were here before when we were both much younger. But elves never come to"
+" Thoria. Yet these are no ordinary times for this land. I know all; I have "
 "foreseen this would happen."
 msgstr ""
-"Yani, Akuagar ve ejderlerini öldüren sendin. Seni tanıyorum Olurf. İkimiz de "
-"çok gençken buradaydın. Fakat Elfler Torya’ya hiç gelmemişti. Bu topraklar "
+"Yani, Akuagar ve ejderlerini öldüren sendin. Seni tanıyorum Olurf. İkimiz de"
+" çok gençken buradaydın. Fakat Elfler Torya’ya hiç gelmemişti. Bu topraklar "
 "için hiç de sıradan zamanlar değil. Herşeyi biliyorum. Bunun olacağını "
 "görmüştüm."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:27
 msgid ""
-"This is Kalenz, leader of the elves. I have brought him here to ask for your "
-"advice and your aid in dealing with the orcs."
+"This is Kalenz, leader of the elves. I have brought him here to ask for your"
+" advice and your aid in dealing with the orcs."
 msgstr ""
-"Bu Kalenz, elflerin lideri. Danışmanı olmanı ve orklarla anlaşmakta yardımcı "
-"olmanı isteyeceği için onu sana getirdim."
+"Bu Kalenz, elflerin lideri. Danışmanı olmanı ve orklarla anlaşmakta yardımcı"
+" olmanı isteyeceği için onu sana getirdim."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:32
@@ -2848,8 +2852,8 @@ msgstr "‘Dikkatlerini başka yöne çekmek’ ile neyi kastediyorsun?"
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:42
 msgid ""
-"You cannot even imagine it. Why do you suppose orcs came all the way here to "
-"attack you?"
+"You cannot even imagine it. Why do you suppose orcs came all the way here to"
+" attack you?"
 msgstr ""
 "Sen bile bunu göremiyorsun. Orklar o kadar yolu gelip size neden saldırdı, "
 "sanıyorsunuz?"
@@ -2892,11 +2896,11 @@ msgstr "Evet, demek istediğim, bu."
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:72
 msgid ""
-"It makes sense now. The saurians were asking about a dastone, and also after "
-"we won in Wesmere there was an orc mumbling something about a dastone..."
+"It makes sense now. The saurians were asking about a dastone, and also after"
+" we won in Wesmere there was an orc mumbling something about a dastone..."
 msgstr ""
-"Şimdi herşey anlaşıldı. Sürüngenler bir taştan bahsedip duruyordu. Vesmer’de "
-"orkları yendiğimizde onlar da taşla ilgili birşeyler mırıldanıyordu..."
+"Şimdi herşey anlaşıldı. Sürüngenler bir taştan bahsedip duruyordu. Vesmer’de"
+" orkları yendiğimizde onlar da taşla ilgili birşeyler mırıldanıyordu..."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:77
@@ -2958,7 +2962,8 @@ msgstr "Öyleyse, orklar taşı bulmak için bu kez insanlara mı saldıracak?"
 msgid ""
 "Yes. But after they win, your people will be next. And after you, the "
 "dwarves."
-msgstr "Evet, fakat kazandıktan sonra sıra elflere, sonra da cücelere gelecek."
+msgstr ""
+"Evet, fakat kazandıktan sonra sıra elflere, sonra da cücelere gelecek."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:112
@@ -2973,14 +2978,14 @@ msgid ""
 "We are grateful for this counsel. But can you help us directly? Is there a "
 "way to stop the orcs?"
 msgstr ""
-"Bu öğüt için minnettarız. Fakat, bize şimdi yardım edebilir misiniz? Orkları "
-"durdurmanın bir yolu var mı?"
+"Bu öğüt için minnettarız. Fakat, bize şimdi yardım edebilir misiniz? Orkları"
+" durdurmanın bir yolu var mı?"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:122
 msgid ""
-"You cannot defeat them with the forces you can now muster. You can only gain "
-"time, in the hope that you can use it to grow strong again."
+"You cannot defeat them with the forces you can now muster. You can only gain"
+" time, in the hope that you can use it to grow strong again."
 msgstr ""
 "Şimdiki kuvvetlerinizle onları yenemezsiniz. Zaman kazanmalısınız, belki "
 "tekrar yeterli güce böylece erişirsiniz."
@@ -2988,8 +2993,8 @@ msgstr ""
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:127
 msgid ""
-"How? Don’t tell me we had to fight the saurians, cross Arkan-Thoria, contend "
-"against the river monsters, and fight trolls and yetis to come here for "
+"How? Don’t tell me we had to fight the saurians, cross Arkan-Thoria, contend"
+" against the river monsters, and fight trolls and yetis to come here for "
 "nothing!"
 msgstr ""
 "Nasıl? Buraya gelirken, Eski Torya’yı geçmek için sürüngenlerle, su "
@@ -3000,8 +3005,8 @@ msgstr ""
 msgid ""
 "You need to kill their Great Chief and make it look like he was murdered by "
 "orcs. That way the orcs will start a civil war for succession, for many "
-"yearn to take their Great Chief’s place. You will be safe until a new leader "
-"arises strong enough to unite them again."
+"yearn to take their Great Chief’s place. You will be safe until a new leader"
+" arises strong enough to unite them again."
 msgstr ""
 "Orkbaşını öldürmeniz ve bunu orklar yapmış gibi göstermeniz lazım. Böylece, "
 "orkbaşının yerine geçmek isteyen orklar aralarında dövüşmeye başlayacaklar. "
@@ -3012,7 +3017,8 @@ msgstr ""
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:137
 msgid ""
 "Kill an orcish Great Chieftain? But he’s guarded better than a troll hole!"
-msgstr "Orkbaşını öldürmek mi? Fakat o bir trol deliğinden daha iyi korunuyor!"
+msgstr ""
+"Orkbaşını öldürmek mi? Fakat o bir trol deliğinden daha iyi korunuyor!"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:142
@@ -3029,13 +3035,13 @@ msgstr "Fakat siz de birşeyler istiyorsunuz..."
 msgid ""
 "It is as you say. These drakes were after my book. This book has all the "
 "magic and spells I know in it. They are very powerful, but the one enemy "
-"they cannot defeat is old age. The knowledge tempts me to prolong my life by "
-"evil and dark means... But this is the work of my life and I can no more "
+"they cannot defeat is old age. The knowledge tempts me to prolong my life by"
+" evil and dark means... But this is the work of my life and I can no more "
 "destroy it than I could slay my own child. Aquagar is slain, but more will "
 "come. One of my allies has betrayed me, and now too many know of this book."
 msgstr ""
-"Söylediğim gibi. Bu ejderler kitabımın peşindeydi. Bu kitap bildiğim büyüler "
-"ve sihirli hilelerle dolu. Onlar çok güçlü, fakat yaşım onlarla savaşmaya "
+"Söylediğim gibi. Bu ejderler kitabımın peşindeydi. Bu kitap bildiğim büyüler"
+" ve sihirli hilelerle dolu. Onlar çok güçlü, fakat yaşım onlarla savaşmaya "
 "uygun değil. Kitaptaki bilgiler sadece geçici olarak, şeytani ve karanlık "
 "manada hayatımı uzatıyor... Bu hala yaşamam için gerekli ve onu yoketmeye "
 "elim varmıyor. Akuagar ölmüş olsa da başkaları gelecektir. Yardımcılarımdan "
@@ -3069,8 +3075,8 @@ msgstr ""
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:172
 msgid ""
-"Because the book is like the Ruby of Fire. Any fool can use the magic in the "
-"book, but only a master can vanquish the lust for power that it will bring "
+"Because the book is like the Ruby of Fire. Any fool can use the magic in the"
+" book, but only a master can vanquish the lust for power that it will bring "
 "out in him. He who fails will turn into something like Haldric, or worse..."
 msgstr ""
 "Çünkü kitap ateş asası gibidir. Kitaptaki sihiri her ahmak kullanabilir, "
@@ -3113,8 +3119,8 @@ msgstr ""
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:197
 msgid ""
 "There is a way, but it will be very dangerous. Two of you must enter the "
-"orcish camp by stealth and kill the Great Chief. There is a potion that will "
-"make you invisible for some time."
+"orcish camp by stealth and kill the Great Chief. There is a potion that will"
+" make you invisible for some time."
 msgstr ""
 "Bir yolu var ama çok tehlikeli: Sizden iki kişi ork kampına gizlice girecek "
 "ve orkbaşını öldürecek. Sizi bir süre için görünmez yapacak bir iksir var."
@@ -3142,8 +3148,8 @@ msgid ""
 "No! This is too dark and dangerous! I fear for you, Kalenz! I... would not "
 "see you come to harm."
 msgstr ""
-"Hayır! Bu çok karanlık ve tehlikeli! Senin için korkuyorum Kalenz! ... Senin "
-"zarar görmeni istemiyorum."
+"Hayır! Bu çok karanlık ve tehlikeli! Senin için korkuyorum Kalenz! ... Senin"
+" zarar görmeni istemiyorum."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:217
@@ -3157,8 +3163,8 @@ msgid ""
 "use magic more easily and powerfully. Cleodil will show you. But the real "
 "danger will be the touch of the lich’s evil nature stealing through your "
 "veins. You will need to fight and master this evil in yourself, else you "
-"might slowly turn into a lesser demilich yourself. This is why you must take "
-"only a small dose and finish the job quickly. Delay and you will fail in "
+"might slowly turn into a lesser demilich yourself. This is why you must take"
+" only a small dose and finish the job quickly. Delay and you will fail in "
 "your mission; take too large a dose, and you will become as the lich was."
 msgstr ""
 "Fiziksel gücünüz azalacak, fakat kolayca sihir kullanabilir duruma "
@@ -3170,14 +3176,14 @@ msgstr ""
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:227
 msgid ""
-"It is a dark and desperate course you set before me, but I see no other way; "
-"we must stop the orcs. As leader I cannot ask my men to run a risk I will "
+"It is a dark and desperate course you set before me, but I see no other way;"
+" we must stop the orcs. As leader I cannot ask my men to run a risk I will "
 "not take myself, so I will be one of the two who will go to kill the Great "
 "Chief. But I will not compel anyone else to come with me, not at peril of "
 "being overwhelmed from within by evil magic. Does anyone volunteer?"
 msgstr ""
-"Bunu sevmedim, fakat başka çaremiz yok: Orkları durdurmamız lazım. Lideriniz "
-"olarak orkbaşını öldürmeye gidecek iki kişiden biri ben olacağım. Fakat, "
+"Bunu sevmedim, fakat başka çaremiz yok: Orkları durdurmamız lazım. Lideriniz"
+" olarak orkbaşını öldürmeye gidecek iki kişiden biri ben olacağım. Fakat, "
 "kimseye yanımda gel diyemem çünkü bu çok tehlikeli. Gönüllü var mı?"
 
 #. [part]
@@ -3193,13 +3199,13 @@ msgstr "Bu en akıllıca seçim gibi görünmüyor."
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:242
 msgid ""
-"Landar may be impetuous, but he is a great fighter and my trusted friend. We "
-"should be about our task now, I think. Crelanu, your book will be safe with "
-"us. Cleodil will guard it until we find a worthy keeper."
+"Landar may be impetuous, but he is a great fighter and my trusted friend. We"
+" should be about our task now, I think. Crelanu, your book will be safe with"
+" us. Cleodil will guard it until we find a worthy keeper."
 msgstr ""
 "Landar küstah olabilir, fakat büyük bir dövüşçü ve güvenilir bir dosttur. "
-"Şimdi gitmeliyiz. Krelanu, kitabın bizim yanımızda güvende olacak. Liyakatli "
-"biri gelene kadar Kleodil kitabı koruyacak."
+"Şimdi gitmeliyiz. Krelanu, kitabın bizim yanımızda güvende olacak. Liyakatli"
+" biri gelene kadar Kleodil kitabı koruyacak."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:247
@@ -3232,8 +3238,8 @@ msgstr ""
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/13_News_from_the_Front.cfg:156
 msgid ""
-"Oh, no, I forgot my dose of Crelanu’s invisibility philter. I’ll go back and "
-"get it. I’ll catch up with you later!"
+"Oh, no, I forgot my dose of Crelanu’s invisibility philter. I’ll go back and"
+" get it. I’ll catch up with you later!"
 msgstr ""
 "Olamaz, Krelanu’nun görünmezlik iksirini unuttum. Geri dönüp alayım. Size "
 "yetişirim!"
@@ -3265,8 +3271,8 @@ msgstr "Egonihar"
 #. [message]: id=Eonihar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/13_News_from_the_Front.cfg:203
 msgid ""
-"At last I have found you, alive and well! We need you back at once! The orcs "
-"have attacked the humans."
+"At last I have found you, alive and well! We need you back at once! The orcs"
+" have attacked the humans."
 msgstr ""
 "Sonunda sizi canlı ve iyi durumda buldum! Hemen geri dönmenize ihtiyacımız "
 "var. Orklar insanlara saldırdı."
@@ -3308,14 +3314,14 @@ msgid ""
 "next."
 msgstr ""
 "Bu zor bir seçim. Orklar bize saldırdığında insanların bize yardım "
-"etmediğini biliyorum, fakat orklar herkesin düşmanı. İnsanlar yenilirse sıra "
-"bize gelecek."
+"etmediğini biliyorum, fakat orklar herkesin düşmanı. İnsanlar yenilirse sıra"
+" bize gelecek."
 
 #. [message]: id=Eonihar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/13_News_from_the_Front.cfg:247
 msgid ""
-"The orcish forces are encamped south of the Great River, and have surrounded "
-"the fortified human settlement at Tath. The humans are sending all their "
+"The orcish forces are encamped south of the Great River, and have surrounded"
+" the fortified human settlement at Tath. The humans are sending all their "
 "forces there. We need to decide whether we will help them or not."
 msgstr ""
 "Ork kuvvetleri büyük nehrin güneyinde kamp kurmuş ve Tat şehrini "
@@ -3355,7 +3361,8 @@ msgstr ""
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/14_Human_Alliance.cfg:50
 msgid ""
-"With the human-elf alliance revived, our heroes hurried to the battlefield..."
+"With the human-elf alliance revived, our heroes hurried to the "
+"battlefield..."
 msgstr ""
 "Eski insan-elf ittifakın yeniden kurulmasıyla kahramanlarımız savaş alanına "
 "koştular..."
@@ -3426,7 +3433,8 @@ msgstr "Elbette. Öfkenizi düşmanlarımıza saklayın Landar."
 
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/14_Human_Alliance.cfg:316
-msgid "I shall. But when our need is not so dire, there must be a reckoning..."
+msgid ""
+"I shall. But when our need is not so dire, there must be a reckoning..."
 msgstr ""
 "Elbette. Ama ihtiyacımız karşılanabilir olduğunda, konumumuzu "
 "belirleyebilmeliyiz ..."
@@ -3470,8 +3478,8 @@ msgstr ""
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/14_Human_Alliance.cfg:350
 msgid ""
-"Very well... But have you any word of the elvish troops marching to join us? "
-"We are too few to defeat the enemy without them."
+"Very well... But have you any word of the elvish troops marching to join us?"
+" We are too few to defeat the enemy without them."
 msgstr ""
 "Tamam da ... Bize katılacak Elf Ordusu nerede? Bizim sayımız az, onlar "
 "olmadan orkları yenemeyiz."
@@ -3497,8 +3505,8 @@ msgstr "Elf ordusunun kalanı nerede? Söz verdiler, burada olmalıydılar!"
 #. [message]: id=Eradion
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/14_Human_Alliance.cfg:367
 msgid ""
-"The Great Council has decided it was too risky to send troops here. But some "
-"of us dissented and have come to fight beside you."
+"The Great Council has decided it was too risky to send troops here. But some"
+" of us dissented and have come to fight beside you."
 msgstr ""
 "Konsey buraya asker gönderilmesinin riskli olacağına karar verdi. Fakat "
 "bazılarımız buna muhalefet etti, sizi burada desteksiz bırakamazdık."
@@ -3521,8 +3529,9 @@ msgstr "Bu şekilde bölünmemiz iyi değil."
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/14_Human_Alliance.cfg:379
 msgid ""
-"No, it is not. But if we do not defeat these orcs here and now our divisions "
-"will all be moot. I will take every sword-arm I can get and be glad of them."
+"No, it is not. But if we do not defeat these orcs here and now our divisions"
+" will all be moot. I will take every sword-arm I can get and be glad of "
+"them."
 msgstr ""
 "Elbette değil. Fakat eğer orkları burada yenemezsek anlaşmazlıklarımız yine "
 "tartışılabilir olacak. Kılıç kullanabilen herkesi alacağım, başka çare yok."
@@ -3570,8 +3579,8 @@ msgstr ""
 #. [message]: id=Olurf
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/14_Human_Alliance.cfg:621
 msgid ""
-"A good fight against foul enemies. These orcs make a dwarf’s hackles rise; I "
-"might even fight them for free, next time."
+"A good fight against foul enemies. These orcs make a dwarf’s hackles rise; I"
+" might even fight them for free, next time."
 msgstr ""
 "Kötü düşmana karşı iyi bir mücadele. Bu orklar bir cücenin sakalını "
 "kabartır; Bir dahaki sefere onlarla bedavaya savaşabilirim."
@@ -3625,8 +3634,8 @@ msgid ""
 "welcome any ally against it."
 msgstr ""
 "Kral II. Haldrik, bu sözleri duymaktan çok memnunum. Çok tehlikeli "
-"düşmanlarla karşılaştık. Bu soruna bir nokta koymayı planlıyoruz. Bunun için "
-"yardımınıza ihtiyacımız var."
+"düşmanlarla karşılaştık. Bu soruna bir nokta koymayı planlıyoruz. Bunun için"
+" yardımınıza ihtiyacımız var."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/15_The_Treaty.cfg:32
@@ -3634,8 +3643,8 @@ msgid ""
 "What? We cannot trust these humans! Where were they when we fought the orcs "
 "alone? This king is bound to betray us just as his father did!"
 msgstr ""
-"Ne? Biz bu insanlara güvenemeyiz! Biz orklarla tek başımıza dövüşürken onlar "
-"neredeydi? Babasının yaptığı gibi o da bize ihanet edecek!"
+"Ne? Biz bu insanlara güvenemeyiz! Biz orklarla tek başımıza dövüşürken onlar"
+" neredeydi? Babasının yaptığı gibi o da bize ihanet edecek!"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/15_The_Treaty.cfg:37
@@ -3646,15 +3655,15 @@ msgstr "Kes! Kralla bu şekilde konuşmaya nasıl cüret edersin!"
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/15_The_Treaty.cfg:42
 msgid ""
 "Calm down, Aldar! The elf is right to reproach us. My father did not help "
-"when the orcs attacked you. But my father is dead. There are a lot of things "
-"my father did that I cannot understand; he grew suspicious and strange in "
+"when the orcs attacked you. But my father is dead. There are a lot of things"
+" my father did that I cannot understand; he grew suspicious and strange in "
 "his last days. But <i>I</i> am the King of Wesnoth now, not my father! And "
 "it is my intention to renew our alliance by signing a new treaty here, with "
 "you."
 msgstr ""
 "Sakin ol Aldar! Elf haklı. Orklar size saldırdığı zaman babam size yardım "
-"etmedi. Fakat babam öldü. Babamın yaptığı ve benim anlayamadığım pek çok şey "
-"var. Fakat, Vesnot’un kralı şu an <i>benim</i>, babam değil! Ve benim "
+"etmedi. Fakat babam öldü. Babamın yaptığı ve benim anlayamadığım pek çok şey"
+" var. Fakat, Vesnot’un kralı şu an <i>benim</i>, babam değil! Ve benim "
 "düşüncem, sizlerle burada yeni bir antlaşma imzalayarak bizim eski ittifakı "
 "yenilemektir."
 
@@ -3682,15 +3691,15 @@ msgstr "Ateş Yakutu hakkında ne biliyorsun?"
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/15_The_Treaty.cfg:68
 msgid ""
 "We have learned, oh King, that the energy suffusing the Ruby can have evil "
-"effects on its wielders. It may well be this was the reason your father grew "
-"closed in upon himself. For your own sake and that of your kingdom, we "
+"effects on its wielders. It may well be this was the reason your father grew"
+" closed in upon himself. For your own sake and that of your kingdom, we "
 "advise you to enclose it in a net or filigree of pure gold charged with the "
 "magic of light."
 msgstr ""
 "Kralım öğrendiğinize göre Yakutun enerjisi onu taşıyanları kötü "
 "etkiliyormuş. Belki de babanızın içine kapanmasının sebebi budur. İzin "
-"verirseniz, taşıyana zarar vermemesi için onu sihirli ışınlarımla eriteceğim "
-"saf altından bir kutu veya kafes içine almak istiyorum."
+"verirseniz, taşıyana zarar vermemesi için onu sihirli ışınlarımla eriteceğim"
+" saf altından bir kutu veya kafes içine almak istiyorum."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/15_The_Treaty.cfg:73
@@ -3708,9 +3717,9 @@ msgid ""
 "the fight to the orcs before winter falls; we need you to demonstrate "
 "against them, drawing them away from the roads north. Can we count on you?"
 msgstr ""
-"Antlaşmayı imzaladığımıza göre, yardımınıza ihtiyacımız olacak. Kış gelmeden "
-"orklarla dövüşmeyi planlıyoruz. Onları kuzey yollarından uzaklaştırmak için "
-"bir şaşırtma hareketi oluşturmanıza ihtiyacımız olacak. Bunu yapabilir "
+"Antlaşmayı imzaladığımıza göre, yardımınıza ihtiyacımız olacak. Kış gelmeden"
+" orklarla dövüşmeyi planlıyoruz. Onları kuzey yollarından uzaklaştırmak için"
+" bir şaşırtma hareketi oluşturmanıza ihtiyacımız olacak. Bunu yapabilir "
 "misiniz?"
 
 #. [part]
@@ -3740,15 +3749,15 @@ msgid ""
 "reluctantly, been training Kalenz in a selected few of the secrets of "
 "Crelanu’s book..."
 msgstr ""
-"Tat savaşının bitmesiyle, Kalenz ve Landar Krelanu’nun çok tehlikeli planını "
-"uygulamak zorunda olduklarını biliyorlardı. Bu arada Kleodil, Krelanu’nun "
+"Tat savaşının bitmesiyle, Kalenz ve Landar Krelanu’nun çok tehlikeli planını"
+" uygulamak zorunda olduklarını biliyorlardı. Bu arada Kleodil, Krelanu’nun "
 "kitabındaki bazı gizleri Kalenz’e öğretiyordu."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/16_The_Chief_Must_Die.cfg:45
 msgid ""
-"I have taught you all that I dare. My lord... Kalenz... I pray you come back "
-"safely. My heart aches when I think of you going into such danger as this. "
+"I have taught you all that I dare. My lord... Kalenz... I pray you come back"
+" safely. My heart aches when I think of you going into such danger as this. "
 "It is peril not merely to your body, but to the essence of yourself."
 msgstr ""
 "Size öğretebileceğim herşeyi öğrettim. Efendim... Kalenz... Sağsalim geri "
@@ -3985,9 +3994,9 @@ msgid ""
 "except water, where it is 70 percent."
 msgstr ""
 "Düşman birimleri bu birimi göremez. Ancak kurt binicilere yaklaşınca onlar "
-"kokuyu alabilirler. Kurt biniciler dışında hiçbir düşman birim bu birime bir "
-"saldırı başlatmayacaktır. Su hariç her arazi koşulunda savunma direnci %80, "
-"suda ise %70'tir."
+"kokuyu alabilirler. Kurt biniciler dışında hiçbir düşman birim bu birime bir"
+" saldırı başlatmayacaktır. Su hariç her arazi koşulunda savunma direnci %80,"
+" suda ise %70'tir."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/16_The_Chief_Must_Die.cfg:657
@@ -4003,11 +4012,11 @@ msgstr "Kesinlikle. Haydi yapalım!"
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/16_The_Chief_Must_Die.cfg:665
 msgid ""
-"We need to kill the Great Chief and get out before the effect of the philter "
-"ends. Time to drink it down now!"
+"We need to kill the Great Chief and get out before the effect of the philter"
+" ends. Time to drink it down now!"
 msgstr ""
-"Orkbaşını öldürmek ve iksirin etkisi geçmeden önce kaçmak zorundayız. İksiri "
-"içip gidelim!"
+"Orkbaşını öldürmek ve iksirin etkisi geçmeden önce kaçmak zorundayız. İksiri"
+" içip gidelim!"
 
 #. [event]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/16_The_Chief_Must_Die.cfg:687
@@ -4022,8 +4031,8 @@ msgstr "Krelanu'nun iksiri Landar'da etkisini gösterir"
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/16_The_Chief_Must_Die.cfg:703
 msgid ""
-"This feels passing strange! Landar, remember to stay far from the wolves —"
-"they may be able to smell us."
+"This feels passing strange! Landar, remember to stay far from the wolves "
+"—they may be able to smell us."
 msgstr ""
 "Tuhaf şeyler hissediyorum! Landar, kurtlardan uzak durmayı unutma, kokumuzu "
 "alabilirler."
@@ -4043,8 +4052,8 @@ msgstr "Çok geç kaldık. İksir etkisini kaybetti ve görünür olduk!"
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/16_The_Chief_Must_Die.cfg:734
 msgid ""
-"With our ruse revealed, the orcs will attack our forests instead of fighting "
-"among themselves."
+"With our ruse revealed, the orcs will attack our forests instead of fighting"
+" among themselves."
 msgstr ""
 "Hilemiz ortaya çıkınca, orklar kendi aramızda savaşmak yerine ormanlarımıza "
 "saldıracaklar."
@@ -4060,8 +4069,8 @@ msgid ""
 "The Great Chief has been murdered! Whoever did it will only get da throne "
 "over my dead stinking body!"
 msgstr ""
-"Orkbaşı öldürülmüş! Her kim yaptıysa tahtı sadece benim kokuşmuş ölü gövdemi "
-"çiğneyerek alacak!"
+"Orkbaşı öldürülmüş! Her kim yaptıysa tahtı sadece benim kokuşmuş ölü gövdemi"
+" çiğneyerek alacak!"
 
 #. [message]: id=Tamitahan
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/16_The_Chief_Must_Die.cfg:778
@@ -4098,8 +4107,8 @@ msgstr "Kuşatmayı Yarmak"
 msgid ""
 "With the orcs embroiled in a civil war, Kalenz seized the chance to take "
 "back his beloved home. Reports had been arriving of an enclave of Northern "
-"Elves yet holding out against the orcish invaders. It was quickly decided to "
-"send a force to their aid. But harsh winter weather descended while it was "
+"Elves yet holding out against the orcish invaders. It was quickly decided to"
+" send a force to their aid. But harsh winter weather descended while it was "
 "en route..."
 msgstr ""
 "Orklar aralarında savaşmaya başlayınca, Kalenz’e ülkesini geri alma şansı "
@@ -4201,8 +4210,8 @@ msgstr "İftihar Zamanı"
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/18_Hour_of_Glory.cfg:17
 msgid ""
-"Kalenz, your mission is complete. The orcish Great Chieftain is dead and you "
-"have recaptured your home. Yet I sense there is turmoil in your mind..."
+"Kalenz, your mission is complete. The orcish Great Chieftain is dead and you"
+" have recaptured your home. Yet I sense there is turmoil in your mind..."
 msgstr ""
 "Kalenz, göreviniz şimdi tamamlandı. Orkbaşı öldü ve memleketimiz kurtuldu. "
 "Ama hala kendimi huzur içinde hissetmiyorum..."
@@ -4231,11 +4240,11 @@ msgstr "Başka seçme şansımız yok. Ölsek bile, buna değer."
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/18_Hour_of_Glory.cfg:37
 msgid ""
 "You will not die. You must fight it. I have faith in you Kalenz... "
-"beloved... You will overcome and master it. It will be hard and painful, but "
-"you will beat the potion. It is Landar who truly concerns me..."
+"beloved... You will overcome and master it. It will be hard and painful, but"
+" you will beat the potion. It is Landar who truly concerns me..."
 msgstr ""
-"Sen ölmeyeceksin. Dövüşmelisin. Ben sana inanıyorum Kalenz ... bunun üzerine "
-"gidecek ve duruma hakim olacaksın. Zor ve zahmetli olacak, fakat içindeki "
+"Sen ölmeyeceksin. Dövüşmelisin. Ben sana inanıyorum Kalenz ... bunun üzerine"
+" gidecek ve duruma hakim olacaksın. Zor ve zahmetli olacak, fakat içindeki "
 "zehri atacaksın. Ancak, Landar konusunda hala endişeliyim..."
 
 #. [part]
@@ -4246,8 +4255,8 @@ msgstr "Benden daha iyi hakim olmuş görünüyor..."
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/18_Hour_of_Glory.cfg:47
 msgid ""
-"It does seem so, Kalenz. But I fear things may not be as they seem. Landar’s "
-"mind has become dark and clouded to my healing senses."
+"It does seem so, Kalenz. But I fear things may not be as they seem. Landar’s"
+" mind has become dark and clouded to my healing senses."
 msgstr ""
 "Görünüşte öyle, Kalenz. Fakat, korkarım bazı şeyler göründüğü gibi değil. "
 "Landar'ın aklı karanlık tarafa kaydı ve benim de iyileştirme yeteneğim "
@@ -4331,8 +4340,8 @@ msgid ""
 "not right here."
 msgstr ""
 "Kalenz ... periler ve rahipler bundan memnun değil. Sürüngenler çoktan "
-"yenildi ama Landar’ın kalbinde çok fazla nefret var. Burada bir şeyler doğru "
-"değil."
+"yenildi ama Landar’ın kalbinde çok fazla nefret var. Burada bir şeyler doğru"
+" değil."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/19_Costly_Revenge.cfg:54
@@ -4342,8 +4351,8 @@ msgid ""
 "price for raiding in the forest of Wesmere."
 msgstr ""
 "Ben bu konuda tamamen rahat değilim Kleodil. Ama Landar'ın söylediklerine "
-"bir şey var. Vesmer ormanına yapılacak bir baskının bedelinin ağır olacağını "
-"tüm yeşil dünyanın bilmesi gerekir."
+"bir şey var. Vesmer ormanına yapılacak bir baskının bedelinin ağır olacağını"
+" tüm yeşil dünyanın bilmesi gerekir."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/19_Costly_Revenge.cfg:59
@@ -4351,8 +4360,8 @@ msgid ""
 "Then you who walk the earth path and carry steel can collect that price. "
 "Those on the faerie path will not be with you. Not this time."
 msgstr ""
-"O zaman toprak yolunda yürüyen ve çelik taşıyan sen bu bedeli ödeyebilirsin. "
-"Peri yolunda olanlar seninle olmayacak. Bu sefer değil."
+"O zaman toprak yolunda yürüyen ve çelik taşıyan sen bu bedeli ödeyebilirsin."
+" Peri yolunda olanlar seninle olmayacak. Bu sefer değil."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/19_Costly_Revenge.cfg:64
@@ -4410,8 +4419,8 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/19_Costly_Revenge.cfg:265
 msgid ""
-"Kalenz is not able to recruit or recall shamans or any of their advancements "
-"in this scenario."
+"Kalenz is not able to recruit or recall shamans or any of their advancements"
+" in this scenario."
 msgstr ""
 "Kalenz, bu senaryoda şamanları ve onların terfi edenlerini çağıramayacak ve "
 "askere alamayacak."
@@ -4443,7 +4452,8 @@ msgstr "Ama ... çocuklarını öldürmek? O kadar ileri gidecek miyiz?"
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/19_Costly_Revenge.cfg:368
 msgid ""
-"Stay. You need not have the blood of children on your hands, and I shall not."
+"Stay. You need not have the blood of children on your hands, and I shall "
+"not."
 msgstr "Durun. Ellerinizde çocuk kanı olmasına gerek yok, benim de olmayacak."
 
 #. [message]: id=Landar
@@ -4461,8 +4471,8 @@ msgid ""
 "I will not set elf against elf. But, Landar, I fear you are storing up a "
 "dreadful price for yourself."
 msgstr ""
-"Elf'i elf'e karşı kışkırtmayacağım. Ama Landar, korkarım kendin için korkunç "
-"bir fiyat biçiyorsun."
+"Elf'i elf'e karşı kışkırtmayacağım. Ama Landar, korkarım kendin için korkunç"
+" bir fiyat biçiyorsun."
 
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/19_Costly_Revenge.cfg:380
@@ -4488,8 +4498,8 @@ msgstr "Konsey Kararı"
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/20_Council_Ruling.cfg:16
 msgid ""
 "With the once mighty saurian empire destroyed, saurians had been reduced to "
-"scattered bands lurking in waste places. But the elves still had problems of "
-"their own..."
+"scattered bands lurking in waste places. But the elves still had problems of"
+" their own..."
 msgstr ""
 "Güçlü Sürüngen imparatorluğunun yenilgisiyle sürüngenler Wesnot’ta bir daha "
 "asla örgütlü duruma gelemediler. Fakat Elflerin hala bir takım sorunları "
@@ -4501,8 +4511,8 @@ msgid ""
 "Kalenz, the Council has called you here to demand that you apologize for "
 "your actions. You took the decision to help the humans at Tath, and hence "
 "risk further war with the orcs; to strike at the orcs north; and last to "
-"attack the saurians. These were decisions to be taken by the Council, not by "
-"a field commander!"
+"attack the saurians. These were decisions to be taken by the Council, not by"
+" a field commander!"
 msgstr ""
 "Kalenz, bugün eylemlerin hakkında hesap vermek için konseyin önündesin. "
 "Tat’ta insanlara yardıma karar verdin ve Orklarla böyle bir savaş riskine "
@@ -4514,9 +4524,10 @@ msgstr ""
 msgid ""
 "With all respect my lords, we were and still are in a war. We could not "
 "spare the time to consult with you, lest our opportunities slip from our "
-"grasp and make the war longer and more costly. Besides, all our actions have "
-"been beneficial to our cause: The orcs are now in a civil war for "
-"succession, the North Elves are free and the saurians are no longer a threat."
+"grasp and make the war longer and more costly. Besides, all our actions have"
+" been beneficial to our cause: The orcs are now in a civil war for "
+"succession, the North Elves are free and the saurians are no longer a "
+"threat."
 msgstr ""
 "Size hürmetim sonsuz efendim, biz savaştaydık ve hala savaştayız. Sizinle "
 "istişare yapacak vaktimiz yoktu. Bunun yanında bizim tüm eylemlerimiz belli "
@@ -4549,7 +4560,8 @@ msgstr "Eğer Kalenz ve adamları olmasaydı, bugün hiç birimiz burada olmazd�
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/20_Council_Ruling.cfg:46
 msgid ""
-"I agree. What’s done is done. Let us concentrate on the future, not the past."
+"I agree. What’s done is done. Let us concentrate on the future, not the "
+"past."
 msgstr ""
 "Kabul ediyorum. Olan olmuş bir kere. Şimdi geçmişi bırakıp geleceğe "
 "odaklanalım."
@@ -4596,8 +4608,8 @@ msgstr "Konseyin kararından sonra Kalenz ve Kleodil Kuzeye çekildiler."
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/21_Elvish_Assassins.cfg:42
 msgid ""
-"Free of the pressure of war, they took delight in each other. The heart-bond "
-"they had formed amidst peril and death grew closer, and all but vanquished "
+"Free of the pressure of war, they took delight in each other. The heart-bond"
+" they had formed amidst peril and death grew closer, and all but vanquished "
 "the remnant evil Crelanu’s philter had left in Kalenz. The two began to "
 "think of having children."
 msgstr ""
@@ -4609,8 +4621,8 @@ msgstr ""
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/21_Elvish_Assassins.cfg:45
 msgid ""
 "But their peace was not to last. In the outer world, the blood tides were "
-"rising. And in the heart of Landar, who had once been their friend, evil was "
-"not vanquished, but festered and grew..."
+"rising. And in the heart of Landar, who had once been their friend, evil was"
+" not vanquished, but festered and grew..."
 msgstr ""
 "Fakat barış uzun sürmedi. Dış dünyada kan isteği yükseliyordu. Bir zamanlar "
 "dostu olan Landar'ın kalbinde kötülük yenilmemişti ve iltihaplanarak "
@@ -4622,7 +4634,8 @@ msgid ""
 "Kalenz begins this scenario in retirement, and is not able to recall his "
 "veteran troops."
 msgstr ""
-"Kalenz bu senaryoya inzivadayken başlar ve kıdemli askerlerini geri çağırmaz."
+"Kalenz bu senaryoya inzivadayken başlar ve kıdemli askerlerini geri "
+"çağırmaz."
 
 #. [message]: speaker=unit
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/21_Elvish_Assassins.cfg:121
@@ -4634,7 +4647,8 @@ msgstr "Emredersiniz, efendim."
 msgid ""
 "You turn on us? I cannot believe it! How has elf come to strive against elf "
 "so bitterly?"
-msgstr "Bize karşı mısın? Elf, elf e karşı... ne acı. Buna inanabiliyor musun?"
+msgstr ""
+"Bize karşı mısın? Elf, elf e karşı... ne acı. Buna inanabiliyor musun?"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/21_Elvish_Assassins.cfg:129
@@ -4642,8 +4656,8 @@ msgid ""
 "Evil takes many forms, my love. Today we see another of its faces... and "
 "must defeat it again. Prepare to die, $betrayer|!"
 msgstr ""
-"Kötülük bir çok biçim alır, aşkım. Bugün onun başka bir yüzünü gördük ... ve "
-"onu tekrar yenmek zorundayız. Gaber, $betrayer|!"
+"Kötülük bir çok biçim alır, aşkım. Bugün onun başka bir yüzünü gördük ... ve"
+" onu tekrar yenmek zorundayız. Gaber, $betrayer|!"
 
 #. [message]: role=betrayer
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/21_Elvish_Assassins.cfg:133
@@ -4761,8 +4775,8 @@ msgstr "Kuzey Savaşı"
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/22_Northern_Battle.cfg:30
 msgid ""
-"It was clear to Kalenz and Cleodil that there would be no sanctuary for them "
-"while Landar lived. But during their years in seclusion the fame of their "
+"It was clear to Kalenz and Cleodil that there would be no sanctuary for them"
+" while Landar lived. But during their years in seclusion the fame of their "
 "deeds had only grown. Many healers and sorceresses responded to Cleodil’s "
 "call, and Kalenz found that recruits came to him as readily as if he were "
 "still High Lord in name."
@@ -4774,32 +4788,33 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/22_Northern_Battle.cfg:33
-#, fuzzy
 #| msgid ""
 #| "Kalenz’s veterans joined the host of the Northern Elves under Uradredia. "
 #| "Very soon, Landar’s army appeared..."
 msgid ""
-"Though some of Kalenz’s veterans had joined Landar in revolt, others instead "
-"joined the northern host under Uradredia. Very soon, Landar’s army "
+"Though some of Kalenz’s veterans had joined Landar in revolt, others instead"
+" joined the northern host under Uradredia. Very soon, Landar’s army "
 "appeared..."
 msgstr ""
-"Kalenz ve gazileri Kuzey Elflerine katılmak üzere Uradredya'ya doğru yola "
-"çıktılar. Çok geçmeden Landar’ın ordusu göründü..."
+"Kalenz'in gazilerinden bazıları isyanda Landar'a katılmış olsa da, diğerleri"
+" bunun yerine Uradredia yönetimindeki kuzey ordusuna katıldı. Çok geçmeden "
+"Landar'ın ordusu ortaya çıktı..."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/22_Northern_Battle.cfg:145
-#, fuzzy
 #| msgid ""
-#| "Kalenz can only recall shamans and their advancements from his former "
-#| "army; the rest of his men joined Uradredia before he arrived."
+#| "Kalenz can only recall shamans and their advancements from his former army; "
+#| "the rest of his men joined Uradredia before he arrived."
 msgid ""
 "Kalenz can only recall shamans and their advancements from his former army; "
 "as for the rest of his men, it’s been a bitter split — for every elf who "
 "came back from Saurgrath to stand with Uradredia, two came back pledging "
 "their blade to Landar’s call."
 msgstr ""
-"Kalenz, sadece şamanları ve onlardan terfi edenleri  geri çağırabilir; "
-"Adamlarının geri kalanı o gelmeden önce Uradredya'ya katıldı."
+"Kalenz eski ordusundan yalnızca şamanları ve ilerlemelerini "
+"hatırlayabiliyor; Adamlarının geri kalanına gelince, bu acı bir bölünme "
+"oldu; Uradredia'nın yanında yer almak için Saurgrath'tan dönen her elften "
+"iki tanesi, Landar'ın çağrısına kılıçlarını teslim ederek geri döndü."
 
 #. [objective]: condition=win
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/22_Northern_Battle.cfg:277
@@ -4815,7 +4830,8 @@ msgstr "Kalenz altı gün dayanır"
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/22_Northern_Battle.cfg:324
 msgid ""
 "If you lose you still have a chance to defeat Kalenz in the next scenario."
-msgstr "Kaybederseniz, bir sonraki senaryoda Kalenz'i yenme şansınız hala var."
+msgstr ""
+"Kaybederseniz, bir sonraki senaryoda Kalenz'i yenme şansınız hala var."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/22_Northern_Battle.cfg:333
@@ -4823,13 +4839,14 @@ msgid ""
 "Landar, listen to me! It does not have to come to this. I know about the "
 "potion. Let us help!"
 msgstr ""
-"Landar, dinle beni! Böyle olmak zorunda değil. İksirin etkilerini biliyorum. "
-"Sana yardım edelim!"
+"Landar, dinle beni! Böyle olmak zorunda değil. İksirin etkilerini biliyorum."
+" Sana yardım edelim!"
 
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/22_Northern_Battle.cfg:337
 msgid ""
-"Here is Kalenz. There can be no talk with traitors! Leave none of them alive!"
+"Here is Kalenz. There can be no talk with traitors! Leave none of them "
+"alive!"
 msgstr "Orada dur Kalenz. Hainlerle konuşulmaz! Hiçbirini canlı bırakmayın!"
 
 #. [message]: id=Landar
@@ -4861,17 +4878,17 @@ msgstr "Savaşın Sonu"
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/23_End_of_War.cfg:33
 msgid ""
-"It is said that the battle with the North Elves was the beginning of the end "
-"for Landar’s revolt. But civil war smoldered on for many more years, neither "
-"side mustering enough strength to achieve a decisive victory. Until, "
-"eventually, Landar’s increasingly harsh and arrogant ways drove away many of "
-"his followers. After assembling all the troops he could, Kalenz marched "
+"It is said that the battle with the North Elves was the beginning of the end"
+" for Landar’s revolt. But civil war smoldered on for many more years, "
+"neither side mustering enough strength to achieve a decisive victory. Until,"
+" eventually, Landar’s increasingly harsh and arrogant ways drove away many "
+"of his followers. After assembling all the troops he could, Kalenz marched "
 "against his old friend and now mortal enemy, Landar, in the forest of "
 "Gitamoth..."
 msgstr ""
 "Kuzey Elfleriyle savaş Landar’ın isyanı için sonun başlangıcı oldu derler. "
-"Gerçekte, iç savaş daha yıllarca devam etti, ancak iki taraf da kesin zafere "
-"ulaşacak güce sahip olamadı... Fakat eninde sonunda Landar’ın yolu "
+"Gerçekte, iç savaş daha yıllarca devam etti, ancak iki taraf da kesin zafere"
+" ulaşacak güce sahip olamadı... Fakat eninde sonunda Landar’ın yolu "
 "yandaşlarının çoğundan başka yöne döndü. Ordusunun toplayabildiği kadarıyla "
 "Kalenz Gitamot ormanında eski arkadaşı şimdiki ölümcül düşmanı Landar’ın "
 "üzerine yürüdü..."
@@ -4921,8 +4938,8 @@ msgstr "Yenidim! Belki artık dinlenebilirim!"
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/23_End_of_War.cfg:205
 msgid ""
-"I am deeply grieved that it came to this, Landar. You were my best friend. I "
-"was blind to what the potion was doing to you. I was fighting it myself!"
+"I am deeply grieved that it came to this, Landar. You were my best friend. I"
+" was blind to what the potion was doing to you. I was fighting it myself!"
 msgstr ""
 "Çok özür dilerim Landar. Sen en iyi dostumdun. Zehirin sana yaptıklarını "
 "göremedim. Ben kendimle savaşıyordum!"
@@ -4931,15 +4948,15 @@ msgstr ""
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/23_End_of_War.cfg:209
 msgid ""
 "I know. But you are not at fault, for I did not take just one bottle. I "
-"wanted to make sure we could kill the orcish Great Chief, so I went back for "
-"a second and drank that one, too. Now I have driven our dwarvish allies away "
-"and brought death and disaster to our own people. I have even tried to kill "
-"my own friend. I am a disgrace to elven-kind."
+"wanted to make sure we could kill the orcish Great Chief, so I went back for"
+" a second and drank that one, too. Now I have driven our dwarvish allies "
+"away and brought death and disaster to our own people. I have even tried to "
+"kill my own friend. I am a disgrace to elven-kind."
 msgstr ""
 "Biliyorum. Fakat tek bir şişe almadım. Orkbaşını öldürebileceğimden emin "
 "olmak istedim. Cüce müttefiklerimizi uzaklaştırdığım gibi kendi halkımıza "
-"ölüm ve felaket getirdim. Hatta kendi arkadaşımı bile öldürmeyi denedim. Ben "
-"bir elf bile olmaya layık değilim."
+"ölüm ve felaket getirdim. Hatta kendi arkadaşımı bile öldürmeyi denedim. Ben"
+" bir elf bile olmaya layık değilim."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/23_End_of_War.cfg:213
@@ -4972,14 +4989,14 @@ msgid ""
 "Landar’s remaining followers’ lives were spared, but they were banished to "
 "Gitamoth forest, henceforth known as Silent Forest."
 msgstr ""
-"Landar’ın hayatta kalan yandaşları çürüğe ayrılıp Şarkı ormanına sürüldüler. "
-"O zamandan beri oraya Sessiz orman denmektedir."
+"Landar’ın hayatta kalan yandaşları çürüğe ayrılıp Şarkı ormanına sürüldüler."
+" O zamandan beri oraya Sessiz orman denmektedir."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/24_Epilogue.cfg:25
 msgid ""
-"As Landar had wiped out the Elvish Council, Kalenz was unanimously chosen as "
-"High Lord of the Elves. North and South Elves swore allegiance to him."
+"As Landar had wiped out the Elvish Council, Kalenz was unanimously chosen as"
+" High Lord of the Elves. North and South Elves swore allegiance to him."
 msgstr ""
 "Elf Konseyi Landar tarafından lağvedildiğinden, Kalenz tam ittifakla Elf "
 "Beyi seçildi. Kuzey ve Güney Elfleri ona sadakat yemini ettiler."
@@ -4987,14 +5004,14 @@ msgstr ""
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/24_Epilogue.cfg:30
 msgid ""
-"Kalenz reorganized the elves so they could mobilize for war more readily. He "
-"knew that the orcish threat was not over; that the elves, through "
-"hesitation, had lost a golden opportunity to end the threat and that trouble "
-"would someday return."
+"Kalenz reorganized the elves so they could mobilize for war more readily. He"
+" knew that the orcish threat was not over; that the elves, through "
+"hesitation, had lost a golden opportunity to end the threat and that trouble"
+" would someday return."
 msgstr ""
 "Kalenz bunu yapmadan önce, Elfleri her ihtimale hazırlıklı olmalarını "
-"sağlamak için örgütledi. Ork tehdidinin sona ermediğini, Elflerin bu tehdidi "
-"sona erdirecek altın değerindeki bir fırsatı kaçırdığını ve sorunun tekrar "
+"sağlamak için örgütledi. Ork tehdidinin sona ermediğini, Elflerin bu tehdidi"
+" sona erdirecek altın değerindeki bir fırsatı kaçırdığını ve sorunun tekrar "
 "baş göstereceğini biliyordu."
 
 #. [part]
@@ -5025,12 +5042,12 @@ msgstr ""
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/24_Epilogue.cfg:43
 msgid ""
 "But Kalenz’s story was not yet over. Aquagar’s curse was fulfilled; "
-"prolonged in life by Crelanu’s philter, he outlived not only his beloved but "
-"their children. Sundered from his kin by their mortality, fleeing the "
-"reflections in their eyes of his lost beloved, he left his home and wandered "
-"for many a year across the Great Continent. Oft did he arrive unexpected at "
-"times and places when his people were in dire straits, and succor them with "
-"wisdom or magic or his bright keen blade."
+"prolonged in life by Crelanu’s philter, he outlived not only his beloved but"
+" their children. Sundered from his kin by their mortality, fleeing the "
+"reflections in their eyes of his lost beloved, he left his home and wandered"
+" for many a year across the Great Continent. Oft did he arrive unexpected at"
+" times and places when his people were in dire straits, and succor them with"
+" wisdom or magic or his bright keen blade."
 msgstr "Fakat Kalenz'in hikayesi henüz bitmemişti."
 
 #. [part]
@@ -5056,12 +5073,10 @@ msgstr "Kalenz’i neşelendirir"
 #. [leadership]: id=elates_kalenz
 #: data/campaigns/Legend_of_Wesmere/utils/abilities.cfg:13
 msgid ""
-"Through the special bond between Kalenz and Cleodil, she elates him to fight "
-"better.\n"
+"Through the special bond between Kalenz and Cleodil, she elates him to fight better.\n"
 "Adjacent to Cleodil, Kalenz will do 25% more damage in battle."
 msgstr ""
-"Kalenz ve Kleodil arasındaki özel bağ sayesinde Kalenz, Kleodil yanındayken "
-"daha iyi dövüşür.\n"
+"Kalenz ve Kleodil arasındaki özel bağ sayesinde Kalenz, Kleodil yanındayken daha iyi dövüşür.\n"
 "Kalenz, Kleodil'in yanındayken, savaşta% 25 daha fazla hasar verir."
 
 #. [heals]: id=heals_kalenz
@@ -5078,8 +5093,8 @@ msgstr "Kalenz +4 YP iyileşir"
 #: data/campaigns/Legend_of_Wesmere/utils/abilities.cfg:34
 msgid ""
 "If a shyde has developed a special bond to a person her healing abilities "
-"increase for him. This allows Cleodil to give Kalenz extra points of healing "
-"at the beginning of your turn."
+"increase for him. This allows Cleodil to give Kalenz extra points of healing"
+" at the beginning of your turn."
 msgstr ""
 "Bir Elf Yer Perisi bir kişiye özel bir bağ geliştirdiyse, onun için "
 "iyileştirme yetenekleri artar. Bu, Kleodil'in Kalenz'i elinizin başında "
@@ -5213,7 +5228,8 @@ msgstr "Orklarla tek başımıza dövüşemeyiz. Buraya kadar!"
 #. [message]: speaker=Kalenz
 #: data/campaigns/Legend_of_Wesmere/utils/deaths.cfg:94
 msgid ""
-"Our cause is lost. With Uradredia gone, the North Elves will no longer fight!"
+"Our cause is lost. With Uradredia gone, the North Elves will no longer "
+"fight!"
 msgstr "Kaybettik. Uradredya gitti, Kuzey Elfleri artık savaşmaz!"
 
 #. [message]: speaker=unit

@@ -1,0 +1,21 @@
+{
+  "empty": {
+    "Move a merfolk unit to Caladon's shack and talk to him": "Bir merhalk birliğini Caladon'un kulübesine götür ve onunla konuş",
+    "You can also visit Caladon with Keshan": "Caladon'u Keshan ile de ziyaret edebilirsin",
+    "You can also visit Caladon with Inky": "Caladon'u Inky ile de ziyaret edebilirsin",
+    "Another of these ACCURSED bats! BEGONE!": "Bu LANETLİ yarasalardan bir tane daha! DEFOL!",
+    "SHRIEK!": "ÇIĞLIK!",
+    "Caladon does not seem to be very happy about the bat infestation.": "Caladon, yarasa istilasından hiç memnun görünmüyor.",
+    "He might be more welcoming of one of our people.": "Kendi halkımızdan birine daha sıcak davranabilir.",
+    "Let's go, men!": "Hadi ileri, askerler!",
+    "Caladon's shack": "Caladon'un Kulübesi",
+    "What kind of abomination is THAT!?!": "Bu NE tür bir iğrençlik!?!",
+    "It appears that Caladon does not want to deal with the undead.": "Caladon'un yarı ölülerle uğraşmak istemediği anlaşılıyor.",
+    "Gllllbbbg!": "Gllllbbbg!"
+  },
+  "fuzzy": {
+    "You are Kai Krellis, son and heir of the last merman king but only a child. A necromancer is turning your subjects into undead slaves! Lead your people on a mission to convince a powerful mer-sorceress to help you repel the invasion. The oceans near the Far North are perilous, so you will need cunning and bravery to survive. But first you need to gain the respect of your troops!\\n\\n": "Siz susal şahının tek oğlu ve tahtının varisi Şah Krellis'siniz. Bir kara büyücü halkınızı köle haline getirmeye çalışıyor! İstilacıları kovmanıza yardımcı olacak güçlü bir büyücüyü ikna etme görevine gönderildiniz. Uzak Kuzey yakınındaki okyanuslar tehlikelidir, bu yüzden hayatta kalmak için kurnaz ve cesaretli olmanız gerekir. Ama önce askerlerinizin saygısını kazanmalısınız!\\n\\n",
+    "Warrior Kings often become legendary in their own time. Their skill and strength allows them to be truly formidable in battle. They are also fast despite their heavy armor. Even skilled soldiers look upon them with awe.": "Savaşçı şahlar genellikle kendi zamanlarında efsanevi hale gelir. Becerileri ve güçleri, savaşta gerçekten zorlayıcı olmalarını sağlar. Ağır zırhlarına rağmen hızlıldırlar. Yetenekli askerler bile onlara huşu ile bakar.",
+    "A Young King with some battle experience will be treated with some respect. Common citizens will be inspired to do their utmost when the king is nearby, but battle-hardened veterans will be less impressed.": "Savaş tecrübesi az da olsa genç bir şah, biraz saygıyı hakeder. Şahın yanındayken yurttaşları ellerinden gelenin en iyisini yapmak için canla başla çalışır, ancak savaşla yoğrulan gaziler şahtan daha az etkilenir."
+  }
+}

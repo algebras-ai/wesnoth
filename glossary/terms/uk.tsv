@@ -1,0 +1,67 @@
+term_id	term	canonical_translation	notes	confidence
+F01	Loyalists	Лоялісти		high
+F02	Rebels	Повстанці		high
+F03	Undead	Мерці		high
+F04	Northerners	Мешканці Півночі		high
+F05	Drakes	Дрейки		high
+F06	Knalgan Alliance	Союз Кналги		high
+F07	Dunefolk	Люди дюн		high
+R01	Elvish		not found in .po files	low
+R02	Orcish		not found in .po files	low
+R03	Dwarven		not found in .po files	low
+R04	Drake	Дрейк		high
+R05	Naga	Наг		high
+R06	Merman/Mermaid		not found in .po files	low
+R07	Troll	Троль		high
+R08	Wose	Лісовик		high
+A01	Lawful	порядний		high
+A02	Neutral	нейтральний		high
+A03	Chaotic	хаотичний		high
+A04	Liminal	тіньовий		high
+T01	Dawn	Світанок		high
+T02	Morning	Ранок	ISSUE: extracted string 'Попередження' means Warning in Ukrainian, not the time-of-day Morning. Corrected to 'Ранок'.	high
+T03	Afternoon	День		high
+T04	Dusk	Вечір		high
+T05	First Watch	Перша варта		high
+T06	Second Watch	Друга варта		high
+G01	Campaign	Кампанія		high
+G02	Scenario	Сценарій		high
+G03	Side	Сторона		high
+G04	Village	Село		high
+G05	Income	Прибуток		high
+G06	Gold	Золото		high
+G07	Experience		not found in .po files	low
+G08	Level	Рівень		high
+G09	Turn	Хід		high
+G10	Hex		not found in .po files	low
+G11	Castle	Замок		high
+G12	Keep	Цитадель		high
+G13	Zone of Control	Зона Контролю		high
+G14	Recall	Закликати		high
+G15	Recruit	Вербувати		high
+G16	Leader	Лідер		high
+C01	leadership	лідерство		high
+C02	healing		not found in .po files	low
+C03	slow	повільний		high
+C04	poison	отрута		high
+C05	petrify		not found in .po files	low
+C06	berserk	берсерк		high
+C07	skirmisher	авангардист		high
+C08	marksman	снайпер		high
+C09	magical	магія		high
+C10	steadfast	стійкий		high
+C11	regenerates	регенерує		high
+C12	ambush	засідка		high
+C13	illumination		not found in .po files	low
+C14	concealment	переховування		high
+TR01	Forest	Ліс		high
+TR02	Hills	Пагорби		high
+TR03	Mountains	Гори		high
+TR04	Flat	Луг		high
+TR05	Sand	Пісок		high
+TR06	Frozen	Мерзлота		high
+TR07	Swamp	Болото		high
+TR08	Deep Water	Глибока вода		high
+TR09	Shallow Water	Мілка вода		high
+TR10	Ford	Брід		high
+TR11	Cave	Печера		high

@@ -1,0 +1,67 @@
+term_id	term	canonical_translation	notes	confidence
+F01	Loyalists	Dyggð		high
+F02	Rebels		not found in .po files	low
+F03	Undead	Ódauði		high
+F04	Northerners		not found in .po files	low
+F05	Drakes	Drekar		high
+F06	Knalgan Alliance		not found in .po files	low
+F07	Dunefolk	Ódauðir		high
+R01	Elvish		not found in .po files	low
+R02	Orcish		not found in .po files	low
+R03	Dwarven		not found in .po files	low
+R04	Drake	Dreki		high
+R05	Naga	Naga		high
+R06	Merman/Mermaid		not found in .po files	low
+R07	Troll	Tröll		high
+R08	Wose	Vosi		high
+A01	Lawful	réttmæt		high
+A02	Neutral	hlutlaus		high
+A03	Chaotic	ringulreiður		high
+A04	Liminal	dygg		high
+T01	Dawn	Dögun		high
+T02	Morning	Morgunn	ISSUE: extracted string 'Viðvörun:' (with colon) means Warning in Icelandic — a UI label, not the time-of-day Morning. Corrected to 'Morgunn'.	high
+T03	Afternoon	Síðdegi		high
+T04	Dusk	Rökkur		high
+T05	First Watch	Fyrsta vakt		high
+T06	Second Watch	Seinni vakt		high
+G01	Campaign	Herferð		high
+G02	Scenario	Ljúka atburðarás		high
+G03	Side	Næsta hlið		high
+G04	Village	Þorp		high
+G05	Income		not found in .po files	low
+G06	Gold	Gull		high
+G07	Experience		not found in .po files	low
+G08	Level	eflingarstig		high
+G09	Turn	Umferð		high
+G10	Hex		not found in .po files	low
+G11	Castle	Kastalar		high
+G12	Keep	Höll		high
+G13	Zone of Control		not found in .po files	low
+G14	Recall	Endurkalla		high
+G15	Recruit	Ráða		high
+G16	Leader	Leiðtogi		high
+C01	leadership	leiðtogi		high
+C02	healing		not found in .po files	low
+C03	slow	hægur		high
+C04	poison	eitrun		high
+C05	petrify		not found in .po files	low
+C06	berserk	berserk		high
+C07	skirmisher	truflar		high
+C08	marksman	skytta		high
+C09	magical	galdrar		high
+C10	steadfast	staðfastur		high
+C11	regenerates	endurskapar		high
+C12	ambush	fyrirsát		high
+C13	illumination		not found in .po files	low
+C14	concealment	leynd		high
+TR01	Forest	Skógar		high
+TR02	Hills	Hólar		high
+TR03	Mountains	Fjöll		high
+TR04	Flat	Flatlendi		high
+TR05	Sand	Sandur		high
+TR06	Frozen	Frost		high
+TR07	Swamp	Mýri		high
+TR08	Deep Water	Djúpt vatn		high
+TR09	Shallow Water	Grunnt vatn		high
+TR10	Ford		not found in .po files	low
+TR11	Cave	Hellir		high

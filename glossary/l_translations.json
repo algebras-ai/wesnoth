@@ -1,0 +1,40 @@
+{
+  "empty": {
+    "1x enemies": "1x düşman",
+    "2x enemies": "2x düşman",
+    "3x enemies": "3x düşman",
+    "Hard": "Zor",
+    "The saga continues in\n<i>Heir to the Throne</i>": "Destan devam ediyor:\n<i>Tahtın Varisi</i>",
+    "Gruk": "Gruk",
+    "Your footpad has gained +1 ranged damage!": "Haydutunuz +1 menzilli hasar kazandı!",
+    "Your units — formerly <i>neutral</i> — are now <i>chaotic</i>!": "Birimleriniz — eskiden <i>tarafsız</i> olan — artık <i>kaypak</i>!",
+    "Your unit has gained +1 maximum hitpoints!": "Birimin +1 maksimum can puanı kazandı!",
+    "The Daneth": "The Daneth",
+    "Mary's Minnow": "Mary's Minnow",
+    "Officially, one of his captains committed the crime. Unofficially, it is rumored that Queen Asheviere and her son Eldred were involved. Either way, Prince Eldred fell in battle not long after, upon which Asheviere claimed the throne.": "Resmi olarak, kaptanlarından biri suçu işledi. Gayri resmi olarak ise Kraliçe Aşivye ile oğlu Eldred'in dahli olduğu söylentisi var. Her iki durumda da, Prens Eldred kısa süre sonra savaşta hayatını kaybetti; bunun üzerine Aşivye tahta geçti.",
+    "They will not come. I do not intend to pick a side in Wesnoth's conflict, and the Queen knows better than to try to force my hand. It is true that she maintains a large garrison south at the great fortress of Halstead, but even should they mobilize all their troops, I doubt they could take Elensefar.": "Gelmeyecekler. Wesnoth'un iç çatışmasında taraf tutmayı düşünmüyorum ve Kraliçe, beni zorlamaya kalkışmanın işe yaramayacağını biliyor. Güneyde, Halstead'ın büyük kalesinde büyük bir garnizon bulundurduğu doğru; ancak tüm kuvvetlerini seferber etseler bile, Elensefar'ı alamayacaklarına kanaat ediyorum.",
+    "Yes, I am aware of Queen Asheviere's propensity for hiring orcs to supplement her forces. I have begun expanding my army as well, although I think hostilities are unlikely. But the population of Elensefar is small, and we are not in the habit of maintaining a large standing army. It will take time to assemble mercenaries of the right caliber.": "Evet, Kraliçe Aşivye'nin kuvvetlerini takviye etmek için ork tutma eğiliminin farkındayım. Ben de ordumu genişletmeye başladım; gerçi çatışma ihtimalinin düşük olduğunu düşünüyorum. Ancak Elensefar'ın nüfusu küçük ve büyük bir daimî ordu bulundurma alışkanlığımız yok. Doğru kalibrede paralı asker toplamak zaman alacaktır.",
+    "The treaty between Elensefar and Wesnoth is ancient, and I do not think Her Majesty means to break it. But I cannot afford to make enemies of Weldyn, as you can surely understand. Asheviere looks to be winning her civil war. The wizard and his rebels have suffered several defeats. I have some concessions that I shall have to make...": "Elensefar ile Wesnoth arasındaki antlaşma çok eskidir ve Majesteleri'nin onu bozmaya niyetli olduğunu sanmıyorum. Ama Weldyn'i düşman edinmeyi göze alamam, bunu anlayabilirsiniz. Aşivye iç savaşını kazanıyor gibi görünüyor. Büyücü ve isyancıları birkaç yenilgi aldı. Bazı tavizler vermek zorunda kalacağım...",
+    "Do not put words in my mouth. I am more than willing to act should the need arise. I am already in covert communication with— ...listen, there is a bigger picture here, Baldras.": "Ağzıma laf tıkamayın. Gerektiğinde harekete geçmeye her an hazırım. Zaten gizlice iletişim halindeyim— ...dinleyin, Baldras, burada daha büyük bir resim var.",
+    "The Queen sent us away... sent us west. Now, our mortal bodies pass... into another plane of hellish existence...": "Kraliçe bizi uzaklaştırdı... batıya yolladı. Şimdi, ölümlü bedenlerimiz... cehennemî bir varoluşun başka bir boyutuna geçiyor...",
+    "The grand city-state of Elensefar is the wealthiest human settlement on the Great Continent, commanding a reputation and power that belies its relatively small population. Unlike the more war-minded inland nobles, Elensefar's governors master the art of commerce and the skill of sailing, and are known to be particularly agreeable. Yet behind that merchant charm lies a fierce independence, a trait that sometimes puts them at odds with the aristocrats of other regions.": "Elensefar'ın büyük şehir devleti, Büyük Kıta'nın en zengin insan yerleşimidir; görece küçük nüfusunu yalanlar nitelikte bir ün ve güce sahiptir. İç kesimlerin savaş odaklı soylularının aksine, Elensefar valileri ticaret sanatına ve denizcilik becerisine hâkimdir; son derece uzlaşmacı oldukları bilinir. Yine de bu tüccar çekiciliğinin arkasında, onları zaman zaman diğer bölgelerin aristokratlarıyla karşı karşıya getiren sert bir bağımsızlık yatmaktadır."
+  },
+  "fuzzy": {
+    "Complete <i>Civil Disobedience</i> with at least 3 peasants remaining.": "En az 3 köylü kalarak <i>Sivil İtaatsizlik</i>'i tamamlayın.",
+    "The Nameless Guard": "Adsız Muhafız",
+    "Discover the name of the royal guard in <i>Unlawful Orders</i>.": "<i>Hukuksuz Emirler</i> senaryosundaki kraliyet muhafızının adını öğren.",
+    "Defeat an Iron Mauler with Harper in <i>Hide and Seek</i>.": "<i>Saklambaç</i> senaryosunda Harper ile bir Demir Balyozu yen.",
+    "Complete <i>The Hunters</i> with no losses.": "<i>Avcılar</i> senaryosunu hiç kayıp vermeden tamamla.",
+    "On Challenging difficulty, defeat Dommel in <i>Glory</i>.": "Zorlu zorluk seviyesinde, <i>Zafer</i> senaryosunda Dommel'i yen.",
+    "Hey, someone left their pack here. I could use it to carry some heavier rocks.": "Hey, biri buraya bir paket bırakmış. Biraz daha ağır kayalar taşımak için bunu kullanabilirim.",
+    "Defeat the enemy leader": "Düşman liderini mağlup et",
+    "That was partially my fault, since I was not able to send a messenger to you in time. I shall have to inform you now. Five weeks ago, at the Ford of Abez, King Garard II of Wesnoth was murdered.": "Bu kısmen benim hatamıydı, çünkü size zamanında bir haberci gönderemedim. Hemen size haber vermem gerekiyordu. Beş hafta önce, Abez Geçidi'nde, Wesnoth Kralı II. Garard öldürüldü.",
+    "The Queen is not popular. She is at war with supporters of the old king, and searches far and wide for new conscripts. Part of that has been taking elders from the local villages, forcing them to swear allegiance to her. That was the purpose of that patrol.": "Kraliçe halk nezdinde sevilmiyor. Eski kralın destekçileriyle savaş halinde ve her yerde yeni askerler arıyor. Bunun bir parçası olarak yerel köylerden yaşlıları alıp onları kendisine biat etmeye zorluyor. O devriyelerin amacı buydu.",
+    "It says, “Here lies Daneth, child of the Light, loyal defender of Lord and Land.”": "\"Burada Işığın çocuğu Daneth yatıyor, Lord ve topraklarının sadık koruyucusu\" diyor.",
+    "Kestrel": "Kestrel",
+    "We... are accursed. We were the soldiers of Prince Eldred, the King's son and betrayer... when the Prince stooped to black magic, we were damned... those of us who bore witness were warped into these twisted forms.": "Biz... lanetlendik. Kral'ın hain oğlu Prens Eldred'in askerleriyidik... Prens karanlık büyüye başvurduğunda lanetlendik... buna tanık olanlarımız bu çarpık biçimlere dönüştürüldü.",
+    "Lo, Knights of Elensefar, the battle hath begun ere our arrival. Ready thy lances! Let us trample the armies of Weldyn beneath our steeds!": "İşte, Elensefar Şövalyeleri, savaş biz varmadan başlamış. Mızraklarınızı hazırlayın! Weldyn ordularını atlarımızın altında çiğneyelim!",
+    "I'm sure them Wesnothians will come back in time. Maddock sounded like he had a plan... we'll see. But that don't be my problem anymore. I has me a village to worry about. I need to get back, consult myself with Relana and figure out what to do next. We gots some more time now, but we can't wait forever.": "Eminim o Vesnotlular zamanında geri dönecekler. Madok'un bir planı varmış gibi konuştu... bakalım. Ama bu artık benim sorunum değil. Endişelenmem gereken bir köy var. Geri dönmem, Relana'ya danışmam ve sonra ne yapacağımı çözmem gerekiyor. Şimdi biraz daha zamanımız var, ama sonsuza kadar bekleyemeyiz.",
+    "Lord of Elensefar": "Elensefar Lordu"
+  }
+}

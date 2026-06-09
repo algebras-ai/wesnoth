@@ -1,0 +1,67 @@
+term_id	term	canonical_translation	notes	confidence
+F01	Loyalists	Zvest		high
+F02	Rebels	Uporniki		high
+F03	Undead	Nemrtvi		high
+F04	Northerners	Severnjaki		high
+F05	Drakes	Draki		high
+F06	Knalgan Alliance	Zavezništvo Knalge		high
+F07	Dunefolk	Nemrtvi		high
+R01	Elvish		not found in .po files	low
+R02	Orcish		not found in .po files	low
+R03	Dwarven		not found in .po files	low
+R04	Drake	šibka		high
+R05	Naga	Naga		high
+R06	Merman/Mermaid		not found in .po files	low
+R07	Troll	Trol		high
+R08	Wose	Ent		high
+A01	Lawful	zakonita		high
+A02	Neutral	nevtralen		high
+A03	Chaotic	kaotičen		high
+A04	Liminal	zvesta		high
+T01	Dawn	Zora		high
+T02	Morning	Jutro	ISSUE: extracted string 'Opozorilo:' (with colon) means Warning in Slovenian — a UI label fragment, not the time-of-day Morning. Corrected to 'Jutro'.	high
+T03	Afternoon	Popoldan		high
+T04	Dusk	Mrak		high
+T05	First Watch	Prva straža		high
+T06	Second Watch	Druga straža		high
+G01	Campaign	Kampanja		high
+G02	Scenario	Končaj scenarij		high
+G03	Side	Naslednja stran		high
+G04	Village	Vas		high
+G05	Income	Dobrodošli	ISSUE: 'Dobrodošli' means Welcome in Slovenian, not Income (gold per turn). Extraction collision. Confidence lowered.	low
+G06	Gold	Zlato		high
+G07	Experience		not found in .po files	low
+G08	Level	stopnja		high
+G09	Turn	Poteza		high
+G10	Hex		not found in .po files	low
+G11	Castle	Grad		high
+G12	Keep	Trdnjava		high
+G13	Zone of Control		not found in .po files	low
+G14	Recall	Prikliči		high
+G15	Recruit	Vpokliči		high
+G16	Leader	Vodja		high
+C01	leadership	vodenje		high
+C02	healing		not found in .po files	low
+C03	slow	počasen		high
+C04	poison	strup		high
+C05	petrify		not found in .po files	low
+C06	berserk	berzerk		high
+C07	skirmisher	izogibalec		high
+C08	marksman	ostrostrelec		high
+C09	magical	čaroben		high
+C10	steadfast	neomajnost		high
+C11	regenerates	regeneracija		high
+C12	ambush	zaseda		high
+C13	illumination		not found in .po files	low
+C14	concealment	Tabor		high
+TR01	Forest	Gozd		high
+TR02	Hills	Griči		high
+TR03	Mountains	Gore		high
+TR04	Flat		not found in .po files	low
+TR05	Sand	Pesek		high
+TR06	Frozen		not found in .po files	low
+TR07	Swamp	Močvirje		high
+TR08	Deep Water	Globoka voda		high
+TR09	Shallow Water	Plitva voda		high
+TR10	Ford		not found in .po files	low
+TR11	Cave	Jama		high

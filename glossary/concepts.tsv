@@ -1,0 +1,67 @@
+id	term	definition	domain	notes
+F01	Loyalists	Human kingdom faction aligned with the crown of Wesnoth	faction	Core multiplayer faction
+F02	Rebels	Elven and sylvan faction opposed to human rule	faction	Core multiplayer faction
+F03	Undead	Faction of undead units raised by necromancers	faction	Core multiplayer faction
+F04	Northerners	Orcish and goblin faction from the north	faction	Core multiplayer faction
+F05	Drakes	Dragon-kin faction; fire-aligned flying warriors	faction	Core multiplayer faction
+F06	Knalgan Alliance	Dwarven and human outlaw faction from Knalga mines	faction	Core multiplayer faction; note: game spells it "Knalgan" not "Knalga"
+F07	Dunefolk	Desert-dwelling human faction	faction	Added in later versions
+R01	Elvish	Adjective form of Elf race (e.g. Elvish Fighter)	race
+R02	Orcish	Adjective form of Orc race (e.g. Orcish Grunt)	race
+R03	Dwarven	Adjective form of Dwarf race (e.g. Dwarven Fighter)	race
+R04	Drake	Singular noun for the Drake race	race	Dragon-kin; do not translate as dragon
+R05	Naga	Serpentine amphibious race	race	Proper noun; usually not translated
+R06	Merman/Mermaid	Aquatic humanoid race	race
+R07	Troll	Large brutish creature	race
+R08	Wose	Sentient tree creature	race	Fantasy-specific term; not a standard troll/tree
+A01	Lawful	Alignment: units fight better in daylight	alignment	Opposite of Chaotic
+A02	Neutral	Alignment: unaffected by time of day	alignment
+A03	Chaotic	Alignment: units fight better at night	alignment	Opposite of Lawful
+A04	Liminal	Alignment: units fight better at twilight/dawn	alignment	Newer addition
+T01	Dawn	Time of day: transition from night to morning	time_of_day
+T02	Morning	Time of day: full daylight, Lawful bonus	time_of_day	NOT to be confused with "warning/alert"
+T03	Afternoon	Time of day: late daylight	time_of_day
+T04	Dusk	Time of day: transition from day to night	time_of_day
+T05	First Watch	Time of day: early night, Chaotic bonus	time_of_day
+T06	Second Watch	Time of day: deep night, Chaotic bonus	time_of_day
+G01	Campaign	A series of linked scenarios with a story	mechanics
+G02	Scenario	A single map/mission within a campaign	mechanics
+G03	Side	A player or AI faction in a scenario	mechanics
+G04	Village	A capturable terrain tile that generates income	mechanics	Critical: each village = 1 gold per turn
+G05	Income	Gold earned per turn from villages	mechanics
+G06	Gold	Currency used to recruit units	mechanics
+G07	Experience	Points gained by units from combat; leads to leveling up	mechanics
+G08	Level	Unit advancement tier (Level 1, 2, 3...)	mechanics
+G09	Turn	One round of play; all sides move once	mechanics
+G10	Hex	A single map tile (hexagonal grid)	mechanics
+G11	Castle	Terrain type where units can be recruited	mechanics
+G12	Keep	Special castle tile where the leader stands to recruit	mechanics
+G13	Zone of Control	Rule: units adjacent to an enemy must spend all movement to leave	mechanics	Abbreviated ZoC
+G14	Recall	Bring a previously-used unit back from the recall list	mechanics	Costs gold; units retain XP
+G15	Recruit	Hire a new unit from the castle	mechanics	Costs gold
+G16	Leader	The unit that must not die; loss = defeat	mechanics
+C01	leadership	Unit ability: adjacent lower-level allies get attack bonus	ability	Passive ability
+C02	healing	Unit ability: restore HP to adjacent allies each turn	ability
+C03	slow	Unit ability/attack: target moves/attacks at half rate	ability
+C04	poison	Unit ability/attack: target loses HP each turn	ability
+C05	petrify	Unit ability/attack: target cannot move or attack	ability
+C06	berserk	Unit ability/attack: fight until one side is dead (30 strikes)	ability
+C07	skirmisher	Unit ability: ignores Zone of Control	ability
+C08	marksman	Unit ability/attack: minimum 60% chance to hit	ability
+C09	magical	Unit attack type: always 70% chance to hit	ability
+C10	steadfast	Unit ability: doubles resistances when defending	ability
+C11	regenerates	Unit ability: restores HP each turn	ability
+C12	ambush	Unit ability: invisible in certain terrain when not attacking	ability
+C13	illumination	Unit ability: increases daytime in adjacent hexes	ability
+C14	concealment	Unit ability: harder to see in certain terrain	ability
+TR01	Forest	Terrain type	terrain
+TR02	Hills	Terrain type	terrain
+TR03	Mountains	Terrain type	terrain
+TR04	Flat	Open flat terrain	terrain	Generic open ground; not a proper noun
+TR05	Sand	Desert/sandy terrain	terrain
+TR06	Frozen	Snow/ice terrain	terrain	Terrain name, not the adjective meaning cold
+TR07	Swamp	Marshy terrain	terrain
+TR08	Deep Water	Open ocean/deep lake	terrain
+TR09	Shallow Water	Coastal/river water	terrain
+TR10	Ford	Shallow crossing point	terrain
+TR11	Cave	Underground terrain	terrain

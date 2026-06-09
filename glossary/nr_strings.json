@@ -1,0 +1,503 @@
+{
+  "domain": "wesnoth-nr",
+  "file": "po/wesnoth-nr/tr.po",
+  "empty": [
+    {
+      "row": 126,
+      "src": "Ugh... It's stuck. I'll have to kick it down then.",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [message]: speaker=Tallin",
+        "#: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:605"
+      ]
+    },
+    {
+      "row": 131,
+      "src": "The old gate opens, revealing a narrow tunnel.",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [message]: speaker=narrator",
+        "#: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:663"
+      ]
+    },
+    {
+      "row": 132,
+      "src": "Another gate... I guess I'll kick it down like the other one.",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [message]: speaker=Tallin",
+        "#: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:689"
+      ]
+    },
+    {
+      "row": 134,
+      "src": "Another one. I'll kick this one down too.",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [message]: speaker=Tallin",
+        "#: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:709"
+      ]
+    },
+    {
+      "row": 136,
+      "src": "Hmm... the wall here looks very thin and damaged. Let's bring it down, it could offer us a faster way to navigate these caves.",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [message]: speaker=Tallin",
+        "#: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:756"
+      ]
+    },
+    {
+      "row": 137,
+      "src": "Look, the wall here seems to be very thin and damaged. We might be able to bring it down.",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [message]: speaker=unit",
+        "#: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:762"
+      ]
+    },
+    {
+      "row": 138,
+      "src": "Do it. It can give us a faster way to traverse through these caves.",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [message]: speaker=Tallin",
+        "#: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:766"
+      ]
+    },
+    {
+      "row": 334,
+      "src": "Be careful companions! There was a drake in this cage!",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [message]: speaker=Abhai",
+        "#: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1038"
+      ]
+    },
+    {
+      "row": 342,
+      "src": "Have no fear, drake. We have no intentions to hurt you.",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [message]: speaker=Abhai",
+        "#: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1095"
+      ]
+    },
+    {
+      "row": 417,
+      "src": "Wet.",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [message]: speaker=Krash",
+        "#. Krash has landed in one of the hexes of a small underground lake",
+        "#: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2053"
+      ]
+    },
+    {
+      "row": 445,
+      "src": "Corpse here... It stinks.",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [message]: speaker=Krash",
+        "#: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2280"
+      ]
+    },
+    {
+      "row": 447,
+      "src": "Yet more bodies... I've noticed them drifting down the river as of late.",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [message]: speaker=Abhai",
+        "#: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2307"
+      ]
+    },
+    {
+      "row": 448,
+      "src": "More bodies. Float down river?",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [message]: speaker=Krash",
+        "#: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2319"
+      ]
+    },
+    {
+      "row": 451,
+      "src": "Grrr... Cold. Wet. Mad.",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [message]: speaker=Krash",
+        "#: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2361"
+      ]
+    },
+    {
+      "row": 475,
+      "src": "HAHAHAHA, THAT WEAPON CANNOT HARM ME!",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [message]: speaker=Malifor",
+        "#: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2861"
+      ]
+    },
+    {
+      "row": 479,
+      "src": "YOUR WEAPONS CANNOT HARM ME, FOOLS!",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [message]: speaker=Malifor",
+        "#: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2891"
+      ]
+    },
+    {
+      "row": 480,
+      "src": "We'll have to try something else. Perhaps magic will help.",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [message]: speaker=Tallin",
+        "#: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2896"
+      ]
+    },
+    {
+      "row": 484,
+      "src": "HAHAHAHA, FOOL! THE COLD IS MY DOMAIN!",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [message]: speaker=Malifor",
+        "#: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2926"
+      ]
+    },
+    {
+      "row": 485,
+      "src": "I suppose we should've known better than to try freezing a Lich.",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [message]: speaker=Tallin",
+        "#: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2931"
+      ]
+    },
+    {
+      "row": 486,
+      "src": "FOOLS! I FREED MYSELF OF WEAKNESS LONG AGO!",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [message]: speaker=Malifor",
+        "#: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2941"
+      ]
+    },
+    {
+      "row": 487,
+      "src": "Even arcane weapons have no effect on him! We need an expert in white magic.",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [message]: speaker=Tallin",
+        "#: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2946"
+      ]
+    }
+  ],
+  "fuzzy": [
+    {
+      "row": 95,
+      "src": "Great idea, Tallin. It's so dark I probably couldn't even fight a bat down here.",
+      "tgt": "Harika fikir, Talin. Buraya gelmeseydik muhtemelen bir yarasayla dövüşmek zorunda bile kalmayacaktım.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [message]: role=Supporter",
+        "#. sarcasm about the idea of entering the mines where this scenario takes place",
+        "#: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:304",
+        "#| \"Great idea, Tallin. It's so dark I probably couldn't even fight a bat \"",
+        "#| \"down here.\""
+      ]
+    },
+    {
+      "row": 121,
+      "src": "An ancient gate... it seems the trolls were unable to open it.",
+      "tgt": "Hey bak, eski bir kapı. Troller aptallıklarından bu kapıyı nasıl açacaklarını bulamamışlar gibi görünüyor.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [message]: speaker=Tallin",
+        "#: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:554",
+        "#| \"Hey look, it's an ancient door. It seems the trolls were too stupid to \"",
+        "#| \"figure out how to open it.\""
+      ]
+    },
+    {
+      "row": 122,
+      "src": "Hey look, it's an ancient gate. It seems the trolls were too stupid to figure out how to open it.",
+      "tgt": "Hey bak, eski bir kapı. Troller aptallıklarından bu kapıyı nasıl açacaklarını bulamamışlar gibi görünüyor.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [message]: speaker=unit",
+        "#: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:560",
+        "#| \"Hey look, it's an ancient door. It seems the trolls were too stupid to \"",
+        "#| \"figure out how to open it.\""
+      ]
+    },
+    {
+      "row": 123,
+      "src": "An ancient gate... it seems the skeletons did not bother opening it.",
+      "tgt": "Hey bak, eski bir kapı. İskeletler aptallıklarından bu kapıyı nasıl açacaklarını bulamamışlar gibi görünüyor.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [message]: speaker=Tallin",
+        "#: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:577",
+        "#| \"Hey look, it's an ancient door. It seems the skeletons were too stupid to \"",
+        "#| \"find out how to open it.\""
+      ]
+    },
+    {
+      "row": 124,
+      "src": "Hey look, it's an ancient gate. It seems the skeletons were too stupid to find out how to open it.",
+      "tgt": "Hey bak, eski bir kapı. İskeletler aptallıklarından bu kapıyı nasıl açacaklarını bulamamışlar gibi görünüyor.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [message]: speaker=unit",
+        "#: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:583",
+        "#| \"Hey look, it's an ancient door. It seems the skeletons were too stupid to \"",
+        "#| \"find out how to open it.\""
+      ]
+    },
+    {
+      "row": 125,
+      "src": "Let's see what lies behind it...",
+      "tgt": "Pekala, görelim bakalım, arkasında ne varmış.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [message]: speaker=Tallin",
+        "#: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:600"
+      ]
+    },
+    {
+      "row": 129,
+      "src": "Just kick it down then.",
+      "tgt": "O zaman bas tekmeyi.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [message]: speaker=Tallin",
+        "#: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:621"
+      ]
+    },
+    {
+      "row": 133,
+      "src": "On the end of the passage is another gate. I will try to open it.",
+      "tgt": "Geçidin sonunda başka bir kapı var. Açmaya çalışıyorum.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [message]: speaker=unit",
+        "#: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:695"
+      ]
+    },
+    {
+      "row": 135,
+      "src": "Here is a similar gate to the one before. I will try to open it.",
+      "tgt": "İşte öncekine benzer bir kapı. Açmaya çalışıyorum.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [message]: speaker=unit",
+        "#: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:715"
+      ]
+    },
+    {
+      "row": 139,
+      "src": "A large section of the wall collapses.",
+      "tgt": "Duvarın büyük bir kısmı çöker.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [message]: speaker=narrator",
+        "#: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:786"
+      ]
+    },
+    {
+      "row": 177,
+      "src": "Thank you, human. It is likewise a great relief to see that our allies of old have managed to break their bonds, and live as free men once again.",
+      "tgt": "Teşekkürler, insan. Ve sana da Kamerin. Eski müttefiklerimizin mevcut bağlantılarını bozup eskisine sahip çıkmalarından ve tekrar özgür olarak yaşamalarından ben de aynı şekilde mutlu oldum.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [message]: speaker=Hamel",
+        "#: data/campaigns/Northern_Rebirth/scenarios/02_02_Meeting_With_Dwarves.cfg:119",
+        "#| \"Thank you, human. And you, Camerin. It is likewise a great relief to see \"",
+        "#| \"that our allies of old have managed to break their bonds, and live as \"",
+        "#| \"free men once again.\""
+      ]
+    },
+    {
+      "row": 338,
+      "src": "Bright Gods, such a fierce creature whimpering! What in the world have they done to it?",
+      "tgt": "Tanrım, böylesine vahşi bir yaratak inliyor! Buna ne yapmışlar böyle?",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [message]: speaker=unit",
+        "#: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1061",
+        "#| \"Bright Gods, such a fierce creature whimpering! What the heck have they \"",
+        "#| \"done to it?\""
+      ]
+    },
+    {
+      "row": 347,
+      "src": "Hush, I am trying to talk to him. Nope, we'll never hurt you. But if you want to, you can hurt some skeletons.",
+      "tgt": "Amanın! Onunla konuşmaya çalışıyorum. Sorun yok, sana zarar vermeyeceğiz. Ama iskeletlere zarar vermek istersen seni tutmayız.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [message]: speaker=unit",
+        "#: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1123",
+        "#| \"Hush, I am trying to talk to him. Nope, we'll never hurt you. But if you \"",
+        "#| \"want to you can hurt some skeletons.\""
+      ]
+    },
+    {
+      "row": 418,
+      "src": "An underground lake.",
+      "tgt": "Hey, bir yeraltı gölü.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [message]: speaker=unit",
+        "#: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2059"
+      ]
+    },
+    {
+      "row": 419,
+      "src": "Monster! Kill!",
+      "tgt": "Yaratıklar",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [message]: speaker=Krash",
+        "#: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2084"
+      ]
+    },
+    {
+      "row": 428,
+      "src": "I am Tallin.",
+      "tgt": "Talin",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [message]: speaker=Tallin",
+        "#: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2167"
+      ]
+    },
+    {
+      "row": 450,
+      "src": "There doesn't seem to be anything this way other than another body.",
+      "tgt": "(<i>İç çeker</i>) Bu tünelin aşağısında hiçbir şey gözükmüyor.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [message]: speaker=Abhai",
+        "#: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2349"
+      ]
+    },
+    {
+      "row": 515,
+      "src": "As ye can see, Tallin, there be muckle heaps o' them, all ready to be borne inta battle. And, some o' us dwarves be experts in the sword, mace, and bow and can aid yer veterans in teaching others.",
+      "tgt": "Gördüğün gibi, Talin, hepsi savaşa girmeye hazır ve başkaları da var. Dahası, cücelerin kılıç, topuz ve yay kullanmakta deneyimli olanları diğerlerine bunları nasıl kullanacaklarını öğretiyor.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [message]: speaker=Hamel",
+        "#. As you can see, Tallin there are a lot of them ready to be born into battle. Some of us dwarves are experts in the sword, mace, and bow and can aid your veterans in teaching others.",
+        "#: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:164",
+        "#| \"As ye ken see, Tallin, there be muckle heaps o' them, all ready to be \"",
+        "#| \"borne inta battle. And, some o' us dwarves be experts in the sword, mace, \"",
+        "#| \"and bow and ken aid yer veterans in teaching others.\""
+      ]
+    },
+    {
+      "row": 726,
+      "src": "My Shinsplitters be invaluable for this kind o' job. They be braw warriors and dinna stop their assault till either they or their opponent lie dae. Nae a fortress can stand against them.",
+      "tgt": "Benim çılgın cücelerimin böyle bir işte çok faydası olur. Çok ateşlidirler, kendileri veya rakipleri ölene kadar saldırıyı durdurmayacaklarından hiçbir kale onlara karşı uzun süre dayanamaz.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [story]",
+        "#. My shinsplitters are invaluable for this kind of job. They are brave warriors and don't stop fighting until either they or their opponent lies dead. No fortress can stand against them.",
+        "#: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:74",
+        "#| \"My Shinsplitters be invaluable for this kind o' job. They be braw \"",
+        "#| \"warriors and dinna stop their assault till either they or their opponent \"",
+        "#| \"lie dae. Nae a fortress ken stand against them.\""
+      ]
+    },
+    {
+      "row": 769,
+      "src": "Then Lord Tallin and his band hunted down Malifor and destroyed him. He is now building an alliance of humans, dwarves, dead mages and whatever critters he can find to crush the orcs.",
+      "tgt": "Sonra Talin ve ayak takımından oluşan ekibi Malifor'a saldırdı ve onu toza dönüştürdü. Şimdi Talin, insanlar, cüceler, umacı büyücüler ve kullanabildiği hayvanlarla orkları ezmek için bir ittifak kuruyor.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [message]: speaker=Elenia",
+        "#: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:255",
+        "#| \"Then Tallin and his band hunted down Malifor and destroyed him. Now Lord \"",
+        "#| \"Tallin is building an alliance of humans, dwarves, dead mages and \"",
+        "#| \"whatever critters he can find to crush the orcs.\""
+      ]
+    },
+    {
+      "row": 1003,
+      "src": "The torrent of childhood memories and the depth of her grief left her unable to speak. She and Tallin sat together silently holding each other for some time.",
+      "tgt": "Çocukluk hatıralarının sel gibi aklından geçişinin yarattığı derin acıyla konuşamaz hale geldi ve Talin'le birlikte bir süre sessiz kaldılar.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [part]",
+        "#: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:89",
+        "#| \"The torrent of childhood memories and the depth of her grief left her \"",
+        "#| \"unable to speak. She and Tallin sat together silently holding each-other \"",
+        "#| \"for some time.\""
+      ]
+    }
+  ]
+}

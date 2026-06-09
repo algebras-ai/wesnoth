@@ -1,0 +1,67 @@
+term_id	term	canonical_translation	notes	confidence
+F01	Loyalists		not found in .po files	low
+F02	Rebels		not found in .po files	low
+F03	Undead		not found in .po files	low
+F04	Northerners		not found in .po files	low
+F05	Drakes		not found in .po files	low
+F06	Knalgan Alliance		not found in .po files	low
+F07	Dunefolk		not found in .po files	low
+R01	Elvish		not found in .po files	low
+R02	Orcish		not found in .po files	low
+R03	Dwarven		not found in .po files	low
+R04	Drake		not found in .po files	low
+R05	Naga		not found in .po files	low
+R06	Merman/Mermaid		not found in .po files	low
+R07	Troll		not found in .po files	low
+R08	Wose		not found in .po files	low
+A01	Lawful		not found in .po files	low
+A02	Neutral		not found in .po files	low
+A03	Chaotic		not found in .po files	low
+A04	Liminal		not found in .po files	low
+T01	Dawn		not found in .po files	low
+T02	Morning		not found in .po files	low
+T03	Afternoon		not found in .po files	low
+T04	Dusk		not found in .po files	low
+T05	First Watch		not found in .po files	low
+T06	Second Watch		not found in .po files	low
+G01	Campaign	Στρατεία		high
+G02	Scenario	Σκηνάριον		high
+G03	Side	Πλευρά		high
+G04	Village	Πηλίνη Κώμη		high
+G05	Income	Πρόσοδος		high
+G06	Gold	Χρυσός		high
+G07	Experience		not found in .po files	low
+G08	Level		not found in .po files	low
+G09	Turn	Τροπή		high
+G10	Hex		not found in .po files	low
+G11	Castle	Φρούριον Ὠγρήων		high
+G12	Keep	Πύργος Ὠγρήων		high
+G13	Zone of Control		not found in .po files	low
+G14	Recall	Ἀνακαλεῖσθαι		high
+G15	Recruit	Στρατολογεῖν		high
+G16	Leader	Ἡγεμών		high
+C01	leadership		not found in .po files	low
+C02	healing		not found in .po files	low
+C03	slow		not found in .po files	low
+C04	poison		not found in .po files	low
+C05	petrify		not found in .po files	low
+C06	berserk		not found in .po files	low
+C07	skirmisher		not found in .po files	low
+C08	marksman		not found in .po files	low
+C09	magical		not found in .po files	low
+C10	steadfast		not found in .po files	low
+C11	regenerates		not found in .po files	low
+C12	ambush		not found in .po files	low
+C13	illumination		not found in .po files	low
+C14	concealment		not found in .po files	low
+TR01	Forest	Ὕλη		high
+TR02	Hills	Βουνοί		high
+TR03	Mountains	Ὄρη		high
+TR04	Flat	Πεδινόν		high
+TR05	Sand	Ἄμμος		high
+TR06	Frozen	Πεπαγμένον		high
+TR07	Swamp	Ἕλος		high
+TR08	Deep Water	Βαθὺ Ὕδωρ		high
+TR09	Shallow Water	Ὀλιγόβρυχον Ὕδωρ		high
+TR10	Ford	Πορθμεῖον		high
+TR11	Cave	Σπήλαιον		high

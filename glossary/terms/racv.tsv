@@ -1,0 +1,67 @@
+term_id	term	canonical_translation	notes	confidence
+F01	Loyalists	Lleals		high
+F02	Rebels	Rebels		high
+F03	Undead	No morts		high
+F04	Northerners	Norteny		high
+F05	Drakes	Dracs		high
+F06	Knalgan Alliance	Aliança Knalgan		high
+F07	Dunefolk	No morts		high
+R01	Elvish		not found in .po files	low
+R02	Orcish		not found in .po files	low
+R03	Dwarven		not found in .po files	low
+R04	Drake	Draco		high
+R05	Naga	Naga		high
+R06	Merman/Mermaid		not found in .po files	low
+R07	Troll	Trol		high
+R08	Wose	Wose		high
+A01	Lawful	lleal		high
+A02	Neutral	neutral		high
+A03	Chaotic	caòtic		high
+A04	Liminal	lleal		high
+T01	Dawn	Alba		high
+T02	Morning	Matí		high
+T03	Afternoon	Vesprada		high
+T04	Dusk	Vespre		high
+T05	First Watch	Primera Nit		high
+T06	Second Watch	Nit Tancada		high
+G01	Campaign	Ampliació inteligent		high
+G02	Scenario	Fi de l'escenari		high
+G03	Side	Bando següent		high
+G04	Village	Aldea		high
+G05	Income		not found in .po files	low
+G06	Gold	Or		high
+G07	Experience		not found in .po files	low
+G08	Level	nivell		high
+G09	Turn	Tanda		high
+G10	Hex		not found in .po files	low
+G11	Castle	Castell		high
+G12	Keep	Torrelló		high
+G13	Zone of Control		not found in .po files	low
+G14	Recall	Reincorporar		high
+G15	Recruit	Reclutar		high
+G16	Leader	Líder		high
+C01	leadership	liderage		high
+C02	healing		not found in .po files	low
+C03	slow	retardar		high
+C04	poison	verí		high
+C05	petrify		not found in .po files	low
+C06	berserk	berserk		high
+C07	skirmisher	fustigador		high
+C08	marksman	tirador		high
+C09	magical	màgic		high
+C10	steadfast	ferm		high
+C11	regenerates	regenera		high
+C12	ambush	emboscada		high
+C13	illumination		not found in .po files	low
+C14	concealment	ocultació		high
+TR01	Forest	Bosc		high
+TR02	Hills	Tossals		high
+TR03	Mountains	Montanyes		high
+TR04	Flat		not found in .po files	low
+TR05	Sand	Arena		high
+TR06	Frozen		not found in .po files	low
+TR07	Swamp	Pantà		high
+TR08	Deep Water	Aigües fondes		high
+TR09	Shallow Water	Aigües someres		high
+TR10	Ford		not found in .po files	low
+TR11	Cave	Cova		high

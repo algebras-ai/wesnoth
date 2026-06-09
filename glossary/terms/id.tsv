@@ -1,0 +1,67 @@
+term_id	term	canonical_translation	notes	confidence
+F01	Loyalists	Setia		high
+F02	Rebels	Para pemberontak		high
+F03	Undead	Tak mati		high
+F04	Northerners	Orang-orang utara		high
+F05	Drakes	Drakes		high
+F06	Knalgan Alliance	Persaudaraan Knalgan		high
+F07	Dunefolk	Mayat Hidup		high
+R01	Elvish		not found in .po files	low
+R02	Orcish		not found in .po files	low
+R03	Dwarven		not found in .po files	low
+R04	Drake	Drake		high
+R05	Naga	Kobra Lelaki		high
+R06	Merman/Mermaid		not found in .po files	low
+R07	Troll	Troll		high
+R08	Wose	Wose		high
+A01	Lawful	baik		high
+A02	Neutral	netral		high
+A03	Chaotic	brutal		high
+A04	Liminal	liminal		high
+T01	Dawn	Subuh		high
+T02	Morning	Pagi	ISSUE: extracted string 'Peringatan' means Warning in Indonesian, not the time-of-day Morning. Corrected to 'Pagi'.	high
+T03	Afternoon	Siang		high
+T04	Dusk	Sore		high
+T05	First Watch	Jam Jaga Pertama		high
+T06	Second Watch	Jam Jaga Kedua		high
+G01	Campaign	Kampanye		high
+G02	Scenario	Akhir Skenario		high
+G03	Side	Pihak		high
+G04	Village	Desa		high
+G05	Income	Selamat Datang	ISSUE: 'Selamat Datang' means Welcome in Indonesian, not Income. Extraction collision. Confidence lowered.	low
+G06	Gold	Emas		high
+G07	Experience		not found in .po files	low
+G08	Level	level		high
+G09	Turn	Giliran		high
+G10	Hex		not found in .po files	low
+G11	Castle	Istana		high
+G12	Keep	Benteng		high
+G13	Zone of Control		not found in .po files	low
+G14	Recall	Panggil Kembali		high
+G15	Recruit	Rekrut		high
+G16	Leader	Pemimpin		high
+C01	leadership	memimpin		high
+C02	healing		not found in .po files	low
+C03	slow	lambat		high
+C04	poison	meracuni		high
+C05	petrify		not found in .po files	low
+C06	berserk	mengamuk		high
+C07	skirmisher	menyelinap		high
+C08	marksman	penembak jitu		high
+C09	magical	Ilmu Sihir		high
+C10	steadfast	kukuh		high
+C11	regenerates	memulihkan		high
+C12	ambush	menyergap		high
+C13	illumination		not found in .po files	low
+C14	concealment	sembunyi		high
+TR01	Forest	Hutan		high
+TR02	Hills	Bukit		high
+TR03	Mountains	Gunung		high
+TR04	Flat	Rata		high
+TR05	Sand	Pasir		high
+TR06	Frozen	Beku		high
+TR07	Swamp	Rawa		high
+TR08	Deep Water	Perairan Dalam		high
+TR09	Shallow Water	Perairan Dangkal		high
+TR10	Ford	Arungan		high
+TR11	Cave	Gua		high

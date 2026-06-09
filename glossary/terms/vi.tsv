@@ -1,0 +1,67 @@
+term_id	term	canonical_translation	notes	confidence
+F01	Loyalists	Người trung thành		high
+F02	Rebels	Quân nổi loạn		high
+F03	Undead	Ma quái		high
+F04	Northerners	Bắc		high
+F05	Drakes	Người rồng		high
+F06	Knalgan Alliance	Liên minh Knalga		high
+F07	Dunefolk	Ma quái		high
+R01	Elvish		not found in .po files	low
+R02	Orcish		not found in .po files	low
+R03	Dwarven		not found in .po files	low
+R04	Drake	Người rồng		high
+R05	Naga	Người rắn		high
+R06	Merman/Mermaid		not found in .po files	low
+R07	Troll	Quỷ núi		high
+R08	Wose	Thần rừng		high
+A01	Lawful	chính thống		high
+A02	Neutral	trung lập		high
+A03	Chaotic	hỗn độn		high
+A04	Liminal	tính ngưỡng		high
+T01	Dawn	Bình minh		high
+T02	Morning	Buổi sáng	ISSUE: extracted string 'Cảnh báo' means Warning in Vietnamese, not the time-of-day Morning. Corrected to 'Buổi sáng'.	high
+T03	Afternoon	Buổi chiều		high
+T04	Dusk	Chạng vạng		high
+T05	First Watch	Canh một		high
+T06	Second Watch	Canh hai		high
+G01	Campaign	Chiến dịch		high
+G02	Scenario	Màn chơi		high
+G03	Side	Phe		high
+G04	Village	Làng		high
+G05	Income	Thu nhập	FLAG: extracted 'Thu nhập:' includes a trailing colon, indicating it was extracted from a UI label rather than a pure concept string. Colon stripped.	high
+G06	Gold	Vàng		high
+G07	Experience		not found in .po files	low
+G08	Level	cấp độ		high
+G09	Turn	Lượt		high
+G10	Hex		not found in .po files	low
+G11	Castle	Lâu đài		high
+G12	Keep	Pháo đài		high
+G13	Zone of Control		not found in .po files	low
+G14	Recall	Gọi lại		high
+G15	Recruit	Tuyển quân		high
+G16	Leader	Người lãnh đạo		high
+C01	leadership	lãnh đạo		high
+C02	healing		not found in .po files	low
+C03	slow	chậm chạp		high
+C04	poison	độc		high
+C05	petrify		not found in .po files	low
+C06	berserk	điên cuồng		high
+C07	skirmisher	đột nhập		high
+C08	marksman	thiện xạ		high
+C09	magical	phép thuật		high
+C10	steadfast	chịu đòn		high
+C11	regenerates	tái tạo		high
+C12	ambush	mai phục		high
+C13	illumination		not found in .po files	low
+C14	concealment	ẩn nấp		high
+TR01	Forest	Rừng		high
+TR02	Hills	Đồi		high
+TR03	Mountains	Núi		high
+TR04	Flat	Đất phẳng		high
+TR05	Sand	Cát		high
+TR06	Frozen	Đóng băng		high
+TR07	Swamp	Đầm lầy		high
+TR08	Deep Water	Nước sâu		high
+TR09	Shallow Water	Nước nông		high
+TR10	Ford	Chỗ cạn		high
+TR11	Cave	Hang động		high

@@ -1,0 +1,67 @@
+term_id	term	canonical_translation	notes	confidence
+F01	Loyalists	Lojalistoj		high
+F02	Rebels	Ribeluloj		high
+F03	Undead	Malmortuloj		high
+F04	Northerners	Norduloj		high
+F05	Drakes	Draketoj		high
+F06	Knalgan Alliance	Knalga Alianco		high
+F07	Dunefolk	Dunpopolo		high
+R01	Elvish		not found in .po files	low
+R02	Orcish		not found in .po files	low
+R03	Dwarven		not found in .po files	low
+R04	Drake	Draketo		high
+R05	Naga	Nago		high
+R06	Merman/Mermaid		not found in .po files	low
+R07	Troll	Trolo		high
+R08	Wose	Arbulo		high
+A01	Lawful	laŭleĝa		high
+A02	Neutral	neŭtrala		high
+A03	Chaotic	kaosema		high
+A04	Liminal	limina		high
+T01	Dawn	Matenruĝo		high
+T02	Morning	Mateno	ISSUE: extracted string 'Averto' means Warning in Esperanto, not the time-of-day Morning. Corrected to 'Mateno'.	high
+T03	Afternoon	Posttagmezo		high
+T04	Dusk	Vesperruĝo		high
+T05	First Watch	Unua patrolo		high
+T06	Second Watch	Dua patrolo		high
+G01	Campaign	Kampanjo		high
+G02	Scenario	Scenaro		high
+G03	Side	Flanko		high
+G04	Village	Vilaĝo		high
+G05	Income	Enspezo		high
+G06	Gold	Oro		high
+G07	Experience		not found in .po files	low
+G08	Level	Nivelo		high
+G09	Turn	Vico		high
+G10	Hex		not found in .po files	low
+G11	Castle	Kastelo		high
+G12	Keep	Ĉefturo		high
+G13	Zone of Control	Zono de Kontrolo		high
+G14	Recall	Alvoki		high
+G15	Recruit	Varbi		high
+G16	Leader	Gvidanto		high
+C01	leadership	komandado		high
+C02	healing		not found in .po files	low
+C03	slow	malrapida		high
+C04	poison	veneno		high
+C05	petrify		not found in .po files	low
+C06	berserk	furioza		high
+C07	skirmisher	energia		high
+C08	marksman	pafisto		high
+C09	magical	magia		high
+C10	steadfast	obstina		high
+C11	regenerates	regenero		high
+C12	ambush	embusko		high
+C13	illumination		not found in .po files	low
+C14	concealment	embusko		high
+TR01	Forest	Arbaro		high
+TR02	Hills	Montetoj		high
+TR03	Mountains	Montoj		high
+TR04	Flat	Plataĵo		high
+TR05	Sand	Sablo		high
+TR06	Frozen	Frostitaĵo		high
+TR07	Swamp	Marĉo		high
+TR08	Deep Water	Profunda akvo		high
+TR09	Shallow Water	Malprofunda akvo		high
+TR10	Ford	Vadejo		high
+TR11	Cave	Kaverno		high

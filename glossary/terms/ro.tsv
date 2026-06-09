@@ -1,0 +1,67 @@
+term_id	term	canonical_translation	notes	confidence
+F01	Loyalists	Loialisti		high
+F02	Rebels	Rebeli		high
+F03	Undead	Oameni	ISSUE: 'Oameni' means People/Humans in Romanian, not Undead. Extraction collision. Confidence lowered.	low
+F04	Northerners	Nordici		high
+F05	Drakes		not found in .po files	low
+F06	Knalgan Alliance	Allianta Knalgan		high
+F07	Dunefolk	Oameni	ISSUE: 'Oameni' means People/Humans — same as F03 error. Extraction collision. Confidence lowered.	low
+R01	Elvish		not found in .po files	low
+R02	Orcish		not found in .po files	low
+R03	Dwarven		not found in .po files	low
+R04	Drake	Oameni	ISSUE: 'Oameni' means People/Humans — not Drake. Extraction collision. Confidence lowered.	low
+R05	Naga		not found in .po files	low
+R06	Merman/Mermaid		not found in .po files	low
+R07	Troll	neutru		high
+R08	Wose		not found in .po files	low
+A01	Lawful	Oameni	ISSUE: 'Oameni' means People/Humans — not the Lawful alignment. Extraction collision. Confidence lowered.	low
+A02	Neutral	neutru		high
+A03	Chaotic	Oameni	ISSUE: 'Oameni' means People/Humans — not the Chaotic alignment. Extraction collision. Confidence lowered.	low
+A04	Liminal	ilumineaza		high
+T01	Dawn		not found in .po files	low
+T02	Morning		not found in .po files	low
+T03	Afternoon		not found in .po files	low
+T04	Dusk		not found in .po files	low
+T05	First Watch		not found in .po files	low
+T06	Second Watch		not found in .po files	low
+G01	Campaign		not found in .po files	low
+G02	Scenario	Designeri de scena		high
+G03	Side		not found in .po files	low
+G04	Village		not found in .po files	low
+G05	Income		not found in .po files	low
+G06	Gold		not found in .po files	low
+G07	Experience		not found in .po files	low
+G08	Level		not found in .po files	low
+G09	Turn	Runda urmatoare		high
+G10	Hex		not found in .po files	low
+G11	Castle		not found in .po files	low
+G12	Keep		not found in .po files	low
+G13	Zone of Control		not found in .po files	low
+G14	Recall		not found in .po files	low
+G15	Recruit		not found in .po files	low
+G16	Leader		not found in .po files	low
+C01	leadership	Comanda		high
+C02	healing		not found in .po files	low
+C03	slow	incetineste		high
+C04	poison	otrava		high
+C05	petrify		not found in .po files	low
+C06	berserk		not found in .po files	low
+C07	skirmisher	otravit		high
+C08	marksman		not found in .po files	low
+C09	magical	magic		high
+C10	steadfast	neutru		high
+C11	regenerates	regeneraza		high
+C12	ambush	Oameni	ISSUE: 'Oameni' means People/Humans — not the ambush ability. Extraction collision. Confidence lowered.	low
+C13	illumination		not found in .po files	low
+C14	concealment	neutru		high
+TR01	Forest	Padure arctica		high
+TR02	Hills	sate		high
+TR03	Mountains	Munti impasabili		high
+TR04	Flat		not found in .po files	low
+TR05	Sand		not found in .po files	low
+TR06	Frozen		not found in .po files	low
+TR07	Swamp		not found in .po files	low
+TR08	Deep Water		not found in .po files	low
+TR09	Shallow Water		not found in .po files	low
+TR10	Ford		not found in .po files	low
+TR11	Cave		not found in .po files	low

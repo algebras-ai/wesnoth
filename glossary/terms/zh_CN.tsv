@@ -1,0 +1,67 @@
+term_id	term	canonical_translation	notes	confidence
+F01	Loyalists	保皇党人		high
+F02	Rebels	忠勇义军		high
+F03	Undead	亡灵军团		high
+F04	Northerners	北陆之民		high
+F05	Drakes	龙人部落		high
+F06	Knalgan Alliance	纳尔迦联盟		high
+F07	Dunefolk	沙丘游民		high
+R01	Elvish		not found in .po files	low
+R02	Orcish		not found in .po files	low
+R03	Dwarven		not found in .po files	low
+R04	Drake	龙人		high
+R05	Naga	娜迦		high
+R06	Merman/Mermaid		not found in .po files	low
+R07	Troll	巨魔		high
+R08	Wose	树人		high
+A01	Lawful	守序		high
+A02	Neutral	中立		high
+A03	Chaotic	混沌		high
+A04	Liminal	边缘		high
+T01	Dawn	清晨		high
+T02	Morning	上午		high
+T03	Afternoon	下午		high
+T04	Dusk	黄昏		high
+T05	First Watch	上半夜		high
+T06	Second Watch	下半夜		high
+G01	Campaign	战役		high
+G02	Scenario	场景		high
+G03	Side	阵营		high
+G04	Village	村庄		high
+G05	Income	收入		high
+G06	Gold	金币		high
+G07	Experience		not found in .po files	low
+G08	Level	等级		high
+G09	Turn	回合		high
+G10	Hex		not found in .po files	low
+G11	Castle	城堡		high
+G12	Keep	城堡主楼		high
+G13	Zone of Control	控制区域		high
+G14	Recall	召回		high
+G15	Recruit	征募		high
+G16	Leader	首领		high
+C01	leadership	领导		high
+C02	healing		not found in .po files	low
+C03	slow	缓慢		high
+C04	poison	毒素		high
+C05	petrify		not found in .po files	low
+C06	berserk	狂暴		high
+C07	skirmisher	散兵		high
+C08	marksman	精准		high
+C09	magical	魔法		high
+C10	steadfast	坚定		high
+C11	regenerates	再生		high
+C12	ambush	伏击		high
+C13	illumination		not found in .po files	low
+C14	concealment	隐蔽		high
+TR01	Forest	森林		high
+TR02	Hills	丘陵		high
+TR03	Mountains	山岭		high
+TR04	Flat	平原		high
+TR05	Sand	沙漠		high
+TR06	Frozen	冻结		high
+TR07	Swamp	沼泽		high
+TR08	Deep Water	深水		high
+TR09	Shallow Water	浅水		high
+TR10	Ford	浅滩		high
+TR11	Cave	洞穴		high

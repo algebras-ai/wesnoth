@@ -1,0 +1,302 @@
+{
+  "domain": "wesnoth-wc",
+  "file": "po/wesnoth-wc/tr.po",
+  "empty": [
+    {
+      "row": 59,
+      "src": "Map:",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [grid]",
+        "#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:59"
+      ]
+    },
+    {
+      "row": 60,
+      "src": "Map Size:",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [grid]",
+        "#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:60"
+      ]
+    },
+    {
+      "row": 67,
+      "src": "Close",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [button]: id=ok",
+        "#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:76"
+      ]
+    },
+    {
+      "row": 73,
+      "src": "Average remaining gold: ",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [lua]: carryover.remaining_gold_message",
+        "#: data/campaigns/World_Conquest/lua/campaign/scenario.lua:87"
+      ]
+    },
+    {
+      "row": 502,
+      "src": "WC1p",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:17"
+      ]
+    },
+    {
+      "row": 503,
+      "src": "WC2p",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:20"
+      ]
+    },
+    {
+      "row": 504,
+      "src": "WC3p",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:23"
+      ]
+    },
+    {
+      "row": 505,
+      "src": "WC4p",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:26"
+      ]
+    }
+  ],
+  "fuzzy": [
+    {
+      "row": 56,
+      "src": "Map Generator Settings",
+      "tgt": "Harita Ayarları",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [label]: id=title",
+        "#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:48"
+      ]
+    },
+    {
+      "row": 57,
+      "src": "Players:",
+      "tgt": " oyuncular: ",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [grid]",
+        "#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:57"
+      ]
+    },
+    {
+      "row": 58,
+      "src": "Scenario:",
+      "tgt": "Senaryo",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [grid]",
+        "#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:58"
+      ]
+    },
+    {
+      "row": 61,
+      "src": "Village Density:",
+      "tgt": "köy yoğunluğu",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [grid]",
+        "#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:61"
+      ]
+    },
+    {
+      "row": 62,
+      "src": "Keep Size:",
+      "tgt": "içkale boyutu",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [grid]",
+        "#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:62"
+      ]
+    },
+    {
+      "row": 63,
+      "src": "Iterations:",
+      "tgt": "yinelemeler",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [grid]",
+        "#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:63"
+      ]
+    },
+    {
+      "row": 64,
+      "src": "Terrain Factor:",
+      "tgt": "arazi etkeni",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [grid]",
+        "#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:64"
+      ]
+    },
+    {
+      "row": 65,
+      "src": "Island Factor:",
+      "tgt": "ada etkeni",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [grid]",
+        "#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:65"
+      ]
+    },
+    {
+      "row": 66,
+      "src": "Number of Keeps:",
+      "tgt": "içkale sayısı",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [grid]",
+        "#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:66"
+      ]
+    },
+    {
+      "row": 68,
+      "src": "$name|'s pet",
+      "tgt": "$name için evcil hayvan",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#: data/campaigns/World_Conquest/lua/campaign/enemy_themed.lua:5"
+      ]
+    },
+    {
+      "row": 292,
+      "src": "Scenario ",
+      "tgt": "Senaryo",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [lua]: wc_ii_generate_scenario",
+        "#: data/campaigns/World_Conquest/lua/map/main.lua:127"
+      ]
+    },
+    {
+      "row": 373,
+      "src": "female^forcefield",
+      "tgt": "güç alanı",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [leadership]: id=forcefield",
+        "#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:250"
+      ]
+    },
+    {
+      "row": 420,
+      "src": "female^fury",
+      "tgt": "kahramanlık",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [berserk]: id=wct_fury",
+        "#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:625"
+      ]
+    },
+    {
+      "row": 429,
+      "src": "female^darkness",
+      "tgt": "karanlık",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [illuminates]: id=darkness",
+        "#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:675"
+      ]
+    },
+    {
+      "row": 432,
+      "src": "female^corruption",
+      "tgt": "yozlaşma",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [dummy]: id=wc2_corruption",
+        "#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:682"
+      ]
+    },
+    {
+      "row": 449,
+      "src": "female^banner",
+      "tgt": "eğitimli",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [leadership]: id=banner",
+        "#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:785"
+      ]
+    },
+    {
+      "row": 480,
+      "src": "female^distract",
+      "tgt": "şaşırtma",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [skirmisher]: id=distract",
+        "#: data/campaigns/World_Conquest/resources/data/training.cfg:404"
+      ]
+    },
+    {
+      "row": 482,
+      "src": "female^tenacity",
+      "tgt": "efsanevi",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [resistance]: id=tenacity",
+        "#: data/campaigns/World_Conquest/resources/data/training.cfg:428"
+      ]
+    },
+    {
+      "row": 509,
+      "src": "A randomly generated cooperative campaign for 4 players. It has 6 levels of difficulty.\\n(Expert level, 5 scenarios.)",
+      "tgt": "2 oyuncu için rastgele üretilmiş işbirliği seferberliği. 6 zorluk seviyesi vardır.\\n(Uzman seviyesi, 5 senaryo.)",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:41",
+        "#| \"A randomly generated cooperative campaign for 2 players. It has 6 levels \"",
+        "#| \"of difficulty.\\n\"",
+        "#| \"(Expert level, 5 scenarios.)\""
+      ]
+    }
+  ]
+}

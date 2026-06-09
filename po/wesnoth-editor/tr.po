@@ -164,7 +164,7 @@ msgstr "Düşüşten Sonra"
 #. [editor_group]: id=urban_jungle
 #: data/internal/Urban_Jungle/terrain-groups.cfg:5
 msgid "Urban Jungle (Internal)"
-msgstr ""
+msgstr "Kentsel Orman (Dahili)"
 
 #. [theme]: id=editor
 #: data/themes/editor.cfg:11
@@ -224,7 +224,7 @@ msgstr "Yerel Zaman Çizelgesini Ata"
 #. [menu]: id=menu-editor-unit
 #: data/themes/editor.cfg:141
 msgid "Unit"
-msgstr ""
+msgstr "Birim"
 
 #. [menu]: id=menu-editor-side
 #: data/themes/editor.cfg:151
@@ -294,8 +294,8 @@ msgstr ""
 
 #: src/editor/controller/editor_controller.cpp:238
 msgid ""
-"Do you really want to quit? The following maps were modified and all changes "
-"since the last save will be lost:"
+"Do you really want to quit? The following maps were modified and all changes"
+" since the last save will be lost:"
 msgstr ""
 "Gerçekten çıkmak mı istiyorsunuz? Son kayıttan beri yaptığınız tüm "
 "değişiklikleri kaybedeceksiniz. Değiştirdiğiniz haritalar:"
@@ -305,16 +305,14 @@ msgid "No editor time-of-day found."
 msgstr "Bir vakit düzenleyici yok."
 
 #: src/editor/controller/editor_controller.cpp:886
-#, fuzzy
 #| msgid "Add-on"
 msgid "Add-on Files"
-msgstr "Eklenti"
+msgstr "Eklenti Dosyaları"
 
 #: src/editor/controller/editor_controller.cpp:899
-#, fuzzy
 #| msgid "Clipboard support not found, contact your packager"
 msgid "Opening files is not supported, contact your packager"
-msgstr "Pano desteği yok, paketleyicinize başvurun"
+msgstr "Dosyaların açılması desteklenmiyor, paketleyicinizle iletişime geçin"
 
 #: src/editor/controller/editor_controller.cpp:1343
 msgid "Change Unit ID"
@@ -334,17 +332,16 @@ msgstr "Ad:"
 
 #: src/editor/editor_display.cpp:170
 msgid "<span color='#66ff00'><span face='DejaVuSans'>✔</span> $msg</span>"
-msgstr ""
+msgstr "<span color='#66ff00'><span face='DejaVuSans'>✔</span> $msg</span>"
 
 #: src/editor/editor_display.cpp:172
 msgid "<span color='red'><span face='DejaVuSans'>✘</span> $msg</span>"
-msgstr ""
+msgstr "<span color='red'><span face='DejaVuSans'>✘</span> $msg</span>"
 
 #: src/editor/map/context_manager.cpp:217
-#, fuzzy
 #| msgid "Map loaded from scenario"
 msgid "Load Map or Scenario"
-msgstr "Harita senaryodan yüklendi"
+msgstr "Harita veya Senaryo Yükle"
 
 #: src/editor/map/context_manager.cpp:313 src/editor/map/map_context.cpp:1141
 msgid "New Map"
@@ -402,10 +399,10 @@ msgid "Error"
 msgstr "Hata"
 
 #: src/editor/map/context_manager.cpp:705
-#, fuzzy
 #| msgid "Do you really want to save $type1 in $type2 folder?"
 msgid "Do you really want to save a map in the scenarios folder?"
-msgstr "Gerçekten $type1'i $type2 dizinine kaydetmek istiyor musunuz?"
+msgstr ""
+"Bir haritayı gerçekten senaryolar klasörüne kaydetmek istiyor musunuz?"
 
 #: src/editor/map/context_manager.cpp:713
 #: src/editor/map/context_manager.cpp:905
@@ -417,10 +414,10 @@ msgid "Save Scenario As"
 msgstr "Senaryoyu Şöyle Kaydet"
 
 #: src/editor/map/context_manager.cpp:754
-#, fuzzy
 #| msgid "Do you really want to save $type1 in $type2 folder?"
 msgid "Do you really want to save a scenario in the maps folder?"
-msgstr "Gerçekten $type1'i $type2 dizinine kaydetmek istiyor musunuz?"
+msgstr ""
+"Gerçekten bir senaryoyu haritalar klasörüne kaydetmek istiyor musunuz?"
 
 #: src/editor/map/context_manager.cpp:762
 msgid "This scenario is already open."
@@ -440,20 +437,20 @@ msgid "Unsaved Changes"
 msgstr "Kaydedilmemiş Değişiklikler"
 
 #: src/editor/map/context_manager.cpp:813
-msgid "Do you want to discard all changes made to the map since the last save?"
+msgid ""
+"Do you want to discard all changes made to the map since the last save?"
 msgstr ""
-"Son kayıttan beri haritada yaptığınız tüm değişiklikleri iptal etmek istiyor "
-"musunuz?"
+"Son kayıttan beri haritada yaptığınız tüm değişiklikleri iptal etmek istiyor"
+" musunuz?"
 
 #: src/editor/map/context_manager.cpp:866
 msgid "Scenario saved."
 msgstr "Senaryo kaydedildi."
 
 #: src/editor/map/context_manager.cpp:881
-#, fuzzy
 #| msgid "Map saved."
 msgid "Map saved"
-msgstr "Harita kaydedildi."
+msgstr "Harita kaydedildi"
 
 #: src/editor/map/context_manager.cpp:956
 msgid "Loaded embedded map data"
@@ -486,59 +483,56 @@ msgid "Empty file"
 msgstr "Boş dosya"
 
 #: src/editor/map/map_context.cpp:204
-#, fuzzy
 #| msgid "File does not have .map or .cfg extension"
 msgid "File does not have .map, .cfg, or .mask extension"
-msgstr "Dosyanın .map veya .cfg uzantısı yok"
+msgstr "Dosyanın .map, .cfg veya .mask uzantısı yok"
 
 #: src/editor/map/map_context.cpp:227
-#, fuzzy
 #| msgid "Failed to load the scenario, attempting to load only the map."
 msgid ""
 "Failed to load the scenario: $error\n"
 "\n"
 "Attempting to load only the map."
-msgstr "Senaryo yüklenemedi, yalnızca harita yüklenmeye çalışılıyor."
+msgstr ""
+"Senaryo yüklenemedi: $error\n"
+"\n"
+"Yalnızca harita yüklenmeye çalışılıyor."
 
 #: src/editor/map/map_context.cpp:253
-#, fuzzy
 #| msgid ""
-#| "The map file looks like a scenario, but the map_data value does not point "
-#| "to an existing file"
+#| "The map file looks like a scenario, but the map_data value does not point to"
+#| " an existing file"
 msgid ""
-"The file looks like a scenario, but the map_data attribute does not point to "
-"an existing file"
+"The file looks like a scenario, but the map_data attribute does not point to"
+" an existing file"
 msgstr ""
-"Harita dosyası bir senaryo gibi görünüyor, fakat map_data değeri mevcut bir "
-"dosyaya ait değil"
+"Dosya bir senaryoya benziyor ancak harita_veri niteliği mevcut bir dosyayı "
+"göstermiyor"
 
 #: src/editor/map/map_context.cpp:268
-#, fuzzy
 #| msgid ""
-#| "The map file looks like a scenario, but the map_file value does not point "
-#| "to an existing file"
+#| "The map file looks like a scenario, but the map_file value does not point to"
+#| " an existing file"
 msgid ""
-"The file looks like a scenario, but the map_file attribute does not point to "
-"an existing file"
+"The file looks like a scenario, but the map_file attribute does not point to"
+" an existing file"
 msgstr ""
-"Harita dosyası bir senaryo gibi görünüyor, fakat map_file değeri mevcut bir "
-"dosyaya ait değil"
+"Dosya bir senaryoya benziyor ancak harita_dosyası özelliği mevcut bir "
+"dosyayı göstermiyor"
 
 #: src/editor/map/map_context.cpp:448
 msgid "Confirm"
-msgstr ""
+msgstr "Onayla"
 
 #: src/editor/map/map_context.cpp:835 src/editor/map/map_context.cpp:875
-#, fuzzy
 #| msgid "Could not save the scenario: $msg"
 msgid "Could not save time schedule: $msg"
-msgstr "Senaryo kaydedilemedi: $msg"
+msgstr "Zaman çizelgesi kaydedilemedi: $msg"
 
 #: src/editor/map/map_context.cpp:869
-#, fuzzy
 #| msgid "Time Schedule Menu"
 msgid "Time schedule saved."
-msgstr "Zaman Çizelgesi Menüsü"
+msgstr "Zaman planı kaydedildi."
 
 #: src/editor/map/map_context.cpp:915
 msgid "Could not save the scenario: $msg"
@@ -565,10 +559,9 @@ msgid "Will not work in game without extra care."
 msgstr "Elden geçirilmedikçe oyunda çalışmaz."
 
 #: src/editor/palette/item_palette.cpp:33
-#, fuzzy
 #| msgid " | Right-click to remove"
 msgid "Left-click: Place item $item | Right-click to remove"
-msgstr " | Sağ tuş siler"
+msgstr "Sol tıklayın: Öğeyi yerleştirin $item | Kaldırmak için sağ tıklayın"
 
 #: src/editor/palette/location_palette.cpp:247
 msgid "Go To"
@@ -598,8 +591,10 @@ msgstr "Sol-tıklama: "
 msgid "Right-click: "
 msgstr "Sağ-tıklama: "
 
-#. TRANSLATORS: Similar behavior applies to shift + right-click. This message specifies left-click
-#. because the logic of whether to show the "overlay only" or "base only" version depends on the
+#. TRANSLATORS: Similar behavior applies to shift + right-click. This message
+#. specifies left-click
+#. because the logic of whether to show the "overlay only" or "base only"
+#. version depends on the
 #. terrain currently selected for the left button.
 #: src/editor/palette/terrain_palettes.cpp:230
 msgid "Shift + left-click: paint overlay layer only"
@@ -617,26 +612,22 @@ msgstr "Cmd + tıklama: araziyi kopyalar"
 msgid "Ctrl + click: copy terrain"
 msgstr "Ctrl + tıklama: araziyi kopyalar"
 
-#, fuzzy
-#~| msgid ""
-#~| "Found the characters '<<' indicating inline lua is present - aborting"
-#~ msgid ""
-#~ "Found the characters ‘<<’ indicating inline lua is present — aborting"
+#~ msgid "Found the characters ‘<<’ indicating inline lua is present — aborting"
 #~ msgstr ""
-#~ "Satır içi lua'nın varlığını gösteren '<<' karakterleri bulundu - iptal "
-#~ "ediliyor"
+#~ "Satır içi lua'nın mevcut olduğunu belirten '<<' karakterleri bulundu - iptal"
+#~ " ediliyor"
 
 #~ msgid "Unable to parse file to find map data"
-#~ msgstr "Harita verilerini bulmak için dosya ayrıştırılamıyor"
+#~ msgstr "Harita verilerini bulmak için dosya ayrıştırılamadı"
 
 #~ msgid "Load Map"
-#~ msgstr "Harita yükle"
+#~ msgstr "Harita Yükle"
 
 #~ msgid "Choose File"
-#~ msgstr "Dosya seçiniz"
+#~ msgstr "Dosya Seç"
 
 #~ msgid "Select"
 #~ msgstr "Seç"
 
 #~ msgid "Left-click: Place item "
-#~ msgstr "Sol tuş öğeyi yerleştirir: "
+#~ msgstr "Sol tık: Öğe yerleştir "

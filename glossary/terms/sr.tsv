@@ -1,0 +1,67 @@
+term_id	term	canonical_translation	notes	confidence
+F01	Loyalists	Лојалисти		high
+F02	Rebels	Побуњеници		high
+F03	Undead	Немртви		high
+F04	Northerners	Северњаци		high
+F05	Drakes	Змагови		high
+F06	Knalgan Alliance	Кналгански савез		high
+F07	Dunefolk	немртви	ISSUE: 'немртви' means Undead — same as F03. Dunefolk is the desert-dwelling faction, not Undead. This is likely an extraction collision. Confidence lowered.	low
+R01	Elvish		not found in .po files	low
+R02	Orcish		not found in .po files	low
+R03	Dwarven		not found in .po files	low
+R04	Drake	змаг		high
+R05	Naga	нагајац		high
+R06	Merman/Mermaid		not found in .po files	low
+R07	Troll	трол		high
+R08	Wose	ивер		high
+A01	Lawful	законита		high
+A02	Neutral	неутралан		high
+A03	Chaotic	хаотичан		high
+A04	Liminal	двојствен		high
+T01	Dawn	зора		high
+T02	Morning	Јутро	ISSUE: extracted string 'Упозорење' means Warning in Serbian, not the time-of-day Morning. Corrected to 'Јутро'.	high
+T03	Afternoon	поподне		high
+T04	Dusk	сумрак		high
+T05	First Watch	прва стража		high
+T06	Second Watch	друга стража		high
+G01	Campaign	Поход		high
+G02	Scenario	Крај	FLAG: 'Крај' means End in Serbian, not Scenario. Likely extracted from a button/menu label 'End Scenario'. Confidence lowered.	low
+G03	Side	Страна		high
+G04	Village	село		high
+G05	Income	Добро дошли	ISSUE: 'Добро дошли' means Welcome in Serbian, not Income. Extraction collision with a welcome/intro screen string. Confidence lowered.	low
+G06	Gold	злато		high
+G07	Experience		not found in .po files	low
+G08	Level	ниво		high
+G09	Turn	потез		high
+G10	Hex		not found in .po files	low
+G11	Castle	замак		high
+G12	Keep	кула		high
+G13	Zone of Control		not found in .po files	low
+G14	Recall	Сазови		high
+G15	Recruit	Унајми		high
+G16	Leader	Вођ		high
+C01	leadership	вођство		high
+C02	healing		not found in .po files	low
+C03	slow	тромост		high
+C04	poison	отров		high
+C05	petrify		not found in .po files	low
+C06	berserk	безглавост		high
+C07	skirmisher	чаркање		high
+C08	marksman	оштроокост		high
+C09	magical	магичност		high
+C10	steadfast	постојаност		high
+C11	regenerates	обнављање		high
+C12	ambush	заседа		high
+C13	illumination		not found in .po files	low
+C14	concealment	скривање		high
+TR01	Forest	шума		high
+TR02	Hills	Брежуљци	ISSUE: extracted 'победе' means Victories in Serbian — not a terrain type. Likely a UI string extraction collision (e.g. battle results screen). Suggested: 'Брежуљци' (Hills). Confidence lowered.	low
+TR03	Mountains	планине		high
+TR04	Flat	равница		high
+TR05	Sand	песак		high
+TR06	Frozen	клизавица		high
+TR07	Swamp	мочвара		high
+TR08	Deep Water	дубока вода		high
+TR09	Shallow Water	плитка вода		high
+TR10	Ford	газ		high
+TR11	Cave	пећина		high

@@ -1,0 +1,67 @@
+term_id	term	canonical_translation	notes	confidence
+F01	Loyalists		not found in .po files	low
+F02	Rebels		not found in .po files	low
+F03	Undead	немртов		high
+F04	Northerners		not found in .po files	low
+F05	Drakes	аждери		high
+F06	Knalgan Alliance		not found in .po files	low
+F07	Dunefolk	немртви		high
+R01	Elvish		not found in .po files	low
+R02	Orcish		not found in .po files	low
+R03	Dwarven		not found in .po files	low
+R04	Drake	аждер		high
+R05	Naga		not found in .po files	low
+R06	Merman/Mermaid		not found in .po files	low
+R07	Troll		not found in .po files	low
+R08	Wose		not found in .po files	low
+A01	Lawful		not found in .po files	low
+A02	Neutral	неутрален		high
+A03	Chaotic		not found in .po files	low
+A04	Liminal		not found in .po files	low
+T01	Dawn	Мугри		high
+T02	Morning	Утро		high
+T03	Afternoon	Попладне		high
+T04	Dusk	Мрак		high
+T05	First Watch	Вечер		high
+T06	Second Watch	После полноќ		high
+G01	Campaign	Кампањи		high
+G02	Scenario	Крај на сценариото		high
+G03	Side		not found in .po files	low
+G04	Village		not found in .po files	low
+G05	Income		not found in .po files	low
+G06	Gold		not found in .po files	low
+G07	Experience		not found in .po files	low
+G08	Level		not found in .po files	low
+G09	Turn		not found in .po files	low
+G10	Hex		not found in .po files	low
+G11	Castle	Тврдина		high
+G12	Keep		not found in .po files	low
+G13	Zone of Control		not found in .po files	low
+G14	Recall		not found in .po files	low
+G15	Recruit		not found in .po files	low
+G16	Leader		not found in .po files	low
+C01	leadership		not found in .po files	low
+C02	healing		not found in .po files	low
+C03	slow		not found in .po files	low
+C04	poison		not found in .po files	low
+C05	petrify		not found in .po files	low
+C06	berserk		not found in .po files	low
+C07	skirmisher		not found in .po files	low
+C08	marksman		not found in .po files	low
+C09	magical	магичен		high
+C10	steadfast		not found in .po files	low
+C11	regenerates		not found in .po files	low
+C12	ambush		not found in .po files	low
+C13	illumination		not found in .po files	low
+C14	concealment		not found in .po files	low
+TR01	Forest	Шума		high
+TR02	Hills	Ридови		high
+TR03	Mountains		not found in .po files	low
+TR04	Flat		not found in .po files	low
+TR05	Sand	Плажа		high
+TR06	Frozen		not found in .po files	low
+TR07	Swamp	Мочуриште		high
+TR08	Deep Water		not found in .po files	low
+TR09	Shallow Water		not found in .po files	low
+TR10	Ford		not found in .po files	low
+TR11	Cave	Пештера		high

@@ -1,0 +1,38 @@
+{
+  "empty": {
+    "Shows a button on the add-ons manager to query the add-ons server for various information.": "Eklenti yöneticisinde, eklenti sunucusundan çeşitli bilgiler sorgulamak için bir düğme gösterir.",
+    "Overrides the data directory with the one specified. The data directory is the one that contains subdirectories 'data', 'fonts', 'images' and others.": "Data dizinini belirtilenle değiştirir. Data dizini, 'data', 'fonts', 'images' ve diğer alt dizinleri barındıran dizindir.",
+    "disables the anonymization that's normally applied when logging, for example replacing usernames with USER.": "günlük kaydederken normalde uygulanan anonimleştirmeyi devre dışı bırakır; örneğin kullanıcı adlarının USER ile değiştirilmesi gibi.",
+    "preprocesses a given string and writes the output to stdout.": "verilen bir dizgeye önişlem uygular ve çıktıyı standart çıktıya yazar.",
+    "The SQL query to find tournaments to announce on login. Should return tournament B<title>, B<status> and B<url>.": "Oturum açıldığında duyurulacak turnuvaları bulmaya yarayan SQL sorgusu. Turnuva B<title>, B<status> ve B<url> değerlerini döndürmelidir."
+  },
+  "fuzzy": {
+    "B<--addon-info>": "B<--addon-info>",
+    "Adds the option to show a clock for testing the drawing timer. Also adds the option for showing the GUI Test Dialog.": "Çizim zamanlayıcısını denerken saati göstermek için bu seçeneği ekler. Ayrıca GUI Test İletişim Kutusunu göstermek için de seçenek ekler.",
+    "Overrides the loaded core with the one whose id is specified.": "kimliği belirtilen çekirdek yüklü olanın yerine geçer.",
+    "B<-D,\\\\ --diff>I<\\\\ left-file>B<\\\\ >I<right-file>": "B<-D,\\\\ --diff>I<\\\\ sol-dosya>B<\\\\ >I<sağ-dosya>",
+    "sets the severity level of the log domains. The wildcard B<*> may be used to match a subset of domains, e.g. gui/* or conf* or * (the latter matches all domains).  Available levels: B<error>,\\\\ B<warning>,\\\\ B<info>,\\\\ B<debug>,\\\\ B<none>.  By default, the B<warning> level is used for most domains, but B<deprecation> defaults to B<none> unless combined with the B<-d> option.  This option can be specified multiple times.": "günlük kayıt alanlarının önem seviyelerini ayarlar. B<*> joker karakteri alan adlarının bir alt kümesiyle eşleşmek için kullanılabilir; örneğin gui/* veya conf* veya * (sonuncusu tüm alanlarla eşleşir). Olası önem seviyeleri: B<error>,\\\\ B<warning>,\\\\ B<info>,\\\\ B<debug>,\\\\ B<none>. Çoğu alan için B<warning> öntanımlı değerini kullanır, fakat B<-d> seçeneği ile birlikte kullanılmadıkça B<deprecation> için B<none> öntanımlıdır. Bu seçenek birden çok kez belirtilebilir.",
+    "B<--log-strict>I<\\\\ level>": "B<--log-strict>I<\\\\ seviye>",
+    "sets the strict I<level> of the logger. Any messages sent to log domains of this I<level> or more severe will cause the unit test to fail regardless of the victory result. Only relevant when used with B<-u>.": "günlük iletilerinin katı I<seviye>sini ayarlar. Günlük alanlarına gönderilen bu ve daha önemli seviyelerdeki iletiler, zafer sonucuna bakılmaksızın birim sınamalarının başarısız olmasına sebep olur. Sadece B<-u> ile kullanıldığında etkin olur.",
+    "prevents redirecting logged output to a file. The environment variable WESNOTH_NO_LOG_FILE can also be set as an alternative. Log files are created in the logs directory under the userdata folder.": "kaydedilen çıktının bir dosyaya yönlendirilmesini engeller. Alternatif olarak WESNOTH_NO_LOG_FILE ortam değişkeni de ayarlanabilir. Günlük dosyaları userdata dizininin altındaki logs dizininde oluşturulur.",
+    "B<--no-log-sanitize>": "B<--no-log-sanitize>",
+    "load a I<script> which defines a Wesnoth plugin. Lua file should return a function which will be run as a coroutine and periodically woken up with updates.": "bir wesnoth eklentisini tanımlayan bir I<betik> yükler. Lua dosyası, bir alt yordam olarak çalıştırılacak ve periyodik olarak güncellemelerle uyanacak bir işlev döndürmelidir.",
+    "B<-P,\\\\ --patch>I<\\\\ base-file>B<\\\\ >I<patch-file>": "B<-P,\\\\ --patch>I<\\\\ ana_dosya>B<\\\\ >I<yama-dosyası>",
+    "B<--preprocess-string>I<\\\\ source-string>": "B<--preprocess-string>I<\\\\ kaynak-dizge>",
+    "comma separated list of defines to be used by the B<--preprocess> or B<--preprocess-string> command. If B<SKIP_CORE> is in the define list the \\\"data/core\\\" directory won't be preprocessed.": "B<--preprocess> veya B<--preprocess-string> seçeneği tarafından kullanılacak tanımların virgülle ayrılmış listesi. Eğer B<SKIP_CORE> tanım listesinde ise \\\"data/core\\\" dizinine önişlem uygulanmaz.",
+    "used only by the B<--preprocess> or B<--preprocess-string> command. Specifies a file that contains B<[preproc_define]>s to be included before preprocessing.": "sadece B<--preprocess> veya B<--preprocess-string> seçeneği tarafından kullanılır. Önişleme başlamadan önce eklenecek B<[önişlem_tanım]>larını içeren dosyayı belirtir.",
+    "used only by the B<--preprocess> command (But not by the B<--preprocess-string> command). Will output all preprocessed macros in the target file. If the file is not specified the output will be file '_MACROS_.cfg' in the target directory of preprocess's command. The output file can be passed to B<--preprocess-input-macros>.  This switch should be typed before the B<--preprocess> command.": "sadece B<--preprocess> seçeneğiyle kullanılır (B<--preprocess-string> ile kullanılmaz). Önişlemden geçmiş tüm makroları hedef dosyaya çıktılar. Eğer dosya belirtilmemişse, çıktılama önişlem seçeneğinin hedef dizinindeki '_MACROS_.cfg' dosyasına yapılır. Çıktı dosyası B<--preprocess-input-macros> seçeneğine aktarılabilir. Bu seçenek komut satırında B<--preprocess> seçeneğinden önce yer almalıdır.",
+    "B<-S,\\\\ --use-schema>I<\\\\ path>": "B<-S,\\\\ --use-schema>I<\\\\ dosya-yolu>",
+    "sets the WML schema for use with B<-V,\\\\ --validate>.": "B<-V,\\\\ --validate> ile kullanmak için WML şemasını tanımlar.",
+    "B<--validate-schema>I<\\\\ path>": "B<--validate-schema>I<\\\\ dosya-yolu>",
+    "Copyright \\\\(co 2003-2025 David White E<lt>davidnwhite@verizon.netE<gt>": "Copyright \\\\(co 2003-2025 David White E<lt>davidnwhite@verizon.netE<gt>",
+    "B<wesnothd> [\\\\|B<-dvw>\\\\|] [\\\\|B<-c> I<path>\\\\|] [\\\\|B<-p> I<port>\\\\|]": "B<wesnothd> [\\\\|B<-dvw>\\\\|] [\\\\|B<-c> I<dosya-yolu>\\\\|] [\\\\|B<-p> I<port>\\\\|]",
+    "Names/nicks that are not accepted by the server. B<*> and B<?> from wildcard patterns are supported. See B<glob>(7)  for more details.  Default values (used if nothing is specified) are: B<*admin*,*admln*,*moderator*,*server*,ai,ai?,computer,human,network,player>.": "Sunucu tarafından kabul edilmeyen isimler/rumuzlar. Dosya ismi kalıp karakterlerinden B<*> ve B<?> desteklenmektedir. Daha ayrıntılı bilgi için B<glob>(7) sayfasına bakınız. Öntanımlı (bir şey belirtilmezse kullanılacak) değerler: B<*admin*,*admln*,*moderator*,*server*,ai,ai?,computer,human,network,player>.",
+    "B<db_game_content_info_table>": "B<db_game_content_info_table>",
+    "The name of the table in which wesnothd will save its own data about game content (scenario/era/modifications) used in a game.": "wesnothd uygulamasının bir oyunda kullanılan oyun içeriği (senaryo/çağ/değişiklikler) hakkında kendi verilerini kaydedeceği tablonun adı.",
+    "B<db_tournament_query>": "B<db_tournament_query>",
+    "B<forum_admin_group>": "B<forum_admin_group>",
+    "The ID of one of the forum groups to be considered as having admin authority on the add-ons server.": "Eklenti sunucusunda yönetici yetkisine sahip olduğu kabul edilecek forum gruplarından birinin kimliği.",
+    "B<site_admin_group>": "B<site_admin_group>"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "empty": {
+    "Map:": "Harita:",
+    "Map Size:": "Harita Boyutu:",
+    "Close": "Kapat",
+    "Average remaining gold: ": "Ortalama kalan altın: ",
+    "WC1p": "",
+    "WC2p": "",
+    "WC3p": "",
+    "WC4p": ""
+  },
+  "fuzzy": {
+    "Map Generator Settings": "Harita Üreteci Ayarları",
+    "Players:": "Oyuncular:",
+    "Scenario:": "Senaryo:",
+    "Village Density:": "Köy Yoğunluğu:",
+    "Keep Size:": "İçkale Boyutu:",
+    "Iterations:": "Yinelemeler:",
+    "Terrain Factor:": "Arazi Etkeni:",
+    "Island Factor:": "Ada Etkeni:",
+    "Number of Keeps:": "İçkale Sayısı:",
+    "$name|'s pet": "$name|'nin evcil hayvanı",
+    "Scenario ": "Senaryo ",
+    "female^forcefield": "güç alanı",
+    "female^fury": "öfke",
+    "female^darkness": "karanlık",
+    "female^corruption": "yozlaşma",
+    "female^banner": "sancak",
+    "female^distract": "şaşırtma",
+    "female^tenacity": "azim",
+    "A randomly generated cooperative campaign for 4 players. It has 6 levels of difficulty.\\n(Expert level, 5 scenarios.)": "4 oyuncu için rastgele üretilmiş işbirliği seferberliği. 6 zorluk seviyesi vardır.\\n(Uzman seviyesi, 5 senaryo.)"
+  }
+}

@@ -65,16 +65,10 @@ msgstr "Ceset Çağıran"
 #. [campaign]: id=Descent_into_Darkness
 #: data/campaigns/Descent_Into_Darkness/_main.cfg:26
 msgid ""
-"The northern frontier town of Parthyn is annually raided by neighboring "
-"tribes of orcs. Malin Keshar, an outcast mage, seeks to defend his home and "
-"wreak vengeance on the orcs by any means necessary, even if it means "
-"sacrificing his own soul in the process.\n"
+"The northern frontier town of Parthyn is annually raided by neighboring tribes of orcs. Malin Keshar, an outcast mage, seeks to defend his home and wreak vengeance on the orcs by any means necessary, even if it means sacrificing his own soul in the process.\n"
 "\n"
 msgstr ""
-"Kuzey sınır kenti Partin, her yıl komşu ork kabileleri tarafından "
-"yağmalanırdı. Dışlanmış bir büyücü olan Malin Keşnar, kendi ruhunu feda "
-"etmek anlamına gelse bile, buna dur demek için evini savunmayı ve orklardan "
-"intikam almayı amaç edinir.\n"
+"Kuzey sınır kenti Partin, her yıl komşu ork kabileleri tarafından yağmalanırdı. Dışlanmış bir büyücü olan Malin Keşnar, kendi ruhunu feda etmek anlamına gelse bile, buna dur demek için evini savunmayı ve orklardan intikam almayı amaç edinir.\n"
 "\n"
 
 #. [campaign]: id=Descent_into_Darkness
@@ -108,13 +102,16 @@ msgid "A Big Hunk of Flesh"
 msgstr "Büyük Bir Et Parçası"
 
 #. [achievement]: id=did_rat_eater
-#. the achievements are somewhat written as if from Malin's point of view which is why there's some weird and sometimes quirky flavor in them
+#. the achievements are somewhat written as if from Malin's point of view
+#. which is why there's some weird and sometimes quirky flavor in them
 #: data/campaigns/Descent_Into_Darkness/achievements.cfg:12
 msgid "Feed a Ghoul way too many rats."
 msgstr "Gulyabani'ye çok fazla fare yedir."
 
 #. [achievement]: id=did_drogan
-#. you can interpret this as a Harry Potter reference or you can think about it as Malin making fun of Drogan's country accent, or you can take artistic liberty with the translation
+#. you can interpret this as a Harry Potter reference or you can think about
+#. it as Malin making fun of Drogan's country accent, or you can take artistic
+#. liberty with the translation
 #: data/campaigns/Descent_Into_Darkness/achievements.cfg:19
 msgid "Yer a Ghoul, Drogan"
 msgstr "Sen bir gulyabanisin, Drogan"
@@ -181,32 +178,54 @@ msgstr "Partin’in Kurtarılması"
 
 #. [part]
 #. Comments about dialogue style and characterization:
-#. Drogan: although he is the captain of Parthyn's guard, he shows signs of recklessness and inflexibility; he's stiff and stubborn, which causes him to butt heads with Malin
-#. often, we see that Drogan says something to Malin (e.g. banishing him) without a clearly good reason why, and that's because of his ego and confidence in his own righteousness
-#. Drogan speaks with a country accent, using things like "ta" instead of "to", "ya" instead of "you", "thar" instead of "there", and some incorrect grammatical constructs like "them orcs" instead of "the orcs"
-#. Darken Volk: he talks a little more formally than Malin, and has quite a few ellipses in his speech. These are at points where he's not speaking exactly what he's thinking in his head because in reality,
-#. he's trying to manipulate Malin for his own gain. His mode of speech is a little more formal.
-#. Dela: little more of a minor character, she's what you might expect from a sister. She isn't wholly against Malin until he kills Drogan, but she also doesn't really want to do much with a necromancer either.
-#. She tries to be understanding, but falls short in the end because of her prejudice against dark magic. Note: Dela also speaks with a country accent like Drogan, but not as heavily so.
-#. More "country accent" words: "s'ppose" instead of suppose, "’em" instead of them, dropping the g at the end of a word for ’ (bickering -> bickerin’), "’bout" instead of "about", "’im" instead of him
+#. Drogan: although he is the captain of Parthyn's guard, he shows signs of
+#. recklessness and inflexibility; he's stiff and stubborn, which causes him
+#. to butt heads with Malin
+#. often, we see that Drogan says something to Malin (e.g. banishing him)
+#. without a clearly good reason why, and that's because of his ego and
+#. confidence in his own righteousness
+#. Drogan speaks with a country accent, using things like "ta" instead of
+#. "to", "ya" instead of "you", "thar" instead of "there", and some incorrect
+#. grammatical constructs like "them orcs" instead of "the orcs"
+#. Darken Volk: he talks a little more formally than Malin, and has quite a
+#. few ellipses in his speech. These are at points where he's not speaking
+#. exactly what he's thinking in his head because in reality,
+#. he's trying to manipulate Malin for his own gain. His mode of speech is a
+#. little more formal.
+#. Dela: little more of a minor character, she's what you might expect from a
+#. sister. She isn't wholly against Malin until he kills Drogan, but she also
+#. doesn't really want to do much with a necromancer either.
+#. She tries to be understanding, but falls short in the end because of her
+#. prejudice against dark magic. Note: Dela also speaks with a country accent
+#. like Drogan, but not as heavily so.
+#. More "country accent" words: "s'ppose" instead of suppose, "’em" instead of
+#. them, dropping the g at the end of a word for ’ (bickering -> bickerin’),
+#. "’bout" instead of "about", "’im" instead of him
 #. "woulda" -> would have, "o’" -> of, "gotta" -> have to
-#. Malin: rash and impulsive, he cares a lot about his home, but doesn't see that power itself can be a corrupting force (though he does not seek power just for the sake of it, it is for another purpose which is
-#. to drive off the orcs). He's a little more informal in his speech, meaning more contractions and colloquialisms, stemming from his "country accent" (which is not as strong as Drogan's or Dela's due to his time on Alduin).
-#. Things to be careful about while editing: there are some poems in S8 and S11, please be mindful when making wording changes there. Some commas are added for readability even though they may not be grammatically correct.
-#. If the target language has a specialized term for a fortified town, like Latin "oppidum", use it for Parthyn.
+#. Malin: rash and impulsive, he cares a lot about his home, but doesn't see
+#. that power itself can be a corrupting force (though he does not seek power
+#. just for the sake of it, it is for another purpose which is
+#. to drive off the orcs). He's a little more informal in his speech, meaning
+#. more contractions and colloquialisms, stemming from his "country accent"
+#. (which is not as strong as Drogan's or Dela's due to his time on Alduin).
+#. Things to be careful about while editing: there are some poems in S8 and
+#. S11, please be mindful when making wording changes there. Some commas are
+#. added for readability even though they may not be grammatically correct.
+#. If the target language has a specialized term for a fortified town, like
+#. Latin "oppidum", use it for Parthyn.
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:36
 msgid ""
-"Malin Keshar was born ten years after the death of Haldric IV. He grew up in "
-"the northern border town of Parthyn, the second child and eldest son of the "
-"city’s baron. Every summer, by the time the mountainous paths and high "
+"Malin Keshar was born ten years after the death of Haldric IV. He grew up in"
+" the northern border town of Parthyn, the second child and eldest son of the"
+" city’s baron. Every summer, by the time the mountainous paths and high "
 "passes shed their wintry gowns of snow, orcs descended from the northern "
 "hills to ravage the settlements at the frontier. Every year, Malin’s father "
 "led the townsfolk to repel the raids and force the orcs to retreat back to "
 "the north."
 msgstr ""
 "Malin Keşnar IV. Haldrik’in ölümünden 10 yıl sonra doğdu.  Kuzey sınır "
-"kasabası Partin'de büyüdü. Şehrin baronunun oğlu ve iki çocuğunun büyüğüydü. "
-"Her yaz dağ geçidi açıldığında orklar savaş tecrübelerini arttırmak için "
+"kasabası Partin'de büyüdü. Şehrin baronunun oğlu ve iki çocuğunun büyüğüydü."
+" Her yaz dağ geçidi açıldığında orklar savaş tecrübelerini arttırmak için "
 "kuzeyden onlarla savaşmaya gelirlerdi. Her yıl Partin’in muhafızları "
 "akınları püskürtmekle uğraşırken şehir halkından daima kayıplar verilirdi. "
 "Malin’in babası orkların kampını dağıtmak için akınlar düzenler ve orkları "
@@ -223,17 +242,17 @@ msgid ""
 msgstr ""
 "Malin on yaşındayken, oralardan geçen bir büyücü, çocukta güçlü büyülü "
 "yetenekler algıladı ve büyülü sanatlarda eğitim alması için Alduin Adasına "
-"gönderilmesini önerdi. Malin, orada temel uygulamalardan mistik sanatlara ve "
-"korkutmaya, simya ve basit tıbba kadar her türlü sihri öğrendi."
+"gönderilmesini önerdi. Malin, orada temel uygulamalardan mistik sanatlara ve"
+" korkutmaya, simya ve basit tıbba kadar her türlü sihri öğrendi."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:44
 msgid ""
 "Although his life on Alduin was luxurious and peaceful, Malin found the "
-"teachings of the scholarly mages to be too philosophical for his tastes. His "
-"thoughts turned back to Parthyn, where more practical magics were necessary "
-"to drive off the orcs. Malin began to research these magics on his own, but "
-"his lack of patience and general indiscretion eventually led to several "
+"teachings of the scholarly mages to be too philosophical for his tastes. His"
+" thoughts turned back to Parthyn, where more practical magics were necessary"
+" to drive off the orcs. Malin began to research these magics on his own, but"
+" his lack of patience and general indiscretion eventually led to several "
 "confrontations with his teachers and other students. Believing Malin to be "
 "too reckless, the mages expelled him from Alduin."
 msgstr ""
@@ -251,13 +270,13 @@ msgid ""
 "When Malin returned to Parthyn, orcs had already begun to attack the city. "
 "Although he tried his best to fight them off, the raids were far more "
 "relentless and the town guard was far weaker than he had remembered. One "
-"night, a particularly powerful band of orcs overran the city walls and Malin "
-"could only watch as his father was cut down by one of the savage orcish "
+"night, a particularly powerful band of orcs overran the city walls and Malin"
+" could only watch as his father was cut down by one of the savage orcish "
 "warriors."
 msgstr ""
 "Malin Partin'e döndüğünde, orklar şehre saldırmaya çoktan başlamıştı. "
-"Onlarla savaşmak için elinden gelenin en iyisini yapmasına rağmen, baskınlar "
-"giderek daha acımasız oldu. Kasaba muhafızları hatırladığından çok daha "
+"Onlarla savaşmak için elinden gelenin en iyisini yapmasına rağmen, baskınlar"
+" giderek daha acımasız oldu. Kasaba muhafızları hatırladığından çok daha "
 "zayıftı. Bir gece şehir, güçlü bir saldırıya uğradı ve Malin  babasının "
 "vahşi bir ork savaşçısı tarafından kesilişini sadece izleyebildi."
 
@@ -270,13 +289,13 @@ msgid ""
 "undead cut down orc after orc, swords and axes hacking through flesh and "
 "bone with ruthless efficiency. The soldiers watched in half amazement, half "
 "fear as the orcs dropped and the skeletons turned toward them, empty eyes "
-"bleeding with fetid magic. All was dreadfully still as the blood and carnage "
-"settled in the rank darkness."
+"bleeding with fetid magic. All was dreadfully still as the blood and carnage"
+" settled in the rank darkness."
 msgstr ""
 "Kumandanlarının kaybıyla sarsılan insan savunması sendelemeye başladı. "
 "Zaferi sezinleyerek naralar atan orklara arkalarındaki ormandan iskelet "
-"savaşçılar bardaktan boşanırcasına çıkarak saldırdılar. Yarı ölüler, orkları "
-"tek tek kılıçları ve baltaları ile acımasız bir verimlilikle ete ve kemiğe "
+"savaşçılar bardaktan boşanırcasına çıkarak saldırdılar. Yarı ölüler, orkları"
+" tek tek kılıçları ve baltaları ile acımasız bir verimlilikle ete ve kemiğe "
 "böldü. Askerler, orklar düşerken ve iskeletlere dönüşüp tekrar ayaklanırken "
 "yarı şaşkınlık, yarı korkuyla izlediler, boş gözler pis kokulu büyüyle "
 "kanıyordu. Karanlık çökerken kanlı katliamın ardından her şey korkunç bir "
@@ -288,10 +307,10 @@ msgid ""
 "The silence was broken by the irregular shuffle of a man emerging from the "
 "trees. He stood before them, a hunched figure with a rasping voice "
 "reminiscent of crackling bones. <i>“I am Darken Volk. While I know you do "
-"not love my kind, I think it is vital that we put aside our differences. The "
-"orcish menace grows in the north and they will soon return in even greater "
-"force. You cannot hope to defend against them without my... help. For now, I "
-"ask only to refresh myself in your town.”</i>"
+"not love my kind, I think it is vital that we put aside our differences. The"
+" orcish menace grows in the north and they will soon return in even greater "
+"force. You cannot hope to defend against them without my... help. For now, I"
+" ask only to refresh myself in your town.”</i>"
 msgstr ""
 "Sessizlik, ağaçların arasından çıkan bir adamın düzensiz ayak sesleri ile "
 "bozuldu. Önlerinde, çatırdayan kemikleri andıran hırıltılı sesiyle kambur "
@@ -310,10 +329,10 @@ msgid ""
 "from Parthyn. Should ye return, we’ll attack ya on sight.”</i>"
 msgstr ""
 "Muhafız yüzbaşısı Drogan buna yanıt verdi: <i>“Kara büyüyle uğraşmanın "
-"cezasının ölüm olduğunu eminim biliyorsunuzdur. Ama kasabamızı kurtardığınız "
-"için, üç güne kadar burada dinlenmenize izin vereceğim. Ancak ayrılışınızda, "
-"Partin topraklardan sürgün edilmiş olacaksınız. Geri dönerseniz, görür "
-"görmez size saldıracağız.\"</i>"
+"cezasının ölüm olduğunu eminim biliyorsunuzdur. Ama kasabamızı kurtardığınız"
+" için, üç güne kadar burada dinlenmenize izin vereceğim. Ancak "
+"ayrılışınızda, Partin topraklardan sürgün edilmiş olacaksınız. Geri "
+"dönerseniz, görür görmez size saldıracağız.\"</i>"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:66
@@ -492,8 +511,8 @@ msgid ""
 "What in blazes is that... that thing? Has tha necromancer returned already? "
 "His timin’ couldn’t be any worse..."
 msgstr ""
-"Bu şey hangi cehennemden çıktı? Yoksa kara büyücü mü döndü? Zamanlaması daha "
-"kötü olamazdı..."
+"Bu şey hangi cehennemden çıktı? Yoksa kara büyücü mü döndü? Zamanlaması daha"
+" kötü olamazdı..."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:292
@@ -510,8 +529,8 @@ msgstr ""
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:297
 msgid ""
 "I’m ’shamed of ya, Malin. Even if it’d ensure our survival, nothin’ good "
-"ever comes of necromancy. The moment ya use it, you’ve already sold yer soul "
-"ta black magic!"
+"ever comes of necromancy. The moment ya use it, you’ve already sold yer soul"
+" ta black magic!"
 msgstr ""
 "Senden utanıyorum, Malin. Hayatta kalmamızı garantilese bile, kara büyüden "
 "asla hayır gelmez. Kullandığın an, ruhunu kara büyüye çoktan satmış olursun!"
@@ -592,16 +611,16 @@ msgstr "B...Ben ölüyorum..."
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:472
 msgid "We’re back from the raid, Drogan. Seems like we made it just in time!"
 msgstr ""
-"Ork kamplarını yağmalamayı bitirip geri döndük, Drogan. Tam zamanında geldik "
-"gibi görünüyor!"
+"Ork kamplarını yağmalamayı bitirip geri döndük, Drogan. Tam zamanında geldik"
+" gibi görünüyor!"
 
 #. [message]: speaker=Kreg'a'shar Trr
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:476
 msgid ""
 "More humans! We’ll need more fighters to squash ’em all. Grunts, retreat!"
 msgstr ""
-"Daha fazla insan! Onları ezmek için daha fazla savaşçıya ihtiyacımız olacak. "
-"Izbandutlar, geri çekilin!"
+"Daha fazla insan! Onları ezmek için daha fazla savaşçıya ihtiyacımız olacak."
+" Izbandutlar, geri çekilin!"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:496
@@ -616,8 +635,8 @@ msgid ""
 "since I let ’im into Parthyn, but still... Since I showed ’im mercy, I’ll "
 "show ya the same. I’m banishin’ you from Parthyn."
 msgstr ""
-"Yasaya göre, olay yerinde seni idam etmeliydim, Malin. O kara büyücünün seni "
-"yozlaştırmasına izin verdiğine inanamıyorum. Sanırım bu bir parça da benim "
+"Yasaya göre, olay yerinde seni idam etmeliydim, Malin. O kara büyücünün seni"
+" yozlaştırmasına izin verdiğine inanamıyorum. Sanırım bu bir parça da benim "
 "suçum çünkü Partin'e girmesine izin veren bendim. Yine de ... ona merhamet "
 "gösterdiğimden, aynısını sana da göstereceğim. Şu andan itibaren Partin'den "
 "kovuldun."
@@ -638,8 +657,8 @@ msgid ""
 "bad tha mages didn’t teach ya more sense."
 msgstr ""
 "Elbette, kara büyüyle uğraşmaktan bile daha iyidir. Halk geçmişte olduğu "
-"gibi şehri yeniden inşa ederdi. Ben ölseydim bile, en azından onurlu olurdu. "
-"Büyücülerin öğrettiklerini daha iyi dinlemeliydin."
+"gibi şehri yeniden inşa ederdi. Ben ölseydim bile, en azından onurlu olurdu."
+" Büyücülerin öğrettiklerini daha iyi dinlemeliydin."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:539
@@ -653,7 +672,8 @@ msgstr ""
 #. [message]: speaker=Drogan
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:544
 msgid "Yes, yes it is. Nobody’ll support ya on yer crazy path to depravity."
-msgstr "Evet, evet öyle. Kimse senin bu ahlaksız yöntemlerini desteklemeyecek."
+msgstr ""
+"Evet, evet öyle. Kimse senin bu ahlaksız yöntemlerini desteklemeyecek."
 
 #. [message]: race=human
 #. Hint, that the loyal units stay behind
@@ -699,9 +719,9 @@ msgstr "Defol, Malin. Yüzünü bir daha görmek istemiyorum."
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:585
 msgid ""
 "Bravely done holdin’ off them orcs by yerself, Malin. But we’re not outta "
-"trouble yet. The raidin’ party reports that more warlords be gatherin’ their "
-"armies in the hills, just a few days north o’ tha Great River. I don’t know "
-"if we can fight ’em all off."
+"trouble yet. The raidin’ party reports that more warlords be gatherin’ their"
+" armies in the hills, just a few days north o’ tha Great River. I don’t know"
+" if we can fight ’em all off."
 msgstr ""
 "Bu cesurcaydı delikanlı, orkları kendi başına uzak tutmayı başardın. Ancak, "
 "akıncıların kuzeyden kötü haberler getirmesinden korkuyorum. Büyük Nehir'in "
@@ -794,15 +814,15 @@ msgstr "Huzurlu Vadi"
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:20
 msgid ""
-"Bitter and alone, Malin follows the back-trail of the orcish band north from "
-"Parthyn. He curses the mages for casting him out from the Isle of Alduin "
-"only half-trained, unprepared for conflict. He curses Drogan for lacking the "
-"resolve to make the necessary sacrifices to protect their home. Most "
+"Bitter and alone, Malin follows the back-trail of the orcish band north from"
+" Parthyn. He curses the mages for casting him out from the Isle of Alduin "
+"only half-trained, unprepared for conflict. He curses Drogan for lacking the"
+" resolve to make the necessary sacrifices to protect their home. Most "
 "fiercely, he curses the orcs for their mindless savagery, pillagers and "
 "raiders who view violence as little more than sport."
 msgstr ""
-"Malin, öfke ve kederle boğuşarak ork çetesinin peşi sıra Partin'den ayrıldı. "
-"Alduin Adasından hazırlıksız ve çelişkiye düşmüş olarak gönderdikleri için "
+"Malin, öfke ve kederle boğuşarak ork çetesinin peşi sıra Partin'den ayrıldı."
+" Alduin Adasından hazırlıksız ve çelişkiye düşmüş olarak gönderdikleri için "
 "yaşlı büyücülere lanet etti. Yaptıklarını görme cesareti olmadığı için "
 "Drogan’a lanet etti. En çok da, orkların yurduna ve ailesine zarar vermek "
 "için durmaksızın saldırmalarına lanet etti."
@@ -811,13 +831,13 @@ msgstr ""
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:24
 msgid ""
 "Three days’ travel northeast, Malin stumbles upon Darken Volk, the "
-"necromancer who had saved Parthyn and taught him to raise the dead. The dark "
-"mage suggests that they travel together; Malin obliges, having been "
+"necromancer who had saved Parthyn and taught him to raise the dead. The dark"
+" mage suggests that they travel together; Malin obliges, having been "
 "abandoned by his kinsmen. As the weeks pass, Darken Volk teaches Malin more "
 "dark magic."
 msgstr ""
-"Partin’den ayrıldıktan üç gün sonra, Malin, Partin’i kurtaran ve ona ölüleri "
-"ayağa kaldırmayı öğreten kara büyücü Kara Volk ile karşılaştı. Volk, "
+"Partin’den ayrıldıktan üç gün sonra, Malin, Partin’i kurtaran ve ona ölüleri"
+" ayağa kaldırmayı öğreten kara büyücü Kara Volk ile karşılaştı. Volk, "
 "Malin’in kimsesiz kalmasına acıyarak kendisiyle yolculuk yapmasını önerdi. "
 "Haftalar boyunca Kara Volk ona daha fazla kara büyü öğretti."
 
@@ -873,12 +893,12 @@ msgstr "Kara Volk’un ölümü"
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:132
 msgid ""
-"In truth, I share your hatred for the orcs. The Northlands have been my home "
-"for many years and the orcs have been a growing infestation in recent times. "
-"They despoil the beauty of the land wherever they go, hacking and burning "
-"everything without care or concern. If you are interested, I would be happy "
-"to take you on as my... apprentice... so that I can teach you to fight "
-"against them."
+"In truth, I share your hatred for the orcs. The Northlands have been my home"
+" for many years and the orcs have been a growing infestation in recent "
+"times. They despoil the beauty of the land wherever they go, hacking and "
+"burning everything without care or concern. If you are interested, I would "
+"be happy to take you on as my... apprentice... so that I can teach you to "
+"fight against them."
 msgstr ""
 "Aslında, orklara olan nefretini paylaşıyorum. Kuzey bölgeleri yıllardır "
 "benim yurdumdu ve ork gücü her yeri istila edercesine büyüyordu. Her "
@@ -899,8 +919,8 @@ msgstr ""
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:142
 msgid ""
-"Yes, perhaps removing the threat of orcish raids will persuade the people of "
-"Parthyn to welcome you back. But for now, I must train you. The orcs are "
+"Yes, perhaps removing the threat of orcish raids will persuade the people of"
+" Parthyn to welcome you back. But for now, I must train you. The orcs are "
 "powerful in the hills, strong enough that even I dare not confront them "
 "directly."
 msgstr ""
@@ -988,8 +1008,8 @@ msgid ""
 "Why do you hesitate? Did the orcs show your people any mercy when they "
 "attacked Parthyn?"
 msgstr ""
-"Neden tereddüt ediyorsun? Orklar, Partin'e saldırdıklarında halkına merhamet "
-"gösterdi mi?"
+"Neden tereddüt ediyorsun? Orklar, Partin'e saldırdıklarında halkına merhamet"
+" gösterdi mi?"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:292
@@ -1094,8 +1114,8 @@ msgid ""
 "the basics, we will then assault the orcs and you will see your forces grow "
 "quickly."
 msgstr ""
-"Biraz sabırlı ol. Eğitimine daha yeni başladık. Bu cesetler ve ruhlar pratik "
-"yapman için sana yeterli kaynakları sağlayacak. Temel konulara hakim "
+"Biraz sabırlı ol. Eğitimine daha yeni başladık. Bu cesetler ve ruhlar pratik"
+" yapman için sana yeterli kaynakları sağlayacak. Temel konulara hakim "
 "olduğunda, orklara saldıracağız ve ordumuzun hızla büyüdüğünü göreceksin."
 
 #. [scenario]: id=03_A_Haunting_in_Winter
@@ -1109,8 +1129,8 @@ msgid ""
 "Malin and Darken Volk spend the summer and fall traveling across the lower "
 "Northlands. They attack goblin villages and small orcish camps when they "
 "find them. Although Darken Volk is occasionally demanding and irritable, he "
-"proves to be an effective mentor. Malin’s power grows considerably under the "
-"necromancer’s tutelage."
+"proves to be an effective mentor. Malin’s power grows considerably under the"
+" necromancer’s tutelage."
 msgstr ""
 "Malin ve Kara Volk yaz ve güzü kuzey bölgelerinde bir aşağı bir yukarı "
 "dolaşarak geçirdiler. Buldukları küçük goblin köylerine ve ork kamplarına "
@@ -1124,12 +1144,12 @@ msgid ""
 "over barren lands. The nights grow longer as the sun disappears behind a "
 "seemingly perpetual mist of pallid clouds. Hounded by the elements, the two "
 "necromancers retreat into the hills to seek shelter. By a stroke of good "
-"fortune, they stumble across a mostly abandoned cave just as the winter sets "
-"in."
+"fortune, they stumble across a mostly abandoned cave just as the winter sets"
+" in."
 msgstr ""
 "Güzün düşen renkli yapraklar, kar yağışıyla giderek beyaza bürünüyordu. "
-"Kalın solgun bulutların ardında güneşin kaybolması nedeniyle geceler daha da "
-"uzun gibiydi. İki kara büyücü, soğuktan korunmak için sığınak aramak üzere "
+"Kalın solgun bulutların ardında güneşin kaybolması nedeniyle geceler daha da"
+" uzun gibiydi. İki kara büyücü, soğuktan korunmak için sığınak aramak üzere "
 "tepelere doğru yol aldı. Şans eseri, kışın başlarında terkedilmiş gibi "
 "görünen bir mağaraya rastladılar."
 
@@ -1221,8 +1241,8 @@ msgstr "Basit fikirli, kalın kafalı yaratıklar."
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:419
 msgid ""
-"This should be an easy task for you. Once you have slain them both, we shall "
-"turn them into skeletons."
+"This should be an easy task for you. Once you have slain them both, we shall"
+" turn them into skeletons."
 msgstr ""
 "Bu senin için kolay bir görev olacak. İkisini de öldürdüğünde, onları "
 "iskelete dönüştüreceğiz."
@@ -1248,8 +1268,8 @@ msgstr "Tepegözler öldü."
 msgid ""
 "Good... I have already showed you how to raise a skeleton before, but "
 "perhaps it would be best if we... went over it once again. Other than for "
-"ghouls, flesh and blood are useless for undead creatures. First, let out the "
-"blood and innards and dispose of them."
+"ghouls, flesh and blood are useless for undead creatures. First, let out the"
+" blood and innards and dispose of them."
 msgstr ""
 "Güzel ... Sana daha önce bir iskeleti nasıl ayağa kaldıracağını "
 "göstermiştim, ama belki bir kez daha geçsek iyi olur. Gulyabaniler dışında, "
@@ -1288,8 +1308,8 @@ msgstr "Ya sonra?"
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:578
 msgid ""
 "Bind the strings of energy to the bone. Skeletons are no more than puppets. "
-"Novices will directly control their movement with strands of dark magic, but "
-"you should have no need for such crude methods. Instead, impart your will "
+"Novices will directly control their movement with strands of dark magic, but"
+" you should have no need for such crude methods. Instead, impart your will "
 "upon the skeleton, spread the threads over the bones, then let loose the "
 "twine from your hand. If your will is strong enough, the skeleton will be "
 "able to move on its own."
@@ -1333,8 +1353,8 @@ msgstr ""
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:743
 msgid ""
-"It seems that raising skeletons is already a trivial matter for you now. You "
-"are indeed... talented."
+"It seems that raising skeletons is already a trivial matter for you now. You"
+" are indeed... talented."
 msgstr ""
 "İskelet yetiştirmenin şimdiden sizin için çok önemli bir konu olduğu "
 "anlaşılıyor. Sen gerçekten ... yeteneklisin."
@@ -1352,8 +1372,8 @@ msgid ""
 "now, continue exploring these caves. We may yet find something else of use."
 msgstr ""
 "Zamanla, bir seferde birden fazlasını kontrol etmeyi öğrendiğinizde o da "
-"olacak. Şimdilik bu mağaraları keşfetmeye devam edin. Belki kullanacak başka "
-"şeyler bulabiliriz."
+"olacak. Şimdilik bu mağaraları keşfetmeye devam edin. Belki kullanacak başka"
+" şeyler bulabiliriz."
 
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:796
@@ -1393,8 +1413,8 @@ msgstr ""
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:864
 msgid ""
 "I see. Well, even if these mudcrawlers are not much of a threat, they’re "
-"still bothersome. I wonder if I could be rid of them. What is magic mud even "
-"weak to, anyway? Fire?"
+"still bothersome. I wonder if I could be rid of them. What is magic mud even"
+" weak to, anyway? Fire?"
 msgstr ""
 "Anlıyorum. Pekala, bu çamurcalar pek tehdit oluşturmasalar bile yine de can "
 "sıkıcıdır. Onlardan kurtulabilir miyim diye merak ediyorum. Sihirli çamur "
@@ -1445,8 +1465,8 @@ msgstr "Hiçbir şey olmuyor."
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:1191
 msgid ""
-"Somehow, I feel that killing these mudcrawlers is a less than meaningful use "
-"of my time."
+"Somehow, I feel that killing these mudcrawlers is a less than meaningful use"
+" of my time."
 msgstr ""
 "Her nasılsa, bu çamurcuları öldürerek zamanımı anlamlı bir şekilde "
 "kullanamadığımı hissediyorum."
@@ -1456,13 +1476,14 @@ msgstr ""
 msgid ""
 "I don’t think there’s much experience to be gained by fighting a few rats."
 msgstr ""
-"Birkaç fareyle savaşarak kazanılacak çok fazla deneyim olduğunu düşünmüyorum."
+"Birkaç fareyle savaşarak kazanılacak çok fazla deneyim olduğunu "
+"düşünmüyorum."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:1207
 msgid ""
-"I must be absolutely mad to be spending hours here just feeding rats to this "
-"rotten pile of flesh..."
+"I must be absolutely mad to be spending hours here just feeding rats to this"
+" rotten pile of flesh..."
 msgstr ""
 "Bu çürük et yığınını farelerle besleyerek saatlerce burada kaldığım için "
 "kesinlikle delirmiş olmalıyım."
@@ -1477,26 +1498,20 @@ msgstr "Bu çocuk yine tütün mü içiyordu?"
 msgid ""
 "Day 1337:\n"
 "\n"
-"All sense of time and being are entombed within darkness. How long has "
-"passed since I came here? My senses are a blur. My past life, my prior "
-"goals, my very self is all but a distant memory. All I know now is the "
-"constant squealing of rats and the ever growing mountain of flesh that "
-"feasts before me."
+"All sense of time and being are entombed within darkness. How long has passed since I came here? My senses are a blur. My past life, my prior goals, my very self is all but a distant memory. All I know now is the constant squealing of rats and the ever growing mountain of flesh that feasts before me."
 msgstr ""
 "1337. gün:\n"
 "\n"
-"Tüm zaman ve varlık duygusu karanlıkta gömülüdür. Buraya geldiğimden beri ne "
-"kadar zaman geçti? Duygularım bulanık. Geçmiş hayatım, önceki hedeflerim, "
-"benliğim uzak bir hatıradan başka bir şey değil. Şu an tek bildiğim, önümde "
-"gitgide büyüyen et dağı ve ziyafet çeken farelerin sürekli ciyaklamaları."
+"Tüm zaman ve varlık duygusu karanlıkta gömülüdür. Buraya geldiğimden beri ne kadar zaman geçti? Duygularım bulanık. Geçmiş hayatım, önceki hedeflerim, benliğim uzak bir hatıradan başka bir şey değil. Şu an tek bildiğim, önümde gitgide büyüyen et dağı ve ziyafet çeken farelerin sürekli ciyaklamaları."
 
 #. [message]: speaker=Malin Keshar
-#. Malin Keshar breaks the fourth wall here and addresses the player, whom the 'you' refers to.
+#. Malin Keshar breaks the fourth wall here and addresses the player, whom the
+#. 'you' refers to.
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:1239
 msgid ""
 "You. You there behind the screen. You are the one controlling me. Why are "
-"you doing this? What did I do to deserve this torment? Please, I beg of you. "
-"End me now. Release me from my misery!"
+"you doing this? What did I do to deserve this torment? Please, I beg of you."
+" End me now. Release me from my misery!"
 msgstr ""
 "Sen. Perdenin arkasında sen varsın. Beni kontrol eden sensin. Bunu neden "
 "yapıyorsun? Bu azabı hak edecek ne yaptım? Lütfen, sana yalvarıyorum. Öldür "
@@ -1546,7 +1561,8 @@ msgid ""
 "This scorpion’s poison gland is still intact. I bet I can make a potion out "
 "of it."
 msgstr ""
-"Bu akrebin zehir bezi hala sağlam. Bahse girerim ondan bir iksir yapabilirim."
+"Bu akrebin zehir bezi hala sağlam. Bahse girerim ondan bir iksir "
+"yapabilirim."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:1482
@@ -1599,8 +1615,8 @@ msgstr ""
 "Hayaletler, özellikle de daha güçlü olanlar üzerinde ustalaşmak, deneyimli "
 "büyücülerin bile zor başa çıkabileceği bir şeydir. Diğer yarı ölüler, "
 "yeniden canlandırma sırasında akılsız kölelerden başka bir şey değilken, "
-"ruhlar asıl sahiplerinin ruhlarıdır ve bu nedenle bir dereceye kadar bilinci "
-"korurlar. Ruh sizden daha güçlüyse, elinizden kurtulacaktır. Bunda "
+"ruhlar asıl sahiplerinin ruhlarıdır ve bu nedenle bir dereceye kadar bilinci"
+" korurlar. Ruh sizden daha güçlüyse, elinizden kurtulacaktır. Bunda "
 "ustalaşmak için kendi ruhunuz sarsılmaz olmalıdır."
 
 #. [message]: speaker=Malin Keshar
@@ -1611,8 +1627,8 @@ msgstr "Bir orkun ruhuna yenileceğimi sanmıyorum."
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:1591
 msgid ""
-"Perhaps, but that is not what I meant. Before you can begin to control other "
-"souls, you must first master your own."
+"Perhaps, but that is not what I meant. Before you can begin to control other"
+" souls, you must first master your own."
 msgstr ""
 "Belki, ama demek istediğim bu değildi. Diğer ruhları kontrol etmeye "
 "başlamadan önce, kendi ruhunuzda ustalaşmanız gerekir."
@@ -1632,13 +1648,13 @@ msgid ""
 "listen. After a great slaughter, even after the corpses are all rotted to "
 "nothing but bones, the bridge between the land of death and life is "
 "weakened. By placing yourself closer to death, you will better understand "
-"who it is that you really are. But you must not speak. Be silent and embrace "
-"the darkness."
+"who it is that you really are. But you must not speak. Be silent and embrace"
+" the darkness."
 msgstr ""
 "İkna etmeniz gereken ben değil, kendinizsiniz. Dilini tut ve dinle. Büyük "
 "bir katliamdan sonra, cesetler çürüyüp kemiğe döndükten sonra bile ölüm ve "
-"yaşam arasındaki köprü zayıflar. Kendinizi ölüme yaklaştırarak, gerçekte kim "
-"olduğunuzu daha iyi anlayacaksınız. Ama konuşmamalısın. Sessiz ol ve "
+"yaşam arasındaki köprü zayıflar. Kendinizi ölüme yaklaştırarak, gerçekte kim"
+" olduğunuzu daha iyi anlayacaksınız. Ama konuşmamalısın. Sessiz ol ve "
 "karanlığı kucakla."
 
 #. [message]: speaker=Darken Volk
@@ -1674,7 +1690,8 @@ msgstr ""
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:1765
 msgid "I am Malin Keshar, but no longer the naive, uncertain boy I once was."
 msgstr ""
-"Ben Malin Keşnar, ama artık bir zamanlar olduğum saf, kararsız çocuk değilim."
+"Ben Malin Keşnar, ama artık bir zamanlar olduğum saf, kararsız çocuk "
+"değilim."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:1770
@@ -1697,24 +1714,24 @@ msgstr ""
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:1781
 msgid ""
-"Nonsense. My convictions are strong and my mind is set. I have but one goal. "
-"I will gain power. I will master death, and I will use it to protect my home "
-"and slaughter these orcs. And I’ll make my family and my people accept me "
-"back."
+"Nonsense. My convictions are strong and my mind is set. I have but one goal."
+" I will gain power. I will master death, and I will use it to protect my "
+"home and slaughter these orcs. And I’ll make my family and my people accept "
+"me back."
 msgstr ""
 "Saçmalık. İnançlarım güçlü ve aklım sabit. Tek bir hedefim var. Güç "
 "kazanacağım. Ölümde ustalaşacağım ve onu yurdumu korumak ve bu orkları "
-"katletmek için kullanacağım. Ve ailemin ve halkın beni tekrar kabul etmesini "
-"sağlayacağım."
+"katletmek için kullanacağım. Ve ailemin ve halkın beni tekrar kabul etmesini"
+" sağlayacağım."
 
 #. [message]: speaker=Fake Malin
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:1786
 msgid ""
-"When you are drawn in many directions at once, which one will you choose? If "
-"you try for them all, you shall be torn apart."
+"When you are drawn in many directions at once, which one will you choose? If"
+" you try for them all, you shall be torn apart."
 msgstr ""
-"Aynı anda birçok yöne çekildiğinizde hangisini seçersiniz? Hepsini denersen, "
-"paramparça olursun."
+"Aynı anda birçok yöne çekildiğinizde hangisini seçersiniz? Hepsini denersen,"
+" paramparça olursun."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:1791
@@ -1723,16 +1740,16 @@ msgid ""
 "choosing between my family and gaining more power... they will come around "
 "and see reason. I will make sure of it."
 msgstr ""
-"Yurdumu korumak ve orkları öldürmek aynı şey. Ailem arasında seçim yapmak ve "
-"daha fazla güç kazanmaktan bahsediyorsan... gelip sebebimi anlayacaklar. "
+"Yurdumu korumak ve orkları öldürmek aynı şey. Ailem arasında seçim yapmak ve"
+" daha fazla güç kazanmaktan bahsediyorsan... gelip sebebimi anlayacaklar. "
 "Bunun olmasını sağlayacağım."
 
 #. [message]: speaker=Fake Malin
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:1814
 msgid ""
 "When you do not have the wisdom to see through the veil of lies you have "
-"told yourself, you must not seek the advice of one who only spins the web of "
-"deception further."
+"told yourself, you must not seek the advice of one who only spins the web of"
+" deception further."
 msgstr ""
 "Kendinize söylediğiniz yalanların perdesini aralayacak bilgeliğe sahip "
 "değilseniz, yalnızca aldatma ağını daha fazla örecek birinin tavsiyesine "
@@ -1741,16 +1758,16 @@ msgstr ""
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:1819
 msgid ""
-"Enough with this. No proverbs are going to help me achieve my goals. This is "
-"just like back on Alduin. My teachers never understood what I needed. I "
-"don’t need to think and I don’t need to philosophize about “the grand nature "
-"of my life and my place in the universe.” Right now, I must train my skills "
-"with necromancy. That’s it."
+"Enough with this. No proverbs are going to help me achieve my goals. This is"
+" just like back on Alduin. My teachers never understood what I needed. I "
+"don’t need to think and I don’t need to philosophize about “the grand nature"
+" of my life and my place in the universe.” Right now, I must train my skills"
+" with necromancy. That’s it."
 msgstr ""
 "Bu kadar yeter. Hiçbir atasözü hedeflerime ulaşmama yardım etmeyecek. Bu "
-"tıpkı Alduin'deki gibi. Öğretmenlerim neye ihtiyacım olduğunu asla anlamadı. "
-"\"Hayatımın büyük doğası ve evrendeki yerim\" hakkında düşünmeme ve felsefe "
-"yapmama gerek yok. Şu anda, yeteneklerimi kara büyücülükle eğitmeliyim. Bu "
+"tıpkı Alduin'deki gibi. Öğretmenlerim neye ihtiyacım olduğunu asla anlamadı."
+" \"Hayatımın büyük doğası ve evrendeki yerim\" hakkında düşünmeme ve felsefe"
+" yapmama gerek yok. Şu anda, yeteneklerimi kara büyücülükle eğitmeliyim. Bu "
 "kadar."
 
 #. [message]: speaker=Fake Malin
@@ -1790,8 +1807,8 @@ msgid ""
 "the land of death and life is weakened.” If I use that knowledge..."
 msgstr ""
 "Kara Volk bu konuda ne demişti? \"Büyük bir katliamdan sonra, cesetler "
-"çürüyüp kemiğe döndükten sonra bile ölüm ve yaşam arasındaki köprü zayıflar."
-"\" Eğer bu bilgiyi kullanırsam..."
+"çürüyüp kemiğe döndükten sonra bile ölüm ve yaşam arasındaki köprü "
+"zayıflar.\" Eğer bu bilgiyi kullanırsam..."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:1883
@@ -1812,9 +1829,9 @@ msgstr "Özgürlük! Büyüleriniz artık beni zincirleyemeyecek, Lanetli Malin!
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:1968
 msgid ""
-"I failed? No... it must have been because the spell was too tricky to master "
-"on the first attempt. No matter, no matter. It’s only a single, weak spirit. "
-"It should be simple to crush it and exert my will back over it."
+"I failed? No... it must have been because the spell was too tricky to master"
+" on the first attempt. No matter, no matter. It’s only a single, weak "
+"spirit. It should be simple to crush it and exert my will back over it."
 msgstr ""
 "Başarısız mı oldum? Hayır... bu büyünün ilk denemesinde ustalaşmak çok zor "
 "olduğu için olmalı. Önemli değil, önemli değil. O sadece tek, zayıf bir "
@@ -1846,8 +1863,8 @@ msgstr ""
 "Yani elinizden kayıp gittiğinde kontrolünü yeniden ele geçirdiniz ve hatta "
 "kontrolünü geri almayı başardınız. Aferin. Şimdi dikkat et. Bir büyücünün "
 "ilk hayaleti genellikle özeldir — dikkatli kullanırsanız size iyi hizmet "
-"edecektir. Tekrar kontrolünüzden çıkmasına izin verirseniz sonsuza dek sizin "
-"için kaybolacaktır."
+"edecektir. Tekrar kontrolünüzden çıkmasına izin verirseniz sonsuza dek sizin"
+" için kaybolacaktır."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:2128
@@ -1872,8 +1889,8 @@ msgstr "Misilleme Baharı"
 #: data/campaigns/Descent_Into_Darkness/scenarios/04_Spring_of_Reprisal.cfg:20
 msgid ""
 "Weeks pass in the cold, bare caverns. As the grip of black magic grows "
-"stronger, so does Malin’s control of the undead. He finds it to be a mastery "
-"of a different sort than what he was taught at the Academy. The magic "
+"stronger, so does Malin’s control of the undead. He finds it to be a mastery"
+" of a different sort than what he was taught at the Academy. The magic "
 "reaches out to him as it never has before; he listens and it speaks back — "
 "he senses its will and lets it guide him — he embraces the dark magic as an "
 "extension of himself."
@@ -1926,8 +1943,8 @@ msgstr "Ork liderlerini öldür"
 msgid ""
 "Across this pass lies the eastern edge of the Heart Mountains proper. For "
 "their distinctive shape, the orcs call these the ‘Whitefang’ Mountains, "
-"which is also the namesake of the dominant clan in this region. They are the "
-"very same who killed your father."
+"which is also the namesake of the dominant clan in this region. They are the"
+" very same who killed your father."
 msgstr ""
 "Bu geçidin karşısında, Kalp Dağları'nın doğu kolu uzanır. Görüntüsü "
 "nedeniyle orklar bunlara Beyazdiş dağları diyor, Beyazdiş ayrıca bu "
@@ -1938,8 +1955,8 @@ msgstr ""
 msgid ""
 "The Whitefang orcs... so that’s their name. When I was younger, I remember "
 "fearing the sight of their banners rais’d across the river. Now, though, "
-"it’s something totally different. Loathing? Disgust? A desire for vengeance? "
-"Certainly... this is no longer a fight merely to protect Parthyn."
+"it’s something totally different. Loathing? Disgust? A desire for vengeance?"
+" Certainly... this is no longer a fight merely to protect Parthyn."
 msgstr ""
 "Beyazdiş orkları... Demek onların adı bu. Ben daha gençken, sancaklarının "
 "nehrin karşısına dikildiğini görmekten korktuğumu hatırlıyorum. Şimdi, yine "
@@ -2042,11 +2059,11 @@ msgstr "Burada buz pek kalın gözükmüyor..."
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/04_Spring_of_Reprisal.cfg:458
 msgid ""
-"The weak ice gives way beneath the undead creature, who becomes mired in the "
-"thick mud at the lake’s bottom."
+"The weak ice gives way beneath the undead creature, who becomes mired in the"
+" thick mud at the lake’s bottom."
 msgstr ""
-"Zayıf buz ağırlığa dayanamayarak çöker ve yarı ölü yaratığın gölün dibindeki "
-"çamura saplanmasına sebep olur."
+"Zayıf buz ağırlığa dayanamayarak çöker ve yarı ölü yaratığın gölün dibindeki"
+" çamura saplanmasına sebep olur."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/04_Spring_of_Reprisal.cfg:465
@@ -2075,32 +2092,32 @@ msgstr "Ayrılık"
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Schism.cfg:24
 msgid ""
 "The cycle of the seasons churns and summer and fall roll around once more. "
-"Malin’s thoughts turn back to Parthyn frequently, where a year prior, he had "
-"still been among family and friends in the rustic little town that he still "
-"thinks of as his home. He has since become a forsaken wanderer, he thinks, "
-"but the still burning image of his father being cut down amidst the ruins of "
-"his home is stamped deep into his thoughts."
+"Malin’s thoughts turn back to Parthyn frequently, where a year prior, he had"
+" still been among family and friends in the rustic little town that he still"
+" thinks of as his home. He has since become a forsaken wanderer, he thinks, "
+"but the still burning image of his father being cut down amidst the ruins of"
+" his home is stamped deep into his thoughts."
 msgstr ""
 "Yaz yerini sonbahara bırakıken, Malin’in düşünceleri, bir yıl öncesinde, "
 "rustik küçük kasabadaki evinde, aile ve arkadaşları arasındaydı. O zamandan "
 "beri terkedilmiş bir gezgin haline geldiğini düşünüyordu, ama evin "
-"yıkıntıları arasında babasının kesik kafalı cesedinin hayali gözünün önünden "
-"gitmiyordu."
+"yıkıntıları arasında babasının kesik kafalı cesedinin hayali gözünün önünden"
+" gitmiyordu."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Schism.cfg:28
 msgid ""
 "Companionship and peace... perhaps they are but a farce and certainly an "
 "impossibility with the threat of the orcish clans still looming. It was a "
-"choice to live and suffer the path of solitary vengeance rather than appease "
-"the law of his land... and thus watch his home burn. It was a choice, he "
+"choice to live and suffer the path of solitary vengeance rather than appease"
+" the law of his land... and thus watch his home burn. It was a choice, he "
 "admits, not destiny, not fate. It is a choice that he oft ponders, but "
 "usually comes to the same conclusion. Perhaps there is no point in "
 "reminiscing on his once tranquil, pastoral life. He has never been one for "
 "regrets."
 msgstr ""
-"Arkadaşlık ve huzur ... belki sadece bir saçmalıktı. Ork çetelerinin tehdidi "
-"devam ederken zaten kesinlikle imkansızdı. Ülkesinin yasasına uymak ve "
+"Arkadaşlık ve huzur ... belki sadece bir saçmalıktı. Ork çetelerinin tehdidi"
+" devam ederken zaten kesinlikle imkansızdı. Ülkesinin yasasına uymak ve "
 "böylece evinin yanmasını izleyerek acı çekmek yerine tek başına intikam "
 "yolunda yaşamak bir seçimdi, kader ya da kısmet değil. Bu, sık sık "
 "düşündüğü, ancak genellikle aynı sonuca vardığı bir seçimdi. Belki de bir "
@@ -2110,11 +2127,11 @@ msgstr ""
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Schism.cfg:32
 msgid ""
-"Malin turns his attention to the task at hand. Darken Volk leads him through "
-"the heart of the Whitefang territory, where they terrorize and murder entire "
-"camps of orcs with their undead minions. Word spreads among the orcish "
-"towns, which begin to post more guards and dispatch frequent patrols to "
-"exterminate the two necromancers. All of their attempts fail."
+"Malin turns his attention to the task at hand. Darken Volk leads him through"
+" the heart of the Whitefang territory, where they terrorize and murder "
+"entire camps of orcs with their undead minions. Word spreads among the "
+"orcish towns, which begin to post more guards and dispatch frequent patrols "
+"to exterminate the two necromancers. All of their attempts fail."
 msgstr ""
 "Malin dikkatini elindeki işe verdi. Kara Volk onu Beyazdiş bölgesinin "
 "içlerine kadar götürdü, burada  köleleriyle korku saçıp ork "
@@ -2126,16 +2143,16 @@ msgstr ""
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Schism.cfg:36
 msgid ""
 "As Malin and Darken Volk continue their raids on the orcs, they eventually "
-"force the usually fractious Whitefang chieftains to unite in opposition. The "
-"orcs pursue the two necromancers east toward the mouth of the river humans "
+"force the usually fractious Whitefang chieftains to unite in opposition. The"
+" orcs pursue the two necromancers east toward the mouth of the river humans "
 "call the Longlier and elves call the Arkan-thoria, where they manage to "
 "surround the humans and force a fight."
 msgstr ""
 "Malin ve Kara Volk’un yıllarca verdikleri zarar Beyazdiş dağlarının huysuz "
 "bölge şeflerini karşı tarafta birleşmeye zorlamıştı. Sonunda, orklar "
 "doğudaki iki büyücüyü, elflerin Eski Torya, insanların Uzunca Nehir dediği "
-"nehrin ağzına kadar takip ettiler ve orada insanları kuşatmaya ve bir dövüşe "
-"zorlamaya karar verdiler."
+"nehrin ağzına kadar takip ettiler ve orada insanları kuşatmaya ve bir dövüşe"
+" zorlamaya karar verdiler."
 
 #. [side]: type=Orcish Warlord, id=Borth
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Schism.cfg:74
@@ -2187,8 +2204,8 @@ msgid ""
 "The silly necromancer is trying to talk us to death! You have caused us "
 "enough trouble, human. It is time for you to die."
 msgstr ""
-"Şapşal kara büyücü bize ölümden bahsetmeye çalışıyor. Sıska herif, yeterince "
-"dert açtın başımıza. Geberme vaktin geldi."
+"Şapşal kara büyücü bize ölümden bahsetmeye çalışıyor. Sıska herif, yeterince"
+" dert açtın başımıza. Geberme vaktin geldi."
 
 #. [message]: speaker=P'Gareth
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Schism.cfg:244
@@ -2251,15 +2268,15 @@ msgstr "‘Sen‘ derken, tek başıma mı demek istiyorsun?"
 msgid ""
 "Your apprenticeship is nearly over; you are more than capable of handling a "
 "single, half-dead orc on your own. After you have dealt with him, I do have "
-"a small favor I will ask of you. It will constitute the last part of your... "
-"training. I have some other things that I must attend to in preparation. In "
-"a few weeks, meet with me to the west, near the town of Tath."
+"a small favor I will ask of you. It will constitute the last part of your..."
+" training. I have some other things that I must attend to in preparation. In"
+" a few weeks, meet with me to the west, near the town of Tath."
 msgstr ""
 "Çıraklığın neredeyse bitmek üzere; Tek başına yarı ölü bir ork ile başa "
 "çıkmaktan daha fazlasını yapabilirsin. Bunu başardıktan sonra senden "
 "isteyeceğim küçük bir iyilik olacak. Eğitiminin son bölümünü oluşturacak. "
-"Öncesinde bazı hazırlıklar yapmam lazım. Birkaç hafta içinde benimle batıda, "
-"Tat kasabası yakınlarında buluş."
+"Öncesinde bazı hazırlıklar yapmam lazım. Birkaç hafta içinde benimle batıda,"
+" Tat kasabası yakınlarında buluş."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Schism.cfg:400
@@ -2284,9 +2301,9 @@ msgstr ""
 "Güneye doğru iki günlük seyahaten sonra Malin, yeniden toparlanan ork "
 "savaşçılarının izine rastladı. Beyazdiş Dağları'nı geçerek, Listra nehrinin "
 "batı yakasında takip ederek izlerini sürdü. Yedek kuvvet çağırmak yerine "
-"neden Büyük Nehir boyunca ilerlemeye devam ettiklerini merak ediyordu. Ancak "
-"biraz düşününce orkların nereye gittiğini anladı. İnsan kasabalarına baskın "
-"düzenledikleri mevsimdeydiler."
+"neden Büyük Nehir boyunca ilerlemeye devam ettiklerini merak ediyordu. Ancak"
+" biraz düşününce orkların nereye gittiğini anladı. İnsan kasabalarına baskın"
+" düzenledikleri mevsimdeydiler."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:24
@@ -2300,9 +2317,9 @@ msgid ""
 msgstr ""
 "<i> ‘Bu şefin, kabilenin geri kalanını benim hakkımda uyarmaya niyeti yok. "
 "Onu takip etmek yerine Beyazdişlerin geri kalanına saldırmayı düşüneceğimi, "
-"kardeşleri benimle meşgulken, rahatsız edilmeden daha fazla insan kasabasına "
-"baskın yapabileceğini düşünüyor olmalı, bencil yaratık. Bir orktan başka ne "
-"beklenir. ”</i>  Malin ne yapması gerektiğini dikkatlice ve hızlı bir "
+"kardeşleri benimle meşgulken, rahatsız edilmeden daha fazla insan kasabasına"
+" baskın yapabileceğini düşünüyor olmalı, bencil yaratık. Bir orktan başka ne"
+" beklenir. ”</i>  Malin ne yapması gerektiğini dikkatlice ve hızlı bir "
 "şekilde düşünmeye başladı."
 
 #. [part]
@@ -2314,8 +2331,8 @@ msgid ""
 "surroundings..."
 msgstr ""
 "Partin'e ulaşmadan önce orkları kesmeyi umarak. ormanı yorulmadan geçip, "
-"uykusuz geçen birkaç günden sonra Büyük Nehir'e vardı. Çevresi Malin'e daha  "
-"tanıdık gelmeye başladı..."
+"uykusuz geçen birkaç günden sonra Büyük Nehir'e vardı. Çevresi Malin'e daha"
+"  tanıdık gelmeye başladı..."
 
 #. [side]: type=Lieutenant, id=Drogan
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:94
@@ -2441,7 +2458,9 @@ msgstr ""
 "savunmalıyız!"
 
 #. [message]: speaker=Drogan
-#. the third sentence is "your father would be turning in his grave if he could see what you've become" with intentionally incorrect grammar because Drogan is not well educated
+#. the third sentence is "your father would be turning in his grave if he
+#. could see what you've become" with intentionally incorrect grammar because
+#. Drogan is not well educated
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:314
 msgid ""
 "Better ta face them orcs alone than ta use dark magic! I warned ya about "
@@ -2455,9 +2474,9 @@ msgstr ""
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:319
 msgid ""
-"You dare bring my father into this! I’ve fought with every fiber of my being "
-"against these orcs, and I’ve done it all to protect my country and kinsmen. "
-"Is this how you repay me? With scorn and disdain?"
+"You dare bring my father into this! I’ve fought with every fiber of my being"
+" against these orcs, and I’ve done it all to protect my country and kinsmen."
+" Is this how you repay me? With scorn and disdain?"
 msgstr ""
 "Babamı buna karıştırmaya nasıl cüret edersin Drogan! Varlığımın her "
 "zerresiyle bu kötü orklara karşı savaştım ve bunu ülkemi ve akrabalarımı "
@@ -2467,8 +2486,8 @@ msgstr ""
 #. [message]: role=advisor
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:324
 msgid ""
-"Master, do not listen to him! He is clearly blinded by his own prejudice! He "
-"jeopardizes the safety of Parthyn!"
+"Master, do not listen to him! He is clearly blinded by his own prejudice! He"
+" jeopardizes the safety of Parthyn!"
 msgstr ""
 "Üstat, söylediği yalanları dinleme! Kendi önyargısı gözlerini köreltti! "
 "Partin’in güvenliğini tehlikeye atıyor!"
@@ -2485,21 +2504,21 @@ msgid ""
 "chieftains! If you will allow me to help, I will crush the one who comes "
 "here as well!"
 msgstr ""
-"Drogan! Yeni güçlerimle, birkaç ork şefini çoktan eledim! Yardım etmeme izin "
-"verirsen, buraya gelenleri de ezeceğim!"
+"Drogan! Yeni güçlerimle, birkaç ork şefini çoktan eledim! Yardım etmeme izin"
+" verirsen, buraya gelenleri de ezeceğim!"
 
 #. [message]: speaker=Drogan
 #. ’n means and
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:342
 msgid ""
-"Fine story ye be tellin’ me. I find it likelier that ya brought yer pet orcs "
-"here ta help ya take revenge on us. If I let ya through, yer undead will "
+"Fine story ye be tellin’ me. I find it likelier that ya brought yer pet orcs"
+" here ta help ya take revenge on us. If I let ya through, yer undead will "
 "kill us where we stand ’n sack the whole city. Watchin’ ya grow up, I never "
 "could’ve thought you’d turn into such a traitor."
 msgstr ""
 "Güzel hikaye. Şehirden intikamını almak için ork müttefiklerini yanında "
-"getirmediğin ne malum? Meydanı yarı ölülerine bırakırsak hiç şüphem yok bizi "
-"öldürürsünüz. Büyümeni izlerken, bir haine dönüşeceğine hiç ihtimal "
+"getirmediğin ne malum? Meydanı yarı ölülerine bırakırsak hiç şüphem yok bizi"
+" öldürürsünüz. Büyümeni izlerken, bir haine dönüşeceğine hiç ihtimal "
 "vermemiştim."
 
 #. [message]: speaker=Malin Keshar
@@ -2563,12 +2582,12 @@ msgstr ""
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:455
 msgid ""
 "Did you really think you could outrun the dead, who need neither rest nor "
-"sleep? Prepare to meet your makers, orc. Drogan, I will show you what my new "
-"powers are capable of. You will see how foolish you are to oppose me."
+"sleep? Prepare to meet your makers, orc. Drogan, I will show you what my new"
+" powers are capable of. You will see how foolish you are to oppose me."
 msgstr ""
 "Gerçekten dinlenip uyumaya ihtiyacı olmayan ölülerden kaçabileceğini mi "
-"sandın? Yapımcılarınla buluşmaya hazırlan, ork. Drogan, sana yeni güçlerimin "
-"neler yapabileceğini göstereceğim. Bana karşı çıkmakla ne kadar aptallık "
+"sandın? Yapımcılarınla buluşmaya hazırlan, ork. Drogan, sana yeni güçlerimin"
+" neler yapabileceğini göstereceğim. Bana karşı çıkmakla ne kadar aptallık "
 "ettiğini göreceksin."
 
 #. [message]: speaker=Malin Keshar
@@ -2597,7 +2616,8 @@ msgstr "Ölü balık eve dönüyor."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:599
-msgid "Behold, Drogan! I have slain the orcish chieftain. Do you trust me now?"
+msgid ""
+"Behold, Drogan! I have slain the orcish chieftain. Do you trust me now?"
 msgstr "Bak Drogan! Ork şefini öldürdüm. Şimdi bana güveniyor musun?"
 
 #. [message]: speaker=Drogan
@@ -2613,14 +2633,14 @@ msgstr ""
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:609
 msgid ""
-"What?! You ungrateful cur! You’d sack tha city and let everyone die, and for "
-"what? Only to spurn something you don’t understand? You’re a fool. Parthyn "
-"will only be under greater danger with you leading it. If we are to survive, "
-"<i>you</i> are the one who must leave!"
+"What?! You ungrateful cur! You’d sack tha city and let everyone die, and for"
+" what? Only to spurn something you don’t understand? You’re a fool. Parthyn "
+"will only be under greater danger with you leading it. If we are to survive,"
+" <i>you</i> are the one who must leave!"
 msgstr ""
 "Ne?! Seni nankör köpek! Şehri soyup tüm halkımızın ölmesine izin mi "
-"verecektin, peki ne için? Sadece anlamadığın bir şeyi mahvetmek için mi? Sen "
-"bir aptalsın. Partin sadece sen liderlik yaparsan tehlike altında olacak. "
+"verecektin, peki ne için? Sadece anlamadığın bir şeyi mahvetmek için mi? Sen"
+" bir aptalsın. Partin sadece sen liderlik yaparsan tehlike altında olacak. "
 "Eğer şehrin hayatta kalmasını istiyorsan, şehirden <i>hemen</i> ayrılmak "
 "zorundasın!"
 
@@ -2697,7 +2717,8 @@ msgid ""
 "How could ye possibly think Drogan was tha traitor when you’re the one "
 "attacking Parthyn?"
 msgstr ""
-"Partin'e saldıran kişi sen iken Drogan'ın hain olduğunu nasıl düşünebilirsin?"
+"Partin'e saldıran kişi sen iken Drogan'ın hain olduğunu nasıl "
+"düşünebilirsin?"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:751
@@ -2721,8 +2742,8 @@ msgstr ""
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:761
 msgid ""
 "Then why did you listen to him instead of me? I was trying to keep us "
-"together. He was trying to tear us apart! You wouldn’t even lift a finger to "
-"help me when he threatened to attack me!"
+"together. He was trying to tear us apart! You wouldn’t even lift a finger to"
+" help me when he threatened to attack me!"
 msgstr ""
 "O zaman neden benim yerime onu dinledin? Bizi bir arada tutmaya "
 "çalışıyordum. Bizi ayırmaya çalışıyordu! Bana saldırmakla tehdit ettiğinde "
@@ -2737,8 +2758,8 @@ msgstr "Malin, bu —"
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:771
 msgid ""
 "You’ve always been like this. You never think for yourself. You always just "
-"follow whatever other people tell you. Not a single original thought in your "
-"head."
+"follow whatever other people tell you. Not a single original thought in your"
+" head."
 msgstr ""
 "Sen hep böyleydin. Asla kendin düşünmüyorsun. Her zaman sadece başkalarının "
 "sana söylediklerini takip ediyorsun. Kafanda özgün tek bir düşünce yok."
@@ -2772,8 +2793,8 @@ msgid ""
 "<i>So, no matter what, she’ll be against me? Then this is hopeless. Even if "
 "they intend to fight me, I’ve no wish to fight the townsfolk...</i>"
 msgstr ""
-"<i>Yani, ne olursa olsun, kızkardeşim bana karşı mı olacak? O zaman hiç umut "
-"yok. Benimle savaşmak isteseler bile, kasaba halkıyla savaşmak gibi bir "
+"<i>Yani, ne olursa olsun, kızkardeşim bana karşı mı olacak? O zaman hiç umut"
+" yok. Benimle savaşmak isteseler bile, kasaba halkıyla savaşmak gibi bir "
 "niyetim yok...</i>"
 
 #. [message]: speaker=Malin Keshar
@@ -2792,7 +2813,8 @@ msgid "A monolith of dark stone, shadowed panes reflecting distorted images."
 msgstr "Kara bir dikilitaş, gölgeli bölmeler çarpık görüntüler yansıtıyor."
 
 #. [message]: speaker=DroganGhoul
-#. This is just some guttural sound that a ghoul might make since it can't actually talk
+#. This is just some guttural sound that a ghoul might make since it can't
+#. actually talk
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:914
 msgid "Grahhhuralug..."
 msgstr "Grahh hurag lug..."
@@ -2813,8 +2835,8 @@ msgid ""
 "body as well? How could ya turn him into such a... a hideous thing? I can’t "
 "believe how depraved you’ve become!"
 msgstr ""
-"Ne yaptın?! Drogan'ı öldürmek yetmedi mi — bir de bedenini kirletmek zorunda "
-"mıydın? Onu böyle ... kavruk, iğrenç bir şeye nasıl çevirirsin? Bu kadar "
+"Ne yaptın?! Drogan'ı öldürmek yetmedi mi — bir de bedenini kirletmek zorunda"
+" mıydın? Onu böyle ... kavruk, iğrenç bir şeye nasıl çevirirsin? Bu kadar "
 "baştan çıkmış olduğuna inanamıyorum!"
 
 #. [message]: speaker=Malin Keshar
@@ -2831,8 +2853,8 @@ msgid ""
 "necromancer with only a few paltry minions at his command. The wolves will "
 "feed well tonight!"
 msgstr ""
-"Bak burada ne var! Çöküşün eşiğinde bir insan kenti ve emrinde sadece birkaç "
-"değersiz köle olan bir büyücü. Kurtlar bu gece iyi beslenecek!"
+"Bak burada ne var! Çöküşün eşiğinde bir insan kenti ve emrinde sadece birkaç"
+" değersiz köle olan bir büyücü. Kurtlar bu gece iyi beslenecek!"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:962
@@ -2870,21 +2892,21 @@ msgid ""
 "people, whom I have given everything for... nothing has gone right ever "
 "since I got into an argument with that fat, orc-loving toad Zephrin and "
 "tried to curse him. I was only testing my new spell on him! It was only "
-"supposed to be a simple curse! How was I supposed to know it would kill him? "
-"Blasted Academy."
+"supposed to be a simple curse! How was I supposed to know it would kill him?"
+" Blasted Academy."
 msgstr ""
 "Aman Allah, bu nasıl oldu? Kız kardeşim ölümümü şahsen görmeye kararlı. "
 "Partin'den kovuldum, ülkem, evim ... herşeyimi verdiğim halkım tarafından "
 "kovuldum ... o şişko, ork seven kurbağa Zefrin ile tartışmaya başladığımdan "
-"beri hiçbir şey yolunda gitmedi onu. Sadece üzerinde yeni büyümü deniyordum! "
-"Sadece basit bir lanet olması gerekiyordu! Onu öldüreceğini nasıl "
+"beri hiçbir şey yolunda gitmedi onu. Sadece üzerinde yeni büyümü deniyordum!"
+" Sadece basit bir lanet olması gerekiyordu! Onu öldüreceğini nasıl "
 "bilebilirdim? Lanet olası Akademi."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:993
 msgid ""
-"... Now the only being who still wants to see me alive is a necromancer. I’m "
-"beginning to think that I’m the one who was cursed..."
+"... Now the only being who still wants to see me alive is a necromancer. I’m"
+" beginning to think that I’m the one who was cursed..."
 msgstr ""
 "... Artık benim canlı kalmamı isteyen tek kişi kaldı o da bir kara büyücü. "
 "Lanetlendiğimi düşünmeye başladım ..."
@@ -2898,10 +2920,10 @@ msgstr "Küçük Bir İyilik — I"
 #: data/campaigns/Descent_Into_Darkness/scenarios/07a_A_Small_Favor.cfg:84
 msgid ""
 "Fleeing from the city of his birth, Malin escapes into the forested hills "
-"north of the Great River. Some distance west, he finally stops after several "
-"days bereft of rest and sleep. He closes his eyes, trying to purge the last "
-"few hours from his mind, but the darkness only makes the images all the more "
-"vivid. He is tired, <i>so</i> tired, but sleep does not come."
+"north of the Great River. Some distance west, he finally stops after several"
+" days bereft of rest and sleep. He closes his eyes, trying to purge the last"
+" few hours from his mind, but the darkness only makes the images all the "
+"more vivid. He is tired, <i>so</i> tired, but sleep does not come."
 msgstr ""
 "Doğduğu şehirden kaçan Malin, Büyük Nehir'in kuzeyindeki ormanlık tepelere "
 "gider. Bir süre batıya doğru birkaç gün ilerledikten sonra uyumak ve "
@@ -2913,9 +2935,9 @@ msgstr ""
 #: data/campaigns/Descent_Into_Darkness/scenarios/07a_A_Small_Favor.cfg:88
 msgid ""
 "<i>“No regrets. No regrets...”</i> He repeats it under his breath like a "
-"chant, murmuring over and over in his half-conscious state. After a while, a "
-"second voice joins, a voice that sounds very much like his own, but somehow "
-"feels foreign and alien. <i>‘There could have been another way. You might "
+"chant, murmuring over and over in his half-conscious state. After a while, a"
+" second voice joins, a voice that sounds very much like his own, but somehow"
+" feels foreign and alien. <i>‘There could have been another way. You might "
 "have been wrong.’</i>"
 msgstr ""
 "<i>“Pişmanlık yok. Pişmanlık duymak yok…”</i> Yarı bilinçli haliyle "
@@ -2930,14 +2952,14 @@ msgid ""
 "the same. They are wrong... blind. I have no regrets about what I did. No "
 "regrets...”</i> He quells the voice. Sleep comes, long stretches of "
 "dreamless darkness punctuated briefly by nightmarish forms — distorted, "
-"grotesque things that whisper in eerily familiar voices. <i>‘You are cursed, "
-"Malin the Damned! Cursed! Cursed. Cursed...’</i> They echo over and over, "
+"grotesque things that whisper in eerily familiar voices. <i>‘You are cursed,"
+" Malin the Damned! Cursed! Cursed. Cursed...’</i> They echo over and over, "
 "first a choir, then a duet, both male, then just one, a single voice alone "
 "in the darkness."
 msgstr ""
-"<i>“Hayır, hayır. Başka bir yolu olsa bile, beni aynı şekilde mahvederlerdi. "
-"Yanılıyorlar ... görmüyorlar. Yaptıklarımdan pişman değilim. Pişmanlık "
-"yok ... ”</i> Sese yanıt vermeye çalışıyor. Uykusu gelir, uzun rüya gibi "
+"<i>“Hayır, hayır. Başka bir yolu olsa bile, beni aynı şekilde mahvederlerdi."
+" Yanılıyorlar ... görmüyorlar. Yaptıklarımdan pişman değilim. Pişmanlık yok "
+"... ”</i> Sese yanıt vermeye çalışıyor. Uykusu gelir, uzun rüya gibi "
 "karanlıklar ve kabuslar,  aşina oldukları seslerle fısıldayan, çarpık, "
 "acımasız biçimler tarafından uykusu delinir. <i>Lanetlisin, Lanetli Malin! "
 "Lanetli! Lanetli. Lanetli ... '</i> Karanlıkta önce bir koro yankılanır "
@@ -2961,14 +2983,14 @@ msgstr ""
 msgid ""
 "<i>“For your final test as my apprentice, you will aid me in retrieving a "
 "book,”</i> the necromancer says. <i>“The book was... stolen from me long "
-"ago. It has personal value to me, so you may think of this as a small favor. "
-"However, this task will require you to act against your countrymen of "
+"ago. It has personal value to me, so you may think of this as a small favor."
+" However, this task will require you to act against your countrymen of "
 "Wesnoth, since it was one of them who took it from me.”</i>"
 msgstr ""
 "<i>‘Çırağım olarak son sınavında bir kitabı almama yardım edeceksin.’ </i> "
 "dedi kara büyücü. <i>\"Kitap uzun zaman önce çalınmıştı. Benim için kişisel "
-"değeri var. Bu görevi küçük bir iyilik gibi düşünebilirsin. Bu bakımdan seni "
-"uyarmalıyım; kitabı benden çalanlar Vesnot’lu yurttaşların olduğundan bu "
+"değeri var. Bu görevi küçük bir iyilik gibi düşünebilirsin. Bu bakımdan seni"
+" uyarmalıyım; kitabı benden çalanlar Vesnot’lu yurttaşların olduğundan bu "
 "görevde onlara karşı dövüşeceksin.\"</i>"
 
 #. [part]
@@ -2980,13 +3002,13 @@ msgstr ""
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/07a_A_Small_Favor.cfg:108
 msgid ""
-"Darken Volk continues, <i>“Excellent. There is a lady of Tath by the name of "
-"Karae. She was trained as a mage in her youth and now uses her wealth to "
+"Darken Volk continues, <i>“Excellent. There is a lady of Tath by the name of"
+" Karae. She was trained as a mage in her youth and now uses her wealth to "
 "support a large number of mages in their studies. Among her library is the "
 "book we seek. We shall break into her manor and search from there.”</i>"
 msgstr ""
-"Kara Volk devam etti: <i>‘Mükemmel. Karres adında bir Tat hanımefendisi var. "
-"Gençliğinde bir büyücü olarak yetiştirildi. Şimdi servetini çalışmalarında "
+"Kara Volk devam etti: <i>‘Mükemmel. Karres adında bir Tat hanımefendisi var."
+" Gençliğinde bir büyücü olarak yetiştirildi. Şimdi servetini çalışmalarında "
 "çok çeşitli büyülere destek sağlamak için kullanıyor. Aradığımız kitap "
 "kütüphanesinde. Malikanesine girip kitabı aramamız lazım.’</i>"
 
@@ -3078,10 +3100,10 @@ msgstr ""
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/07a_A_Small_Favor.cfg:483
 msgid ""
-"The stolen book lies within Lady Karae’s manor at the north end of the city. "
-"It will be difficult for us to defeat the entire city guard, so we must stay "
-"hidden as long as possible. For now, we can make use of this fog. I shall "
-"use it to cast a spell to obscure the town guards’ vision."
+"The stolen book lies within Lady Karae’s manor at the north end of the city."
+" It will be difficult for us to defeat the entire city guard, so we must "
+"stay hidden as long as possible. For now, we can make use of this fog. I "
+"shall use it to cast a spell to obscure the town guards’ vision."
 msgstr ""
 "Çalınan kitap, Komutan Karres’in kentin kuzey ucundaki malikanesinde "
 "bulunuyor. Kent muhafızlarının tamamını yenemeyeceğimiz için mümkün "
@@ -3092,8 +3114,8 @@ msgstr ""
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/07a_A_Small_Favor.cfg:504
 msgid ""
-"This spell will not hide us completely. If we stray too close to the guards, "
-"they will still be able to see us. Once we are spotted, we shall have to "
+"This spell will not hide us completely. If we stray too close to the guards,"
+" they will still be able to see us. Once we are spotted, we shall have to "
 "make a run for it. The faster we enter the manor, the more time we shall "
 "have to search for the book before the guards can pursue us."
 msgstr ""
@@ -3107,7 +3129,8 @@ msgstr ""
 msgid ""
 "Note: Only the units you recruit now will be available to you once inside."
 msgstr ""
-"Bilginize: İçerde sadece şimdi askere aldığınız birimler kullanılabilecektir."
+"Bilginize: İçerde sadece şimdi askere aldığınız birimler "
+"kullanılabilecektir."
 
 #. [message]: speaker=unit
 #: data/campaigns/Descent_Into_Darkness/scenarios/07a_A_Small_Favor.cfg:525
@@ -3146,8 +3169,9 @@ msgstr ""
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/07a_A_Small_Favor.cfg:656
 msgid ""
-"Oh? The temple healers are trying to heal a man who is already dead. Perhaps "
-"you could... give them a little demonstration as to how it is actually done."
+"Oh? The temple healers are trying to heal a man who is already dead. Perhaps"
+" you could... give them a little demonstration as to how it is actually "
+"done."
 msgstr ""
 "Ah? Tapınak şifacıları zaten ölmüş bir adamı iyileştirmeye çalışıyorlar. "
 "Belki siz... onlara bunun gerçekte nasıl yapıldığına dair küçük bir örnek "
@@ -3180,8 +3204,8 @@ msgid ""
 "have brewed themselves. As you might guess from the name, it is quite "
 "effective against undead."
 msgstr ""
-"Çömleklere dikkat edin. Görünüşe göre bu büyücülerin kendi yaptıkları kutsal "
-"suyu içeriyor. Adından da tahmin edebileceğiniz gibi, yarı ölülere karşı "
+"Çömleklere dikkat edin. Görünüşe göre bu büyücülerin kendi yaptıkları kutsal"
+" suyu içeriyor. Adından da tahmin edebileceğiniz gibi, yarı ölülere karşı "
 "oldukça etkilidir."
 
 #. [message]: speaker=Taylor
@@ -3268,8 +3292,8 @@ msgstr "Yarölüleri indirin! Hepsini yok edin!"
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/07b_A_Small_Favor2.cfg:644
 msgid ""
-"The city guard has entered the manor. We will have to hold them off while we "
-"search."
+"The city guard has entered the manor. We will have to hold them off while we"
+" search."
 msgstr ""
 "Şehir muhafızları malikaneye girdi. Kitabı ararken onları uzak tutmamız "
 "gerekecek."
@@ -3298,8 +3322,8 @@ msgstr "... başarısızlık korkusu."
 #: data/campaigns/Descent_Into_Darkness/scenarios/07b_A_Small_Favor2.cfg:711
 msgid "<i>There is nothing good or bad, but thinking makes it so.</i>"
 msgstr ""
-"<i>Hiçbir şey sadece iyi ya da sadece kötü değildir, ancak öyle düşünürüz.</"
-"i>"
+"<i>Hiçbir şey sadece iyi ya da sadece kötü değildir, ancak öyle "
+"düşünürüz.</i>"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/07b_A_Small_Favor2.cfg:722
@@ -3375,8 +3399,8 @@ msgid ""
 "As impudent as ever. What lies in that book is not meant for human eyes — "
 "yours or mine."
 msgstr ""
-"Her zamanki gibi düşüncesiz. Bu kitapta yazan şey — sizin veya benim gibi  — "
-"insanların gözü için değildir."
+"Her zamanki gibi düşüncesiz. Bu kitapta yazan şey — sizin veya benim gibi  —"
+" insanların gözü için değildir."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/07b_A_Small_Favor2.cfg:858
@@ -3386,15 +3410,16 @@ msgstr "Tartışmaya gelmedim."
 #. [message]: speaker=Lady Karae
 #: data/campaigns/Descent_Into_Darkness/scenarios/07b_A_Small_Favor2.cfg:862
 msgid ""
-"Of course you are not. I assume your arrogance has only grown over the years."
+"Of course you are not. I assume your arrogance has only grown over the "
+"years."
 msgstr ""
 "Tabii ki sizin için değil. Kibirinizin yıllar geçtikçe büyüdüğünü görüyorum."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/07b_A_Small_Favor2.cfg:866
 msgid ""
-"If you wish to continue lecturing me, by all means, do so. It will only make "
-"you easier to kill."
+"If you wish to continue lecturing me, by all means, do so. It will only make"
+" you easier to kill."
 msgstr ""
 "Bana ders vermek istiyorsan, devam et, elbette, öyle yap. Seni öldürmemi "
 "kolaylaştır."
@@ -3460,8 +3485,8 @@ msgstr ""
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/07b_A_Small_Favor2.cfg:1033
 msgid ""
-"Fool boy! You took too long to find the path to the vault! Now we are at the "
-"mercy of the city guards!"
+"Fool boy! You took too long to find the path to the vault! Now we are at the"
+" mercy of the city guards!"
 msgstr ""
 "Aptal çocuk! Kasayı bulman çok uzun sürdü! Şimdi şehir muhafızlarının "
 "insafına kaldık!"
@@ -3643,8 +3668,8 @@ msgstr "Sonunda Tek Başına"
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:19
 msgid ""
-"As he enters the tunnel underneath Lady Karae’s manor, Darken Volk gestures, "
-"causing the entrance to collapse. The two necromancers turn and begin "
+"As he enters the tunnel underneath Lady Karae’s manor, Darken Volk gestures,"
+" causing the entrance to collapse. The two necromancers turn and begin "
 "walking down the pitch-black tunnel, temporarily safe from pursuit."
 msgstr ""
 "Komutan Karres’in malikanesinin altındaki tünele girer girmez, Kara Volk "
@@ -3672,8 +3697,8 @@ msgstr ""
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:27
 msgid ""
-"They continue walking through the damp, cold air all through the morning and "
-"day, finally emerging as the last rays of sunlight sink below the horizon."
+"They continue walking through the damp, cold air all through the morning and"
+" day, finally emerging as the last rays of sunlight sink below the horizon."
 msgstr ""
 "Rutubetli ve soğuk tünelde sabahtan akşama kadar yürüdüler. Sonunda güneşin "
 "son ışıkları ufuktan kaybolurken tünelden çıktılar."
@@ -3695,8 +3720,8 @@ msgid ""
 "Well, we got your precious book and made it out of Tath in one piece. What "
 "do we do now?"
 msgstr ""
-"Güzel, kıymetli kitabını aldık ve  tek parça halinde Tat'ın dışına çıkardık. "
-"Şimdi ne yapıyoruz?"
+"Güzel, kıymetli kitabını aldık ve  tek parça halinde Tat'ın dışına çıkardık."
+" Şimdi ne yapıyoruz?"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:225
@@ -3773,7 +3798,8 @@ msgstr "Neden hiçbir şey söylemiyorsun? Hiç mi umursamıyorsun?!"
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:336
 msgid ""
-"... you can’t abandon me too, not the way they did... Father, Drogan, Dela..."
+"... you can’t abandon me too, not the way they did... Father, Drogan, "
+"Dela..."
 msgstr ""
 "... sen de terk edemezsin beni... babam, Drogan, Dela... onlar gibi yapma..."
 
@@ -3811,8 +3837,8 @@ msgid ""
 "You let me believe Parthyn would accept me back, so when they didn’t, I "
 "would be willing to attack my own countrymen!"
 msgstr ""
-"Beni Partin’e geri kabul edeceklerine inandırdın. Böylece, kabul etmedikleri "
-"takdirde kendi yurttaşlarıma saldırmaya razı olacaktım!"
+"Beni Partin’e geri kabul edeceklerine inandırdın. Böylece, kabul etmedikleri"
+" takdirde kendi yurttaşlarıma saldırmaya razı olacaktım!"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:458
@@ -3837,8 +3863,8 @@ msgstr ""
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:468
 msgid ""
-"The only thing I have done is given you the power to achieve your own goals. "
-"The rest, you have done yourself."
+"The only thing I have done is given you the power to achieve your own goals."
+" The rest, you have done yourself."
 msgstr ""
 "Yaptığım tek şey, sana kendi hedeflerine ulaşma gücü vermekti. Gerisini "
 "kendin yaptın."
@@ -3854,8 +3880,8 @@ msgid ""
 "Fighting the orcs is your ambition, not mine. You cannot expect me to help "
 "you in an endeavor that does not concern me at all."
 msgstr ""
-"Orklarla savaşmak senin tutkun, benim değil. Beni ilgilendirmeyen bir konuda "
-"sana yardım etmemi bekleyemezsiniz."
+"Orklarla savaşmak senin tutkun, benim değil. Beni ilgilendirmeyen bir konuda"
+" sana yardım etmemi bekleyemezsiniz."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:483
@@ -3863,8 +3889,8 @@ msgid ""
 "The very same to you! I helped you retrieve that book! If you will not help "
 "me with my mission, I will at least keep the fruits of my labor."
 msgstr ""
-"Aynı şey senin için de geçerli! O kitabı almana yardım ettim! Görevimde bana "
-"yardım etmezsen, en azından çabalarımın semeresi elimde kalacak."
+"Aynı şey senin için de geçerli! O kitabı almana yardım ettim! Görevimde bana"
+" yardım etmezsen, en azından çabalarımın semeresi elimde kalacak."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:488
@@ -3884,8 +3910,8 @@ msgstr "Şimdi bana yaptıklarının bedelini ödeyeceksin."
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:513
 msgid ""
-"Done? I have done nothing but give you an opportunity. What you choose to do "
-"with your life is not my business. Leave me alone!"
+"Done? I have done nothing but give you an opportunity. What you choose to do"
+" with your life is not my business. Leave me alone!"
 msgstr ""
 "Ne yapmışım? Sana bir fırsat vermekten başka bir şey yapmadım. Sen kendi "
 "yolunu kendin seçtin. Şimdi beni yalnız bırak!"
@@ -3923,9 +3949,9 @@ msgstr "Bay Kadageyus"
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:697
 msgid ""
 "Your travels in this region have not gone unnoticed, necromancers! The "
-"disaster you wreaked upon the good city of Tath and the noble Lady Karae can "
-"only be paid back in turn with your blood. Yes, on this day, you shall have "
-"to answer for your innumerable crimes."
+"disaster you wreaked upon the good city of Tath and the noble Lady Karae can"
+" only be paid back in turn with your blood. Yes, on this day, you shall have"
+" to answer for your innumerable crimes."
 msgstr ""
 "Bu bölgedeki yolculuklarınız sırasında fark edilmediğinizi sanmayın, "
 "büyücüler! Tat şehrine ve asil Komutan Karres'e verdiğiniz zararlar, ancak "
@@ -3970,8 +3996,8 @@ msgstr ""
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:776
 msgid ""
 "Nothing to say this time? No quip ’bout how we don’t understand ya? No "
-"comment about yer moral superiority? I can only hope you’ll be so quiet when "
-"I kill you."
+"comment about yer moral superiority? I can only hope you’ll be so quiet when"
+" I kill you."
 msgstr ""
 "Bu sefer söyleyecek bir şey yok mu? Seni nasıl anlamadığımızla ilgili bir "
 "iğneleme yok mu? Ahlaki üstünlüğün hakkında yorum yok mu? Umarım seni "
@@ -3982,8 +4008,8 @@ msgstr ""
 msgid ""
 "Vile fiend... I regret that I was... not strong enough... to destroy you..."
 msgstr ""
-"Aşağılık şeytan ... pişmanım ... seni ... yetecek kadar güçlü olmadığım "
-"için ..."
+"Aşağılık şeytan ... pişmanım ... seni ... yetecek kadar güçlü olmadığım için"
+" ..."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:795
@@ -4009,7 +4035,8 @@ msgstr ""
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:879
-msgid "I have already been cursed many times over. One more time is nothing..."
+msgid ""
+"I have already been cursed many times over. One more time is nothing..."
 msgstr "Zaten defalarca lanetlenmiştim. Bir kez daha farketmez..."
 
 #. [message]: speaker=Malin Keshar
@@ -4123,11 +4150,11 @@ msgstr "Şimdi hepsi ölü. Şövalye, Kara Volk, Dela ..."
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:1167
 msgid ""
-"All that I have fought for, everyone who I have tried to protect, everything "
-"is gone. Everyone is dead. Is this truly all that I am left with?"
+"All that I have fought for, everyone who I have tried to protect, everything"
+" is gone. Everyone is dead. Is this truly all that I am left with?"
 msgstr ""
-"Uğruna savaştığım her şey, korumaya çalıştığım herkes, her şey gitti. Herkes "
-"öldü. Uğruna terkettiğim şey gerçekten bu mu?"
+"Uğruna savaştığım her şey, korumaya çalıştığım herkes, her şey gitti. Herkes"
+" öldü. Uğruna terkettiğim şey gerçekten bu mu?"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:1172
@@ -4142,11 +4169,11 @@ msgstr "<i>\"Umacı haline gelmek için önce ölmek gerekir.’</i>"
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:37
 msgid ""
-"So reads the book that Malin has reclaimed. <i>“The spells of necromancy can "
-"free the spirit from the limitations of the flesh, but only once the soul "
+"So reads the book that Malin has reclaimed. <i>“The spells of necromancy can"
+" free the spirit from the limitations of the flesh, but only once the soul "
 "has been unbound from the body. The necromancer must make the necessary "
-"incantations with his dying breaths, then conquer his own spirit in much the "
-"same way he binds the spirits of others. Because he retains his own will, "
+"incantations with his dying breaths, then conquer his own spirit in much the"
+" same way he binds the spirits of others. Because he retains his own will, "
 "however, the lich can call upon the awesome powers of the spirit world.”</i>"
 msgstr ""
 "Böylece, Malin geri aldığı kitabı okumayı sürdürdü. <i>\"Ölü canlandırma "
@@ -4161,14 +4188,14 @@ msgstr ""
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:41
 msgid ""
 "Malin closes the book. After all this time and all that he has struggled "
-"for, could he just surrender to despair and perish? He has never been one to "
-"simply give up, but then, is there anything left for him to struggle for? "
+"for, could he just surrender to despair and perish? He has never been one to"
+" simply give up, but then, is there anything left for him to struggle for? "
 "Still, the words, that terrifying idea, stick in the back of his mind. Life "
-"has offered him nothing; could death be any worse? Death... and not rebirth, "
-"but undeath."
+"has offered him nothing; could death be any worse? Death... and not rebirth,"
+" but undeath."
 msgstr ""
-"Malin kitabı kapattı. Bunca zaman ve uğraştığı her şeyden sonra, umutsuzluğa "
-"kapılıp, yok olmak için teslim olabilir mi? Öyle olabilir mi ... pes eder "
+"Malin kitabı kapattı. Bunca zaman ve uğraştığı her şeyden sonra, umutsuzluğa"
+" kapılıp, yok olmak için teslim olabilir mi? Öyle olabilir mi ... pes eder "
 "mi? Yine de, bu korkunç fikir. Hayat ona hiçbir şey sunmadı; ölüm daha kötü "
 "olabilir mi? Ölüm ... ve yeniden doğuş... hayır, yarı ölü.."
 
@@ -4176,9 +4203,9 @@ msgstr ""
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:45
 msgid ""
 "With all of Wesnoth forbidden to him, Malin finds refuge in a secluded "
-"frontier village where few questions are asked. When word eventually filters "
-"to the town that Parthyn has been overrun by orcs, Malin rouses himself from "
-"his listless state without really knowing why, and heads northward."
+"frontier village where few questions are asked. When word eventually filters"
+" to the town that Parthyn has been overrun by orcs, Malin rouses himself "
+"from his listless state without really knowing why, and heads northward."
 msgstr ""
 "Vesnot'a girmesi yasaklandığından, çok az soru sorulan isimsiz bir sınır "
 "köyünde sığınacak bir yer buldu. Söylentilere bakılırsa, Partin orklar "
@@ -4188,30 +4215,30 @@ msgstr ""
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:49
 msgid ""
-"Malin soon finds the track of an enormous orc army and follows them until he "
-"reaches their camps. As he sees the number of orcs, he begins to realize the "
-"futility of his quest — harassing and harrying one clan of orcs is a far "
-"different task than waging a truly meaningful war against them as a whole. "
+"Malin soon finds the track of an enormous orc army and follows them until he"
+" reaches their camps. As he sees the number of orcs, he begins to realize "
+"the futility of his quest — harassing and harrying one clan of orcs is a far"
+" different task than waging a truly meaningful war against them as a whole. "
 "Then again, perhaps he is beyond the point of ordinary reason."
 msgstr ""
 "Malin kısa sürede muazzam bir ork ordusunun izini buldu ve kamplarına "
 "ulaşana kadar onları takip etti. Ork sayısını gördüğünde, arayışının boşa "
 "gittiğini anlamaya başladı — bir ork kabilesini taciz etmek ve onlardan "
-"kurtulmak, onlara karşı tamamen anlamlı bir savaş yürütmekten çok farklı bir "
-"görevdir."
+"kurtulmak, onlara karşı tamamen anlamlı bir savaş yürütmekten çok farklı bir"
+" görevdir."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:53
 msgid ""
 "<i>There is nothing else left for me to do anyway,</i> Malin thinks, and "
 "raises his undead to assault the camp. Within mere minutes, nearly his "
-"entire army is destroyed and he is badly injured by a poisoned dagger. Malin "
-"retreats and finds refuge in a small cave."
+"entire army is destroyed and he is badly injured by a poisoned dagger. Malin"
+" retreats and finds refuge in a small cave."
 msgstr ""
 "<i>Zaten yapacak başka bir şey kalmadı</i> diye düşünen Malin ve kampa "
 "saldırmak için kölelerini kaldırdı. Birkaç dakika içinde neredeyse tüm "
-"ordusu yok edildi ve zehirli bir hançerle ağır yaralandı. Malin geri çekilip "
-"küçük bir mağaraya sığındı."
+"ordusu yok edildi ve zehirli bir hançerle ağır yaralandı. Malin geri çekilip"
+" küçük bir mağaraya sığındı."
 
 #. [side]
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:93
@@ -4252,8 +4279,8 @@ msgstr "Öyle görünüyor..."
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:414
 msgid ""
-"Perhaps it would be a suitable end. The orcs were the ones who provoked this "
-"journey of mine. Would it not be fitting for them to end my quest as well?"
+"Perhaps it would be a suitable end. The orcs were the ones who provoked this"
+" journey of mine. Would it not be fitting for them to end my quest as well?"
 msgstr ""
 "Belki de uygun bir son olurdu. Bu yolculuğa beni kışkırtanlar orklardı. Bu "
 "arayışıma son vermeleri de uygun olmaz mıydı?"
@@ -4348,18 +4375,19 @@ msgstr "Et ölür ya sonra ..."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:850
-msgid "Drain the blood, strip away the meat, and all that is left is the bone."
+msgid ""
+"Drain the blood, strip away the meat, and all that is left is the bone."
 msgstr "Kanı boşalt, eti sıyır, geriye kemik kalsın."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:877
 msgid ""
-"I remember a time when I thought skeletons were repulsive, sickening things. "
-"I suppose it’s only natural for the living to fear the most prominent figure "
-"of death. Even if I grew out of such a naive thought... I suppose I couldn’t "
-"have expected Drogan and Dela to follow suit so easily. My family and "
-"friends, yes, but they were nothing but simpletons. If only they had tried "
-"to understand me instead of shunning me outright."
+"I remember a time when I thought skeletons were repulsive, sickening things."
+" I suppose it’s only natural for the living to fear the most prominent "
+"figure of death. Even if I grew out of such a naive thought... I suppose I "
+"couldn’t have expected Drogan and Dela to follow suit so easily. My family "
+"and friends, yes, but they were nothing but simpletons. If only they had "
+"tried to understand me instead of shunning me outright."
 msgstr ""
 "İskeletlerin itici, rahatsız edici şeyler olduğunu düşündüğüm bir zamanı "
 "hatırlıyorum. Sanırım, yaşamın en belirgin ölüm figüründen korkması doğal. "
@@ -4395,16 +4423,16 @@ msgstr ""
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:1092
 msgid ""
-"Bah! I don’t deserve this, and I certainly don’t answer to someone like her. "
-"I have only ever fought to protect my people and my family, but the only "
+"Bah! I don’t deserve this, and I certainly don’t answer to someone like her."
+" I have only ever fought to protect my people and my family, but the only "
 "thing I received in return was scorn and exile. My own sister thought I was "
 "a monster for using my power to save our town. My people would rather feed "
 "themselves to orcs than follow my ‘sorcerous ways’. Drogan, Dela... all of "
 "them! They are the ones without souls, not me!"
 msgstr ""
-"Peh! Bunu hak etmiyorum ve kesinlikle onun gibi birine cevap vermiyorum. Ben "
-"sadece halkımı ve ailemi korumak için savaştım ama karşılığında aldığım tek "
-"şey küçümseme ve sürgündü. Kendi kardeşim kasabamızı kurtarmak için gücümü "
+"Peh! Bunu hak etmiyorum ve kesinlikle onun gibi birine cevap vermiyorum. Ben"
+" sadece halkımı ve ailemi korumak için savaştım ama karşılığında aldığım tek"
+" şey küçümseme ve sürgündü. Kendi kardeşim kasabamızı kurtarmak için gücümü "
 "kullandığım için bir canavar olduğumu düşündü. Halkım, benim \"büyülü "
 "yollarım\"ı izlemektense kendilerini orklara sunmayı tercih ediyor. Drogan, "
 "Dela... hepsi! Ruhu olmayan onlar, ben değilim!"
@@ -4412,8 +4440,8 @@ msgstr ""
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:1097
 msgid ""
-"I should not really care anymore. I don’t care anymore. According to them, I "
-"have forsaken my soul already. So what does it matter?"
+"I should not really care anymore. I don’t care anymore. According to them, I"
+" have forsaken my soul already. So what does it matter?"
 msgstr ""
 "Artık gerçekten umursamamalıyım. Artık umursamıyorum. Onlara göre, ruhumu "
 "çoktan terk ettim. Öyleyse ne önemi var?"
@@ -4422,7 +4450,8 @@ msgstr ""
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:1102
 msgid "I should not regret anything. I’m not really one for regrets..."
 msgstr ""
-"Hiçbir şeyden pişman olmamalıyım. Ben gerçekten pişmanlık duyan biri değilim."
+"Hiçbir şeyden pişman olmamalıyım. Ben gerçekten pişmanlık duyan biri "
+"değilim."
 
 #. [unit]: id=MKSpirit, type=Spectre
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:1170
@@ -4583,15 +4612,11 @@ msgstr "Mal Keşnar’ın yok edilmesi"
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:1968
 msgid ""
-"<s><i>Welcome to Zephryn’s laboratory. Please be mindful of ongoing "
-"experiments during your visit.</i></s>\n"
-"<big><i><b>This territory is the domain of the mighty Xanthric. All "
-"unwelcome intruders shall die.</b></i></big>"
+"<s><i>Welcome to Zephryn’s laboratory. Please be mindful of ongoing experiments during your visit.</i></s>\n"
+"<big><i><b>This territory is the domain of the mighty Xanthric. All unwelcome intruders shall die.</b></i></big>"
 msgstr ""
-"<s><i>Zefrin’in laboratuarına hoş geldiniz. Lütfen ziyaretiniz sırasında "
-"devam eden deneylere dikkat edin.</i></s>\n"
-"<big><i><b>Bu bölge, güçlü Sandrik’in etki alanıdır. İstenmeyen davetsiz "
-"misafirlerin tümü ölecek.</b></i></big>"
+"<s><i>Zefrin’in laboratuarına hoş geldiniz. Lütfen ziyaretiniz sırasında devam eden deneylere dikkat edin.</i></s>\n"
+"<big><i><b>Bu bölge, güçlü Sandrik’in etki alanıdır. İstenmeyen davetsiz misafirlerin tümü ölecek.</b></i></big>"
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:1983
@@ -4693,8 +4718,8 @@ msgstr "Yeni bir iksir keşfettin!"
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:2538
 msgid ""
 "Mal Keshar drinks the potion and feels energy flow through his skeletal "
-"form. The power of death surges in his vacant body, threatening to overflow, "
-"to burst free, but at the last moment, he reins it in. The stream of magic "
+"form. The power of death surges in his vacant body, threatening to overflow,"
+" to burst free, but at the last moment, he reins it in. The stream of magic "
 "trickles down to drops, diminished, tempered, but manageable."
 msgstr ""
 "Mal Keshar, iksiri içer ve iskeletinde bir enerji akışını hisseder. Ölümün "
@@ -4763,12 +4788,12 @@ msgstr "Kemikleri yaktın!"
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:2857
 msgid ""
 "Ash swirls upward, charred remnants of the once living. Charcoal from bone, "
-"embers from flesh, he consumes the pallid cinders, siphoning away the energy "
-"with a draining touch."
+"embers from flesh, he consumes the pallid cinders, siphoning away the energy"
+" with a draining touch."
 msgstr ""
 "Kül yukarı doğru kıvrılıyor, bir zamanlar yaşayan kömürleşmiş artıklar. "
-"Sömürücü bir dokunuşla enerjisini emerek kemiği kömüre, eti köze  dönüştürüp "
-"solgun külleri tüketiyor."
+"Sömürücü bir dokunuşla enerjisini emerek kemiği kömüre, eti köze  dönüştürüp"
+" solgun külleri tüketiyor."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:2914
@@ -4795,9 +4820,9 @@ msgstr "Buralar tanıdık geliyor."
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:3035
 msgid ""
-"The blood is drained and the flesh is stripped. The bone remains, waiting to "
-"be reanimated. A necromancer’s most basic weapon is that, the puppet body of "
-"a skeleton."
+"The blood is drained and the flesh is stripped. The bone remains, waiting to"
+" be reanimated. A necromancer’s most basic weapon is that, the puppet body "
+"of a skeleton."
 msgstr ""
 "Kan boşaltılır ve eti soyulur. Kemik kalır, yeniden canlandırılmayı bekler. "
 "Bir kara büyücünün en temel silahı, bir iskeletin kukla gövdesidir."
@@ -4830,8 +4855,8 @@ msgstr "Kendi entrikalarınızın bir kuklası."
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:3065
 msgid ""
 "From the outset, deep down, you knew. If you followed this path, they would "
-"never accept you. Yet, you manipulated yourself into believing the opposite. "
-"You could not face the truth."
+"never accept you. Yet, you manipulated yourself into believing the opposite."
+" You could not face the truth."
 msgstr ""
 "En başından beri, derinlerde biliyordun. Bu yolu izleseydin seni asla kabul "
 "etmezlerdi. Yine de, tam tersine inanmak için kendinizi ikna ettiniz. "
@@ -4865,19 +4890,19 @@ msgstr "Yeteri kadarı."
 #. [message]: speaker=Fake Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:3135
 msgid ""
-"This is what you have become. A decaying soul chained within the puppet form "
-"of a skeleton."
+"This is what you have become. A decaying soul chained within the puppet form"
+" of a skeleton."
 msgstr "Bu hale geldin. İskeletten bir kuklaya zincirlenmiş çürüyen bir ruh."
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:3140
 msgid ""
 "A rotten soul? I was never concerned with such things to begin with. When "
-"you are slain by orcs and decompose into nothing but a maggot-eaten carcass, "
-"no ‘soul’ is going to be of any use."
+"you are slain by orcs and decompose into nothing but a maggot-eaten carcass,"
+" no ‘soul’ is going to be of any use."
 msgstr ""
-"Çürümüş bir ruh mu? Başta böyle şeylerle hiç ilgilenmedim. Orklar tarafından "
-"katledildiğinde ve kurtçuk yemiş bir karkastan başka bir şeye "
+"Çürümüş bir ruh mu? Başta böyle şeylerle hiç ilgilenmedim. Orklar tarafından"
+" katledildiğinde ve kurtçuk yemiş bir karkastan başka bir şeye "
 "dönüşmediğinde, hiçbir \"ruh\"un hiçbir faydası olmaz."
 
 #. [message]: speaker=Fake Mal Keshar
@@ -4903,7 +4928,8 @@ msgstr ""
 msgid ""
 "For what purpose? You will persist on, bitter and alone, until the end of "
 "time?"
-msgstr "Ne amaçla? Zamanın sonuna kadar acı ve yalnızlıkla mı devam edeceksin?"
+msgstr ""
+"Ne amaçla? Zamanın sonuna kadar acı ve yalnızlıkla mı devam edeceksin?"
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:3256
@@ -4950,18 +4976,18 @@ msgstr ""
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:3514
 msgid ""
 "<i><big>A derelict corpse like you has no business challenging a dragon! "
-"Even my lowly elementals will be more than a match for you. Rise, my thralls!"
-"</big></i>"
+"Even my lowly elementals will be more than a match for you. Rise, my "
+"thralls!</big></i>"
 msgstr ""
-"<i><big>Senin gibi terkedilmiş bir cesedin bir ejderhaya meydan okumakla işi "
-"olmaz! Benim en düşük elemanım bile senden güçlüdür. Ayağa kalkın,kölelerim!"
-"</big></i>"
+"<i><big>Senin gibi terkedilmiş bir cesedin bir ejderhaya meydan okumakla işi"
+" olmaz! Benim en düşük elemanım bile senden güçlüdür. Ayağa "
+"kalkın,kölelerim!</big></i>"
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:3539
 msgid ""
-"Fire magic. Annoying, but you are not the only one who can summon minions to "
-"your aid."
+"Fire magic. Annoying, but you are not the only one who can summon minions to"
+" your aid."
 msgstr ""
 "Ateş büyüsü. Sinir bozucu, ancak köleleri yardıma çağırabilen tek kişi siz "
 "değilsiniz."
@@ -4988,11 +5014,11 @@ msgstr "Her el en fazla bir rûn etkinleştirilebilir"
 #. [message]: speaker=Xanthric
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:3711
 msgid ""
-"<i><big>How dare you?! That stone is <b>my</b> throne! I am the king of this "
-"domain!</big></i>"
+"<i><big>How dare you?! That stone is <b>my</b> throne! I am the king of this"
+" domain!</big></i>"
 msgstr ""
-"<i><big>Bu ne cüret?! Bu taş <b>benim</b> tahtım! Ben bu bölgenin kralıyım!</"
-"big></i>"
+"<i><big>Bu ne cüret?! Bu taş <b>benim</b> tahtım! Ben bu bölgenin "
+"kralıyım!</big></i>"
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:3716
@@ -5037,15 +5063,15 @@ msgstr ""
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:4226
 msgid ""
-"Excellent! My will is even strong enough to conquer a dragon. None can stand "
-"against me any longer! To those who cursed me prior, I spit at thee! For I "
-"am Mal Keshar the Damned, he who is spurned by all who live and draw breath! "
-"I laugh, for now, you are all naught but remains and dust, and I live on, "
+"Excellent! My will is even strong enough to conquer a dragon. None can stand"
+" against me any longer! To those who cursed me prior, I spit at thee! For I "
+"am Mal Keshar the Damned, he who is spurned by all who live and draw breath!"
+" I laugh, for now, you are all naught but remains and dust, and I live on, "
 "alone..."
 msgstr ""
 "Mükemmel! İradem bir ejderhayı bile ele geçirecek kadar güçlü. Artık kimse "
-"bana karşı duramaz! Beni daha önce lanetleyenlere: Ben size tükürürüm! Çünkü "
-"Ben, tüm insanların reddettiği, yaşayan ve nefes alan herkesin terk ettiği "
+"bana karşı duramaz! Beni daha önce lanetleyenlere: Ben size tükürürüm! Çünkü"
+" Ben, tüm insanların reddettiği, yaşayan ve nefes alan herkesin terk ettiği "
 "Lanetli Mal Keşnar'ım! Şimdi gülüyorum, benim için sıfırsınız, toz ve "
 "artıklardan başka birşey değilsiniz ve artık yalnız yaşıyorum..."
 
@@ -5064,8 +5090,8 @@ msgstr "Sonsuz Gece"
 msgid ""
 "Years pass. Every summer, by the time the mountainous paths and high passes "
 "shed their wintry gowns of snow, the lich sends his soldiers to attack the "
-"orcs, removing all human, elven, and dwarven patrols that impede them. Every "
-"year, the undead inflict some damage before being repelled."
+"orcs, removing all human, elven, and dwarven patrols that impede them. Every"
+" year, the undead inflict some damage before being repelled."
 msgstr ""
 "Yıllar geçiyor. Karların kalkıp dağ geçitlerinin açıldığı her yaz umacı, "
 "askerlerini orklara saldırmaya, insan, elf veya cüce devriyeleri yolunun "
@@ -5094,8 +5120,8 @@ msgstr "<i>Sebep ve amaç...</i>"
 msgid ""
 "He needs none. Philosophy only begets misery. Violence and savagery have "
 "always been the essence of his existence, a conviction that he has only "
-"embraced more wholly in undeath. Better to simply kill without deliberation, "
-"without consideration. He has never been one for regrets."
+"embraced more wholly in undeath. Better to simply kill without deliberation,"
+" without consideration. He has never been one for regrets."
 msgstr ""
 "Hiçbirine ihtiyacı yok. Felsefe sadece mutsuzluk getirir. Bir zamanlar "
 "yaşamı kontrol eden güçler, ölümsüzlükte vazgeçilmeyen şiddet ve vahşet "
@@ -5116,11 +5142,14 @@ msgstr ""
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:55
 msgid "Mal Keshar continues to study the book and re-reads the final entry."
-msgstr "Mal Keshar kitabı incelemeye devam eder ve son paragrafı yeniden okur."
+msgstr ""
+"Mal Keshar kitabı incelemeye devam eder ve son paragrafı yeniden okur."
 
 #. [part]
-#. This text comes from the epilogue of Secrets of the Ancients, edited to avoid revealing the name of the campaign or the names of the protagonists
-#. This text comes from the epilogue of Secrets of the Ancients, edited to avoid revealing the name of the campaign or the names of the protagonists
+#. This text comes from the epilogue of Secrets of the Ancients, edited to
+#. avoid revealing the name of the campaign or the names of the protagonists
+#. This text comes from the epilogue of Secrets of the Ancients, edited to
+#. avoid revealing the name of the campaign or the names of the protagonists
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:60
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:76
 msgid ""
@@ -5151,8 +5180,8 @@ msgid ""
 "suspect that most will fear it enough to try to destroy it, but I have "
 "placed several wards on my journal to protect it. This way, it should "
 "survive long enough to make its way into the hands of someone more open-"
-"minded. Tath, in particular, is home to many mages. It only takes one who is "
-"willing to learn...”</i>"
+"minded. Tath, in particular, is home to many mages. It only takes one who is"
+" willing to learn...”</i>"
 msgstr ""
 "<i>“Bana gelince, günlüğümü bu savaş alanında dikkat çekici hale "
 "getireceğim. Birçoğu onu yok etmeye çalışacak kadar korkacaktır, ancak onu "
@@ -5180,8 +5209,8 @@ msgid ""
 "the other had been his own people being unable to accept his use of dark "
 "magic. But, if he allowed a foolish hero to take a copy of the book, would "
 "others eventually follow in his footsteps? If enough people began to view "
-"necromancy as merely another magical art, could it eventually be accepted in "
-"society?"
+"necromancy as merely another magical art, could it eventually be accepted in"
+" society?"
 msgstr ""
 "Yine de, manipüle edilme konusundaki endişelerine rağmen, kitaptan bir "
 "şeyler öğrenebileceğini düşünüyordu. Orklar hikayenin sadece yarısıydı, "
@@ -5197,8 +5226,8 @@ msgid ""
 "The book still sits on a dusty shelf in Mal Keshar’s keep, untended and "
 "untouched, but constantly plaguing his mind."
 msgstr ""
-"Kitap, Mal Keşnar’ın içkalesinde, bakılmamış ve dokunulmamış halde tozlu bir "
-"rafta duruyordu, ancak sürekli olarak aklını çeliyordu."
+"Kitap, Mal Keşnar’ın içkalesinde, bakılmamış ve dokunulmamış halde tozlu bir"
+" rafta duruyordu, ancak sürekli olarak aklını çeliyordu."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:103
@@ -5216,8 +5245,8 @@ msgstr ""
 "insanlar ölü büyücülüğünü yıkıcı bir güç olarak görmeye devam eder mi? Bir "
 "ses ona toplum tarafından kabul edilmenin kendisiyle ilgisi olmadığını "
 "söylüyordu. Bir diğeri ise denemenin bir zararı olmayacağını söylüyordu. "
-"Herhangi bir sonuca varmadı, ancak kitabın biraz süslüce bir kopyası, ininde "
-"alınmayı bekliyordu."
+"Herhangi bir sonuca varmadı, ancak kitabın biraz süslüce bir kopyası, ininde"
+" alınmayı bekliyordu."
 
 #. [side]
 #. not yet decided who the enemy will be, or if there will be any
@@ -5281,7 +5310,8 @@ msgid "Too Foolish Hero"
 msgstr "Süzme Salak Kahraman"
 
 #. [message]: speaker=Too Foolish Hero
-#. the text that the "Too Foolish Hero" speaks is identical to that in the start event and can probably be copied over
+#. the text that the "Too Foolish Hero" speaks is identical to that in the
+#. start event and can probably be copied over
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:438
 msgid ""
 "Your doom is at hand, lich! It is nigh time you answered for your evil "
@@ -5303,8 +5333,8 @@ msgid ""
 "You have preyed on too many of my men. Our territory will be much more "
 "secure without your undead pestering us."
 msgstr ""
-"Adamlarımın çoğunu avladın. Yarıölülerin bizi rahatsız etmezse topraklarımız "
-"çok daha güvenli olacak."
+"Adamlarımın çoğunu avladın. Yarıölülerin bizi rahatsız etmezse topraklarımız"
+" çok daha güvenli olacak."
 
 #. [modify_side]
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:512
@@ -5333,8 +5363,12 @@ msgstr "Cüceler"
 
 #. [message]: speaker=Too Foolish Hero
 #. [message]: speaker=Foolish Hero
-#. written with a dwarvish accent - regular english would be "it's been along time since I've smashed some undead. You've got plenty of bones for my hammer to break"
-#. written with a dwarvish accent - regular english would be "it's been along time since I've smashed some undead. You've got plenty of bones for my hammer to break"
+#. written with a dwarvish accent - regular english would be "it's been along
+#. time since I've smashed some undead. You've got plenty of bones for my
+#. hammer to break"
+#. written with a dwarvish accent - regular english would be "it's been along
+#. time since I've smashed some undead. You've got plenty of bones for my
+#. hammer to break"
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:627
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1090
 msgid ""
@@ -5355,8 +5389,8 @@ msgid ""
 "will pester us no longer!"
 msgstr ""
 "Sonunda inini buldum Umacı! Kabileme saldırdın ve yıllarca evlerimizde "
-"hasara yol açtın. Babamı köle yaptın ve vücudunu kötü yaratıklarından birine "
-"dönüştürdün. Ölümünle can sıkıcı kölelerin bizi artık rahatsız etmeyecek!"
+"hasara yol açtın. Babamı köle yaptın ve vücudunu kötü yaratıklarından birine"
+" dönüştürdün. Ölümünle can sıkıcı kölelerin bizi artık rahatsız etmeyecek!"
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:700
@@ -5397,7 +5431,8 @@ msgstr ""
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:973
 msgid "I need to go slaughter some foolish heroes to purge that from my mind."
-msgstr "Bunu zihnimden temizlemek için birkaç aptal kahramanı katletmem gerek."
+msgstr ""
+"Bunu zihnimden temizlemek için birkaç aptal kahramanı katletmem gerek."
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:989
@@ -5453,7 +5488,8 @@ msgid ""
 "manors and taverns before I decide to kill you."
 msgstr ""
 "Şehirlilerden bekleyeneceği gibi, dar görüşlü ve kalın kafalı. Sizi "
-"öldürmeye karar vermemi beklemeden malikanelerinize ve meyhanelerinize dönüm."
+"öldürmeye karar vermemi beklemeden malikanelerinize ve meyhanelerinize "
+"dönüm."
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1068
@@ -5472,8 +5508,8 @@ msgstr ""
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1095
 msgid ""
-"And it has been some time since I’ve had a supply of dwarven corpses to work "
-"with. I suppose I can put your hammers to good use in the mines."
+"And it has been some time since I’ve had a supply of dwarven corpses to work"
+" with. I suppose I can put your hammers to good use in the mines."
 msgstr ""
 "Ve çalışmak için bir süredir cüce ceset kaynağına sahiptim. Sanırım "
 "çekiçlerinizi maden ocaklarında kullanmanız için bedeninize koyabilirim."
@@ -5481,9 +5517,9 @@ msgstr ""
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1111
 msgid ""
-"The Whitefang Orcs! It is you who despoiled my motherland and razed my home. "
-"It is you who forced me to resort to necromancy to protect myself. It is you "
-"who ended my mortal life and forced me to become a lich. And you desire "
+"The Whitefang Orcs! It is you who despoiled my motherland and razed my home."
+" It is you who forced me to resort to necromancy to protect myself. It is "
+"you who ended my mortal life and forced me to become a lich. And you desire "
 "vengeance? Hah! The irony of this would be hysterical if I could still feel "
 "such an emotion."
 msgstr ""
@@ -5522,8 +5558,8 @@ msgstr "Ateş yanmıyor!"
 #. [message]: role=speakinghero
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1192
 msgid ""
-"Still, it seems to be hurting the lich. Let us retreat and bring it with us. "
-"The mages may be able to destroy this and put an end to this lich."
+"Still, it seems to be hurting the lich. Let us retreat and bring it with us."
+" The mages may be able to destroy this and put an end to this lich."
 msgstr ""
 "Yine de, umacıyı incitiyor gibi görünüyor. Geri çekilelim ve yanımızda "
 "getirelim. Büyücüler kitabı yokedebilir ve bu umacıya bir son verebilir."
@@ -5531,8 +5567,8 @@ msgstr ""
 #. [message]: role=speakinghero
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1220
 msgid ""
-"Still, it seems to be hurting the lich. Let us retreat and bring it with us. "
-"We may yet find another way to destroy it and put an end to this lich."
+"Still, it seems to be hurting the lich. Let us retreat and bring it with us."
+" We may yet find another way to destroy it and put an end to this lich."
 msgstr ""
 "Yine de, umacıyı incitiyor gibi görünüyor. Geri çekilelim ve yanımızda "
 "getirelim. Büyücüler kitabı ve bu umacıyı yok edebilir."
@@ -5566,18 +5602,18 @@ msgid "Me axe kinna cut tha paper. It be protected by magic!"
 msgstr "Baltam kağıdı keser. Sihir ile korunuyor!"
 
 #. [message]: role=speakinghero
-#. regular english: Yes, but the lich still seems to be hurt. Let's take it and retreat. Maybe the forge can destroy it.
+#. regular english: Yes, but the lich still seems to be hurt. Let's take it
+#. and retreat. Maybe the forge can destroy it.
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1266
-#, fuzzy
 #| msgid ""
-#| "Aye, but the lich still seems ta be hurtin’. Let’s take it ’n retreat. "
-#| "Maybe tha forge ken destroy it."
+#| "Aye, but the lich still seems ta be hurtin’. Let’s take it ’n retreat. Maybe"
+#| " tha forge ken destroy it."
 msgid ""
-"Aye, but the lich still seems ta be hurtin’. Let’s take it ’n retreat. Maybe "
-"tha forge can destroy it."
+"Aye, but the lich still seems ta be hurtin’. Let’s take it ’n retreat. Maybe"
+" tha forge can destroy it."
 msgstr ""
-"Evet, ama umacı da incinmiş gibi görünüyor. Hadi geri çekilelim. Belki "
-"demirhane de yok edebiliriz."
+"Evet ama lich hâlâ acı veriyor gibi görünüyor. Hadi bunu alıp geri "
+"çekilelim. Belki bu demirhane onu yok edebilir."
 
 #. [message]: speaker=unit
 #. this orc has bad grammar on purpose
@@ -5591,7 +5627,8 @@ msgid "Idiot."
 msgstr "Salak."
 
 #. [message]: speaker=unit
-#. still the same orc, still has bad grammar. Uuuuuh is a whine-like sound, indicating disappointment.
+#. still the same orc, still has bad grammar. Uuuuuh is a whine-like sound,
+#. indicating disappointment.
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1291
 msgid "Uuuuuh, I can’t pull skull off book, but lich scream."
 msgstr "Uuuuuh, kafatasını kitaptan çıkaramıyorum, ama umacı çığlık atıyor."
@@ -5604,8 +5641,8 @@ msgstr "Kitabı savunun, kölelerim! Aaargh!"
 #. [message]: role=speakinghero
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1301
 msgid ""
-"The book must be connected to the lich’s power! Take it and retreat. Once we "
-"smash that book, the lich should be destroyed."
+"The book must be connected to the lich’s power! Take it and retreat. Once we"
+" smash that book, the lich should be destroyed."
 msgstr ""
 "Kitap umacının gücüne bağlı olmalı! Kitabı al, çekilelim. Kitabı "
 "parçaladığımızda, umacı da imha olur belki."
@@ -5618,8 +5655,8 @@ msgstr "Son Söz"
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1309
 msgid ""
-"The foolish hero was tricked, and left believing both that the book could be "
-"destroyed, and that the lich might be weakened by doing so."
+"The foolish hero was tricked, and left believing both that the book could be"
+" destroyed, and that the lich might be weakened by doing so."
 msgstr ""
 "Aptal kahraman kandırıldı. Kitabın yok edilebileceğine bunun da umacıyı "
 "zayıflatacağına inandırıldı."
@@ -5631,8 +5668,8 @@ msgid ""
 "None of the attempts left so much as a single dent or char, yet each one "
 "caused another scream to echo from the cave mouth. Eventually, the cave "
 "entrance collapsed, and everything was still. Satisfied, the foolish hero "
-"left the ruined lair behind, book stowed away safely — and secretly — in his "
-"pack."
+"left the ruined lair behind, book stowed away safely — and secretly — in his"
+" pack."
 msgstr ""
 "Mağaranın dışına çekilerek aptal kahraman kitabı imha etmeye çalıştı. "
 "Denemelerden hiçbiri tek bir çentik veya yanığa yol açmasa da, her biri "
@@ -5649,8 +5686,8 @@ msgid ""
 "orcish raiders. Undead no longer trouble the watches and memories of the "
 "lich fade to mere legend."
 msgstr ""
-"Yıllar geçiyor. Her yaz, dağ patikaları ve yüksek geçitlerdeki karlar kalkar "
-"kalkmaz insanlar, elfler ve cüceler ork akıncılarına direnmek için "
+"Yıllar geçiyor. Her yaz, dağ patikaları ve yüksek geçitlerdeki karlar kalkar"
+" kalkmaz insanlar, elfler ve cüceler ork akıncılarına direnmek için "
 "devriyelerini yollara döküyorlardı. Yarıölüler artık sorun değildi, umacı "
 "zamanı ve hatıraları giderek efsaneye dönüştü."
 
@@ -5658,8 +5695,8 @@ msgstr ""
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1321
 msgid ""
 "Rumors circulate about a spirit of good fortune that protects these guards. "
-"It is said that when attacked by orcs at night, the darkness itself descends "
-"to repel the assailants."
+"It is said that when attacked by orcs at night, the darkness itself descends"
+" to repel the assailants."
 msgstr ""
 "Bu muhafızları koruyan bir iyi talih ruhunun etrafta dolaştığına dair "
 "söylentiler vardı. Geceleri orklar bir yere saldırdığında, karanlığın "
@@ -5742,7 +5779,8 @@ msgid ""
 msgstr "Burayı hatırlıyorum. Anılar havuzu gibi tuhaf bir enerjiyle dönüyor."
 
 #. [message]: speaker=Drogan
-#. the first sentence in plain english is: Do you still remember the good old days? In the rest of the text, ’n means "and"
+#. the first sentence in plain english is: Do you still remember the good old
+#. days? In the rest of the text, ’n means "and"
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1559
 msgid ""
 "D’ya still ’member tha good ol’ days? When you were little, ’n yer father "
@@ -5759,8 +5797,8 @@ msgid ""
 "It were so much simpler back then, without yer complicated magic ’n yer "
 "crazy education ta mess things up. Don’t ya think so, Malin?"
 msgstr ""
-"O zamanlar çok daha basitti, karmaşık sihriniz ve çılgın eğitiminiz her şeyi "
-"berbat etmemişti. Öyle düşünmüyor musun, Malin?"
+"O zamanlar çok daha basitti, karmaşık sihriniz ve çılgın eğitiminiz her şeyi"
+" berbat etmemişti. Öyle düşünmüyor musun, Malin?"
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1573
@@ -5799,14 +5837,14 @@ msgid ""
 "When you first came back from Alduin, I was so, so happy to see ya. I "
 "thought you and me and pa could finally be a family again and I’d finally "
 "have someone I could talk to as just, you know, a friend. And then ya went "
-"and screwed it all up by turnin’ to that dark magic of yours. You don’t know "
-"how much that hurt me. You really don’t, Malin."
+"and screwed it all up by turnin’ to that dark magic of yours. You don’t know"
+" how much that hurt me. You really don’t, Malin."
 msgstr ""
 "Alduin'den ilk döndüğünde seni gördüğüme çok ama çok sevindim. Sen, ben ve "
-"babam sonunda tekrar bir aile olabileceğimizi düşündüm ve sonunda sadece bir "
-"arkadaş olarak konuşabileceğim birine sahip olacağımı düşündüm. Sonra gittin "
-"ve o kara büyüne dönerek her şeyi mahvettin. Bunun beni ne kadar incittiğini "
-"bilemezsin. Gerçekten bilmiyorsun, Malin."
+"babam sonunda tekrar bir aile olabileceğimizi düşündüm ve sonunda sadece bir"
+" arkadaş olarak konuşabileceğim birine sahip olacağımı düşündüm. Sonra "
+"gittin ve o kara büyüne dönerek her şeyi mahvettin. Bunun beni ne kadar "
+"incittiğini bilemezsin. Gerçekten bilmiyorsun, Malin."
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1617
@@ -5818,8 +5856,8 @@ msgstr "Bu benim ismim değil."
 msgid ""
 "A necromancer’s existence is a solitary one. Though we may be surrounded by "
 "hordes of the undead, it is a scarce occasion that we interact with another "
-"truly sentient being. In all my years of travels, you were my first and only "
-"apprentice."
+"truly sentient being. In all my years of travels, you were my first and only"
+" apprentice."
 msgstr ""
 "Bir kara büyücü kimsesizdir. Yarı ölü sürüleriyle çevrili olsak da, "
 "gerçekten duyarlı başka bir varlıkla etkileşime girmemiz nadir görülen bir "
@@ -5828,17 +5866,17 @@ msgstr ""
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1647
 msgid ""
-"I taught you everything I knew. I imparted you with all the power you needed "
-"to accomplish your goals. I thought that in return, you would afford me a "
-"single, small favor, and that I would not ask more of you. How did you repay "
-"me? By betraying me using the very skills I taught you! You are a cursed "
+"I taught you everything I knew. I imparted you with all the power you needed"
+" to accomplish your goals. I thought that in return, you would afford me a "
+"single, small favor, and that I would not ask more of you. How did you repay"
+" me? By betraying me using the very skills I taught you! You are a cursed "
 "soul, Mal Keshar the Damned!"
 msgstr ""
-"Sana bildiğim her şeyi öğrettim. Hedeflerine ulaşmak için ihtiyacın olan tüm "
-"gücü sana verdim. Karşılığında bana küçük bir iyilik yapacağını ve senden "
+"Sana bildiğim her şeyi öğrettim. Hedeflerine ulaşmak için ihtiyacın olan tüm"
+" gücü sana verdim. Karşılığında bana küçük bir iyilik yapacağını ve senden "
 "daha fazlasını istemeyeceğimi düşündüm. Bana nasıl geri ödedin? Sana "
-"öğrettiğim becerileri kullanarak bana ihanet ederek! Sen lanetli bir ruhsun, "
-"Lanetli Mal Keşnar!"
+"öğrettiğim becerileri kullanarak bana ihanet ederek! Sen lanetli bir ruhsun,"
+" Lanetli Mal Keşnar!"
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1661
@@ -5885,8 +5923,8 @@ msgstr "Sence karanlık tarafta bozulmadan önce kimdi?"
 #. [message]: role=speakinghero
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1777
 msgid ""
-"It matters not. He embraced death over life, and thus relinquished his right "
-"to mercy. Let us return home; the town will need us to defend against the "
+"It matters not. He embraced death over life, and thus relinquished his right"
+" to mercy. Let us return home; the town will need us to defend against the "
 "orcish raids."
 msgstr ""
 "Bu önemli değil. Yaşamı boyunca ölümü bağrına bastı ve böylece merhamet "
@@ -5918,8 +5956,8 @@ msgstr "Sence umacı olmadan önce kimdi?"
 #. [message]: role=speakinghero
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1810
 msgid ""
-"Likely one of those arrogant mages who think themselves superior to everyone "
-"else. He probably learned necromancy just to subjugate people like us."
+"Likely one of those arrogant mages who think themselves superior to everyone"
+" else. He probably learned necromancy just to subjugate people like us."
 msgstr ""
 "Muhtemelen, kendilerini herkesten daha üstün gören kibirli adamlardan biri. "
 "Muhtemelen, bizim gibi insanlara boyun eğdirmek için kara büyü öğrenmiştir."
@@ -5934,8 +5972,8 @@ msgstr "Bu yüzden zalim bir hükümdardı. Ne kadar korkunç."
 msgid ""
 "Probably. Anyway, there’s no use in dwelling upon one so wicked. Let’s go."
 msgstr ""
-"Muhtemelen. Her neyse, bu kadar kötü olan biri üzerinde durmanın bir faydası "
-"yok. Hadi gidelim."
+"Muhtemelen. Her neyse, bu kadar kötü olan biri üzerinde durmanın bir faydası"
+" yok. Hadi gidelim."
 
 #. [message]: role=speakinghero
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1838
@@ -5953,8 +5991,8 @@ msgstr ""
 #. [message]: role=speakinghero
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1848
 msgid ""
-"A selfish human, only greedy for power while utterly indifferent to anything "
-"but himself. A necromancer’s only purpose is to work for their own gain, "
+"A selfish human, only greedy for power while utterly indifferent to anything"
+" but himself. A necromancer’s only purpose is to work for their own gain, "
 "nothing else."
 msgstr ""
 "Bencil bir insan, sadece iktidar için açgözlülük ederken, kendisinden başka "
@@ -5987,11 +6025,12 @@ msgid "I wonder what kind o’ human he did be in life."
 msgstr "Yaşarken acaba nasıl bir insandı, merak ediyorum."
 
 #. [message]: role=speakinghero
-#. regular english - I guess he was some crazy mage who wanted to make other humans his slaves. Why else do you think he would turn to dark magic?
+#. regular english - I guess he was some crazy mage who wanted to make other
+#. humans his slaves. Why else do you think he would turn to dark magic?
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1889
 msgid ""
-"Me guess be that he be some loonie mage who wanted ta make other humans inta "
-"’is slaves. Why else d’ye think tha lad woul’ turn ta dark magic?"
+"Me guess be that he be some loonie mage who wanted ta make other humans inta"
+" ’is slaves. Why else d’ye think tha lad woul’ turn ta dark magic?"
 msgstr ""
 "Sanırım diğer insanları kölesi yapmak isteyen çılgın bir büyücüydü. Başka "
 "neden kara büyüye yönelsin?"
@@ -5999,10 +6038,10 @@ msgstr ""
 #. [message]: role=second
 #. regular english - I don't know. You think the lich's castle can be useful
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1895
-#, fuzzy
 #| msgid "I dinna know. Ye think tha lich’s castle ken be useful?"
 msgid "I dinna know. Ye think tha lich’s castle can be useful?"
-msgstr "Bilmiyorum. Umacının kalesinin faydalı olabileceğini mi düşünüyorsun?"
+msgstr ""
+"Bilmiyorum. Tha Lich'in kalesinin faydalı olabileceğini mi düşünüyorsun?"
 
 #. [message]: role=speakinghero
 #. regular english - Yes. Let's get to work.
@@ -6050,30 +6089,22 @@ msgstr "Peki, bu ne?"
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1963
 msgid ""
 "I don’t know, but it looks like someone wrote something inside! It says:"
-msgstr "Bilmiyorum, ama biri içine bir şeyler yazmış gibi görünüyor! Diyor ki:"
+msgstr ""
+"Bilmiyorum, ama biri içine bir şeyler yazmış gibi görünüyor! Diyor ki:"
 
 #. [message]: speaker=narrator
 #. hahaha is Zephrin laughing
-#. this line sounds very "modern-day" but that's intentional because it's an easter egg, not meant to be taken strictly at face value
+#. this line sounds very "modern-day" but that's intentional because it's an
+#. easter egg, not meant to be taken strictly at face value
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1971
 msgid ""
-"<i>That stupid memory came back to bother me again today. It was that time "
-"at the Academy when Zephrin and I were arguing about orcs. I still remember "
-"that hoarse voice of his telling me, ‘Fun story, Malin, but you really "
-"should put a disclaimer. You know, to make sure everyone understands no orcs "
-"were harmed in the making of this story, hahaha.’\n"
+"<i>That stupid memory came back to bother me again today. It was that time at the Academy when Zephrin and I were arguing about orcs. I still remember that hoarse voice of his telling me, ‘Fun story, Malin, but you really should put a disclaimer. You know, to make sure everyone understands no orcs were harmed in the making of this story, hahaha.’\n"
 "\n"
-"I can still hear his infernal cackling ringing in my head. Sure thing, "
-"Zephrin, right... like my whole life was some sort of work of fiction!</i>"
+"I can still hear his infernal cackling ringing in my head. Sure thing, Zephrin, right... like my whole life was some sort of work of fiction!</i>"
 msgstr ""
-"<i>Bu aptal hafıza beni tekrar rahatsız etmek için bugün geri geldi. "
-"Zefrin'le orklar hakkında tartıştığımız zaman Akademi'deydik. Bana kısık "
-"sesle anlattıklarını hala hatırlıyorum, ‘Eğlenceli hikaye, Malin, ama "
-"gerçekten bir feragatname koymalısın. Biliyorsunuz, hikayenin yapımında "
-"hiçbir orkunun zarar görmediğinden herkesin emin olması lazım, hahaha.’\n"
+"<i>Bu aptal hafıza beni tekrar rahatsız etmek için bugün geri geldi. Zefrin'le orklar hakkında tartıştığımız zaman Akademi'deydik. Bana kısık sesle anlattıklarını hala hatırlıyorum, ‘Eğlenceli hikaye, Malin, ama gerçekten bir feragatname koymalısın. Biliyorsunuz, hikayenin yapımında hiçbir orkunun zarar görmediğinden herkesin emin olması lazım, hahaha.’\n"
 "\n"
-"Onun cehennemi gıdaklamasının kafamda çınladığını hala duyabiliyorum. Tabii "
-"ki, Zefrin, haklı ... bütün hayatım bir tür kurgu çalışması gibiydi!</i>"
+"Onun cehennemi gıdaklamasının kafamda çınladığını hala duyabiliyorum. Tabii ki, Zefrin, haklı ... bütün hayatım bir tür kurgu çalışması gibiydi!</i>"
 
 #. [message]: role=speakinghero
 #. Bah is an exclamation of disgust or irritation
@@ -6153,8 +6184,8 @@ msgid ""
 "... glowy mushrooms lighting up this dank gloom, blue and green, loomy "
 "bloomy big shroomy..."
 msgstr ""
-"... bu nemli karanlığı aydınlatan parlak mantarlar, mavi ve yeşil, kasvetli, "
-"çiçek açmış büyük mantar bahçesi..."
+"... bu nemli karanlığı aydınlatan parlak mantarlar, mavi ve yeşil, kasvetli,"
+" çiçek açmış büyük mantar bahçesi..."
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Squidville.cfg:289
@@ -6172,7 +6203,8 @@ msgid "(<i>huff huff</i>)"
 msgstr "(<i>huff huff</i>)"
 
 #. [message]: speaker=Mal Keshar
-#. He breaks the fourth wall here because he's enlightened from the shrooms of course, so he talks directly to the player
+#. He breaks the fourth wall here because he's enlightened from the shrooms of
+#. course, so he talks directly to the player
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Squidville.cfg:332
 msgid ""
 "... wait what am I doing? A skeleton cannot taste or smell or eat anything. "
@@ -6183,8 +6215,8 @@ msgid ""
 "is worth it, you monster."
 msgstr ""
 "... ne yapıyorum? Bir iskelet hiçbir şeyin tadına bakamaz, koklayamaz veya "
-"yiyemez. Bu mantarlar bende işe yaramıyor. Beni aptal mı sanıyorsun? Eğlence "
-"için tutulmuş kötü bir aktör müyüm? Benim gibi zavallı yaşlı yalnız "
+"yiyemez. Bu mantarlar bende işe yaramıyor. Beni aptal mı sanıyorsun? Eğlence"
+" için tutulmuş kötü bir aktör müyüm? Benim gibi zavallı yaşlı yalnız "
 "umacıların sadece eğlence uğruna bu kadar acı çekmesine ne tür bir sadist "
 "üstün güç sebep oluyor? Ne iğrenç. Umarım benim durumum karşısındaki hasta "
 "zevkin buna değer, canavar."
@@ -6281,8 +6313,8 @@ msgstr "Kötü Son"
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Squidville.cfg:751
 msgid ""
 "Unfortunately for him, Mal Keshar was overrun by a horde of tentacles. With "
-"his delusions of grandeur crushed, his boney remains were consigned to being "
-"no more than a few decorative elements around the watery backdrop of the "
+"his delusions of grandeur crushed, his boney remains were consigned to being"
+" no more than a few decorative elements around the watery backdrop of the "
 "village of squids for all eternity."
 msgstr ""
 "Onun için talihsizlik, Mal Keşnar'ın bir dokunaç sürüsü tarafından ele "
@@ -6298,14 +6330,14 @@ msgstr "Büyücü Çırağı"
 #. [unit_type]: id=Apprentice Mage, race=human, gender=male
 #: data/campaigns/Descent_Into_Darkness/units/Apprentice_Mage.cfg:17
 msgid ""
-"Trained in swordsmanship as a boy and the magical arts as a young man, Malin "
-"Keshar is talented at both but an expert in neither. Although not as "
+"Trained in swordsmanship as a boy and the magical arts as a young man, Malin"
+" Keshar is talented at both but an expert in neither. Although not as "
 "powerful as other fighters in direct combat, Malin’s sharp wit often allows "
 "him to outsmart his foes without putting himself in much danger."
 msgstr ""
 "Bir çocuk olarak silahşörlükte, bir genç olarak sihir sanatlarında eğitim "
-"alan Malin Keşnar her ikisinde de yetenekliydi ama hiçbirinde uzman değildi. "
-"Teke tek dövüşte diğer dövüşçüler kadar güçlü olmasa da, Malin’in keskin "
+"alan Malin Keşnar her ikisinde de yetenekliydi ama hiçbirinde uzman değildi."
+" Teke tek dövüşte diğer dövüşçüler kadar güçlü olmasa da, Malin’in keskin "
 "zekâsı, kendisini tehlikeye atmadan düşmanlarını yenmesini sağlardı."
 
 #. [attack]: type=impact
@@ -6324,8 +6356,8 @@ msgstr "Ölü Büyücüsü Çırağı"
 msgid ""
 "Under Darken Volk’s tutelage, Malin has become adept at wielding necromancy "
 "both as a tool to raise an army of undead, and as a means to increase his "
-"own, personal power. Malin’s focus on improving his magical prowess has left "
-"little time for him to improve his swordsmanship, but he still holds on to "
+"own, personal power. Malin’s focus on improving his magical prowess has left"
+" little time for him to improve his swordsmanship, but he still holds on to "
 "his short sword as his melee weapon of choice."
 msgstr ""
 "Kara Volk’un vesayeti altında Malin, hem ölümsüz bir orduyu büyütmek için "
@@ -6360,16 +6392,16 @@ msgstr "Hudut Baronesi"
 #. [unit_type]: id=Frontier Baroness, race=human, gender=female
 #: data/campaigns/Descent_Into_Darkness/units/Frontier_Baroness.cfg:23
 msgid ""
-"At Wesnoth’s frontiers, all able-bodied men and women must be able to defend "
-"their homes in times of need. Men are most often trained in the use of sword "
-"or bow and are used as soldiers who withstand the brunt of orcish assaults "
-"to hold the raiders at bay. Women, instead, learn to use the staff and sling "
-"and are most effective as scouts and ambushers. The most proficient are "
-"powerful skirmishers and are highly adept at reconnaissance, allowing them "
-"to often outmaneuver and entrap orcish raiders."
+"At Wesnoth’s frontiers, all able-bodied men and women must be able to defend"
+" their homes in times of need. Men are most often trained in the use of "
+"sword or bow and are used as soldiers who withstand the brunt of orcish "
+"assaults to hold the raiders at bay. Women, instead, learn to use the staff "
+"and sling and are most effective as scouts and ambushers. The most "
+"proficient are powerful skirmishers and are highly adept at reconnaissance, "
+"allowing them to often outmaneuver and entrap orcish raiders."
 msgstr ""
-"Vesnot’un sınırlarında, tüm güçlü erkekler ve kadınlar ihtiyaç duyduklarında "
-"yurtlarını savunabilmelidir. Erkekler genellikle kılıç veya yay kullanımı "
+"Vesnot’un sınırlarında, tüm güçlü erkekler ve kadınlar ihtiyaç duyduklarında"
+" yurtlarını savunabilmelidir. Erkekler genellikle kılıç veya yay kullanımı "
 "konusunda eğitilir ve akıncıları uzak tutmak için ork saldırılarına karşı "
 "koyan askerler bunlardan oluşur. Kadınlar ise,  sopa ve sapan kullanmayı "
 "öğrenirek izciler ve pusucular kadar etkili olurlar. En yetkin olanları "
@@ -6469,22 +6501,22 @@ msgstr "Ezelî Umacı"
 
 #: data/campaigns/Descent_Into_Darkness/units/Mal_Keshar.cfg:339
 msgid ""
-"A lich that accrues enough power over its newfound immortal lifespan becomes "
-"one who can stain souls with despair and sow ruin across the world. "
-"Invariably in command of a nigh-limitless horde of risen warriors and undead "
-"monsters, a lich of this order has a mastery of dark sorcery that can bring "
-"dread to the most storied magi of human and elven kind. Such a figure "
+"A lich that accrues enough power over its newfound immortal lifespan becomes"
+" one who can stain souls with despair and sow ruin across the world. "
+"Invariably in command of a nigh-limitless horde of risen warriors and undead"
+" monsters, a lich of this order has a mastery of dark sorcery that can bring"
+" dread to the most storied magi of human and elven kind. Such a figure "
 "usually marks a dark and bloody chapter in history, and in those times of "
 "need, it is only through the tireless efforts of the most valiant heroes "
-"that the rise of an Ancient Lich has not led to the shadows ruling the world "
-"for the rest of time."
+"that the rise of an Ancient Lich has not led to the shadows ruling the world"
+" for the rest of time."
 msgstr ""
 "Yeni keşfedilen ölümsüz ömrü üzerinde yeterince güç biriktiren bir umacı, "
-"ruhları umutsuzlukla lekeleyebilen ve tüm dünyaya yıkım ekebilen biri haline "
-"gelir. Her zaman, neredeyse sınırsız sayıda dirilmiş savaşçı ve yarı ölü "
+"ruhları umutsuzlukla lekeleyebilen ve tüm dünyaya yıkım ekebilen biri haline"
+" gelir. Her zaman, neredeyse sınırsız sayıda dirilmiş savaşçı ve yarı ölü "
 "canavarlar sürüsünün komutasında, bu düzenin bir umacıyı, insan ve elf "
-"türünün en masalsı büyücülerine korku getirebilecek bir kara büyü ustalığına "
-"sahiptir. Böyle bir kimlik genellikle tarihte karanlık ve kanlı bir bölüme "
+"türünün en masalsı büyücülerine korku getirebilecek bir kara büyü ustalığına"
+" sahiptir. Böyle bir kimlik genellikle tarihte karanlık ve kanlı bir bölüme "
 "işaret eder ve bu ihtiyaç zamanlarında, yalnızca en yiğit kahramanların "
 "yorulmak bilmeyen çabaları sayesinde, bir Ezeli Umacı'nın yükselişi, "
 "gölgelerin dünyaya hükmetmesine yol açmamıştır."
@@ -6642,7 +6674,8 @@ msgid ""
 "This unit gains 15% damage on offense and heals 12 HP whenever it kills an "
 "enemy unit."
 msgstr ""
-"Bu birim her düşman öldürüşünde 4 YP iyileşir ve saldırıda %15 hasar kazanır."
+"Bu birim her düşman öldürüşünde 4 YP iyileşir ve saldırıda %15 hasar "
+"kazanır."
 
 #. [leadership]: id=did_malice1
 #. [leadership]: id=did_malice2
@@ -6686,8 +6719,8 @@ msgid ""
 "On offense, this attack will additionally deal 70% of its damage in cold "
 "damage to all enemies adjacent to the target."
 msgstr ""
-"Saldırıda, bu saldırı ayrıca hasarının %70'ini hedefe bitişik tüm düşmanlara "
-"soğuk hasar olarak verir."
+"Saldırıda, bu saldırı ayrıca hasarının %70'ini hedefe bitişik tüm düşmanlara"
+" soğuk hasar olarak verir."
 
 #. [damage]: id=did_spellbind
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:222
@@ -6728,8 +6761,8 @@ msgid ""
 "Every turn, this unit loses 3 hitpoints, but drains 6 hitpoints from each "
 "adjacent enemy."
 msgstr ""
-"Her el, bu birim 3 yaşam puanı kaybeder, ancak her bitişik düşmandan 6 yaşam "
-"puanı sömürür."
+"Her el, bu birim 3 yaşam puanı kaybeder, ancak her bitişik düşmandan 6 yaşam"
+" puanı sömürür."
 
 #. [damage]: id=did_malevolence
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:349
@@ -6875,8 +6908,8 @@ msgstr "ceset ustası"
 #. [heals]: id=did_corpse_master
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:679
 msgid ""
-"Adjacent allied corpses heal 8 HP per turn and gain 30% resistance to blade, "
-"impact, and pierce."
+"Adjacent allied corpses heal 8 HP per turn and gain 30% resistance to blade,"
+" impact, and pierce."
 msgstr ""
 "Komşu müttefik cesetler el başına 8 YP iyileştirirken kesme, darbe ve "
 "delmeye karşı %30 direnç kazanır."
@@ -6996,7 +7029,8 @@ msgstr "ayyaş öfkesi"
 
 #. [berserk]: id=did_drunken_rage
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:1047
-msgid "On offense, this attack presses the engagement for 4 rounds of attacks."
+msgid ""
+"On offense, this attack presses the engagement for 4 rounds of attacks."
 msgstr "Hücumda, bu saldırı çarpışmada 4 turluk saldırıya zorlar."
 
 #. [advancement]: id=amla_dragon_melee
@@ -7125,7 +7159,8 @@ msgstr "Ölmeye hazır değilim..."
 #: data/campaigns/Descent_Into_Darkness/utils/deaths.cfg:48
 msgid "Fool boy! With my demise, none in this world will aid you..."
 msgstr ""
-"Aptal çocuk! Ölümümle artık bu dünyada sana yardım edecek kimse kalmayacak..."
+"Aptal çocuk! Ölümümle artık bu dünyada sana yardım edecek kimse "
+"kalmayacak..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Descent_Into_Darkness/utils/deaths.cfg:66

@@ -1,0 +1,67 @@
+term_id	term	canonical_translation	notes	confidence
+F01	Loyalists	Leiala		high
+F02	Rebels	Errebeldeak		high
+F03	Undead	Ez Hilak		high
+F04	Northerners		not found in .po files	low
+F05	Drakes	Drakuak		high
+F06	Knalgan Alliance	Knalgan-en aliantza		high
+F07	Dunefolk	Ez Hilak		high
+R01	Elvish		not found in .po files	low
+R02	Orcish		not found in .po files	low
+R03	Dwarven		not found in .po files	low
+R04	Drake	Andretxarra		high
+R05	Naga		not found in .po files	low
+R06	Merman/Mermaid		not found in .po files	low
+R07	Troll	Troll-a		high
+R08	Wose	Wose		high
+A01	Lawful	Iheslaria		high
+A02	Neutral	neutrala		high
+A03	Chaotic	kaotikoa		high
+A04	Liminal	Iheslaria		high
+T01	Dawn	Egunsentia		high
+T02	Morning	Goiza		high
+T03	Afternoon	Arratsaldea		high
+T04	Dusk	Ilunabarra		high
+T05	First Watch	Lehen ikusketa		high
+T06	Second Watch	Bigarren ikusketa		high
+G01	Campaign		not found in .po files	low
+G02	Scenario	Guda leku ezezaguna: '		high
+G03	Side	Hurrengo unitatea		high
+G04	Village	Herrixka		high
+G05	Income		not found in .po files	low
+G06	Gold	Urrea		high
+G07	Experience		not found in .po files	low
+G08	Level	maila		high
+G09	Turn	Txanda		high
+G10	Hex		not found in .po files	low
+G11	Castle	Gaztelua		high
+G12	Keep	Gotorlekua		high
+G13	Zone of Control		not found in .po files	low
+G14	Recall	Deitu		high
+G15	Recruit	Bildu		high
+G16	Leader	Burua		high
+C01	leadership	buruzagia		high
+C02	healing		not found in .po files	low
+C03	slow	mantso		high
+C04	poison	pozoia		high
+C05	petrify		not found in .po files	low
+C06	berserk	Ikusleak		high
+C07	skirmisher	Saurio gatazkaria		high
+C08	marksman	tiratzailea		high
+C09	magical	magikoa		high
+C10	steadfast	Andretxarra		high
+C11	regenerates	birsortzen du		high
+C12	ambush	Sarekada		high
+C13	illumination		not found in .po files	low
+C14	concealment	Kanpamentua		high
+TR01	Forest	Basoa		high
+TR02	Hills	Medilerroak		high
+TR03	Mountains	Mendiak		high
+TR04	Flat		not found in .po files	low
+TR05	Sand	Hondarra		high
+TR06	Frozen		not found in .po files	low
+TR07	Swamp	Padura		high
+TR08	Deep Water	Ur sakona		high
+TR09	Shallow Water	Azaletako ura		high
+TR10	Ford		not found in .po files	low
+TR11	Cave	Leizea		high

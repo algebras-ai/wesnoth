@@ -1,0 +1,67 @@
+term_id	term	canonical_translation	notes	confidence
+F01	Loyalists	Loyalisten		high
+F02	Rebels	Rebellen		high
+F03	Undead	Ondoden		high
+F04	Northerners	Noorderlingen		high
+F05	Drakes	Draken		high
+F06	Knalgan Alliance	Knalga Verbond		high
+F07	Dunefolk	Duinvolk		high
+R01	Elvish		not found in .po files	low
+R02	Orcish		not found in .po files	low
+R03	Dwarven		not found in .po files	low
+R04	Drake	Draak		high
+R05	Naga	Naga		high
+R06	Merman/Mermaid		not found in .po files	low
+R07	Troll	Trol		high
+R08	Wose	Ent		high
+A01	Lawful	gezagsgetrouw		high
+A02	Neutral	neutraal		high
+A03	Chaotic	wetteloos		high
+A04	Liminal	mysterieus		high
+T01	Dawn	Ochtend		high
+T02	Morning	Ochtend	ISSUE: extracted string 'Waarschuwing' means Warning in Dutch, not the time-of-day Morning. Note also that T01 Dawn was extracted as 'Ochtend' (morning) — Dawn should be 'Dageraad' or 'Ochtendschemering'. T02 corrected to 'Ochtend'. FLAG: T01 'Ochtend' may also need review.	high
+T03	Afternoon	Namiddag		high
+T04	Dusk	Avond		high
+T05	First Watch	Eerste Wacht		high
+T06	Second Watch	Tweede Wacht		high
+G01	Campaign	Veldtocht		high
+G02	Scenario	Scenario		high
+G03	Side	Zijde		high
+G04	Village	Dorp		high
+G05	Income	Inkomen		high
+G06	Gold	Goudstukken		high
+G07	Experience		not found in .po files	low
+G08	Level	Rang		high
+G09	Turn	Beurt		high
+G10	Hex		not found in .po files	low
+G11	Castle	Kasteel		high
+G12	Keep	Donjon		high
+G13	Zone of Control	Controlegebied		high
+G14	Recall	Oproepen		high
+G15	Recruit	Rekruteren		high
+G16	Leader	Leider		high
+C01	leadership	leiderschap		high
+C02	healing		not found in .po files	low
+C03	slow	langzaam		high
+C04	poison	vergif		high
+C05	petrify		not found in .po files	low
+C06	berserk	razernij		high
+C07	skirmisher	warzaaier		high
+C08	marksman	precisieschutter		high
+C09	magical	magisch		high
+C10	steadfast	standvastig		high
+C11	regenerates	hersteld		high
+C12	ambush	hinderlaag		high
+C13	illumination		not found in .po files	low
+C14	concealment	verbergen		high
+TR01	Forest	Bos		high
+TR02	Hills	Heuvels		high
+TR03	Mountains	Bergen		high
+TR04	Flat	Vlakte		high
+TR05	Sand	Zand		high
+TR06	Frozen	Bevroren		high
+TR07	Swamp	Moeras		high
+TR08	Deep Water	Diep Water		high
+TR09	Shallow Water	Ondiep Water		high
+TR10	Ford	Oversteek		high
+TR11	Cave	Grot		high

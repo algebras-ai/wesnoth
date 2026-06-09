@@ -28,7 +28,7 @@ msgstr "Hürriyet"
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:20
 msgid "1x enemies"
-msgstr ""
+msgstr "1x düşman"
 
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:20
@@ -38,7 +38,7 @@ msgstr "Kolay"
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:21
 msgid "2x enemies"
-msgstr ""
+msgstr "2x düşman"
 
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:21
@@ -48,27 +48,22 @@ msgstr "Normal"
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:22
 msgid "3x enemies"
-msgstr ""
+msgstr "3x düşman"
 
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:22
 msgid "Hard"
-msgstr ""
+msgstr "Zor"
 
 #. [campaign]: id=Liberty
-#. "marchlander" is archaic English for an inhabitant of a border region, not to be confused with "marshlander"
+#. "marchlander" is archaic English for an inhabitant of a border region, not
+#. to be confused with "marshlander"
 #: data/campaigns/Liberty/_main.cfg:26
 msgid ""
-"As the shadow of civil war deepens across Wesnoth, a band of hardy "
-"marchlanders revolts against the governance of the new queen. To win their "
-"way to freedom, they must learn to use shadows and deception to rout the "
-"trained blades of the Wesnothian army.\n"
+"As the shadow of civil war deepens across Wesnoth, a band of hardy marchlanders revolts against the governance of the new queen. To win their way to freedom, they must learn to use shadows and deception to rout the trained blades of the Wesnothian army.\n"
 "\n"
 msgstr ""
-"Vesnot’ta iç savaş rüzgarları eserken, zor durumdaki sınır köylülerinden "
-"oluşan bir grup Kraliçe ’nin istibtadına karşı isyan ettiler. Özgürlüklerini "
-"kazanmanın yolu, Vesnot askerlerinin eğitimli kılıçlarını bozguna uğratmak "
-"için gölgeleri ve aldatmacayı kullanmayı öğrenmekten geçiyor.\n"
+"Vesnot’ta iç savaş rüzgarları eserken, zor durumdaki sınır köylülerinden oluşan bir grup Kraliçe ’nin istibtadına karşı isyan ettiler. Özgürlüklerini kazanmanın yolu, Vesnot askerlerinin eğitimli kılıçlarını bozguna uğratmak için gölgeleri ve aldatmacayı kullanmayı öğrenmekten geçiyor.\n"
 "\n"
 
 #. [campaign]: id=Liberty
@@ -77,12 +72,15 @@ msgid "(Novice level, 7 scenarios.)"
 msgstr "(Acemi seviyesi, 7 senaryo.)"
 
 #. [campaign]: id=Liberty
-#. this campaign is not a direct continuation of the story and characters, but is next chronologically and is the recommended next campaign
+#. this campaign is not a direct continuation of the story and characters, but
+#. is next chronologically and is the recommended next campaign
 #: data/campaigns/Liberty/_main.cfg:32
 msgid ""
 "The saga continues in\n"
 "<i>Heir to the Throne</i>"
 msgstr ""
+"Destan devam ediyor:\n"
+"<i>Tahtın Varisi</i>"
 
 #. [about]
 #: data/campaigns/Liberty/_main.cfg:36
@@ -111,24 +109,22 @@ msgstr "Ya Özgürlük Ya Ölüm!"
 
 #. [achievement]: id=liberty_or_death
 #: data/campaigns/Liberty/achievements.cfg:8
-#, fuzzy
-#| msgid "Complete Civil Disobedience with at least 3 peasants remaining."
+#| msgid ""
+#| "Complete Civil Disobedience with at least 3 peasants remaining."
 msgid "Complete <i>Civil Disobedience</i> with at least 3 peasants remaining."
-msgstr "En az 3 köylü kalarak Sivil İtaatsizliği tamamlayın."
+msgstr "<i>Sivil İtaatsizlik</i>'i en az 3 köylü kalacak şekilde tamamlayın."
 
 #. [achievement]: id=liberty_nameless
 #: data/campaigns/Liberty/achievements.cfg:14
-#, fuzzy
 #| msgid "The Nameless General"
 msgid "The Nameless Guard"
-msgstr "Adsız General"
+msgstr "İsimsiz Muhafız"
 
 #. [achievement]: id=liberty_nameless
 #: data/campaigns/Liberty/achievements.cfg:15
-#, fuzzy
 #| msgid "Find out the name of the general in Unlawful Orders."
 msgid "Discover the name of the royal guard in <i>Unlawful Orders</i>."
-msgstr "Hukuksuz Emirler senaryosundaki generalin adını öğren."
+msgstr "<i>Yasadışı Emirler</i>'de kraliyet muhafızlarının adını keşfedin."
 
 #. [achievement]: id=liberty_iron
 #: data/campaigns/Liberty/achievements.cfg:21
@@ -137,10 +133,9 @@ msgstr "Harper ve Golyat"
 
 #. [achievement]: id=liberty_iron
 #: data/campaigns/Liberty/achievements.cfg:22
-#, fuzzy
 #| msgid "Defeat an Iron Mauler with Harper in Hide and Seek."
 msgid "Defeat an Iron Mauler with Harper in <i>Hide and Seek</i>."
-msgstr "Saklambaç senaryosunda Harper ile bir Demir Balyozu yen."
+msgstr "<i>Saklambaç</i>'da bir Demir Mauler'ı Harper'la birlikte yen."
 
 #. [achievement]: id=liberty_hunter
 #. this is the achievement for the scenario The Hunters
@@ -150,10 +145,9 @@ msgstr "Mükemmel Avcı"
 
 #. [achievement]: id=liberty_hunter
 #: data/campaigns/Liberty/achievements.cfg:30
-#, fuzzy
 #| msgid "Complete The Hunters with no losses"
 msgid "Complete <i>The Hunters</i> with no losses."
-msgstr "Avcılar seneryosunu hiç kayıp vermeden tamamla"
+msgstr "<i>Avcılar</i>'ı hiçbir kayıp olmadan tamamlayın."
 
 #. [achievement]: id=liberty_army
 #: data/campaigns/Liberty/achievements.cfg:36
@@ -162,10 +156,9 @@ msgstr "Strateji Olmadan Silah Gücünün Anlamı Yoktur"
 
 #. [achievement]: id=liberty_army
 #: data/campaigns/Liberty/achievements.cfg:37
-#, fuzzy
 #| msgid "On Challenging difficulty, defeat Dommel in Glory."
 msgid "On Challenging difficulty, defeat Dommel in <i>Glory</i>."
-msgstr "Zorlu zorluk seviyesinde, Zafer senaryosunda Dommel'i yen."
+msgstr "Zorlu zorlukta, <i>Glory</i>'de Dommel'i yen."
 
 #. [scenario]: id=01_The_Raid
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:4
@@ -178,58 +171,50 @@ msgid "Dallben"
 msgstr "Dalben"
 
 #. [part]
-#. Baldras is an old man from the country and both speaks and writes with many grammatical errors due to his relative lack of education
-#. He is also a little bit rude and grumpy, so languages with ruder or more informal variants of words should use those where appropriate
+#. Baldras is an old man from the country and both speaks and writes with many
+#. grammatical errors due to his relative lack of education
+#. He is also a little bit rude and grumpy, so languages with ruder or more
+#. informal variants of words should use those where appropriate
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:22
 msgid ""
 "From the journal of Baldras, 21 Scatterseed, 501 YW\n"
 "\n"
-"Months... seven months it’s been since the Crown did send a single guard "
-"here to help us. This Garard II be a pompous stinker, even worser than his "
-"pa! Us of these border towns Delwyn and Dallben already be poor and needy, "
-"yet alls ‘His Majesty’ can think of is tax, tax, tax, takin’ all our hard "
-"earned gold from us. Then he uses our gold to provoke more wars with more "
-"orcs just for personal glory and more land for them grubby nobles to lord "
-"over."
+"Months... seven months it’s been since the Crown did send a single guard here to help us. This Garard II be a pompous stinker, even worser than his pa! Us of these border towns Delwyn and Dallben already be poor and needy, yet alls ‘His Majesty’ can think of is tax, tax, tax, takin’ all our hard earned gold from us. Then he uses our gold to provoke more wars with more orcs just for personal glory and more land for them grubby nobles to lord over."
 msgstr ""
 "Baldras'ın günlüğünden, 21 Tohumayı, VY 501\n"
 "\n"
-"Aylar geçti... Krallık bize yardım etmesi için buraya yedi aydır tek bir "
-"muhafız bile göndermedi. Bu 2. Garard kendini beğenmiş bir pislik, "
-"babasından bile daha kötü! Bu sınır kasabaları Delvin ve Dalben zaten fakir "
-"ve muhtaç durumda, ancak \"Majesteleri\"nin tek düşünebildiği vergi, vergi, "
-"vergi, derdi zor kazanılmış tüm altınlarımızı bizden almak. Sonra "
-"altınlarımızı, sadece kişisel şan için daha fazla orkla daha fazla savaşı "
-"kışkırtmak ve efendiler, kirli soylular için daha fazla toprak sağlamak için "
-"kullanıyor."
+"Aylar geçti... Krallık bize yardım etmesi için buraya yedi aydır tek bir muhafız bile göndermedi. Bu 2. Garard kendini beğenmiş bir pislik, babasından bile daha kötü! Bu sınır kasabaları Delvin ve Dalben zaten fakir ve muhtaç durumda, ancak \"Majesteleri\"nin tek düşünebildiği vergi, vergi, vergi, derdi zor kazanılmış tüm altınlarımızı bizden almak. Sonra altınlarımızı, sadece kişisel şan için daha fazla orkla daha fazla savaşı kışkırtmak ve efendiler, kirli soylular için daha fazla toprak sağlamak için kullanıyor."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:28
 msgid ""
 "To abbadon with the Crown! We got no armies and we don’t even got real "
-"weapons, but we of the Western Marches make do just fine with our slings and "
-"clubs. In all Annuvin Province, there won’t be nobody besting us in these "
+"weapons, but we of the Western Marches make do just fine with our slings and"
+" clubs. In all Annuvin Province, there won’t be nobody besting us in these "
 "swamps. We’re self-reliant out here. We gots our own trade routes and pacts "
 "of mutual defense. No need for them Wesnothians. Not a single bit."
 msgstr ""
-"Krallıktan kurtulmak adına! Ordumuz yok ve gerçek silahlarımız bile yok, ama "
-"biz Batıya Yürüyüşümüzde sapanlarımız ve sopalarımızla gayet iyi idare "
+"Krallıktan kurtulmak adına! Ordumuz yok ve gerçek silahlarımız bile yok, ama"
+" biz Batıya Yürüyüşümüzde sapanlarımız ve sopalarımızla gayet iyi idare "
 "ediyoruz. Tüm Annuvin Eyaletinde, bu bataklıklarda bizi kimse yenemez. Biz "
-"burada kendimize güveniyoruz. Kendi ticaret yollarımız ve karşılıklı savunma "
-"anlaşmalarımız var. Vesnotlulara gerek yok."
+"burada kendimize güveniyoruz. Kendi ticaret yollarımız ve karşılıklı savunma"
+" anlaşmalarımız var. Vesnotlulara gerek yok."
 
 #. [part]
-#. Some languages, including Norwegian and Old English, don't have a single word for "uncle", dividing it into
-#. mother's-brother vs. father's-brother. Baldras is Harper's mother's brother.
-#. Erwen is Baldras' younger sister, so languages with a special word for that should use it
+#. Some languages, including Norwegian and Old English, don't have a single
+#. word for "uncle", dividing it into
+#. mother's-brother vs. father's-brother. Baldras is Harper's mother's
+#. brother.
+#. Erwen is Baldras' younger sister, so languages with a special word for that
+#. should use it
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:35
 msgid ""
-"The sun were out today, but it were raining too. Weird mix of brightness and "
-"woe. Reminds me of the day Harper’s pa died in that orc raid. Since my sis "
+"The sun were out today, but it were raining too. Weird mix of brightness and"
+" woe. Reminds me of the day Harper’s pa died in that orc raid. Since my sis "
 "Erwen passed when she were young, poor lass had nobody but me. Never wanted "
-"no kid of my own but... she’s mine to take care of now. Fine lass, that one, "
-"just a bit careless like her pa. I needs to keep a good eye on her now, with "
-"all them orcs running round here of late."
+"no kid of my own but... she’s mine to take care of now. Fine lass, that one,"
+" just a bit careless like her pa. I needs to keep a good eye on her now, "
+"with all them orcs running round here of late."
 msgstr ""
 "Bugün güneş vardı ama yağmur da yağıyordu. Parlaklık ve kederin tuhaf "
 "karışımı. Bana Harper'ın babasının o ork baskınında öldüğü günü hatırlattı. "
@@ -319,7 +304,7 @@ msgstr "Gorok"
 #. [event]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:173
 msgid "Gruk"
-msgstr ""
+msgstr "Gruk"
 
 #. [message]: speaker=Fal Khag
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:195
@@ -403,14 +388,17 @@ msgstr ""
 "ve Krallığa lanet olsun. Hep kendimiz için savaşmak zorunda kalıyoruz."
 
 #. [message]: speaker=Harper
-#. Harper has a bit of an accent, but not as much as Baldras. She's a bit reckless as Baldras alludes to, but is more polite.
-#. Harper is quite the tomboy and her personality should reflect that, she should use words that are exciting and high spirited
-#. She's also pretty young (teenagerish) so her dialogue should reflect some lack of experience or immaturity
+#. Harper has a bit of an accent, but not as much as Baldras. She's a bit
+#. reckless as Baldras alludes to, but is more polite.
+#. Harper is quite the tomboy and her personality should reflect that, she
+#. should use words that are exciting and high spirited
+#. She's also pretty young (teenagerish) so her dialogue should reflect some
+#. lack of experience or immaturity
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:270
 msgid ""
 "Uncle, we got no time to talk! Them riders are heading full speed straight "
-"for Dallben. We’ll need to chase them down through those woods, and fast, or "
-"we won’t be able to catch up."
+"for Dallben. We’ll need to chase them down through those woods, and fast, or"
+" we won’t be able to catch up."
 msgstr ""
 "Konuşacak zaman yok, dayı! Bu goblin lideri almış başını dörtpati dosdoğru "
 "Dalben’e gidiyor. Onlar ormanın içindeyken halletmemiz gerekir, yoksa "
@@ -444,8 +432,8 @@ msgstr ""
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:296
 msgid ""
-"These orc raids keep getting harder and harder to hold off. Feels like every "
-"new day’s just another chance for us to lose everything..."
+"These orc raids keep getting harder and harder to hold off. Feels like every"
+" new day’s just another chance for us to lose everything..."
 msgstr ""
 "Bu ork baskınlarını durdurmak gittikçe zorlaşıyor. Her yeni gün, her "
 "şeyimizi kaybetmek için yeni bir şansmış gibi geliyor..."
@@ -469,8 +457,8 @@ msgid ""
 "Then why do we got to pay taxes to the King? Maybe Elensefar doesn’t help "
 "us, but at least they don’t take our gold."
 msgstr ""
-"O zaman neden Kral'a vergi ödüyoruz? Belki Elensefar bize yardım etmiyor ama "
-"en azından altınlarımızı almıyorlar."
+"O zaman neden Kral'a vergi ödüyoruz? Belki Elensefar bize yardım etmiyor ama"
+" en azından altınlarımızı almıyorlar."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:308
@@ -533,21 +521,19 @@ msgstr "Şapşal goblin."
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:408
-#, fuzzy
 #| msgid ""
-#| "Hey, someone left their pack here. I could use it to carry some more "
-#| "rocks."
+#| "Hey, someone left their pack here. I could use it to carry some more rocks."
 msgid ""
 "Hey, someone left their pack here. I could use it to carry some heavier "
 "rocks."
 msgstr ""
-"Hey, biri buraya bir paket bırakmış. Biraz daha taş taşımak için bunu "
+"Hey, birisi çantasını burada bırakmış. Daha ağır kayaları taşımak için "
 "kullanabilirim."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:435
 msgid "Your footpad has gained +1 ranged damage!"
-msgstr ""
+msgstr "Haydutunuz +1 menzilli hasar kazandı!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:447
@@ -564,7 +550,8 @@ msgstr "Dalben'e yaklaşıyorlar! Ne yapacağız?"
 msgid ""
 "There be a couple guards in the village. Might be able to slow them wolves "
 "down if they gets closer."
-msgstr "Köyde birkaç muhafız var. Yaklaşırlarsa kurtlar onları yavaşlatabilir."
+msgstr ""
+"Köyde birkaç muhafız var. Yaklaşırlarsa kurtlar onları yavaşlatabilir."
 
 #. [event]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:504
@@ -584,7 +571,8 @@ msgstr "Ne oluyor burada? Niye deli gibi koşuyorsun, $unit.name|?"
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:517
 msgid ""
-"Goblin riders be on the hunt, headed right for Dallben. We gots to stop them!"
+"Goblin riders be on the hunt, headed right for Dallben. We gots to stop "
+"them!"
 msgstr ""
 "Goblin biniciler avlanıyor. Dosdoğru Dalben’e yöneldiler! Onları "
 "durdurmalıyız!"
@@ -623,26 +611,17 @@ msgstr "Baldras'ın çiftliği"
 msgid ""
 "Baldras’ journal, 6 Deeproot, 501 YW:\n"
 "\n"
-"Me and Harper visited Erwen’s grave today. I helped the lass pick her a "
-"bunch of flowers — we even found some of her favorite, blue lilies. Harper "
-"don’t remember her much, but still thinks lots about her. Lass reminds me so "
-"much of her ma often times, real bright and brassy, even if she don’t got "
-"the same sense or wits. I’m just hoping she be learning more with time."
+"Me and Harper visited Erwen’s grave today. I helped the lass pick her a bunch of flowers — we even found some of her favorite, blue lilies. Harper don’t remember her much, but still thinks lots about her. Lass reminds me so much of her ma often times, real bright and brassy, even if she don’t got the same sense or wits. I’m just hoping she be learning more with time."
 msgstr ""
 "Baldras'ın günlüğü, 6 Yağmurayı, VY 501:\n"
 "\n"
-"Ben ve Harper bugün Ervin'in mezarını ziyaret ettik. Kızıma bir demet çiçek "
-"toplamasında yardım ettim — hatta en sevdiği mavi zambaklardan da bulduk. "
-"Harper onu pek hatırlamıyor ama yine de onu düşünüyor. Kız bana çoğu zaman "
-"annesini o kadar çok hatırlatıyor ki, pek aklı ve zekası olmasa da, "
-"gerçekten parlak ve gösterişli bir kız. Belki zamanla daha fazla şey "
-"öğrenebilir."
+"Ben ve Harper bugün Ervin'in mezarını ziyaret ettik. Kızıma bir demet çiçek toplamasında yardım ettim — hatta en sevdiği mavi zambaklardan da bulduk. Harper onu pek hatırlamıyor ama yine de onu düşünüyor. Kız bana çoğu zaman annesini o kadar çok hatırlatıyor ki, pek aklı ve zekası olmasa da, gerçekten parlak ve gösterişli bir kız. Belki zamanla daha fazla şey öğrenebilir."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:27
 msgid ""
-"Speaking of sense, I gots me a bad feeling in my gut about today. I’d better "
-"ready our hunting troop when I get back to the village, just in case..."
+"Speaking of sense, I gots me a bad feeling in my gut about today. I’d better"
+" ready our hunting troop when I get back to the village, just in case..."
 msgstr ""
 "Mantıktan bahsetmişken, bugün için içimde kötü bir his var. Köye döndüğümde "
 "avcı birliğimizi hazırlasam iyi olur, her ihtimale karşı..."
@@ -718,12 +697,12 @@ msgstr ""
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:174
 msgid ""
 "The Crown did long since abandon our village. You Wesnothians be too busy "
-"countin’ the gold from our taxes to be sending aid against them orcs. Nobody "
-"here be leaving to nowhere."
+"countin’ the gold from our taxes to be sending aid against them orcs. Nobody"
+" here be leaving to nowhere."
 msgstr ""
 "Kraliyet, köyümüzü terk edeli çok oldu. Siz Vesnotlular, orklara yardım "
-"gönderemeyecek kadar vergilerimizdeki altını saymakla meşgulsünüz. Kimse bir "
-"yere gitmiyor."
+"gönderemeyecek kadar vergilerimizdeki altını saymakla meşgulsünüz. Kimse bir"
+" yere gitmiyor."
 
 #. [message]: speaker=Tarwen
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:178
@@ -731,8 +710,8 @@ msgid ""
 "Insolent peasant. Try not my patience, else I shall be forced to drag thy "
 "deceased corpse back with me to the city."
 msgstr ""
-"Küstah köylü. Sabrımı zorlama, yoksa cesedini şehre kadar sürüklemek zorunda "
-"kalacağım."
+"Küstah köylü. Sabrımı zorlama, yoksa cesedini şehre kadar sürüklemek zorunda"
+" kalacağım."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:182
@@ -829,9 +808,11 @@ msgstr "Köyümden defolun!"
 #. [message]: role=Advisor
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:414
 msgid ""
-"We beat their leader, but a couple of them riders escaped. What should we do?"
+"We beat their leader, but a couple of them riders escaped. What should we "
+"do?"
 msgstr ""
-"Liderlerini yendik ama birkaç binici kaçtı. Ne yapalım, peşlerine düşelim mi?"
+"Liderlerini yendik ama birkaç binici kaçtı. Ne yapalım, peşlerine düşelim "
+"mi?"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:419
@@ -865,8 +846,8 @@ msgid ""
 "Fine. We’ll go to Delwyn, see what Relana gots to say. With them riders so "
 "eagerly attackin’ us today, I’m thinking Delwyn will be under threat too."
 msgstr ""
-"Tamam. Delvin'e gidiyoruz, bakalım Relana ne diyecek. Biniciler bugün bize o "
-"kadar hırslı saldırıyorlardı ki, Delvin'in de tehdit altında olacağını "
+"Tamam. Delvin'e gidiyoruz, bakalım Relana ne diyecek. Biniciler bugün bize o"
+" kadar hırslı saldırıyorlardı ki, Delvin'in de tehdit altında olacağını "
 "düşünüyorum."
 
 #. [message]: speaker=Harper
@@ -896,7 +877,7 @@ msgstr "Evet, kanun kaçağı."
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:528
 msgid "Your units — formerly <i>neutral</i> — are now <i>chaotic</i>!"
-msgstr ""
+msgstr "Birimleriniz — eskiden <i>tarafsız</i> olan — artık <i>kaotik</i>!"
 
 #. [message]: speaker=Reinforcement Knight
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:562
@@ -911,8 +892,8 @@ msgstr "Hepsini katledin."
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:570
 msgid ""
-"Curses! Their reinforcements has arrived. We gots no chance to fight ‘em off "
-"now..."
+"Curses! Their reinforcements has arrived. We gots no chance to fight ‘em off"
+" now..."
 msgstr "Lanet olsun! Takviyeleri geldi. Artık onlarla savaşma şansımız yok..."
 
 #. [scenario]: id=03_A_Strategy_of_Hope
@@ -925,28 +906,19 @@ msgstr "Bir Umut Stratejisi"
 msgid ""
 "Baldras’ journal, 10 Deeproot, 501 YW:\n"
 "\n"
-"Been a strange few days. Had to leave Dallben real quick. We grabbed "
-"whatever we could in just a day, some food, some clothes, sis’s lucky "
-"bracelet... and made off for Delwyn as quick as these old bones would let "
-"me. It be a three day journey there for me, but I sended Harper ahead for "
-"Relana first. Said we’d meet her in the usual hiding spot in the swamp."
+"Been a strange few days. Had to leave Dallben real quick. We grabbed whatever we could in just a day, some food, some clothes, sis’s lucky bracelet... and made off for Delwyn as quick as these old bones would let me. It be a three day journey there for me, but I sended Harper ahead for Relana first. Said we’d meet her in the usual hiding spot in the swamp."
 msgstr ""
 "Baldras'ın günlüğü, 10 Yağmurayı, VY 501:\n"
 "\n"
-"Birkaç gündür tuhaf şeyler oluyor. Dalben'den çabucak ayrılmak zorunda "
-"kaldım. Sadece yanımıza alabildiğimiz şeyleri aldık, biraz yiyecek, biraz "
-"kıyafet, kız kardeşimin uğurlu bileziğini... ve bu yaşlı kemiklerin izin "
-"verdiği kadar çabuk Delvin'e doğru yola koyulduk. Benim için üç günlük bir "
-"yolculuk olacak ama Harper'ı Relana'ya önden gönderdim. Onunla bataklıktaki "
-"her zamanki saklanma yerinde buluşacağımızı söyledim."
+"Birkaç gündür tuhaf şeyler oluyor. Dalben'den çabucak ayrılmak zorunda kaldım. Sadece yanımıza alabildiğimiz şeyleri aldık, biraz yiyecek, biraz kıyafet, kız kardeşimin uğurlu bileziğini... ve bu yaşlı kemiklerin izin verdiği kadar çabuk Delvin'e doğru yola koyulduk. Benim için üç günlük bir yolculuk olacak ama Harper'ı Relana'ya önden gönderdim. Onunla bataklıktaki her zamanki saklanma yerinde buluşacağımızı söyledim."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:23
 msgid ""
-"This whole mess be utter stupidness. Of all the things to be driving us from "
-"our home, how did it ended up being those accursed Wesnothians? Blasted "
-"Crown. Don’t matter whoever’s the one giving out them orders, those stinkers "
-"in Weldyn always be making trouble for us countryfolk."
+"This whole mess be utter stupidness. Of all the things to be driving us from"
+" our home, how did it ended up being those accursed Wesnothians? Blasted "
+"Crown. Don’t matter whoever’s the one giving out them orders, those stinkers"
+" in Weldyn always be making trouble for us countryfolk."
 msgstr ""
 "Bütün bu karışıklık tam bir aptallık. Bizi evimizden uzaklaştıran onca şey "
 "arasına nasıl oldu da şu lanetli Vesnotlular girdi? Kahrolası Krallık. "
@@ -963,19 +935,19 @@ msgid ""
 msgstr ""
 "Bütün bunlar için çok yaşlıyım. O ork baskınları zaten beni çok yıprattı. "
 "Vesnot'la savaşmaya da hevesli değilim. Ama... Sanırım, gerçekten başka "
-"seçeneğim de yok. Harper liderlik etmek için henüz çok genç ve köydeki başka "
-"hiç kimse de liderliğe uygun görünmüyor."
+"seçeneğim de yok. Harper liderlik etmek için henüz çok genç ve köydeki başka"
+" hiç kimse de liderliğe uygun görünmüyor."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:31
 msgid ""
 "In times like these... I still wish Erwen was here with us. Little sis were "
 "always the better of us two. She always knew how to keep her temper and her "
-"wits about her. What would she say to me now? Probably something like, “Quit "
-"yapping ya old dog and focus on what you’re doing. What’s done is done. Just "
-"look at what’s ahead of ya and get them people to safety.” Cheeky, that one. "
-"But, she’d be right, I has me a responsibility to our people. Got a lot of "
-"trouble ahead of us..."
+"wits about her. What would she say to me now? Probably something like, “Quit"
+" yapping ya old dog and focus on what you’re doing. What’s done is done. "
+"Just look at what’s ahead of ya and get them people to safety.” Cheeky, that"
+" one. But, she’d be right, I has me a responsibility to our people. Got a "
+"lot of trouble ahead of us..."
 msgstr ""
 "Böyle zamanlarda... Halâ Ervin'in burada bizimle olmasını isterdim. Küçük "
 "kız kardeşin her zaman ikimizden daha iyiydi. Her zaman öfkesini ve "
@@ -1044,8 +1016,8 @@ msgstr ""
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:233
 msgid ""
-"I don’t know, but some of them riders escaped us. Bet they’ll report back to "
-"their local garrison, tell them we’re a bunch o’ traitors."
+"I don’t know, but some of them riders escaped us. Bet they’ll report back to"
+" their local garrison, tell them we’re a bunch o’ traitors."
 msgstr ""
 "Bilmiyorum ama binicilerden bazıları bizden kaçtı. Bahse girerim yerel "
 "garnizonlarına rapor verecekler, onlara bizim bir avuç hain olduğumuzu "
@@ -1062,8 +1034,8 @@ msgid ""
 "We needs more information. We should consult ourselves with Elensefar. Lord "
 "Maddock surely gots to know more than us."
 msgstr ""
-"Daha fazla bilgiye ihtiyacımız var. Elensefar'a gidip onlara danışalım. Lord "
-"Madok kesinlikle bizden daha fazlasını bilir."
+"Daha fazla bilgiye ihtiyacımız var. Elensefar'a gidip onlara danışalım. Lord"
+" Madok kesinlikle bizden daha fazlasını bilir."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:245
@@ -1096,9 +1068,9 @@ msgid ""
 "great plan without no information. We both knows that if Weldyn brings one "
 "o’ their armies here, there be no way we can fight them off."
 msgstr ""
-"Ama halâ bilgiye ihtiyacımız var, Baldras. Hiçbir bilgi olmadan iyi bir plan "
-"yapamayız. Veldin ordularından birini buraya getirirse onlarla savaşmamızın "
-"hiçbir yolu olmadığını ikimiz de biliyoruz."
+"Ama halâ bilgiye ihtiyacımız var, Baldras. Hiçbir bilgi olmadan iyi bir plan"
+" yapamayız. Veldin ordularından birini buraya getirirse onlarla savaşmamızın"
+" hiçbir yolu olmadığını ikimiz de biliyoruz."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:261
@@ -1131,8 +1103,8 @@ msgstr ""
 #. [message]: speaker=Urk Delek
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:281
 msgid ""
-"“Don’t know why the Queen hired some stinkin’ orcs, we don’t need you here.” "
-"Yeah, well now they’re dead like a bunch of beasts."
+"“Don’t know why the Queen hired some stinkin’ orcs, we don’t need you here.”"
+" Yeah, well now they’re dead like a bunch of beasts."
 msgstr ""
 "\"Kraliçe'nin neden bazı kokuşmuş orkları tuttuğunu bilmiyorum, sana burada "
 "ihtiyacımız yok.\" Evet, şimdi bir grup hayvan gibi öldüler."
@@ -1149,7 +1121,8 @@ msgid ""
 "Shut your trap, lizard. You’ll get your gold as soon as my wolves get their "
 "meat."
 msgstr ""
-"Kapa çeneni, kertenkele. Kurtlarım etlerini alır almaz altınlarını alacaksın."
+"Kapa çeneni, kertenkele. Kurtlarım etlerini alır almaz altınlarını "
+"alacaksın."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:300
@@ -1170,9 +1143,11 @@ msgstr "Hala yaşıyor gibi görünüyor. Iyk."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:344
-msgid "Ewww, I think it be smelling even worse now. Least it’s stopped moving."
+msgid ""
+"Ewww, I think it be smelling even worse now. Least it’s stopped moving."
 msgstr ""
-"Iyyyy, sanırım şimdi daha da kötü kokuyor. En azından hareket etmeyi bıraktı."
+"Iyyyy, sanırım şimdi daha da kötü kokuyor. En azından hareket etmeyi "
+"bıraktı."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:374
@@ -1192,7 +1167,7 @@ msgstr "Biraz taze lezzetli su. Mmm!"
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:445
 msgid "Your unit has gained +1 maximum hitpoints!"
-msgstr ""
+msgstr "Birimin +1 maksimum can kazandı!"
 
 #. [message]: speaker=Urk Delek
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:461
@@ -1225,8 +1200,8 @@ msgstr ""
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:491
 msgid ""
-"Don’t seem like it. I be thinking these orcs were hired to scout us. But for "
-"what? Of all the alliances to be making, why would Weldyn be hiring orcs?"
+"Don’t seem like it. I be thinking these orcs were hired to scout us. But for"
+" what? Of all the alliances to be making, why would Weldyn be hiring orcs?"
 msgstr ""
 "Öyle görünmüyor. Bu orkların bizi gözetlemek için tutulduğunu düşünüyorum. "
 "Ama ne için? Yapılacak bir sürü ittifaklar varken, Veldin neden orkları "
@@ -1235,8 +1210,8 @@ msgstr ""
 #. [message]: speaker=Relana
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:495
 msgid ""
-"I thinks your mission to Lord Maddock just became even more urgent. We needs "
-"to know the Queen’s motives."
+"I thinks your mission to Lord Maddock just became even more urgent. We needs"
+" to know the Queen’s motives."
 msgstr ""
 "Lord Madok’la ilgili görevin giderek aciliyet kazanıyor, Baldras. "
 "Kraliçe'nin amaçlarını bilmemiz gerekiyor."
@@ -1271,13 +1246,13 @@ msgstr ""
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:525
 msgid ""
-"We gots no more time to be spending here nor to be traveling to Elensefar... "
-"them Wesnothians probably already be mobilizing against us. We’ve got to "
+"We gots no more time to be spending here nor to be traveling to Elensefar..."
+" them Wesnothians probably already be mobilizing against us. We’ve got to "
 "head back to Dallben!"
 msgstr ""
 "Burada harcanacak veya Elensefar'a seyahat edecek zamanımız kalmadı...O "
-"Vesnotlular muhtemelen şimdiden bize karşı harekete geçmiştir. Dalben'e geri "
-"dönmeliyiz!"
+"Vesnotlular muhtemelen şimdiden bize karşı harekete geçmiştir. Dalben'e geri"
+" dönmeliyiz!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:531
@@ -1308,10 +1283,9 @@ msgstr "Elensefar"
 
 #. [objective]: condition=win
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:195
-#, fuzzy
 #| msgid "Defeat both enemy leaders"
 msgid "Defeat the enemy leader"
-msgstr "İki düşman liderini de öldür"
+msgstr "Düşman liderini yen"
 
 #. [objective]: condition=lose
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:207
@@ -1319,17 +1293,18 @@ msgid "Death of Maddock"
 msgstr "Madok’un ölümü"
 
 #. [event]
-#. "Daneth" is the name of Lord Maddock's late son. This ship also appears in HttT's S10, with the same name.
+#. "Daneth" is the name of Lord Maddock's late son. This ship also appears in
+#. HttT's S10, with the same name.
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:256
 msgid "The Daneth"
-msgstr ""
+msgstr "The Daneth"
 
 #. [event]
 #. [unit]: type=Skiff, id=Skiff
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:257
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:330
 msgid "Mary’s Minnow"
-msgstr ""
+msgstr "Mary’s Minnow"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:316
@@ -1339,8 +1314,8 @@ msgstr "Madok, rapor vermeye geliyorum—"
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:320
 msgid ""
-"I am already aware of your altercation in Dallben, Baldras. Your dissent was "
-"not wise."
+"I am already aware of your altercation in Dallben, Baldras. Your dissent was"
+" not wise."
 msgstr ""
 "Baldras, Dalben'deki tartışmayı zaten biliyorum. Muhalefetiniz akıllıca "
 "değildi."
@@ -1358,21 +1333,19 @@ msgstr ""
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:329
-#, fuzzy
 #| msgid ""
-#| "That was partially my fault, since I was not able to send a messenger to "
-#| "you in time. I shall have to inform you now. Five weeks ago, at the Ford "
-#| "of Abez, Queen Asheviere’s men allied themselves with the northern orcs "
-#| "and betrayed King Garard II."
+#| "That was partially my fault, since I was not able to send a messenger to you"
+#| " in time. I shall have to inform you now. Five weeks ago, at the Ford of "
+#| "Abez, Queen Asheviere’s men allied themselves with the northern orcs and "
+#| "betrayed King Garard II."
 msgid ""
-"That was partially my fault, since I was not able to send a messenger to you "
-"in time. I shall have to inform you now. Five weeks ago, at the Ford of "
+"That was partially my fault, since I was not able to send a messenger to you"
+" in time. I shall have to inform you now. Five weeks ago, at the Ford of "
 "Abez, King Garard II of Wesnoth was murdered."
 msgstr ""
-"Bu kısmen benim hatamdı, çünkü size zamanında bir haberci gönderemedim. "
-"Hemen size haber vermem gerekirdi. Beş hafta önce, Kraliçe Aşivye'nin "
-"adamları Abez Geçidi'nde kuzey orklarıyla ittifak yaptılar ve Kral 2. "
-"Garard'a ihanet ettiler."
+"Bu kısmen benim hatamdı, çünkü size zamanında haberci gönderemedim. Şimdi "
+"sizi bilgilendirmem gerekecek. Beş hafta önce Abez Sığlığı'nda Wesnoth Kralı"
+" II. Garard öldürüldü."
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:333
@@ -1382,24 +1355,27 @@ msgid ""
 "Prince Eldred fell in battle not long after, upon which Asheviere claimed "
 "the throne."
 msgstr ""
+"Resmi olarak, kaptanlarından biri suçu işledi. Gayri resmi olarak ise "
+"Kraliçe Aşivye ile oğlu Eldred'in dahli olduğu söylentisi var. Her iki "
+"durumda da, Prens Eldred kısa süre sonra savaşta hayatını kaybetti; bunun "
+"üzerine Aşivye tahta geçti."
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:337
-#, fuzzy
 #| msgid ""
 #| "Since Prince Eldred died in the battle, the Queen took the throne and has "
-#| "been consolidating her power. Part of that has been bringing the elders "
-#| "from the local villages here, forcing them to swear allegiance to her. "
-#| "That was the purpose of that patrol."
+#| "been consolidating her power. Part of that has been bringing the elders from"
+#| " the local villages here, forcing them to swear allegiance to her. That was "
+#| "the purpose of that patrol."
 msgid ""
-"The Queen is not popular. She is at war with supporters of the old king, and "
-"searches far and wide for new conscripts. Part of that has been taking "
+"The Queen is not popular. She is at war with supporters of the old king, and"
+" searches far and wide for new conscripts. Part of that has been taking "
 "elders from the local villages, forcing them to swear allegiance to her. "
 "That was the purpose of that patrol."
 msgstr ""
-"Prens Eldred savaşta ölünce Kraliçe tahta geçti, şimdi de gücünü "
-"pekiştiriyor. Yerel köylerden yaşlıları buraya getirerek onları ona biat "
-"etmeye zorluyor. O devriyenin amacı buydu."
+"Kraliçe popüler değil. Eski kralın destekçileriyle savaş halinde ve her "
+"yerde yeni askerler arıyor. Bunun bir kısmı da yerel köylerin yaşlılarını "
+"alıp onlara bağlılık yemini etmeye zorlamaktı. O devriyenin amacı buydu."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:341
@@ -1430,10 +1406,16 @@ msgstr ""
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:353
 msgid ""
 "They will not come. I do not intend to pick a side in Wesnoth’s conflict, "
-"and the Queen knows better than to try to force my hand. It is true that she "
-"maintains a large garrison south at the great fortress of Halstead, but even "
-"should they mobilize all their troops, I doubt they could take Elensefar."
+"and the Queen knows better than to try to force my hand. It is true that she"
+" maintains a large garrison south at the great fortress of Halstead, but "
+"even should they mobilize all their troops, I doubt they could take "
+"Elensefar."
 msgstr ""
+"Gelmeyecekler. Wesnoth’un iç çatışmasında taraf tutmayı düşünmüyorum ve "
+"Kraliçe, beni zorlamaya kalkışmanın işe yaramayacağını biliyor. Güneyde, "
+"Halstead’ın büyük kalesinde büyük bir garnizon bulundurduğu doğru; ancak tüm"
+" kuvvetlerini seferber etseler bile, Elensefar’ı alamayacaklarına kanaat "
+"ediyorum."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:357
@@ -1453,16 +1435,26 @@ msgid ""
 "and we are not in the habit of maintaining a large standing army. It will "
 "take time to assemble mercenaries of the right caliber."
 msgstr ""
+"Evet, Kraliçe Aşivye’nin kuvvetlerini takviye etmek için ork tutma "
+"eğiliminin farkındayım. Ben de ordumu genişletmeye başladım; gerçi çatışma "
+"ihtimalinin düşük olduğunu düşünüyorum. Ancak Elensefar’ın nüfusu küçük ve "
+"büyük bir daimî ordu bulundurma alışkanlığımız yok. Uygun nitelikte paralı "
+"asker toplamak zaman alacaktır."
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:365
 msgid ""
 "The treaty between Elensefar and Wesnoth is ancient, and I do not think Her "
-"Majesty means to break it. But I cannot afford to make enemies of Weldyn, as "
-"you can surely understand. Asheviere looks to be winning her civil war. The "
-"wizard and his rebels have suffered several defeats. I have some concessions "
-"that I shall have to make..."
+"Majesty means to break it. But I cannot afford to make enemies of Weldyn, as"
+" you can surely understand. Asheviere looks to be winning her civil war. The"
+" wizard and his rebels have suffered several defeats. I have some "
+"concessions that I shall have to make..."
 msgstr ""
+"Elensefar ile Wesnoth arasındaki antlaşma çok eskidir ve Majesteleri'nin onu"
+" bozmaya niyetli olduğunu sanmıyorum. Ama Weldyn'i düşman edinmeyi göze "
+"alamam, bunu anlayabilirsiniz. Aşivye iç savaşını kazanıyor gibi görünüyor. "
+"Büyücü ve isyancıları birkaç yenilgi aldı. Bazı tavizler vermek zorunda "
+"kalacağım..."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:369
@@ -1476,6 +1468,9 @@ msgid ""
 "arise. I am already in covert communication with— ...listen, there is a "
 "bigger picture here, Baldras."
 msgstr ""
+"Ağzıma laf tıkamayın. Gerektiğinde harekete geçmeye her an hazırım. Zaten "
+"gizlice iletişim halindeyim— ...dinleyin, Baldras, burada daha büyük bir "
+"oyun var."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:377
@@ -1516,16 +1511,15 @@ msgstr "Hey, bak! Gömülmüş hazineler var!"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:441
-#, fuzzy
 #| msgid ""
-#| "It says, “Here lies Daneth, child of the Light, loyal defender of Lord "
-#| "and Land.” Whoever that was."
+#| "It says, “Here lies Daneth, child of the Light, loyal defender of Lord and "
+#| "Land.” Whoever that was."
 msgid ""
 "It says, “Here lies Daneth, child of the Light, loyal defender of Lord and "
 "Land.”"
 msgstr ""
-"\"Burada Işığın çocuğu Danet yatıyor, Lord ve topraklarının sadık "
-"koruyucusu\" diyor. Kimdiyse."
+"Şöyle diyor: \"Burada Işığın çocuğu, Lord'un ve Toprağın sadık savunucusu "
+"Daneth yatıyor.\""
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:445
@@ -1577,8 +1571,8 @@ msgid ""
 "Baldras and Harper watch, petrified, as the skin and flesh of their "
 "adversaries begin to rot away."
 msgstr ""
-"Baldras ve Harper, düşmanlarının derisi ve eti çürümeye başlarken, taşlaşmış "
-"halde olanları izliyordu."
+"Baldras ve Harper, düşmanlarının derisi ve eti çürümeye başlarken, taşlaşmış"
+" halde olanları izliyordu."
 
 #. [wml_message]
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:593
@@ -1588,8 +1582,8 @@ msgstr "$stored_changers[$i].type dönüştürülemedi, lütfen bunu bildirin!"
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:850
 msgid ""
-"Them things look like evil spirits! Are they those undead you told me about, "
-"Uncle?"
+"Them things look like evil spirits! Are they those undead you told me about,"
+" Uncle?"
 msgstr ""
 "Bu şeyler kötü ruhlara benziyor! Bunlar bana bahsettiğin o yarı ölüler mi "
 "dayı?"
@@ -1597,8 +1591,8 @@ msgstr ""
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:854
 msgid ""
-"They bears some likeness, but these men almost seem half alive. This be some "
-"kind of truly dreadful sorcery."
+"They bears some likeness, but these men almost seem half alive. This be some"
+" kind of truly dreadful sorcery."
 msgstr ""
 "Bazı benzerlikleri var ama bu adamlar neredeyse yarı canlı görünüyor. Bu "
 "gerçekten korkunç bir kara büyü."
@@ -1606,18 +1600,17 @@ msgstr ""
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:865
 msgid ""
-"So, their human aspect returns. Whatever these creatures are, we shall crush "
-"them all under the light of the sun."
+"So, their human aspect returns. Whatever these creatures are, we shall crush"
+" them all under the light of the sun."
 msgstr ""
 "Yani, insani yönleri geri dönüyor. Bu yaratıklar her neyse, hepsini güneş "
 "batmadan ezeceğiz."
 
 #. [modify_unit]
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:887
-#, fuzzy
 #| msgid "General Kestrel"
 msgid "Kestrel"
-msgstr "General Kestrel"
+msgstr "Kerkenez"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:894
@@ -1626,22 +1619,19 @@ msgstr "Siz kimsiniz, nesiniz?"
 
 #. [message]: speaker=Kestrel
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:898
-#, fuzzy
 #| msgid ""
 #| "We... are accursed. We were the soldiers of Prince Eldred, the King’s son "
-#| "and betrayer... when the Prince was slain at the hands of the mage "
-#| "Delfador, those of us who bore witness to it were warped into these "
-#| "twisted forms. Now, our mortal bodies pass... into another plane of "
-#| "hellish existence..."
+#| "and betrayer... when the Prince was slain at the hands of the mage Delfador,"
+#| " those of us who bore witness to it were warped into these twisted forms. "
+#| "Now, our mortal bodies pass... into another plane of hellish existence..."
 msgid ""
 "We... are accursed. We were the soldiers of Prince Eldred, the King’s son "
 "and betrayer... when the Prince stooped to black magic, we were damned... "
 "those of us who bore witness were warped into these twisted forms."
 msgstr ""
-"Biz... lanetlendik. Evvelce kralın hain oğlu Prens Eldred’in emrindeydik... "
-"Prens, büyücü Delfador'un ellerinde öldürüldüğünde, buna tanık olan bizler, "
-"bu çarpık biçimlere dönüştük. Şimdi, ölümlü bedenlerimiz... cehennemi "
-"varoluşun başka bir boyutuna geçiyor..."
+"Biz... lanetlendik. Bizler Kral'ın oğlu ve hain Prens Eldred'in "
+"askerleriydik... Prens kara büyüye tenezzül ettiğinde lanetlendik... tanık "
+"olanlarımız bu çarpık biçimlere bürünmüştü."
 
 #. [message]: speaker=Kestrel
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:902
@@ -1649,6 +1639,8 @@ msgid ""
 "The Queen sent us away... sent us west. Now, our mortal bodies pass... into "
 "another plane of hellish existence..."
 msgstr ""
+"Kraliçe bizi uzaklaştırdı... batıya yolladı. Şimdi, ölümlü bedenlerimiz... "
+"cehennemî bir varoluşun başka bir boyutuna geçiyor..."
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:925
@@ -1658,7 +1650,8 @@ msgstr "İhanet için böyle bir bedel."
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:929
 msgid "Maddock, we helped you defend your city. Will you help us now?"
-msgstr "Madok, şehrini savunmana yardım ettik. Artık bize yardım edecek misin?"
+msgstr ""
+"Madok, şehrini savunmana yardım ettik. Artık bize yardım edecek misin?"
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:939
@@ -1721,8 +1714,8 @@ msgid ""
 "even be planned. Without the necessary forces, Annuvin soon fell under "
 "Weldyn’s absolute control."
 msgstr ""
-"Aşivye'nin orduları, henüz doğmakta olan isyan planlanmadan önce toplandı ve "
-"saldırdı. Gerekli güçler olmadan, Annuvin kısa süre sonra Veldin'in mutlak "
+"Aşivye'nin orduları, henüz doğmakta olan isyan planlanmadan önce toplandı ve"
+" saldırdı. Gerekli güçler olmadan, Annuvin kısa süre sonra Veldin'in mutlak "
 "yönetimi altına girdi."
 
 #. [scenario]: id=05_Hide_and_Seek
@@ -1735,32 +1728,20 @@ msgstr "Saklambaç"
 msgid ""
 "22 Deeproot, 501 YW\n"
 "\n"
-"Been a tough few days since we left Elensefar with all them patrols running "
-"around. Going by boat along the Great River, we has been managing to avoid "
-"them Wesnothians, but being constantly on the lookout be real taxing. I "
-"truly be starting to feel that tiredness in my bones... old men like me "
-"should be sitting back at home, resting our grey bodies and watchin’ over "
-"them younger folk growing up. I don’t got no business here, running around "
-"as some outlaw. Maybe if I was ten years younger..."
+"Been a tough few days since we left Elensefar with all them patrols running around. Going by boat along the Great River, we has been managing to avoid them Wesnothians, but being constantly on the lookout be real taxing. I truly be starting to feel that tiredness in my bones... old men like me should be sitting back at home, resting our grey bodies and watchin’ over them younger folk growing up. I don’t got no business here, running around as some outlaw. Maybe if I was ten years younger..."
 msgstr ""
 "22 Yağmurayı, VY 501\n"
 "\n"
-"Elensefar'dan ayrıldığımızdan beri etraftaki devriyeler yüzünden birkaç gün "
-"çok zor geçti. Büyük Nehir boyunca tekneyle giderken, Vesnotlulardan "
-"kaçınmayı başardık, ancak sürekli tetikte olmak zorundaydık. Yorgunluktan "
-"adeta kemiklerim bile sızlamaya başladı... benim gibi yaşlı adamlar evde "
-"oturup, yorgun bedenlerimizi dinlendirmeli ve gençlerin büyümesini izliyor "
-"olmalı. Ne işim var burada, bir haydut gibi dolaşıp duruyorum. Belki on yaş "
-"daha genç olsaydım..."
+"Elensefar'dan ayrıldığımızdan beri etraftaki devriyeler yüzünden birkaç gün çok zor geçti. Büyük Nehir boyunca tekneyle giderken, Vesnotlulardan kaçınmayı başardık, ancak sürekli tetikte olmak zorundaydık. Yorgunluktan adeta kemiklerim bile sızlamaya başladı... benim gibi yaşlı adamlar evde oturup, yorgun bedenlerimizi dinlendirmeli ve gençlerin büyümesini izliyor olmalı. Ne işim var burada, bir haydut gibi dolaşıp duruyorum. Belki on yaş daha genç olsaydım..."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:53
 msgid ""
 "Anyway, the messenger I sent back to Relana should be in Delwyn already. We "
-"should be arriving to Carcyn soon too, to where that coward Maddock said his "
-"‘contact’ be. Truths be told, I don’t know how this’ll be turning out, "
-"especially since I don’t be no social butterfly like sis were. Don’t like me "
-"no city folk really. But I’ll deal with them if I gots to."
+"should be arriving to Carcyn soon too, to where that coward Maddock said his"
+" ‘contact’ be. Truths be told, I don’t know how this’ll be turning out, "
+"especially since I don’t be no social butterfly like sis were. Don’t like me"
+" no city folk really. But I’ll deal with them if I gots to."
 msgstr ""
 "Her neyse, Relana'ya gönderdiğim haberci çoktan Delvin'e varmış olmalı. O "
 "korkak Madok'un \"bağlantısının\" olduğunu söylediği yer olan Karsin'e de "
@@ -1799,14 +1780,14 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:344
 msgid ""
-"Relentlessly pursued by riders patrolling the road to Elensefar, Baldras and "
-"the villagers traveled unseen along the swampy banks of the Great River to "
+"Relentlessly pursued by riders patrolling the road to Elensefar, Baldras and"
+" the villagers traveled unseen along the swampy banks of the Great River to "
 "the city of Carcyn. They hid until nightfall, then crept out to find the "
 "help Lord Maddock hinted was here."
 msgstr ""
 "Elensefar yolunda devriye gezen binicilerin merhametsizce peşine düştükleri "
-"Baldras ve adamları Büyük nehrin bataklık kıyıları boyunca görünmeden Karsin "
-"şehrine kadar yol aldılar. Akşama kadar saklandılar, sonra Lord Madok'un "
+"Baldras ve adamları Büyük nehrin bataklık kıyıları boyunca görünmeden Karsin"
+" şehrine kadar yol aldılar. Akşama kadar saklandılar, sonra Lord Madok'un "
 "bahsettiği yardımı bulmak için gizlendikleri yerden dışarı çıktılar."
 
 #. [message]: speaker=Harper
@@ -1832,8 +1813,8 @@ msgstr ""
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:382
 msgid ""
-"Well, we need their help now, don’t we? So we got to figure out a way to get "
-"to Lord Maddock’s friend. But he didn’t say anything about who that was."
+"Well, we need their help now, don’t we? So we got to figure out a way to get"
+" to Lord Maddock’s friend. But he didn’t say anything about who that was."
 msgstr ""
 "Eh, şimdi onların yardımına ihtiyacımız var, değil mi? Bu yüzden Lord "
 "Madok'un arkadaşına ulaşmanın bir yolunu bulmalıyız. Ama kim olduğuna dair "
@@ -1843,11 +1824,12 @@ msgstr ""
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:387
 msgid ""
 "Harper, when a noble lord says he don’t want some kind of relationship "
-"known, it means some kind o’ connection with the black market. We be looking "
-"for criminals, probably some thieves’ den. Or, maybe they be looking for us."
+"known, it means some kind o’ connection with the black market. We be looking"
+" for criminals, probably some thieves’ den. Or, maybe they be looking for "
+"us."
 msgstr ""
-"Harper, asil bir lord bağlantılarının bilinmesini istemediğini söylediğinde, "
-"bu karaborsayla bir tür bağlantısı olduğu anlamına gelir. Suçlu arıyoruz, "
+"Harper, asil bir lord bağlantılarının bilinmesini istemediğini söylediğinde,"
+" bu karaborsayla bir tür bağlantısı olduğu anlamına gelir. Suçlu arıyoruz, "
 "muhtemelen bir hırsız yuvası. Ya da belki onlar bizi arıyordur."
 
 #. [unit]: type=Thief, id=Link
@@ -1873,9 +1855,9 @@ msgid ""
 "contingent of heavy infantry here to supervise the city. They’re patrolling "
 "the streets and forests for us."
 msgstr ""
-"Avlarımdan biri olsaydın, şimdiye kadar boğazın kesilmiş olurdu. İkiniz hala "
-"tehlikedesiniz. Sadece bir hafta önce, Krallık şehri denetlemek için buraya "
-"bir ağır piyade birliği gönderdi. Sokaklarda ve ormanlarda bizim için "
+"Avlarımdan biri olsaydın, şimdiye kadar boğazın kesilmiş olurdu. İkiniz hala"
+" tehlikedesiniz. Sadece bir hafta önce, Krallık şehri denetlemek için buraya"
+" bir ağır piyade birliği gönderdi. Sokaklarda ve ormanlarda bizim için "
 "devriye geziyorlar."
 
 #. [message]: speaker=Baldras
@@ -1910,7 +1892,8 @@ msgstr ""
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:471
 msgid ""
 "Harper, you younger and faster folks needs to be our eyes. Scout ahead and "
-"find a way past them guards, but make sure ya don’t get yourselves spotted..."
+"find a way past them guards, but make sure ya don’t get yourselves "
+"spotted..."
 msgstr ""
 "Harper, bizim gözlerimize güvenen insanlardan daha genç ve daha hızlısın. "
 "İleriyi gözle ve muhafızları geçmemizi sağlayacak bir yol bul, fakat "
@@ -1964,8 +1947,8 @@ msgid ""
 "infiltrating a heavily guarded city relyin’ on nothing but the cover of "
 "darkness and my wits."
 msgstr ""
-"Yıllardır bu kadar çok koşmak zorunda kalmadım. Bana sorarsanız, karanlıktan "
-"yararlanmak ve hislerim dışında hiçbir şeye güvenmeden düşman hatlarından "
+"Yıllardır bu kadar çok koşmak zorunda kalmadım. Bana sorarsanız, karanlıktan"
+" yararlanmak ve hislerim dışında hiçbir şeye güvenmeden düşman hatlarından "
 "sızıp iyi korunmuş bir şehre girmeye, delilik derdim."
 
 #. [message]: speaker=Harper
@@ -2016,20 +1999,11 @@ msgstr "Avcılar"
 msgid ""
 "24 Deeproot, 501 YW\n"
 "\n"
-"The sun don’t really shine at all in these Grey Woods, but truth be told, I "
-"has been getting used to it more and more. Lounging out in the warm "
-"daylight, talkin’ with Erwen while watching them kids play out in the "
-"fields... those times were so long ago. Our lives weren’t never real "
-"peaceful, but back then, we had our homes and our friends and our family... "
-"now we be creatures of the dark."
+"The sun don’t really shine at all in these Grey Woods, but truth be told, I has been getting used to it more and more. Lounging out in the warm daylight, talkin’ with Erwen while watching them kids play out in the fields... those times were so long ago. Our lives weren’t never real peaceful, but back then, we had our homes and our friends and our family... now we be creatures of the dark."
 msgstr ""
 "24 Yağmurayı, VY 501\n"
 "\n"
-"Bu Gri Ormanda güneş pek parlamaz ama doğruyu söylemek gerekirse, buna "
-"gittikçe daha fazla alışıyorum. Sıcak gün ışığında uzanmak, tarlada oynayan "
-"çocukları izlerken Ervinn ile konuşmak... Bu, çok uzun zaman önceydi. "
-"Hayatlarımız gerçekte pek huzurlu değildi, ama o zamanlar evlerimiz, "
-"arkadaşlarımız ve ailemiz vardı... şimdi karanlığın yaratıklarıyız."
+"Bu Gri Ormanda güneş pek parlamaz ama doğruyu söylemek gerekirse, buna gittikçe daha fazla alışıyorum. Sıcak gün ışığında uzanmak, tarlada oynayan çocukları izlerken Ervinn ile konuşmak... Bu, çok uzun zaman önceydi. Hayatlarımız gerçekte pek huzurlu değildi, ama o zamanlar evlerimiz, arkadaşlarımız ve ailemiz vardı... şimdi karanlığın yaratıklarıyız."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:51
@@ -2065,8 +2039,8 @@ msgstr ""
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:59
 msgid ""
 "I must be strong. That’s what I tells myself. I should be strong, but... I "
-"don’t know what be keeping me going, if it be this misguided sense of pride, "
-"or my duties to the village, or Harper, or even just remembering the past, "
+"don’t know what be keeping me going, if it be this misguided sense of pride,"
+" or my duties to the village, or Harper, or even just remembering the past, "
 "making some futile attempts to go back to better times."
 msgstr ""
 "Güçlü olmalıyım. Kendime söylediğim şey bu. Güçlü olmalıyım, ama... Beni "
@@ -2123,13 +2097,13 @@ msgstr "Lider sensin, sanırım."
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:266
 msgid ""
-"Indeed, I am Lord Helicrom, the Crow of the Grey Woods. We are acquaintances "
-"of Lord Maddock, who sent word to us of your predicament. I believe we can "
+"Indeed, I am Lord Helicrom, the Crow of the Grey Woods. We are acquaintances"
+" of Lord Maddock, who sent word to us of your predicament. I believe we can "
 "work something out for your situation."
 msgstr ""
 "Gerçekten de ben Gri Ormanın Kargası Lord Helikrom'um. İçinde bulunduğunuz "
-"durumu bize bildiren Lord Madok'un tanıdıklarıyız. Durumunuz için bir şeyler "
-"yapabileceğimize inanıyorum."
+"durumu bize bildiren Lord Madok'un tanıdıklarıyız. Durumunuz için bir şeyler"
+" yapabileceğimize inanıyorum."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:270
@@ -2141,15 +2115,15 @@ msgstr "Neyle uğraşıyorsunuz?"
 msgid ""
 "The former king’s magic ministry kept a tight control on the training and "
 "employment of mages in Wesnoth. Those of us who dared to... depart from the "
-"curriculum were dealt with harshly. Many of us were forced to escape here to "
-"continue our study of our brand of magic. Our security and secrecy are not "
+"curriculum were dealt with harshly. Many of us were forced to escape here to"
+" continue our study of our brand of magic. Our security and secrecy are not "
 "cheap."
 msgstr ""
 "Sabık kralın büyü bakanlığı Vesnot’taki büyücülerin eğitimi ve işe "
 "yerleştirilmelerini sıkı bir şekilde denetliyordu. Müfredat programından "
 "ayrılmaya cüret edenlere insafsızca davranıldı. Birçoğumuz büyü ile ilgili "
-"incelemelermize devam edebilmek için buradan kaçmak zorunda kaldık. Gizlilik "
-"ve güvenliğimiz pek ucuza malolmuyor."
+"incelemelermize devam edebilmek için buradan kaçmak zorunda kaldık. Gizlilik"
+" ve güvenliğimiz pek ucuza malolmuyor."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:278
@@ -2178,9 +2152,9 @@ msgid ""
 "occupied by king or queen, aids us. To accomplish that, we must destabilize "
 "their forces in this region. The key is Halstead."
 msgstr ""
-"Bunu anlamadım. Kral veya Kraliçe tarafından işgal edilerek de olsa, Vesnoth "
-"Tahtının herhangi bir zayıflığının bize yardımı olur. Bunu başarmak için, bu "
-"bölgedeki güçlerini istikrarsızlaştırmalıyız. Anahtar Halstead."
+"Bunu anlamadım. Kral veya Kraliçe tarafından işgal edilerek de olsa, Vesnoth"
+" Tahtının herhangi bir zayıflığının bize yardımı olur. Bunu başarmak için, "
+"bu bölgedeki güçlerini istikrarsızlaştırmalıyız. Anahtar Halstead."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:294
@@ -2195,8 +2169,8 @@ msgid ""
 "gathering there. But we gots no way to fight a war with them, not since "
 "Maddock won’t send his soldiers to battle."
 msgstr ""
-"Evet, Harper. Büyücünün söyledikleri şaşırtıcı değil. Elensefar'a bile rakip "
-"olacak, merkezi öneme sahip bir kale olacak. Madok, Kraliçe'nin "
+"Evet, Harper. Büyücünün söyledikleri şaşırtıcı değil. Elensefar'a bile rakip"
+" olacak, merkezi öneme sahip bir kale olacak. Madok, Kraliçe'nin "
 "birliklerinin orada toplandığını söyledi. Ama Madok askerlerini savaşa "
 "göndermeyeceği için onlarla savaşma şansımız yok."
 
@@ -2238,11 +2212,11 @@ msgstr ""
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:314
 msgid ""
 "I’m not asking you to fight a war. A direct fight against Weldyn’s armies "
-"would be undoubtedly foolish. However, we have other means within our grasp. "
-"From Dan’Tonk to Halstead, the fastest path lies through the pass between "
-"the Brown Hills and the Gryphon Mountains followed by the trek through these "
-"Grey Woods. We are in prime position to gnaw away at their troops, crippling "
-"their forces before they ever arrive at their destination."
+"would be undoubtedly foolish. However, we have other means within our grasp."
+" From Dan’Tonk to Halstead, the fastest path lies through the pass between "
+"the Brown Hills and the Gryphon Mountains followed by the trek through these"
+" Grey Woods. We are in prime position to gnaw away at their troops, "
+"crippling their forces before they ever arrive at their destination."
 msgstr ""
 "Senden bir savaşa girmeni istemiyorum. Veldin ordularına karşı doğrudan bir "
 "savaş kuşkusuz aptalca olurdu. Ancak, elimizde başka araçlar da var. Dan "
@@ -2285,8 +2259,8 @@ msgstr ""
 msgid ""
 "In the last day, my scouts have counted five platoons of troops marching "
 "towards the garrison. We must eliminate them all before they reach the "
-"outpost at the end of the woods. The outpost also must not be alerted to our "
-"presence, or we will have the bulk of their forces upon us."
+"outpost at the end of the woods. The outpost also must not be alerted to our"
+" presence, or we will have the bulk of their forces upon us."
 msgstr ""
 "Geçen gün gözcülerim garnizona doğru yürüyen beş müfrezelik bir birlik "
 "gördü. Ormanın sonundaki karakola ulaşmadan hepsini yok etmeliyiz. Karakol "
@@ -2417,11 +2391,12 @@ msgstr "Hayaletlerden mi korkuyorsun, asker?"
 #. [message]: role=master_at_arms
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:943
 msgid ""
-"Woods, woods, woods and more woods! Bah, that general had better have a good "
-"reason for dragging me out to Halstead with all these oafs."
+"Woods, woods, woods and more woods! Bah, that general had better have a good"
+" reason for dragging me out to Halstead with all these oafs."
 msgstr ""
 "Ağaç, ağaç, ağaç ve daha fazla ağaç! Peh, o generalin beni tüm bu "
-"serserilerle birlikte Halsted'e sürüklemek için iyi bir nedeni olsa iyi olur."
+"serserilerle birlikte Halsted'e sürüklemek için iyi bir nedeni olsa iyi "
+"olur."
 
 #. [message]
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:950
@@ -2448,8 +2423,8 @@ msgid ""
 "Something about these woods seems quite unnatural. Perhaps we should stop "
 "sending our soldiers this way."
 msgstr ""
-"Bu ormanlarla ilgili bir şey pek de doğal görünmüyor. Belki de askerlerimizi "
-"bu yoldan göndermemeliyiz."
+"Bu ormanlarla ilgili bir şey pek de doğal görünmüyor. Belki de askerlerimizi"
+" bu yoldan göndermemeliyiz."
 
 #. [message]: speaker=Archarel
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1008
@@ -2465,8 +2440,8 @@ msgid ""
 "With the outpost aware of our presence, we can no longer harry their "
 "reinforcements. Their forces will soon grow too powerful for us to resist."
 msgstr ""
-"Karakol varlığımızın farkına vardığı için, onların takviye kuvvetlerini daha "
-"fazla hırpalayamayız. Güçleri yakında bizim karşı koyamayacağımız kadar "
+"Karakol varlığımızın farkına vardığı için, onların takviye kuvvetlerini daha"
+" fazla hırpalayamayız. Güçleri yakında bizim karşı koyamayacağımız kadar "
 "artacak."
 
 #. [message]: speaker=narrator
@@ -2489,8 +2464,8 @@ msgstr "İşleri bitti. Devriyeleri paramparça olacak."
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1093
 msgid ""
 "Well done, but the fight is far from over. We will not be able to employ "
-"these tactics when more platoons arrive. You must make your choice. Will you "
-"fight? Or will you return to your village and beg for amnesty?"
+"these tactics when more platoons arrive. You must make your choice. Will you"
+" fight? Or will you return to your village and beg for amnesty?"
 msgstr ""
 "Aferin, ama mücadele bitmedi. Daha fazla müfreze geldiğinde bu taktikleri "
 "kullanamayacağız. Seçimini yapmalısın. savaşacak mısın? Yoksa köye dönüp "
@@ -2534,13 +2509,13 @@ msgstr ""
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1118
 msgid ""
-"The girl is naive, but her spirit is in the right place. You risk your homes "
-"and the lives of your people, yes, but what good will they be if you live in "
-"tyranny? Believe me, I have been there. I would rather die than go back."
+"The girl is naive, but her spirit is in the right place. You risk your homes"
+" and the lives of your people, yes, but what good will they be if you live "
+"in tyranny? Believe me, I have been there. I would rather die than go back."
 msgstr ""
-"Kız saf ama ruhu doğru yerde. Evlerinizi ve insanlarınızın hayatlarını riske "
-"atıyorsunuz, evet, ama despotluk içinde yaşarsanız ne işe yarar? İnan bana, "
-"orada bulundum. Geri dönmektense ölmeyi tercih ederim."
+"Kız saf ama ruhu doğru yerde. Evlerinizi ve insanlarınızın hayatlarını riske"
+" atıyorsunuz, evet, ama despotluk içinde yaşarsanız ne işe yarar? İnan bana,"
+" orada bulundum. Geri dönmektense ölmeyi tercih ederim."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1123
@@ -2579,7 +2554,8 @@ msgstr ""
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1194
-msgid "Look there! Outlaws and bandits roam these woods, harrying our patrols!"
+msgid ""
+"Look there! Outlaws and bandits roam these woods, harrying our patrols!"
 msgstr ""
 "Oraya bak! Bu ormanda kaçaklar ve haydutlar dolaşıyor, devriyelerimize "
 "saldırıyorlar!"
@@ -2599,35 +2575,21 @@ msgstr "Zafer"
 msgid ""
 "From the Annals of Alduin, 98 YW\n"
 "\n"
-"One score and eight years ago, in 70 YW, the King of Wesnoth and the Lord of "
-"Elensefar signed a treaty of trade and alliance in order to further the "
-"security of humankind. The realization of this treaty required the creation "
-"of a safe path between Weldyn and Elensefar, with all manner of hostile "
-"creature or beast scoured from these civilized lands. From Dan’Tonk, the "
-"establishment of Aldril and Carcyn secured the once hazardous passage "
-"alongside the Grey Woods, completing the way between the two cities. With "
-"this, the alliance can truly be deemed a coalition of men."
+"One score and eight years ago, in 70 YW, the King of Wesnoth and the Lord of Elensefar signed a treaty of trade and alliance in order to further the security of humankind. The realization of this treaty required the creation of a safe path between Weldyn and Elensefar, with all manner of hostile creature or beast scoured from these civilized lands. From Dan’Tonk, the establishment of Aldril and Carcyn secured the once hazardous passage alongside the Grey Woods, completing the way between the two cities. With this, the alliance can truly be deemed a coalition of men."
 msgstr ""
 "Alduin Yıllıklarından, VY 98\n"
 "\n"
-"Yirmi sekiz yıl önce, VY 70'te, Vesnot Kralı ve Elensefar Lordu, insanların "
-"güvenliğini artırmak için bir ticaret ve ittifak anlaşması imzaladı. Bu "
-"anlaşma, Veldin ve Elensefar arasında, bu medeni topraklarda, her türlü "
-"düşman yaratık veya canavardan temizlenmiş güvenli bir yolun oluşturulmasını "
-"gerektiriyordu. Dan Tok'tan Aldril ve Karsin'e kadar, Gri Orman'ın yanında "
-"bir zamanlar tehlikeli olan geçidi güvenceye aldı ve iki şehir arasındaki "
-"yolu tamamladı. Bununla, ittifak gerçekten bir insan koalisyonu olarak kabul "
-"edilebilir."
+"Yirmi sekiz yıl önce, VY 70'te, Vesnot Kralı ve Elensefar Lordu, insanların güvenliğini artırmak için bir ticaret ve ittifak anlaşması imzaladı. Bu anlaşma, Veldin ve Elensefar arasında, bu medeni topraklarda, her türlü düşman yaratık veya canavardan temizlenmiş güvenli bir yolun oluşturulmasını gerektiriyordu. Dan Tok'tan Aldril ve Karsin'e kadar, Gri Orman'ın yanında bir zamanlar tehlikeli olan geçidi güvenceye aldı ve iki şehir arasındaki yolu tamamladı. Bununla, ittifak gerçekten bir insan koalisyonu olarak kabul edilebilir."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:26
 msgid ""
 "To commemorate the concordat, six years ago, the Lords of Weldyn and "
 "Elensefar decreed that a monument be erected in the heart of these once "
-"wildlands. We, the magi of Alduin, lent our services to demonstrate the full "
-"prowess and might of human magic. Above a series of old catacombs in a scant "
-"hill, we spent these years raising an immense stronghold from the earth’s "
-"living rock."
+"wildlands. We, the magi of Alduin, lent our services to demonstrate the full"
+" prowess and might of human magic. Above a series of old catacombs in a "
+"scant hill, we spent these years raising an immense stronghold from the "
+"earth’s living rock."
 msgstr ""
 "Konkordatoyu anmak için, altı yıl önce, Veldin ve Elensefar Lordları, bir "
 "zamanların bu vahşi alanlarının merkezine bir anıt dikilmesine karar "
@@ -2640,8 +2602,8 @@ msgstr ""
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:30
 msgid ""
 "Completed, as it is on this day, this sentinel of the west now towers "
-"hundreds of paces tall, a great monolith looming sheer above the plains. The "
-"sight of these colossal walls, to even us magi, is both awe-inspiring and "
+"hundreds of paces tall, a great monolith looming sheer above the plains. The"
+" sight of these colossal walls, to even us magi, is both awe-inspiring and "
 "terrifying. So tall these towers peak and so mighty these walls arise that "
 "such a feat seems more like a force of nature than a work of man. That we "
 "have fashioned this mountain as insignificant humans is almost "
@@ -2682,11 +2644,11 @@ msgstr "Vardık. Halsted kalesi."
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:272
 msgid ""
-"Look at how tall it is! Those towers be so sheer and smooth, it almost looks "
-"like magic called them up out of the earth!"
+"Look at how tall it is! Those towers be so sheer and smooth, it almost looks"
+" like magic called them up out of the earth!"
 msgstr ""
-"Ne kadar uzun olduğuna bir bak! Bu kuleler o kadar dik ve pürüzsüz ki, adeta "
-"sihirle topraktan dışarı çekilmiş gibi görünüyor!"
+"Ne kadar uzun olduğuna bir bak! Bu kuleler o kadar dik ve pürüzsüz ki, adeta"
+" sihirle topraktan dışarı çekilmiş gibi görünüyor!"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:277
@@ -2698,8 +2660,8 @@ msgid ""
 "alliance."
 msgstr ""
 "Evet, bunda bazı gerçekler olabilir. Eski hikayeler bize, geçmiş zamanlarda "
-"Elensefar ve Veldin'in gerçekten güçlü büyücülere sahip olduğunu, bugünlerde "
-"sadece siyaset yapanlardan çok daha usta olduğunu anlatır. Şehirler "
+"Elensefar ve Veldin'in gerçekten güçlü büyücülere sahip olduğunu, bugünlerde"
+" sadece siyaset yapanlardan çok daha usta olduğunu anlatır. Şehirler "
 "arasındaki toprakları uygarlaştırmaya yardım ettiler ve ittifakı "
 "onurlandırmak için Halsted'in duvarlarını ördüler."
 
@@ -2707,7 +2669,8 @@ msgstr ""
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:282
 msgid "I don’t see how we can bring it down. They seem invincible in there!"
 msgstr ""
-"Onları nasıl yıkacağımızı anlayamadım. Buradan bakınca yenilmez görünüyorlar!"
+"Onları nasıl yıkacağımızı anlayamadım. Buradan bakınca yenilmez "
+"görünüyorlar!"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:286
@@ -2815,16 +2778,16 @@ msgid ""
 "have no need for the help of you uncouth orcs. We have always managed just "
 "fine without you."
 msgstr ""
-"Güzel hikaye. Büyük olasılıkla, bu, cephaneliğimizi yağmalamak için kalemize "
-"girmeniz için acınası bir bahane. Majesteleri sizi buraya göndermiş olsa "
+"Güzel hikaye. Büyük olasılıkla, bu, cephaneliğimizi yağmalamak için kalemize"
+" girmeniz için acınası bir bahane. Majesteleri sizi buraya göndermiş olsa "
 "bile, siz kaba orkların yardımına ihtiyacımız yok. Siz olmadan her zaman "
 "gayet iyi idare ettik."
 
 #. [message]: speaker=Vashna
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:339
 msgid ""
-"Yeah? Well, we will see how fine you manage <i>against</i> us. I’ll show you "
-"just how weak you pinkskins are."
+"Yeah? Well, we will see how fine you manage <i>against</i> us. I’ll show you"
+" just how weak you pinkskins are."
 msgstr ""
 "Evet? Bize <i>karşı</i> ne kadar iyi idare ettiğinizi göreceğiz. Size pembe "
 "derililerin ne kadar zayıf olduğunu göstereceğim."
@@ -2865,15 +2828,14 @@ msgstr "Emredersiniz, beyim."
 
 #. [message]: speaker=Sir Gwydion
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:395
-#, fuzzy
 #| msgid ""
 #| "Ready thy lances! Let us trample the armies of Weldyn beneath our steeds!"
 msgid ""
 "Lo, Knights of Elensefar, the battle hath begun ere our arrival. Ready thy "
 "lances! Let us trample the armies of Weldyn beneath our steeds!"
 msgstr ""
-"Mızraklarınızı hazırlayın kardeşlerim. Veldin ordularını atlarımızın altında "
-"çiğneyelim!"
+"İşte Elensefar Şövalyeleri, savaş biz gelmeden başladı. Mızraklarınızı "
+"hazırlayın! Weldyn ordularını atlarımızın altında ezelim!"
 
 #. [message]: role=farseer
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:408
@@ -2958,8 +2920,8 @@ msgid ""
 "ground, in the bowels of the hollowed-out mountain."
 msgstr ""
 "Gürültülü bir yer sarsıntısı ile tozu dumana katarak binlerce ton taş ve "
-"tahta dağın içine çöküverdi. Bir kısmı sarp yamaçlardan aşağı yuvarlanırken, "
-"geri kalanı oyulmuş dağın içine yuvarlanıp yerin birkaç yüz metre altında "
+"tahta dağın içine çöküverdi. Bir kısmı sarp yamaçlardan aşağı yuvarlanırken,"
+" geri kalanı oyulmuş dağın içine yuvarlanıp yerin birkaç yüz metre altında "
 "kaldı."
 
 #. [message]: speaker=narrator
@@ -2971,8 +2933,8 @@ msgstr "Kalenin içindekilerden sağ kurtulan olmadı."
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:789
 msgid ""
 "After several days of fierce fighting, the main body of Weldyn’s host "
-"arrived. The battle was soon finished. Every last man from the rebellion was "
-"executed."
+"arrived. The battle was soon finished. Every last man from the rebellion was"
+" executed."
 msgstr ""
 "Birkaç gün süren şiddetli çatışmalardan sonra, Veldin ordusunun tamamı "
 "geldi. Savaş kısa sürede tamamlandı.İsyana katılan herkes son ferdine kadar "
@@ -3058,13 +3020,11 @@ msgstr "Hürriyet - Sonsöz"
 msgid ""
 "03 Scryer’s Bloom, 501 YW\n"
 "\n"
-"It were a real shock. I were so stunned, I barely even remember what "
-"happened after."
+"It were a real shock. I were so stunned, I barely even remember what happened after."
 msgstr ""
 "03 Piknikayı, VY 501\n"
 "\n"
-"Gerçek bir şoktu. O kadar şaşırmıştım ki sonrasında ne olduğunu bile zar zor "
-"hatırlıyorum."
+"Gerçek bir şoktu. O kadar şaşırmıştım ki sonrasında ne olduğunu bile zar zor hatırlıyorum."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:19
@@ -3072,8 +3032,8 @@ msgid ""
 "Helicrom, I don’t know what happened to him, didn’t see what happened to "
 "Maddock’s son either. Me and Harper and the few of us who survived got up "
 "and ran. We be heading back north now, toward Carcyn and Elensefar. Them "
-"patrols seems to be in real disarray, mostly seeming to be riding back south "
-"to regroup. It be looking like we really did disrupt Weldyn’s chain of "
+"patrols seems to be in real disarray, mostly seeming to be riding back south"
+" to regroup. It be looking like we really did disrupt Weldyn’s chain of "
 "command."
 msgstr ""
 "Helikrom, ona ne olduğunu bilmiyorum, Madok'un oğluna da ne olduğunu "
@@ -3084,13 +3044,12 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:22
-#, fuzzy
 #| msgid ""
-#| "I’m sure them Wesnothians will come back in time and with Maddock holed "
-#| "up in his stupid tower, they’ll eventually siege Elensefar and take the "
-#| "city... but that don’t be my problem anymore. I has me a village to worry "
-#| "about. I need to get back, consult myself with Relana and figure out what "
-#| "to do next. We gots some more time now, but we can’t wait forever."
+#| "I’m sure them Wesnothians will come back in time and with Maddock holed up "
+#| "in his stupid tower, they’ll eventually siege Elensefar and take the city..."
+#| " but that don’t be my problem anymore. I has me a village to worry about. I "
+#| "need to get back, consult myself with Relana and figure out what to do next."
+#| " We gots some more time now, but we can’t wait forever."
 msgid ""
 "I’m sure them Wesnothians will come back in time. Maddock sounded like he "
 "had a plan... we’ll see. But that don’t be my problem anymore. I has me a "
@@ -3098,59 +3057,49 @@ msgid ""
 "figure out what to do next. We gots some more time now, but we can’t wait "
 "forever."
 msgstr ""
-"Eminim o Vesnotlular zamanında geri dönecekler ve Madok aptal kulesinde "
-"kapana kısılmışken sonunda Elensefar'ı kuşatıp şehri alacaklar... ama bu "
-"artık benim sorunum değil. Endişelenmem gereken bir köy var. Geri dönmem, "
-"Relana'ya danışmam ve sonra ne yapacağıma karar vermem gerekiyor. Şimdi "
-"biraz daha zamanımız var ama sonsuza kadar bekleyemeyiz."
+"Wesnothianların zamanında geri geleceğinden eminim. Maddock bir planı varmış"
+" gibi konuştu... göreceğiz. Ama bu artık benim sorunum değil. Benim "
+"endişelenmem gereken bir köy var. Geri dönmem, Relana'ya danışmam ve bundan "
+"sonra ne yapacağıma karar vermem gerekiyor. Artık biraz daha zamanımız var "
+"ama sonsuza kadar bekleyemeyiz."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:25
 msgid ""
 "10 Scryer’s Bloom, 501 YW\n"
 "\n"
-"We got back to Dallben today, but the village were empty. There were a few "
-"bodies and some burned houses, but it weren’t raided or nothing. Must’ve "
-"been one of them Wesnoth patrols, curse those damned stinkers! When I first "
-"saw the scene with my eyes, I thoughts that we failed, that we was too "
-"late... but now that I thinks of it, it be real weird that so few died. The "
-"others must’ve escaped to somewhere. But I didn’t see any clues here."
+"We got back to Dallben today, but the village were empty. There were a few bodies and some burned houses, but it weren’t raided or nothing. Must’ve been one of them Wesnoth patrols, curse those damned stinkers! When I first saw the scene with my eyes, I thoughts that we failed, that we was too late... but now that I thinks of it, it be real weird that so few died. The others must’ve escaped to somewhere. But I didn’t see any clues here."
 msgstr ""
 "10 Piknikayı, VY 501\n"
 "\n"
-"Bugün Dalben'e döndük ama köy boştu. Birkaç ceset ve yanmış evler vardı, ama "
-"baskın yapılmadı ya da hiçbir şey olmadı. Vesnot devriyelerinden biri "
-"olmalı, lanet olası pislikler! Sahneyi gözlerimle ilk gördüğümde, başarısız "
-"olduğumuzu, çok geç kaldığımızı düşündüm... ama şimdi düşününce, bu kadar az "
-"kişinin ölmesi gerçekten garip. Diğerleri bir yere kaçmış olmalı. Ama burada "
-"herhangi bir ipucu göremedim."
+"Bugün Dalben'e döndük ama köy boştu. Birkaç ceset ve yanmış evler vardı, ama baskın yapılmadı ya da hiçbir şey olmadı. Vesnot devriyelerinden biri olmalı, lanet olası pislikler! Sahneyi gözlerimle ilk gördüğümde, başarısız olduğumuzu, çok geç kaldığımızı düşündüm... ama şimdi düşününce, bu kadar az kişinin ölmesi gerçekten garip. Diğerleri bir yere kaçmış olmalı. Ama burada herhangi bir ipucu göremedim."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:31
 msgid ""
 "I sended Harper off to Delwyn. Hope she’ll find something there. In the "
-"meantimes, I’ll rest this tired body for a little and go see sis, maybe pick "
-"her up some lilies. Seems like this’ll probably be the last time I gets to "
+"meantimes, I’ll rest this tired body for a little and go see sis, maybe pick"
+" her up some lilies. Seems like this’ll probably be the last time I gets to "
 "see her..."
 msgstr ""
 "Harper'ı Delvin'e gönderdim. Umarım orada bir şeyler bulur. Bu arada bu "
-"yorgun bedenimi biraz dinlendirip kızımı görmeye gideceğim, belki ona zambak "
-"toplarım. Bu muhtemelen onu son görüşüm olacak gibi görünüyor..."
+"yorgun bedenimi biraz dinlendirip kızımı görmeye gideceğim, belki ona zambak"
+" toplarım. Bu muhtemelen onu son görüşüm olacak gibi görünüyor..."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:34
 msgid ""
 "She’ll tell me not to be sad, of course. That life just be a big adventure "
-"and filled with fun, that I shouldn’t think about stuffs I can’t change. The "
-"world be huge and vast, much bigger than small little people like me. I "
+"and filled with fun, that I shouldn’t think about stuffs I can’t change. The"
+" world be huge and vast, much bigger than small little people like me. I "
 "don’t got the power to change it, so why not try to live as best I can? "
-"Besides, she’ll say that I still gots me a little piece of her in Harper, so "
-"I should cherish the lass."
+"Besides, she’ll say that I still gots me a little piece of her in Harper, so"
+" I should cherish the lass."
 msgstr ""
 "Kızım tabii ki üzülmememi söyleyecek. Hayat sadece büyük bir macera ve "
-"eğlence dolu, değiştiremeyeceğim şeyler hakkında düşünmemem gerekiyor. Dünya "
-"kocaman ve uçsuz bucaksız, benim gibi küçük insanlardan çok daha büyük. Bunu "
-"değiştirecek gücüm yok, öyleyse neden elimden geldiğince yaşamaya "
+"eğlence dolu, değiştiremeyeceğim şeyler hakkında düşünmemem gerekiyor. Dünya"
+" kocaman ve uçsuz bucaksız, benim gibi küçük insanlardan çok daha büyük. "
+"Bunu değiştirecek gücüm yok, öyleyse neden elimden geldiğince yaşamaya "
 "çalışmıyorum? Ayrıca Harper'da hâlâ kızımın bir parçam olduğunu, bu yüzden "
 "ona değer vermem gerektiğini söyleyecek."
 
@@ -3164,22 +3113,20 @@ msgid ""
 msgstr ""
 "Yaparım Ervin, gerçekten yaparım. Bunların hepsi çok zor olacak. Cesur bir "
 "ruh ya da büyük bir savaşçı değilim ama elimden gelenin en iyisini "
-"yapıyorum. Ve birlikte geçirdiğimiz tüm o güzel zamanları da unutmadım ― her "
-"nasılsa, bir şekilde, devam etmemi sağlıyorlar. Ben ve Harper, sonuna kadar "
-"pes etmeyeceğiz."
+"yapıyorum. Ve birlikte geçirdiğimiz tüm o güzel zamanları da unutmadım ― her"
+" nasılsa, bir şekilde, devam etmemi sağlıyorlar. Ben ve Harper, sonuna kadar"
+" pes etmeyeceğiz."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:40
 msgid ""
 "14 Scryer’s Bloom, 501 YW\n"
 "\n"
-"Harper got back today from Delwyn. Said she didn’t find no one alive there, "
-"but she did bring back a note she found. Let’s see what it says."
+"Harper got back today from Delwyn. Said she didn’t find no one alive there, but she did bring back a note she found. Let’s see what it says."
 msgstr ""
 "14 Piknikayı, VY 501\n"
 "\n"
-"Harper bugün Delvin'den döndü. Orada canlı kimseyi bulamadığını söyledi ama "
-"bulduğu bir notu geri getirdi. Bakalım ne diyor."
+"Harper bugün Delvin'den döndü. Orada canlı kimseyi bulamadığını söyledi ama bulduğu bir notu geri getirdi. Bakalım ne diyor."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:47
@@ -3198,8 +3145,8 @@ msgid ""
 "<i>“I don’t know if you and Harper will see this note, but if you do, I’m "
 "expecting ya to come find us. Remember them ol’ pirate islands we used to "
 "hear some of them Elensefar sailors talk about? We be heading there, "
-"southwest of the city and past the land’s end. See you in the Three Sisters, "
-"old friend. ― Relana”</i>"
+"southwest of the city and past the land’s end. See you in the Three Sisters,"
+" old friend. ― Relana”</i>"
 msgstr ""
 "<i>\"Sen ve Harper bu notu görür müsünüz bilmiyorum ama görürseniz gelip "
 "bizi bulmanızı bekliyorum. Elensefar denizcilerinden bazılarının "
@@ -3213,15 +3160,14 @@ msgid ""
 "So they survived! Them islands be a bit far, but I suppose this sack of old "
 "bones has one more adventure left in it..."
 msgstr ""
-"Böylece hayatta kaldılar! Adalar biraz uzak ama sanırım bu eski kemik çuvalı "
-"için bir macera daha var..."
+"Böylece hayatta kaldılar! Adalar biraz uzak ama sanırım bu eski kemik çuvalı"
+" için bir macera daha var..."
 
 #. [unit_type]: id=Lord of Elensefar, race=human
 #: data/campaigns/Liberty/units/Maddock.cfg:4
-#, fuzzy
 #| msgid "Port of Elensefar"
 msgid "Lord of Elensefar"
-msgstr "Elensefar Limanı"
+msgstr "Elensefar'ın Efendisi"
 
 #. [unit_type]: id=Lord of Elensefar, race=human
 #: data/campaigns/Liberty/units/Maddock.cfg:7
@@ -3234,6 +3180,13 @@ msgid ""
 "lies a fierce independence, a trait that sometimes puts them at odds with "
 "the aristocrats of other regions."
 msgstr ""
+"Elensefar’ın büyük şehir devleti, Büyük Kıta’nın en zengin insan "
+"yerleşimidir; görece küçük nüfusunu yalanlar nitelikte bir ün ve güce "
+"sahiptir. İç kesimlerin savaş odaklı soylularının aksine, Elensefar valileri"
+" ticaret sanatına ve denizcilik becerisine hâkimdir; son derece uzlaşmacı "
+"oldukları bilinir. Yine de bu tüccar çekiciliğinin arkasında, onları zaman "
+"zaman diğer bölgelerin aristokratlarıyla karşı karşıya getiren sert bir "
+"bağımsızlık yatmaktadır."
 
 #. [unit_type]: id=Thug_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:20
@@ -3243,8 +3196,8 @@ msgstr "Köylü"
 #. [unit_type]: id=Thug_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:23
 msgid ""
-"Peasants live in the small hamlets and villages scattered across the Wesnoth "
-"countryside."
+"Peasants live in the small hamlets and villages scattered across the Wesnoth"
+" countryside."
 msgstr "Köylüler Vesnot’un kenar mahallelerinde ve köylerinde yaşarlar."
 
 #. [unit_type]: id=Bandit_Peasant
@@ -3259,8 +3212,8 @@ msgid ""
 "guided by a group of elders, who are the village’s wisest and most "
 "experienced residents."
 msgstr ""
-"Vesnot sayfiyelerine dağılmış köyler normalde köyün en bilge ve en deneyimli "
-"sakinleri olan yaşlılardan oluşan bir heyet tarafından yönetilirler."
+"Vesnot sayfiyelerine dağılmış köyler normalde köyün en bilge ve en deneyimli"
+" sakinleri olan yaşlılardan oluşan bir heyet tarafından yönetilirler."
 
 #. [unit_type]: id=Highwayman_Peasant, gender=male,female
 #: data/campaigns/Liberty/units/Villagers.cfg:53
@@ -3276,8 +3229,8 @@ msgid ""
 "as magistrates so that legal and customary authority will coincide."
 msgstr ""
 "Köyün tamamı yol göstermesi için yaşlı muhtara güvenir. Güçlü ve bilge "
-"muhtarlar topluluğa yaptırılacak işler konusunda sorumluluk alan kişilerdir. "
-"Yaşlı muhtarları birbiriyle uyumlu yasal ve özel yetkileri olan sivil "
+"muhtarlar topluluğa yaptırılacak işler konusunda sorumluluk alan kişilerdir."
+" Yaşlı muhtarları birbiriyle uyumlu yasal ve özel yetkileri olan sivil "
 "memurlar olarak atama yetkisi eyalet yöneticilerine verilmiştir."
 
 #. [female]: gender=female
@@ -3312,8 +3265,8 @@ msgstr "Gözcü"
 #. [unit_type]: id=Outlaw_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:121
 msgid ""
-"The watchmen are men and women who protect the villages from marauders, both "
-"human and otherwise, that prowl the Wesnoth countryside at night."
+"The watchmen are men and women who protect the villages from marauders, both"
+" human and otherwise, that prowl the Wesnoth countryside at night."
 msgstr ""
 "Gözcüler, Vesnot sayfiyelerinde geceleyin sinsi sinsi dolaşan insan olsun "
 "olmasın bütün yağmacılara karşı köyleri korumaya çalışan kadınlar ve "
@@ -3333,8 +3286,8 @@ msgstr "Sınır Bekçisi"
 #: data/campaigns/Liberty/units/Villagers.cfg:142
 msgid ""
 "Border villages maintain militias dedicated to fending off hostiles. While "
-"these borderers are not trained and armed to up to military standards, their "
-"native toughness and knowledge of local conditions make them formidable on "
+"these borderers are not trained and armed to up to military standards, their"
+" native toughness and knowledge of local conditions make them formidable on "
 "their home ground."
 msgstr ""
 "Sınır köyleri düşman saldırıları olduğunda milis sağlar. Bunlar eğitimli "
@@ -3412,13 +3365,13 @@ msgstr "Bu nasıl olabilir?"
 #~ msgstr "Köylü"
 
 #~ msgid "Outlaw"
-#~ msgstr "Eşkiya"
+#~ msgstr "Haydut"
 
 #~ msgid "Challenging"
 #~ msgstr "Zorlu"
 
 #~ msgid "Fugitive"
-#~ msgstr "Serseri"
+#~ msgstr "Kaçak"
 
 #~ msgid "Jasken"
 #~ msgstr "Jasken"
@@ -3427,55 +3380,55 @@ msgstr "Bu nasıl olabilir?"
 #~ msgstr "Elensefar Limanı"
 
 #~ msgid "Defeat the enemy general"
-#~ msgstr "Düşman generalini öldür"
+#~ msgstr "Düşman generali yen"
 
 #~ msgid ""
 #~ "Well, they do not come within the walls of my city. There is a large "
 #~ "garrison south at the great fortress of Halstead, but even should they "
 #~ "mobilize all their troops, I doubt they could take Elensefar. It is true "
-#~ "that for now, the majority of my forces are still returning from the "
-#~ "battle of Abez, but unless we are attacked within the next few days, I "
-#~ "shall be able to hold the city."
+#~ "that for now, the majority of my forces are still returning from the battle "
+#~ "of Abez, but unless we are attacked within the next few days, I shall be "
+#~ "able to hold the city."
 #~ msgstr ""
-#~ "Benim şehrimin duvarlarının içine girmiyorlar. Güneydeki büyük Halsted "
-#~ "kalesinde büyük bir garnizon var, ama bütün birliklerini seferber etseler "
-#~ "bile Elensefar'ı alabileceklerinden şüpheliyim. Şu an için kuvvetlerimin "
-#~ "çoğunluğunun Abez savaşından döndüğü doğru, ancak önümüzdeki birkaç gün "
-#~ "içinde saldırıya uğramazsak şehri tutabileceğim."
+#~ "Pekala, şehrimin surlarının içine giremezler. Güneyde, Halstead'in büyük "
+#~ "kalesinde büyük bir garnizon var, ancak tüm birliklerini seferber etseler "
+#~ "bile Elensefar'ı alabileceklerinden şüpheliyim. Doğru, şimdilik "
+#~ "kuvvetlerimin çoğu hala Abez savaşından dönüyor, ancak önümüzdeki birkaç gün"
+#~ " içinde saldırıya uğramazsak şehri tutabileceğim."
 
 #~ msgid ""
 #~ "We have an uneasy peace to maintain. The treaty between Elensefar and "
-#~ "Wesnoth is ancient, and I do not think Her Majesty means to break it. At "
-#~ "the same time, I have some concessions that I shall have to make. I "
-#~ "cannot afford a war with Weldyn, as you can surely understand."
+#~ "Wesnoth is ancient, and I do not think Her Majesty means to break it. At the"
+#~ " same time, I have some concessions that I shall have to make. I cannot "
+#~ "afford a war with Weldyn, as you can surely understand."
 #~ msgstr ""
-#~ "Zor da olsa bu barışı korumalıyız. Elensefar ve Vesnot arasındaki anlaşma "
-#~ "çok eskidir ve Majestelerinin bunu bozmak niyetinde olduğunu "
-#~ "düşünmüyorum. Aynı zamanda, vermem gereken bazı tavizler var. Senin de "
-#~ "kesinlikle anlayabileceğin gibi, Veldin'le bir savaşı göze alamam."
+#~ "Sürdürmemiz gereken huzursuz bir barış var. Elensefar ile Wesnoth arasındaki"
+#~ " antlaşma kadimdir ve Majestelerinin onu bozmak istediğini sanmıyorum. Aynı "
+#~ "zamanda, bazı tavizler vermek zorunda kalacağım. Weldyn ile bir savaşı göze "
+#~ "alamam, bunu kesinlikle anlarsınız."
 
 #~ msgid ""
 #~ "Yes, I am aware of Queen Asheviere’s propensity for hiring orcs to "
-#~ "supplement her forces. That does not mean I could do anything about it, "
-#~ "even if I were so inclined. The best advice I can give you is to just "
-#~ "apologize. Even if they may want your head, Baldras, you still have the "
-#~ "chance to preserve your village. Think of the bigger picture."
+#~ "supplement her forces. That does not mean I could do anything about it, even"
+#~ " if I were so inclined. The best advice I can give you is to just apologize."
+#~ " Even if they may want your head, Baldras, you still have the chance to "
+#~ "preserve your village. Think of the bigger picture."
 #~ msgstr ""
-#~ "Evet, Kraliçe Aşivye'nin güçlerini desteklemek için ork kiralama "
-#~ "eğiliminde olduğunun farkındayım. Çok istekli olsam bile, böyle bir "
-#~ "tehdit karşısında bir şey yapabileceğimi sanmıyorum. Sana verebileceğim "
-#~ "en iyi tavsiye hemen özür dilemen. Kafanı bile isteseler Baldras, hala "
-#~ "köyünü koruma şansın var. Resme biraz uzaktan bak."
+#~ "Evet, Kraliçe Asheviere'in güçlerini takviye etmek için orkları işe alma "
+#~ "eğiliminin farkındayım. Bu, istesem bile bu konuda bir şey yapabileceğim "
+#~ "anlamına gelmez. Size verebileceğim en iyi tavsiye sadece özür dilemenizdir."
+#~ " Kafanızı isteseler bile, Baldras, köyünüzü koruma şansınız hala var. Büyük "
+#~ "resmi düşünün."
 
 #~ msgid "Looks like someone left some supplies here."
-#~ msgstr "Görünüşe göre biri burada biraz malzeme bırakmış."
+#~ msgstr "Görünüşe göre birileri buraya biraz erzak bırakmış."
 
 #~ msgid ""
 #~ "That’s a deep well! Wonder how far down it goes. Guess I’ll chuck a rock "
 #~ "down and find out."
 #~ msgstr ""
-#~ "Bu derin bir kuyu! Derinliği ne kadar, merak ediyorum. Sanırım bir taş "
-#~ "atıp öğreneceğim."
+#~ "Ne kadar derin bir kuyu! Ne kadar aşağı indiğini merak ediyorum. Sanırım bir"
+#~ " taş atıp öğreneceğim."
 
 #~ msgid ""
 #~ "...\n"
@@ -3487,125 +3440,123 @@ msgstr "Bu nasıl olabilir?"
 #~ "..."
 
 #~ msgid "Plunk!"
-#~ msgstr "Vur!"
+#~ msgstr "Şıp!"
 
 #~ msgid ""
 #~ "Lo, Knights of Elensefar, the battle hath begun ere our arrival. Though I "
 #~ "disobey my father in this endeavor, our presence surely is much needed."
 #~ msgstr ""
-#~ "İleri, Elensefar Şövalyeleri, savaş biz daha varmadan başlamış. Bu "
-#~ "durumda babama itaatsizlik etsem de, varlığımıza kesinlikle çok ihtiyaç "
-#~ "var."
+#~ "Ey Elensefar Şövalyeleri, savaş biz gelmeden önce başladı. Bu çabada babama "
+#~ "karşı gelsem de, varlığımıza kesinlikle çok ihtiyaç var."
 
 #~ msgid "Rogue Mage"
-#~ msgstr "Çete Büyücüsü"
+#~ msgstr "Haydut Büyücü"
 
 #~ msgid ""
 #~ "Some mages are thrown out of the mages’ guild for attempting to practice "
 #~ "forbidden arts. Now completely outside the law, these rogue mages do "
-#~ "whatever is necessary to support their study of black magic. Although not "
-#~ "as skilled as mages with more formal training, their magic can be quite "
-#~ "lethal, while their banditry has resulted in moderate skill with the "
-#~ "short sword."
+#~ "whatever is necessary to support their study of black magic. Although not as"
+#~ " skilled as mages with more formal training, their magic can be quite "
+#~ "lethal, while their banditry has resulted in moderate skill with the short "
+#~ "sword."
 #~ msgstr ""
-#~ "Yasak sanatlarda uğraşmaları nedeniyle bazıları büyücü loncalarından "
-#~ "atılırlar. Tamamen kanundışı olan bu büyücüler kara büyü çalışmalarını "
-#~ "destekleyecek herşeyle uğraşırlar. Normal eğitimli büyücüler gibi "
-#~ "yetenekli olmadıklarından sihirleri öldürücü olabilir. Haydutlukları kısa "
-#~ "kılıçla deneyimlerinin gelişmesine yol açmıştır."
+#~ "Bazı büyücüler, yasak sanatları uygulamaya çalıştıkları için büyücüler "
+#~ "loncasından atılır. Artık tamamen yasa dışı olan bu haydut büyücüler, kara "
+#~ "büyü çalışmalarını desteklemek için ne gerekiyorsa yaparlar. Daha resmi "
+#~ "eğitim almış büyücüler kadar yetenekli olmasalar da, büyüleri oldukça "
+#~ "ölümcül olabilirken, haydutlukları kısa kılıçta orta düzeyde beceri "
+#~ "kazanmalarına neden olmuştur."
 
 #~ msgid "ice blast"
-#~ msgstr "soğuk darbe"
+#~ msgstr "buz patlaması"
 
 #~ msgid "Shadow Lord"
-#~ msgstr "Gölgelerin Efendisi"
+#~ msgstr "Gölge Lordu"
 
 #~ msgid ""
 #~ "Few humans fathom the secrets of light and dark magic and retain their "
 #~ "sanity. Those that can master that balance become Shadow Lords, fully "
-#~ "existing neither in the world of light nor the world of darkness. No "
-#~ "longer needing physical weapons, they are fearsome to both their enemies "
-#~ "and those they lord over."
+#~ "existing neither in the world of light nor the world of darkness. No longer "
+#~ "needing physical weapons, they are fearsome to both their enemies and those "
+#~ "they lord over."
 #~ msgstr ""
-#~ "Pek az insan sağlığını koruyarak kara büyü ve ışığın gizlerini "
-#~ "derinliğine anlayabilmiştir. Ne tamamen aydınlık dünyada ne de tamamen "
-#~ "karanlık dünyada var olabilen bu kişiler bu ikisini dengeleyerek "
-#~ "Gölgelerin Efendileri haline gelirler. Artık fiziksel silahlara "
-#~ "ihtiyaçları kalmadığı gibi her iki düşmana da korku salarak bunları "
-#~ "yönetirler."
+#~ "Çok az insan ışık ve karanlık büyüsünün sırlarını kavrar ve akıl "
+#~ "sağlıklarını korur. Bu dengeyi ustaca yönetebilenler, ne ışık dünyasında ne "
+#~ "de karanlık dünyasında tam olarak var olan Gölge Lordları olurlar. Artık "
+#~ "fiziksel silahlara ihtiyaç duymayan bu varlıklar, hem düşmanları hem de "
+#~ "hükmettikleri kişiler için korkutucudur."
 
 #~ msgid "astral blade"
-#~ msgstr "yıldız bıçak"
+#~ msgstr "astral kılıç"
 
 #~ msgid "shadow bolt"
-#~ msgstr "kara şimşek"
+#~ msgstr "gölge oku"
 
 #~ msgid "shadow blast"
-#~ msgstr "kara darbe"
+#~ msgstr "gölge patlaması"
 
 #~ msgid "Shadow Mage"
-#~ msgstr "Kara Büyücü"
+#~ msgstr "Gölge Büyücüsü"
 
 #~ msgid ""
 #~ "Years of violence and brutality to support the study of forbidden magical "
 #~ "arts have turned the shadow mages into feared fighters. Now completely "
-#~ "enthralled with power, they have been known to command small followings "
-#~ "of henchmen. They are outmatched in direct magical combat with their "
-#~ "magic-using peers, instead channeling their energies into devastating "
-#~ "melee attacks. Despite their offensive power, the corruption in their "
-#~ "souls has begun to adversely affect their health."
+#~ "enthralled with power, they have been known to command small followings of "
+#~ "henchmen. They are outmatched in direct magical combat with their magic-"
+#~ "using peers, instead channeling their energies into devastating melee "
+#~ "attacks. Despite their offensive power, the corruption in their souls has "
+#~ "begun to adversely affect their health."
 #~ msgstr ""
-#~ "Unutulmuş sihir sanatları üzerindeki çalışmalarını yıllardır vahşilik ve "
-#~ "şiddet ile desteklemeleri Kara Büyücüleri korkulan döğüşçüler haline "
-#~ "getirdi. Artık büyüleyerek tamamen esir almaları nedeniyle beraberlerinde "
-#~ "küçük gruplarla dolaşmalarıyla tanındılar. Sihir kullanan rakipleri ile "
-#~ "yaptıkları çarpışmalarda yıkıcı yakın saldırılarda enerjilerini harcamak "
-#~ "yerine doğrudan sihir kullanarak üstün gelirler. Sindirici güçlerine "
-#~ "karşın,ruhlarındaki bozulma sağlıklarını kötü etkiler."
+#~ "Yasak büyü sanatları üzerine çalışmayı desteklemek için yıllarca süren "
+#~ "şiddet ve vahşet, gölge büyücülerini korkulan savaşçılara dönüştürdü. Artık "
+#~ "güce tamamen kapılmış durumdalar ve küçük bir uşak grubuna komuta ettikleri "
+#~ "biliniyor. Büyü kullanan akranlarıyla doğrudan büyülü çatışmada yetersiz "
+#~ "kalırlar, bunun yerine enerjilerini yıkıcı yakın dövüş saldırılarına "
+#~ "yöneltirler. Saldırı güçlerine rağmen, ruhlarındaki yozlaşma sağlıklarını "
+#~ "olumsuz etkilemeye başladı."
 
 #~ msgid "Rothel"
-#~ msgstr "Rotel"
+#~ msgstr "Rothel"
 
 #~ msgid "Bone Knight"
-#~ msgstr "Kemik Şövalye"
+#~ msgstr "Kemik Şövalyesi"
 
 #~ msgid ""
 #~ "Once great warriors across the plains, these mounted riders atop their "
-#~ "skeletal horses were raised from the ground by unholy magic to spread "
-#~ "fear and destruction."
+#~ "skeletal horses were raised from the ground by unholy magic to spread fear "
+#~ "and destruction."
 #~ msgstr ""
-#~ "Bir zamanlar ovalarda fırtına gibi esen büyük savaşçılar olan bu "
-#~ "biniciler iskelet atları ile birlikte lanetli bir büyüyle mezarlarından "
-#~ "kaldırılmışlardır."
+#~ "Bir zamanlar ovaların büyük savaşçıları olan, iskelet atlarının üzerindeki "
+#~ "bu atlılar, kutsal olmayan büyüyle yerden yükseltilerek korku ve yıkım "
+#~ "yaymak için kullanıldılar."
 
 #~ msgid "trample"
-#~ msgstr "çiğneme"
+#~ msgstr "ezme"
 
 #~ msgid "Death Squire"
-#~ msgstr "Ölüm Silahşörü"
+#~ msgstr "Ölüm Silahşoru"
 
 #~ msgid ""
-#~ "Sometimes the mightiest warriors and generals, cursed with hate and "
-#~ "angst, came back to this world as Death Knights. Death Squires serve them "
-#~ "whilst accruing enough unholy power to become Death Knights. In the "
-#~ "process they pick up a good deal of the Knight’s power, including the "
-#~ "ability to command underlings."
+#~ "Sometimes the mightiest warriors and generals, cursed with hate and angst, "
+#~ "came back to this world as Death Knights. Death Squires serve them whilst "
+#~ "accruing enough unholy power to become Death Knights. In the process they "
+#~ "pick up a good deal of the Knight’s power, including the ability to command "
+#~ "underlings."
 #~ msgstr ""
-#~ "Bir zamanların en güçlü savaşçıları ve generalleri olan bu kişiler nefret "
-#~ "ve korku ile lanetlenerek bu dünyaya Ölüm Şövalyeleri olarak geri "
-#~ "gelirler. Ölüm Silahşörleri onlara hizmet ederek yeterli lanet gücünü "
-#~ "toplamaya ve Ölüm Şövalyeleri haline gelmeye çalışırlar. Bu süreçte, ayak "
-#~ "takımını yönetme yeteneği gibi Şövalyenin gücünün iyi taraflarını da elde "
-#~ "ederler."
+#~ "Bazen nefret ve kaygıyla lanetlenmiş en güçlü savaşçılar ve generaller, Ölüm"
+#~ " Şövalyeleri olarak bu dünyaya geri döndüler. Ölüm Silahşorları, Ölüm "
+#~ "Şövalyesi olmak için yeterli kutsal olmayan gücü biriktirirken onlara hizmet"
+#~ " ederler. Bu süreçte, astlara komuta etme yeteneği de dahil olmak üzere "
+#~ "Şövalye'nin gücünün önemli bir kısmını edinirler."
 
 #~ msgid "Skeleton Rider"
-#~ msgstr "İskelet Binici"
+#~ msgstr "İskelet Süvari"
 
 #~ msgid ""
-#~ "Once great warriors thundering across the plains, these mounted riders "
-#~ "atop their skeletal horses were raised from the grave by unholy magic to "
-#~ "spread fear and destruction."
+#~ "Once great warriors thundering across the plains, these mounted riders atop "
+#~ "their skeletal horses were raised from the grave by unholy magic to spread "
+#~ "fear and destruction."
 #~ msgstr ""
-#~ "Bir zamanlar ovalarda fırtına gibi esen büyük savaşçılar olan bu "
-#~ "biniciler iskelet atları ile birlikte lanetli bir büyüyle mezarlarından "
-#~ "kaldırılmışlardır."
+#~ "Bir zamanlar ovalarda gürleyen büyük savaşçılar olan, iskelet atlarının "
+#~ "üzerindeki bu atlılar, kutsal olmayan büyüyle mezardan yükseltilerek korku "
+#~ "ve yıkım yaymak için kullanıldılar."

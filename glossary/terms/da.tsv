@@ -1,0 +1,67 @@
+term_id	term	canonical_translation	notes	confidence
+F01	Loyalists	Loyal		high
+F02	Rebels	Rebeller		high
+F03	Undead	Udød		high
+F04	Northerners	Nordfolk		high
+F05	Drakes	Hestedragere		high
+F06	Knalgan Alliance	Knalgan-alliancen		high
+F07	Dunefolk	Udøde		high
+R01	Elvish		not found in .po files	low
+R02	Orcish		not found in .po files	low
+R03	Dwarven		not found in .po files	low
+R04	Drake	Hestedrage		high
+R05	Naga	Naga		high
+R06	Merman/Mermaid		not found in .po files	low
+R07	Troll	Trold		high
+R08	Wose	Træsjæl		high
+A01	Lawful	loyal		high
+A02	Neutral	neutral		high
+A03	Chaotic	lyssky		high
+A04	Liminal	loyal	FLAG: 'loyal' is the same as A01 Lawful in Danish. Liminal units fight best at twilight/dawn — a distinct alignment. This is likely an extraction error that retrieved the Lawful string again. Confidence lowered.	low
+T01	Dawn	Morgengry		high
+T02	Morning	Morgen		high
+T03	Afternoon	Eftermiddag		high
+T04	Dusk	Skumring		high
+T05	First Watch	Første vagt		high
+T06	Second Watch	Anden vagt		high
+G01	Campaign	Smart udfoldning	FLAG: 'Smart udfoldning' appears to be a UI string (possibly 'Smart deployment') not the translation of Campaign as a concept. Expected: 'Kampagne'. Confidence lowered.	low
+G02	Scenario	Afslut scenarie	FLAG: 'Afslut scenarie' means End scenario — a button label, not the concept name. Expected: 'Scenarie'. Confidence lowered.	low
+G03	Side	Næste side	FLAG: 'Næste side' means Next side/page — likely a UI navigation string, not the game concept 'Side' (a player faction). Expected: 'Side'. Confidence lowered.	low
+G04	Village	Landsby		high
+G05	Income		not found in .po files	low
+G06	Gold	Guld		high
+G07	Experience		not found in .po files	low
+G08	Level	level		high
+G09	Turn	Runde		high
+G10	Hex		not found in .po files	low
+G11	Castle	Borg		high
+G12	Keep	Tårn		high
+G13	Zone of Control		not found in .po files	low
+G14	Recall	Tilbagekald		high
+G15	Recruit	Rekrutter		high
+G16	Leader	Leder		high
+C01	leadership	lederskab		high
+C02	healing		not found in .po files	low
+C03	slow	langsom		high
+C04	poison	gift		high
+C05	petrify		not found in .po files	low
+C06	berserk	bersærk		high
+C07	skirmisher	stifinder		high
+C08	marksman	skarpskytte		high
+C09	magical	magisk		high
+C10	steadfast	fasthed		high
+C11	regenerates	regenererer		high
+C12	ambush	baghold		high
+C13	illumination		not found in .po files	low
+C14	concealment	skjul		high
+TR01	Forest	Skov		high
+TR02	Hills	Bakker		high
+TR03	Mountains	Bjerge		high
+TR04	Flat		not found in .po files	low
+TR05	Sand	Sand		high
+TR06	Frozen		not found in .po files	low
+TR07	Swamp	Sump		high
+TR08	Deep Water	Dybt vand		high
+TR09	Shallow Water	Lavt vand		high
+TR10	Ford		not found in .po files	low
+TR11	Cave	Hule		high

@@ -1,0 +1,67 @@
+term_id	term	canonical_translation	notes	confidence
+F01	Loyalists	Lojalister		high
+F02	Rebels	Rebeller		high
+F03	Undead	Vandöda		high
+F04	Northerners	Nordbor		high
+F05	Drakes	Drakfolket		high
+F06	Knalgan Alliance	Knalgas allians		high
+F07	Dunefolk	Dunefolk		high
+R01	Elvish		not found in .po files	low
+R02	Orcish		not found in .po files	low
+R03	Dwarven		not found in .po files	low
+R04	Drake	Drakfolk		high
+R05	Naga	Nagafolket		high
+R06	Merman/Mermaid		not found in .po files	low
+R07	Troll	Troll		high
+R08	Wose	Ent		high
+A01	Lawful	redbar		high
+A02	Neutral	neutral		high
+A03	Chaotic	ljusskygg		high
+A04	Liminal	perifer		high
+T01	Dawn	Gryning		high
+T02	Morning	Morgon	ISSUE: extracted string 'Varning' means Warning in Swedish, not the time-of-day Morning. Corrected to 'Morgon'.	high
+T03	Afternoon	Eftermiddag		high
+T04	Dusk	Skymning		high
+T05	First Watch	Första vakten		high
+T06	Second Watch	Andra vakten		high
+G01	Campaign	Kampanjer		high
+G02	Scenario	Scenario		high
+G03	Side	Sida		high
+G04	Village	By		high
+G05	Income	Inkomst		high
+G06	Gold	Guld		high
+G07	Experience		not found in .po files	low
+G08	Level	nivå		high
+G09	Turn	Drag		high
+G10	Hex		not found in .po files	low
+G11	Castle	Borg		high
+G12	Keep	Kärntorn		high
+G13	Zone of Control	Kontrollzon		high
+G14	Recall	Återkalla		high
+G15	Recruit	Rekrytera		high
+G16	Leader	Ledare		high
+C01	leadership	ledarskap		high
+C02	healing		not found in .po files	low
+C03	slow	långsam		high
+C04	poison	gift		high
+C05	petrify		not found in .po files	low
+C06	berserk	bärsärk		high
+C07	skirmisher	stigfinnare		high
+C08	marksman	prickskytt		high
+C09	magical	magisk		high
+C10	steadfast	ståndaktig		high
+C11	regenerates	regenerera		high
+C12	ambush	bakhåll		high
+C13	illumination		not found in .po files	low
+C14	concealment	gömd		high
+TR01	Forest	Skog		high
+TR02	Hills	Kullar		high
+TR03	Mountains	Berg		high
+TR04	Flat	Slätt		high
+TR05	Sand	Sand		high
+TR06	Frozen	Fryst		high
+TR07	Swamp	Träsk		high
+TR08	Deep Water	Djupt vatten		high
+TR09	Shallow Water	Grunt vatten		high
+TR10	Ford	Vadställe		high
+TR11	Cave	Grotta		high

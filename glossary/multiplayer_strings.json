@@ -1,0 +1,431 @@
+{
+  "domain": "wesnoth-multiplayer",
+  "file": "po/wesnoth-multiplayer/tr.po",
+  "empty": [
+    {
+      "row": 284,
+      "src": "6p — Double Siege",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [multiplayer]: id=multiplayer_Double_Siege",
+        "#: data/multiplayer/scenarios/6p_Double_Siege.cfg:7"
+      ]
+    },
+    {
+      "row": 285,
+      "src": "Two armies attacked a single city, both emerged victorious. Now, only one can claim the victory.",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [multiplayer]: id=multiplayer_Double_Siege",
+        "#: data/multiplayer/scenarios/6p_Double_Siege.cfg:8"
+      ]
+    }
+  ],
+  "fuzzy": [
+    {
+      "row": 4,
+      "src": "Complete the survival scenario <i>2p — Dark Forecast</i>.",
+      "tgt": "Hayatta kalma senaryosunu tamamla <i>2o - Kara Öngörü</i>.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [achievement]: id=Wesnoth_MP_Dark_Forecast",
+        "#: data/multiplayer/achievements.cfg:11"
+      ]
+    },
+    {
+      "row": 5,
+      "src": "Completed the survival scenario <i>2p — Dark Forecast</i>.",
+      "tgt": "Hayatta kalma senaryosu tamamlandı <i>2o - Kara Öngörü</i>.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [achievement]: id=Wesnoth_MP_Dark_Forecast",
+        "#: data/multiplayer/achievements.cfg:12"
+      ]
+    },
+    {
+      "row": 8,
+      "src": "Complete the survival scenario <i>2p — Isle of Mists</i>.",
+      "tgt": "Hayatta kalma senaryosunu tamamla <i>2o - Sisler Adası</i>.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [achievement]: id=Wesnoth_MP_Isle_of_Mists",
+        "#: data/multiplayer/achievements.cfg:22"
+      ]
+    },
+    {
+      "row": 9,
+      "src": "Completed the survival scenario <i>2p — Isle of Mists</i>.",
+      "tgt": "Hayatta kalma senaryosu tamamlandı <i>2o - Sisler Adası</i>.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [achievement]: id=Wesnoth_MP_Isle_of_Mists",
+        "#: data/multiplayer/achievements.cfg:23"
+      ]
+    },
+    {
+      "row": 11,
+      "src": "Complete the survival scenario <i>6p — Team Survival</i>.",
+      "tgt": "Hayatta kalma senaryosunu tamamla <i>2o - Takım Hayatta Kalma</i>.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [achievement]: id=Wesnoth_MP_Team_Survival",
+        "#: data/multiplayer/achievements.cfg:33"
+      ]
+    },
+    {
+      "row": 12,
+      "src": "Completed the survival scenario <i>6p — Team Survival</i>.",
+      "tgt": "Hayatta kalma senaryosu tamamlandı <i>6o - Takım Hayatta Kalma</i>.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [achievement]: id=Wesnoth_MP_Team_Survival",
+        "#: data/multiplayer/achievements.cfg:34"
+      ]
+    },
+    {
+      "row": 14,
+      "src": "Complete the survival scenario <i>4p — A New Land</i>.",
+      "tgt": "Hayatta kalma senaryosunu tamamla <i>4o - Yeni Bir Ülke</i>.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [achievement]: id=Wesnoth_MP_ANL",
+        "#: data/multiplayer/achievements.cfg:44"
+      ]
+    },
+    {
+      "row": 15,
+      "src": "Completed the survival scenario <i>4p — A New Land</i>.",
+      "tgt": "Hayatta kalma senaryosu tamamlandı <i>4o - Yeni Bir Ülke</i>.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [achievement]: id=Wesnoth_MP_ANL",
+        "#: data/multiplayer/achievements.cfg:45"
+      ]
+    },
+    {
+      "row": 17,
+      "src": "Destroy all enemy mushroom mines in <i>4p — A New Land</i>.",
+      "tgt": "Tüm düşman mantar madenlerini yok et <i>4o - Yeni Bir Ülke</i>.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [achievement]: id=Wesnoth_MP_ANL_mines",
+        "#: data/multiplayer/achievements.cfg:54"
+      ]
+    },
+    {
+      "row": 18,
+      "src": "Destroyed all enemy mushroom mines in <i>4p — A New Land</i>.",
+      "tgt": "Tüm düşman mantar madenleri yok edildi <i>4o - Yeni Bir Ülke</i>.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [achievement]: id=Wesnoth_MP_ANL_mines",
+        "#: data/multiplayer/achievements.cfg:55"
+      ]
+    },
+    {
+      "row": 20,
+      "src": "Rescue the trapped units in <i>4p — A New Land</i>.",
+      "tgt": "Yakalanan birimleri kurtar <i>4o - Yeni Bir Ülke</i>.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [achievement]: id=Wesnoth_MP_ANL_rescue_allies",
+        "#: data/multiplayer/achievements.cfg:65"
+      ]
+    },
+    {
+      "row": 21,
+      "src": "Rescued the trapped units in <i>4p — A New Land</i>.",
+      "tgt": "Yakalanan birimler kurtarıldı <i>4o - Yeni Bir Ülke</i>.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [achievement]: id=Wesnoth_MP_ANL_rescue_allies",
+        "#: data/multiplayer/achievements.cfg:66"
+      ]
+    },
+    {
+      "row": 23,
+      "src": "The standard era for Wesnoth multiplayer. Consists of seven factions and is generally balanced.",
+      "tgt": "Vesnot çok oyunculu için standart çağ. Altı birlikten oluşur ve genel olarak dengelidir.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [era]: id=era_default, type=hybrid",
+        "#: data/multiplayer/eras.cfg:6",
+        "#| \"The standard era for Wesnoth multiplayer. Consists of six factions and is \"",
+        "#| \"generally balanced.\""
+      ]
+    },
+    {
+      "row": 25,
+      "src": "An era with higher level units: level three leaders, with level one and two units available for recruit. Consists of seven factions. Not considered balanced.",
+      "tgt": "Yüksek seviyeli birimleri olan bir çağ: Askere almak için üçüncü seviyeden liderler, birinci ve ikinci seviyeden birimler vardır. Altı birlik içerir. Dengeli sayılmaz.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [era]: id=era_heroes",
+        "#: data/multiplayer/eras.cfg:15",
+        "#| \"An era with higher level units: level three leaders, with level one and \"",
+        "#| \"two units available for recruit. Consists of six factions. Not considered \"",
+        "#| \"balanced.\""
+      ]
+    },
+    {
+      "row": 33,
+      "src": "The <b>Drakes</b> are a faction of dragon-like <ref dst='..race_drake'>Drakes</ref> and their lizard <ref dst='..race_lizard'>Saurian</ref> allies. Drakes are descendants of dragons, but smaller in size. Saurians are considerably smaller than Drakes and from different ancestry. Together, the Drake faction has high mobility but low defense, leading to unusual tactics for a <ref dst='..era_era_default'>Default Era</ref> faction.",
+      "tgt": "<bold>text='Ejderler'</bold>, ejderha benzeri <ref>text='Ejderler' dst='..race_drake'</ref> ve kertenkele benzeri <ref>text='Sürüngenler' dst='..race_lizard'</ref>den oluşan bir birliktir. Ejderler, ejderhaların torunları olup daha küçük boyuttadır. Sürüngenler, Ejderlerden farklı bir ırk olup oldukça küçük yapıdadırlar. Beraberce Ejderler birliği olarak, hareket kabiliyeti yüksek ancak savunma gücü düşük olduğundan, <ref>text='Öntanımlı Çağ' dst='..era_era_default'</ref> için sıradışı taktikler ortaya çıkarmışlardır.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [multiplayer_side]: id=Drakes, type=random",
+        "#: data/multiplayer/factions/drakes-aoh.cfg:13",
+        "#: data/multiplayer/factions/drakes-default.cfg:13",
+        "#| \"The <bold>text='Drakes'</bold> are a faction of dragon-like \"",
+        "#| \"<ref>text='Drakes' dst='..race_drake'</ref> and their lizard \"",
+        "#| \"<ref>text='Saurian' dst='..race_lizard'</ref> allies. Drakes are \"",
+        "#| \"descendants of dragons, but smaller in size. Saurians are considerably \"",
+        "#| \"smaller than Drakes and from different ancestry. Together, the Drake \"",
+        "#| \"faction has high mobility but low defense, leading to unusual tactics for \"",
+        "#| \"a <ref>text='Default Era' dst='..era_era_default'</ref> faction.\""
+      ]
+    },
+    {
+      "row": 35,
+      "src": "The <b>Dunefolk</b> are a faction of humans from the deserts and hills of the southern lands. The Dunefolk specialize in using terrain features to coordinate attacks at dawn or dusk. Their ranks boast lawful and liminal units, healers, high-accuracy melee fighters, and fearsome horse-mounted archers. While Dunefolk units tend to be more expensive than those of the Loyalist faction, they make up for this with high mobility — especially on hilly terrains.",
+      "tgt": "<bold>text='Kumul Halkı'</bold>, güneyin çöllerinde ve tepelerinde yaşayan bir insan topluluğudur. Kumul Halkı, şafak veya alacakaranlıktaki saldırıları yönetmek için arazi özelliklerini kullanma konusunda uzmanlaşmıştır. Askeri sınıfları arasında adil ve intikalî birimler, şifacılar, yüksek hassasiyetli yakın dövüş savaşçıları ve korkunç atlı okçular en iyileridir. Kumul birimleri Kralcılar birliğinin birimlerinden daha pahalı oldukları halde, bunu özellikle tepelikli arazilerde yüksek hareketlilikle telafi ederler.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [multiplayer_side]: id=Dunefolk, type=random",
+        "#: data/multiplayer/factions/dunefolk-aoh.cfg:13",
+        "#: data/multiplayer/factions/dunefolk-default.cfg:13",
+        "#| \"The <bold>text='Dunefolk'</bold> are a faction of humans from the deserts \"",
+        "#| \"and hills of the southern lands. The Dunefolk specialize in using terrain \"",
+        "#| \"features to coordinate attacks at dawn or dusk. Their ranks boast lawful \"",
+        "#| \"and liminal units, healers, high-accuracy melee fighters, and fearsome \"",
+        "#| \"horse-mounted archers. While Dunefolk units tend to be more expensive \"",
+        "#| \"than those of the Loyalist faction, they make up for this with high \"",
+        "#| \"mobility — especially on hilly terrains.\""
+      ]
+    },
+    {
+      "row": 37,
+      "src": "The <b>Knalgan Alliance</b> is a faction of <ref dst='..race_dwarf'>Dwarves</ref> and their outlaw <ref dst='..race_human'>Human</ref> allies. Dwarves are an old race who live underground and have tough, but short, warriors. The outlaws are humans who are not socially acceptable among others of their race, but have become allies of the dwarves due to common enemies. This leads to a combination of tough and defensive dwarves who are only good on certain terrain and humans who can cover ground that dwarves are not good at fighting in.",
+      "tgt": "<bold>text='Kanalga İttifakı'</bold>, <ref>text='Cüceler' dst='..race_dwarf'</ref> ve haydut <ref>text='İnsanların' dst='..race_human'</ref> bir ittifakıdır. Cüceler yeraltında yaşayan ve zorlu, ancak kısa boylu, savaşçı eski bir ırktır. Diğer ırklar arasında sosyal olarak kabul görmeyen haydutlar ile o bölgede yaşayan insanlar, ortak düşmanlar nedeniyle cücelerin müttefiki olmuşlardır. Bu ittifak, sadece belli arazilerde iyi olan güçlü ve savunmacı cücelerin ve cücelerin savaşmakta iyi olmadıkları arazilerde iyi dövüşen insanların bir birlikteliğidir.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [multiplayer_side]: id=Knalgan Alliance, type=random",
+        "#: data/multiplayer/factions/knalgans-aoh.cfg:12",
+        "#: data/multiplayer/factions/knalgans-default.cfg:12",
+        "#| \"The <bold>text='Knalgan Alliance'</bold> is a faction of \"",
+        "#| \"<ref>text='Dwarves' dst='..race_dwarf'</ref> and their outlaw \"",
+        "#| \"<ref>text='Human' dst='..race_human'</ref> allies. Dwarves are an old \"",
+        "#| \"race who live underground and have tough, but short, warriors. The \"",
+        "#| \"outlaws are humans who are not socially acceptable among others of their \"",
+        "#| \"race, but have become allies of the dwarves due to common enemies. This \"",
+        "#| \"leads to a combination of tough and defensive dwarves who are only good \"",
+        "#| \"on certain terrain and humans who can cover ground that dwarves are not \"",
+        "#| \"good at fighting in.\""
+      ]
+    },
+    {
+      "row": 39,
+      "src": "The <b>Loyalists</b> are a faction of <ref dst='..race_human'>Humans</ref> who are loyal to the throne of Wesnoth. Humans are a versatile race who specialize in many different areas. Similarly, the Loyalist faction is a very versatile melee-oriented faction with important ranged support from bowmen and mages.",
+      "tgt": "<bold>text='Kralcılar'</bold>, Vesnot tahtına sadık olan <ref>text='İnsanlar' dst='..race_human'</ref>dan oluşan bir birliktir. İnsanlar birçok farklı alanda uzmanlaşmış çok yönlü bir ırktır. Benzer şekilde, Kralcılar birliği, yakın dövüşe odaklı olup yaycıların ve büyücülerin menzilli desteğiyle çok yönlü bir birliktir.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [multiplayer_side]: id=Loyalists, type=random",
+        "#: data/multiplayer/factions/loyalists-aoh.cfg:13",
+        "#: data/multiplayer/factions/loyalists-default.cfg:13",
+        "#| \"The <bold>text='Loyalists'</bold> are a faction of <ref>text='Humans' \"",
+        "#| \"dst='..race_human'</ref> who are loyal to the throne of Wesnoth. Humans \"",
+        "#| \"are a versatile race who specialize in many different areas. Similarly, \"",
+        "#| \"the Loyalist faction is a very versatile melee-oriented faction with \"",
+        "#| \"important ranged support from bowmen and mages.\""
+      ]
+    },
+    {
+      "row": 41,
+      "src": "The <b>Northerners</b> are a faction of <ref dst='..race_orc'>Orcs</ref> and their allies who live in the north of the Great Continent, thus their name. Northerners consist of the warrior orcs race, the enslaved <ref dst='..race_goblin'>goblins</ref>, <ref dst='..race_troll'>trolls</ref> who are tricked into combat by the orcs, and the serpentine <ref dst='..race_naga'>naga</ref>. The Northerners play best by taking advantage of having many low-cost and high HP soldiers.",
+      "tgt": "<ref>text='Orklar' dst='..race_orc'</ref> ve müttefikleri Büyük Kıtanın kuzeyinde yaşadığından <bold>text='Kuzeyliler'</bold> ismiyle anılırlar. Kuzeyliler, savaşçı ork ırkı, köleleştirilmiş <ref>text='goblinler' dst='..race_goblin'</ref>, orklar tarafında dövüşmek için kandırılan <ref>text='troller' dst='..race_troll'</ref> ve yılankavi <ref>text='nagalar' dst='..race_naga'</ref>dan oluşur. Kuzeyliler, düşük maliyetli ve yüksek YP'li askerlere sahip olmalarından dolayı en iyi şekilde savaşır.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [multiplayer_side]: id=Northerners, type=random",
+        "#: data/multiplayer/factions/northerners-aoh.cfg:13",
+        "#: data/multiplayer/factions/northerners-default.cfg:12",
+        "#| \"The <bold>text='Northerners'</bold> are a faction of <ref>text='Orcs' \"",
+        "#| \"dst='..race_orc'</ref> and their allies who live in the north of the \"",
+        "#| \"Great Continent, thus their name. Northerners consist of the warrior orcs \"",
+        "#| \"race, the enslaved <ref>text='goblins' dst='..race_goblin'</ref>, \"",
+        "#| \"<ref>text='trolls' dst='..race_troll'</ref> who are tricked into combat \"",
+        "#| \"by the orcs, and the serpentine <ref>text='naga' dst='..race_naga'</ref>. \"",
+        "#| \"The Northerners play best by taking advantage of having many low-cost and \"",
+        "#| \"high HP soldiers.\""
+      ]
+    },
+    {
+      "row": 43,
+      "src": "The <b>Rebels</b> are a faction of <ref dst='..race_elf'>Elves</ref> and their various forest-dwelling allies. They get their human name, Rebels, from the time of Heir to the Throne, when they started the rebellion against the evil Queen Asheviere. Elves are a magical race that are masters of the bow and are capable of living many years longer than humans. In harmony with nature, the elves find allies with the <ref dst='..race_human'>human</ref> mages, certain <ref dst='..race_merman'>merfolk</ref>, and tree creatures called <ref dst='..race_wose'>Woses</ref>. Rebels are best played taking advantage of their high forest defense, mastery of ranged attacks, and the elves' neutral alignment.",
+      "tgt": "<bold>text='İsyancılar'</bold>, <ref>text='Elfler' dst='..race_elf'</ref>den ve onların çeşitli ormancı müttefiklerinden oluşan bir birliktir. Bu İsyancılar ismini, Tahtın Varisi döneminde kötü Kraliçe Aşivye'ye karşı isyan başlattıklarından aldılar. Elfler, yay ustaları olan ve insanlardan çok daha uzun yaşayan büyülü bir ırktır. Doğayla uyumlu olarak elfler, <ref>text='insan' dst='..race_human'</ref> büyücüler, <ref>text='susallar' dst='..race_merman'</ref> ve <ref>text='Ulu Ağaçlar' dst='..race_wose'</ref> adı verilen ağaç yaratıkları ile müttefiktir. Asilerin en iyi oldukları alanlar, orman savunması, menzilli saldırı ustalığı ve elflerin tarafsız uyumudur.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [multiplayer_side]: id=Rebels, type=random",
+        "#: data/multiplayer/factions/rebels-aoh.cfg:13",
+        "#: data/multiplayer/factions/rebels-default.cfg:13",
+        "#| \"The <bold>text='Rebels'</bold> are a faction of <ref>text='Elves' dst='..\"",
+        "#| \"race_elf'</ref> and their various forest-dwelling allies. They get their \"",
+        "#| \"human name, Rebels, from the time of Heir to the Throne, when they \"",
+        "#| \"started the rebellion against the evil Queen Asheviere. Elves are a \"",
+        "#| \"magical race that are masters of the bow and are capable of living many \"",
+        "#| \"years longer than humans. In harmony with nature, the elves find allies \"",
+        "#| \"with the <ref>text='human' dst='..race_human'</ref> mages, certain \"",
+        "#| \"<ref>text='merfolk' dst='..race_merman'</ref>, and tree creatures called \"",
+        "#| \"<ref>text='Woses' dst='..race_wose'</ref>. Rebels are best played taking \"",
+        "#| \"advantage of their high forest defense, mastery of ranged attacks, and \"",
+        "#| \"the elves' neutral alignment.\""
+      ]
+    },
+    {
+      "row": 45,
+      "src": "The <b>Undead</b> are a faction of <ref dst='..race_undead'>undead</ref> creatures and <ref dst='..race_human'>human</ref> practitioners of dark arts that usually accompany them. Often, these “Dark Adepts” are the units that do the most damage for the faction, but they have a major vulnerability — their practicing of this forbidden, evil magic has consumed all their energy and so they have no melee attack at all. The Undead are a very aggressive faction and the most powerful <ref dst='..era_era_default'>Default Era</ref> faction at nighttime.",
+      "tgt": "<bold>text='Yarı Ölüler'</bold>, genellikle karanlık sanatların <ref>text='insan' dst='..race_human'</ref> uygulayıcılarından ve onlara eşlik eden <ref>text='yarı ölü' dst='..race_undead'</ref> yaratıklardan oluşan bir birliktir. Genellikle, “Kara Üstat” birimleri, birlik içinde en fazla hadar veren birimlerdir, ancak kötü bir savunmaya sahiptir — bu yasaklanmış kötü sihir, onların enerjisini tüketmiş ve bu nedenle hiçbir yakın dövüş saldırısı yapmamışlardır. Yarı Ölüler çok saldırgan bir birliktir ve gece vakti <ref>text='Öntanımlı Çağ' dst='..era_era_default'</ref>'ın en güçlüsüdür.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [multiplayer_side]: id=Undead, type=random",
+        "#: data/multiplayer/factions/undead-aoh.cfg:13",
+        "#: data/multiplayer/factions/undead-default.cfg:13",
+        "#| \"The <bold>text='Undead'</bold> are a faction of <ref>text='undead' dst='..\"",
+        "#| \"race_undead'</ref> creatures and <ref>text='human' dst='..race_human'</\"",
+        "#| \"ref> practitioners of dark arts that usually accompany them. Often, these \"",
+        "#| \"“Dark Adepts” are the units that do the most damage for the faction, but \"",
+        "#| \"they have a major vulnerability — their practicing of this forbidden, \"",
+        "#| \"evil magic has consumed all their energy and so they have no melee attack \"",
+        "#| \"at all. The Undead are a very aggressive faction and the most powerful \"",
+        "#| \"<ref>text='Default Era' dst='..era_era_default'</ref> faction at \"",
+        "#| \"nighttime.\""
+      ]
+    },
+    {
+      "row": 47,
+      "src": "Long ago, the Legendary Aether Mage, Sulla, was imprisoned in the Aethermaw, a nexus of mystical energy whose chaotic nature was able to prevent her escape. Over the centuries, however, Sulla gradually attuned her powers to the maelstrom of disorder that is the Aethermaw, and has now begun to project its influence onto the material plane, drawing in entire regions of land from hundreds of different worlds, realities and time-periods. She now experiments with these disparate pieces of the cosmos, manipulating them, merging them and sending them back and forth between the Aethermaw and their place of origin. Perhaps, as her mastery over the Aethermaw grows, Sulla will one day break free of its bonds. Until that time comes, she will continue to amuse herself by arranging battles between the mortal beings unlucky enough to be drawn into its depths. Designed by Doc Paterson.",
+      "tgt": "Uzun zaman önce, Büyük Büyücü Sulla, karmaşık doğasıyla kaçmayı engelleyebilen mistik bir enerji ağıyla çevrili olan Memati zindanına hapsedildi. Bununla birlikte, yüzyıllar boyunca Sulla, güçlerini kapatıldığı zindandan alan düzensizlik girdabına göre ayarladı ve yüzlerce farklı dünyanın, gerçekliğin ve zamanın tüm bölgelerinden güç çekerek, etkilerini madde düzlemine yansıtmaya başladı. Kozmozun bu farklı parçalarını etkiliyor, birleştiriyor ve Zindan ile onların özgün yerleri arasında enerjilerini ileri geri gönderiyor. Belki de, bu konudaki ustalığı yeterince büyüyünce, Sulla bir gün zincirlerinden kurtulacak. O zamana kadar, bulunduğu derinliklere çekilecek kadar şanssız olan ölümlü varlıklar arasında savaşlar düzenleyerek kendisini eğlendirmeye devam edecek. Doc Paterson tarafından tasarlanmıştır.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [multiplayer]: id=multiplayer_Aethermaw",
+        "#: data/multiplayer/scenarios/2p_Aethermaw.cfg:6",
+        "#| \"Long ago, the Great Mage Sulla was imprisoned in the Aethermaw, a nexus \"",
+        "#| \"of mystical energy whose chaotic nature was able to prevent her escape. \"",
+        "#| \"Over the centuries, however, Sulla gradually attuned her powers to the \"",
+        "#| \"maelstrom of disorder that is the Aethermaw, and has now begun to project \"",
+        "#| \"its influence onto the material plane, drawing in entire regions of land \"",
+        "#| \"from hundreds of different worlds, realities and time-periods. She \"",
+        "#| \"experiments with these disparate pieces of the cosmos, manipulating them, \"",
+        "#| \"merging them and sending them back and forth between the Aethermaw and \"",
+        "#| \"their place of origin. Perhaps, as her mastery over the Aethermaw grows, \"",
+        "#| \"Sulla will one day break free of its bonds. Until that time comes, she \"",
+        "#| \"will continue to amuse herself by arranging battles between the mortal \"",
+        "#| \"beings unlucky enough to be drawn into its depths. Designed by Doc \"",
+        "#| \"Paterson.\""
+      ]
+    },
+    {
+      "row": 51,
+      "src": "The Aether Mage Sulla has transported your armies to this bizarre nexus, and demands that you amuse her by doing battle.",
+      "tgt": "Büyük Büyücü Sulla, ordularınızı bu tuhaf ağa taşıdı ve savaşarak onu eğlendirmenizi istiyor.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [note]",
+        "#: data/multiplayer/scenarios/2p_Aethermaw.cfg:312",
+        "#| \"The Great Mage Sulla has transported your armies to this bizarre nexus, \"",
+        "#| \"and demands that you amuse her by doing battle.\""
+      ]
+    },
+    {
+      "row": 53,
+      "src": "Beginning on turn 4, the Aether Mage Sulla will begin to unite the two halves of the battlefield. The process will be complete by the end of turn 6.",
+      "tgt": "4. turdan başlayarak, Büyük Büyücü Sulla savaş alanının iki yarısını birleştirmeye başlayacak. İşlem 6. elin sonunda tamamlanacaktır.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [note]",
+        "#: data/multiplayer/scenarios/2p_Aethermaw.cfg:318",
+        "#| \"Beginning on turn 4, the Great Mage Sulla will begin to unite the two \"",
+        "#| \"halves of the battlefield. The process will be complete by the end of \"",
+        "#| \"turn 6.\""
+      ]
+    },
+    {
+      "row": 180,
+      "src": "A stone-carved likeness of Aether Mage Sulla, also known as Sulla the Just, Sulla the Tyrant, Empress of the Sinking Tower, Lady of the Walking Glacier, Sulla the Incinerator, Sulla the Proud and Sulla the Righteous.",
+      "tgt": "Ulu Sulla'nın taşlaşmış hali.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [unit]: gender=female",
+        "#: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:101",
+        "#| \"A stone-carved likeness of Sulla the Great, also known as Sulla the Just, \"",
+        "#| \"Sulla the Tyrant, Empress of the Sinking Tower, Lady of the Walking \"",
+        "#| \"Glacier, Sulla the Incinerator, Sulla the Proud and Sulla the Righteous.\""
+      ]
+    },
+    {
+      "row": 286,
+      "src": "teamname^Top",
+      "tgt": "Kuzey",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [side]",
+        "#: data/multiplayer/scenarios/6p_Double_Siege.cfg:25",
+        "#: data/multiplayer/scenarios/6p_Double_Siege.cfg:61",
+        "#: data/multiplayer/scenarios/6p_Double_Siege.cfg:73"
+      ]
+    },
+    {
+      "row": 287,
+      "src": "teamname^Bottom",
+      "tgt": "Kuzey",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [side]",
+        "#: data/multiplayer/scenarios/6p_Double_Siege.cfg:37",
+        "#: data/multiplayer/scenarios/6p_Double_Siege.cfg:49",
+        "#: data/multiplayer/scenarios/6p_Double_Siege.cfg:85"
+      ]
+    },
+    {
+      "row": 328,
+      "src": "3p — Elevation Test",
+      "tgt": "3o - Yükseltili Arazi",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [multiplayer]: id=multiplayer_test_Elevation_Demo",
+        "#: data/multiplayer/scenarios/Test_Elevation_Test.cfg:5"
+      ]
+    }
+  ]
+}

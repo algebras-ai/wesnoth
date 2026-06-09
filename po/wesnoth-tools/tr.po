@@ -28,8 +28,8 @@ msgid ""
 "Launch GUI.pyw in the specified language. Language code is expected as a "
 "POSIX locale name, refer to gettext.wesnoth.org for a full list."
 msgstr ""
-"GUI.pyw'yi belirtilen dilde başlatır. Dil kodunun POSIX yerelinin adı olması "
-"gerekir, tam liste gettext.wesnoth.org adresinde bulunabilir."
+"GUI.pyw'yi belirtilen dilde başlatır. Dil kodunun POSIX yerelinin adı olması"
+" gerekir, tam liste gettext.wesnoth.org adresinde bulunabilir."
 
 #: data/tools/GUI.pyw:99 data/tools/GUI.pyw:113 data/tools/GUI.pyw:1422
 #: data/tools/GUI.pyw:1471 data/tools/GUI.pyw:1514 data/tools/GUI.pyw:1543
@@ -38,15 +38,16 @@ msgstr ""
 msgid "Error"
 msgstr "Hata"
 
-#. TRANSLATORS: {0} is "translations", the directory where compiled translation files (.mo) are stored.
+#. TRANSLATORS: {0} is "translations", the directory where compiled
+#. translation files (.mo) are stored.
 #: data/tools/GUI.pyw:101
 #, python-brace-format
 msgid ""
 "‘{0}’ directory not found. Please run the GUI.pyw program packaged with the "
 "Wesnoth installation."
 msgstr ""
-"‘{0}’ dizini bulunamadı. Lütfen Wesnoth kurulumuyla birlikte paketlenmiş GUI."
-"pyw programını çalıştırın."
+"‘{0}’ dizini bulunamadı. Lütfen Wesnoth kurulumuyla birlikte paketlenmiş "
+"GUI.pyw programını çalıştırın."
 
 #. TRANSLATORS: {0} is the language argument entered by the user.
 #: data/tools/GUI.pyw:115
@@ -183,10 +184,9 @@ msgstr "Satır sonu karakterlerini Unix biçemine dönüştür"
 #. TRANSLATORS: 'side=' in this context refers to WML and should not be
 #. translated.
 #: data/tools/GUI.pyw:797
-#, fuzzy
 #| msgid "Do not warn about tags without side= keys"
 msgid "Warn about tags without side= keys"
-msgstr "Side= anahtarları olmayan etiketler hakkında uyarma"
+msgstr "side= anahtarı olmayan etiketler hakkında uyar"
 
 #: data/tools/GUI.pyw:806
 msgid "Disable checks for unknown units"
@@ -256,7 +256,8 @@ msgstr "Dosyadaki makro tanımlarını ve kullanımlarını bildir:"
 
 #: data/tools/GUI.pyw:1022
 msgid "Allow unused macros with names matching regular expression:"
-msgstr "Düzenli ifadeyle eşleşen adları olan kullanılmayan makrolara izin ver:"
+msgstr ""
+"Düzenli ifadeyle eşleşen adları olan kullanılmayan makrolara izin ver:"
 
 #: data/tools/GUI.pyw:1084
 msgid "wmlindent mode"
@@ -379,13 +380,11 @@ msgid ""
 msgstr ""
 "Hiçbir dizin seçilmedi.\n"
 "\n"
-"Lütfen bir dizin seçin veya \"Çekirdek dizini atla\" seçeneğini devre dışı "
-"bırakın."
+"Lütfen bir dizin seçin veya \"Çekirdek dizini atla\" seçeneğini devre dışı bırakın."
 
 #: data/tools/GUI.pyw:1457 data/tools/GUI.pyw:1529
 msgid ""
-"Core directory or one of its subdirectories selected in the add-on selection "
-"box.\n"
+"Core directory or one of its subdirectories selected in the add-on selection box.\n"
 "\n"
 "The tool will be run only on the Wesnoth core directory."
 msgstr ""
@@ -443,7 +442,8 @@ msgstr ""
 msgid "Overwrite Confirmation"
 msgstr "Geçersiz Kılma Onayı"
 
-#. TRANSLATORS: {0} is a placeholder for a file name, and not meant to be modified.
+#. TRANSLATORS: {0} is a placeholder for a file name, and not meant to be
+#. modified.
 #: data/tools/GUI.pyw:1612
 #, python-brace-format
 msgid ""
@@ -499,39 +499,34 @@ msgstr ""
 msgid "About Maintenance Tools GUI"
 msgstr "Bakım Araçları GKA Hakkında"
 
-#. TRANSLATORS: {0} is a placeholder for Wesnoth's current version, and not meant to be modified.
+#. TRANSLATORS: {0} is a placeholder for Wesnoth's current version, and not
+#. meant to be modified.
 #: data/tools/GUI.pyw:1684
-#, fuzzy, python-brace-format
+#, python-brace-format
 #| msgid ""
 #| "© Elvish_Hunter, 2014-2016\n"
 #| "\n"
 #| "Version: {0}\n"
 #| "\n"
-#| "Part of The Battle for Wesnoth project and released under the GNU GPL v2 "
-#| "license\n"
+#| "Part of The Battle for Wesnoth project and released under the GNU GPL v2 license\n"
 #| "\n"
-#| "Icons are taken from the Tango Desktop Project (http://tango.freedesktop."
-#| "org), and are released in the Public Domain."
+#| "Icons are taken from the Tango Desktop Project (http://tango.freedesktop.org), and are released in the Public Domain."
 msgid ""
 "© Elvish_Hunter, 2014-2025\n"
 "\n"
 "Version: {0}\n"
 "\n"
-"Part of The Battle for Wesnoth project and released under the GNU GPL v2 "
-"license\n"
+"Part of The Battle for Wesnoth project and released under the GNU GPL v2 license\n"
 "\n"
-"Icons are taken from the Tango Desktop Project (http://tango.freedesktop."
-"org), and are released in the Public Domain."
+"Icons are taken from the Tango Desktop Project (http://tango.freedesktop.org), and are released in the Public Domain."
 msgstr ""
-"© Elvish_Hunter, 2014-2016\n"
+"© Elvish_Hunter, 2014-2025\n"
 "\n"
-"Sürün: {0}\n"
+"Sürüm: {0}\n"
 "\n"
-"The Battle for Wesnoth projesinin bir parçası olup GNU GPL v2 lisansı "
-"altında yayınlanmıştır.\n"
+"Wesnoth Savaşı projesinin bir parçasıdır ve GNU GPL v2 lisansı altında yayımlanmıştır\n"
 "\n"
-"Simgeler Tango Masaüstü Projesi'nden (http://tango.freedesktop.org) alınmış "
-"olup Kamu Malı olarak yayınlanmıştır."
+"Simgeler Tango Masaüstü Projesinden (http://tango.freedesktop.org) alınmıştır ve Kamu Malı olarak yayımlanmıştır."
 
 #. TRANSLATORS: Dialogue box title.
 #: data/tools/GUI.pyw:1698

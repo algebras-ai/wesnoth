@@ -33,7 +33,7 @@ msgstr "TÇ"
 #. [campaign]: id=The_Hammer_of_Thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:40
 msgid "1x enemies"
-msgstr ""
+msgstr "1x düşman"
 
 #. [campaign]: id=The_Hammer_of_Thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:40
@@ -43,7 +43,7 @@ msgstr "Kolay"
 #. [campaign]: id=The_Hammer_of_Thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:41
 msgid "2x enemies"
-msgstr ""
+msgstr "2x düşman"
 
 #. [campaign]: id=The_Hammer_of_Thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:41
@@ -53,53 +53,42 @@ msgstr "Normal"
 #. [campaign]: id=The_Hammer_of_Thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:42
 msgid "3x enemies"
-msgstr ""
+msgstr "3x düşman"
 
 #. [campaign]: id=The_Hammer_of_Thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:42
 msgid "Hard"
-msgstr ""
+msgstr "Zor"
 
 #. [campaign]: id=The_Hammer_of_Thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:43
 msgid "4x enemies"
-msgstr ""
+msgstr "4x düşman"
 
 #. [campaign]: id=The_Hammer_of_Thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:43
 msgid "Deadly"
-msgstr ""
+msgstr "Ölümcül"
 
 #. [campaign]: id=The_Hammer_of_Thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:46
-#, fuzzy
 #| msgid ""
-#| "In the first years of the Northern Alliance, an expedition from Knalga "
-#| "seeks out their kin at Kal Kartha and to learn the fate of the legendary "
-#| "Hammer of Thursagan. The perils of their journey through the wild "
-#| "Northern Lands, though great, pale beside the evil they will face at its "
-#| "end.\n"
+#| "In the first years of the Northern Alliance, an expedition from Knalga seeks out their kin at Kal Kartha and to learn the fate of the legendary Hammer of Thursagan. The perils of their journey through the wild Northern Lands, though great, pale beside the evil they will face at its end.\n"
 #| "\n"
 msgid ""
-"In the first years of the Northern Alliance, an expedition from Knalga seeks "
-"out their kin at Kal Kartha and to learn the fate of the legendary Hammer of "
-"Thursagan. The perils of their journey through the wild Northlands, though "
-"great, pale beside the evil they will face at its end.\n"
+"In the first years of the Northern Alliance, an expedition from Knalga seeks out their kin at Kal Kartha and to learn the fate of the legendary Hammer of Thursagan. The perils of their journey through the wild Northlands, though great, pale beside the evil they will face at its end.\n"
 "\n"
 msgstr ""
-"Kuzey İttifakının ilk yıllarında, Kanalga’dan bir keşif seferi Kal "
-"Karta’daki ırkdaşlarını aramaya ve Tursagan’ın efsanevî çekicinin kaderini "
-"öğrenmeye gider. Vahşi Kuzey Toprakları boyunca yolculukları esnasında büyük "
-"tehlikelere maruz kalırlar. Fakat yolculuklarının sonunda karşılaşacakları "
-"kötülüğün yanında bu tehlikeler sönük kalacaktı.\n"
-"\n"
+"Kuzey İttifakı'nın ilk yıllarında Knalga'dan gelen bir keşif grubu, Kal "
+"Kartha'daki akrabalarını arar ve efsanevi Thursagan Çekici'nin kaderini "
+"öğrenir. Vahşi Kuzey Toprakları'ndaki yolculuklarının tehlikeleri, her ne "
+"kadar büyük olsa da, sonunda karşılaşacakları kötülük yanında sönük kalır."
 
 #. [campaign]: id=The_Hammer_of_Thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:48
-#, fuzzy
 #| msgid "(Intermediate level, 8 scenarios.)"
 msgid "(Intermediate level, 9 scenarios.)"
-msgstr "(Orta seviye, 8 senaryo.)"
+msgstr "(Orta seviye, 9 senaryo.)"
 
 #. [about]
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:51
@@ -142,34 +131,33 @@ msgstr "Maskeli Cüce"
 #. [achievement]: id=gryphon_hunter
 #: data/campaigns/The_Hammer_of_Thursagan/achievements.cfg:8
 msgid "Gryphon Hunter"
-msgstr ""
+msgstr "Grifon Avcısı"
 
 #. [achievement]: id=gryphon_hunter
 #: data/campaigns/The_Hammer_of_Thursagan/achievements.cfg:9
 msgid "Capture every gryphon in <i>High Pass</i>."
-msgstr ""
+msgstr "<i>Yüksek Geçit</i>'teki tüm grifonları yakala."
 
 #. [achievement]: id=conqueror_of_the_forest
 #: data/campaigns/The_Hammer_of_Thursagan/achievements.cfg:16
 msgid "Conqueror of the Forest"
-msgstr ""
+msgstr "Ormanın Fatihi"
 
 #. [achievement]: id=conqueror_of_the_forest
 #: data/campaigns/The_Hammer_of_Thursagan/achievements.cfg:17
 msgid "Defeat an enemy leader in <i>Forbidden Forest</i>."
-msgstr ""
+msgstr "<i>Yasak Orman</i>'da bir düşman lideri yen."
 
 #. [achievement]: id=new_thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/achievements.cfg:23
-#, fuzzy
 #| msgid "The Hammer of Thursagan"
 msgid "New Thursagan"
-msgstr "Tursagan’ın Çekici"
+msgstr "Yeni Thursagan"
 
 #. [achievement]: id=new_thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/achievements.cfg:24
 msgid "Complete <i>The Underlevels</i> on the hardest difficulty."
-msgstr ""
+msgstr "<i>Alt Katlar</i>'ı en yüksek zorluk seviyesinde tamamla."
 
 #. [scenario]: id=01_At_the_East_Gate
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:5
@@ -184,11 +172,12 @@ msgid ""
 "preoccupied with rebuilding what had been broken by the long orcish "
 "occupation. But soon enough they prospered once again. The dwarves began "
 "mining their past for inspiration to rebuild Knalga even greater than "
-"before, and began also reaching out for contact with their scattered kinfolk."
+"before, and began also reaching out for contact with their scattered "
+"kinfolk."
 msgstr ""
-"Kuzey İttifakı kurulduktan sonraki ilk bir kaç yılı Kanalga cüceleri ve Cüce "
-"Kapılarının insan nüfusu uzun ork işgali sırasında yıkılanları yeniden inşa "
-"etmekle geçirdi. Fakat tekrar zengin olmaları uzun sürmedi. Cüceler "
+"Kuzey İttifakı kurulduktan sonraki ilk bir kaç yılı Kanalga cüceleri ve Cüce"
+" Kapılarının insan nüfusu uzun ork işgali sırasında yıkılanları yeniden inşa"
+" etmekle geçirdi. Fakat tekrar zengin olmaları uzun sürmedi. Cüceler "
 "Kanalga’yı yeniden inşa ederken öncekinden daha ihtişamlı olması için ilham "
 "almak üzere geçmişlerini eşelemeye ve etrafa dağılmış ırkdaşlarıyla temasa "
 "geçme yollarını araştırmaya başladılar."
@@ -209,12 +198,16 @@ msgstr ""
 
 #. [side]: type=Orcish Warrior, id=Bashnark
 #. [side]: id=leader{SIDE}, type={TYPE}
-#. this is the same clan name as the orcs who show up in S08, helping to explain how the cloak-pin made it all the way to Knalga. "Withervein" refers to poison.
-#. this is the same clan name as the orcs who you fought in S01, helping to explain how the cloak-pin made it all the way to Knalga. "Withervein" refers to poison.
+#. this is the same clan name as the orcs who show up in S08, helping to
+#. explain how the cloak-pin made it all the way to Knalga. "Withervein"
+#. refers to poison.
+#. this is the same clan name as the orcs who you fought in S01, helping to
+#. explain how the cloak-pin made it all the way to Knalga. "Withervein"
+#. refers to poison.
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:52
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Siege_of_Kal_Kartha.cfg:85
 msgid "Clan Withervein"
-msgstr ""
+msgstr "Solduranklan Kabilesi"
 
 #. [side]: type=Orcish Warrior, id=Bashnark
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:57
@@ -237,17 +230,17 @@ msgstr ""
 
 #. [message]: speaker=Bashnark
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:119
-#, fuzzy
 #| msgid ""
 #| "We are the true orcs, not the weaklings who ally with human-worms and "
 #| "stinky-midgets like you. You will be meat for our wolves."
 msgid ""
-"We are the true orcs, not the weaklings who ally with human-worms and stinky-"
-"midgets like you. Come out of your hole and fight us or we will burn your "
-"fields to ash!"
+"We are the true orcs, not the weaklings who ally with human-worms and "
+"stinky-midgets like you. Come out of your hole and fight us or we will burn "
+"your fields to ash!"
 msgstr ""
-"Biz gerçek orklarız, insan solucanlarla ve sizin gibi pis kokan ufaklıklarla "
-"ittifak yapan zavallılardan değiliz. Sizi kurtlarımıza yedireceğiz."
+"Biz gerçek orklarız, sizin gibi insan-solucanlar ve pis kokulu cücelerle "
+"ittifak kuran zayıflar değil. Çukurunuzdan çıkın ve bizimle savaşın, yoksa "
+"tarlalarınızı yakarız!"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:128
@@ -262,26 +255,27 @@ msgstr "Aglondur’un ölümü"
 #. [message]: speaker=unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:156
 msgid "Rarrrggh..."
-msgstr ""
+msgstr "Rarrrggh..."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:163
-#, fuzzy
 #| msgid ""
 #| "What is this? Their vanquished leader wears a cloak-pin of dwarvish make. "
-#| "And it bears a loremaster’s emblem. Why would an orc be carrying "
-#| "metalwork of dwarvish make?"
+#| "And it bears a loremaster’s emblem. Why would an orc be carrying metalwork "
+#| "of dwarvish make?"
 msgid ""
 "What is this? Their vanquished leader wears a cloak-pin of dwarvish make. "
 "And it bears a loremaster’s emblem."
 msgstr ""
-"Bu ne? Liderleri cüce işi bir çivili yelek giyiyor ve yeleğinde bir üstadın "
-"amblemi var. Bir ork neden cüce yapımı metal işleri taşısın ki?"
+"Bu nedir? Yenilen liderleri cüce yapımı bir pelerin iğnesi takıyor. Ve bir "
+"irfan ustasının amblemini taşıyor."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:167
 msgid "The maker’s mark is strange to me. We had best consult the lord Hamel."
 msgstr ""
+"Bu işaretçi markası benim için tanıdık değil. Lord Hamel'e danışmamız daha "
+"iyi olur."
 
 #. [scenario]: id=02_Reclaiming_the_Past
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:9
@@ -290,7 +284,6 @@ msgstr "Geçmişi Yadetmek"
 
 #. [part]
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:27
-#, fuzzy
 #| msgid ""
 #| "Following the victory against the orcs, Aiglondur was summoned to the "
 #| "audience hall of Hamel, lord of Knalga and Lord Companion of the Northern "
@@ -302,9 +295,9 @@ msgid ""
 "Alliance. Beside the dais stood a stranger in the robes of the Order of "
 "Loremasters..."
 msgstr ""
-"Orklara karşı zaferin ardından, Aglondur, Kanalga Lordu ve Kuzey İttifakının "
-"Kurucu Lordu Hamel’in kabul salonuna davet edildi. Kürsünün yanında "
-"Oymacılar Loncasının cübbesini giymiş bir yabancı ayakta duruyordu..."
+"Orklara karşı kazanılan zaferin ardından Aiglondur, Knalga Lordu ve Kuzey "
+"İttifakı Lord Yoldaşı Hamel'in kabul salonuna çağrıldı. Kürsü yanında İlim "
+"Ustaları Tarikatı cübbesi giymiş bir yabancı duruyordu..."
 
 #. [side]: type=Dwarvish Lord, id=Hamel
 #. [side]: type=Orcish Warrior, id=Marth-Tak
@@ -323,21 +316,20 @@ msgstr "Hamel"
 
 #. [message]: speaker=Hamel
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:97
-#, fuzzy
 #| msgid ""
-#| "Aiglondur, the news ye bring is disturbing, for all it seems a small "
-#| "thing. I make known to ye Angarthing, loremaster in training."
+#| "Aiglondur, the news ye bring is disturbing, for all it seems a small thing. "
+#| "I make known to ye Angarthing, loremaster in training."
 msgid ""
 "Aiglondur, what ye ha’ found is disturbing, for all it seems a small thing. "
 "I make known to ye Angarthing, loremaster in training, who recognized the "
 "mark on it."
 msgstr ""
-"Aglondur, bulduğun neticede küçük bir şey ama kafa karıştırıyor. "
-"Angarting’le tanışmanı istedim, üstatlık eğitimi veriyor."
+"Aiglondur, bulduğun şey rahatsız edici, her ne kadar küçük bir şey gibi "
+"görünse de. Üzerindeki işareti fark eden, eğitimdeki irfan ustası "
+"Angarthing'i size bildiririm."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:102
-#, fuzzy
 #| msgid ""
 #| "As you know, the mark on this cloak-pin is that of our ancient kin at Kal "
 #| "Kartha in the high mountains. That an orc should come to possess this is "
@@ -346,22 +338,21 @@ msgstr ""
 msgid ""
 "The mark on this cloak-pin is that of our kin at Kal Kartha in the eastern "
 "hills, from whom we’ve heard nothing since before Tallin broke the orcish "
-"occupation of Knalga. It troubles us that an orc should have come to possess "
-"it; no outsider should know even that loremasters exist, let alone come near "
-"enough one to get this."
+"occupation of Knalga. It troubles us that an orc should have come to possess"
+" it; no outsider should know even that loremasters exist, let alone come "
+"near enough one to get this."
 msgstr ""
-"Çivili yelekteki marka, doğu tepelerinde Kal Karta’daki ırkdaşlarımıza ait. "
-"Talin’in Kanalga’yı ork işgalinden kurtarmasına kadar onlar hakkında bir şey "
-"duymamıştık. Bir orkun buna sahip olması bizi tedirgin etti. Bu üstadın "
-"varlığını hiçbir orkun bilmemesi, bunu alacak kadar yaklaşmalarına izin "
-"verilmemesi gerekirdi."
+"Bu pelerin iğnesinin üzerindeki işaret, doğu tepelerindeki Kal Kartha'da "
+"bulunan ve Tallin'in Knalga'daki ork işgalini kırmasından bu yana "
+"kendisinden hiçbir haber alamadığımız akrabamızın işaretidir. Bir orkun ona "
+"sahip olması bizi rahatsız ediyor; bırakın bunu anlayacak kadar yaklaşmayı, "
+"dışarıdan hiç kimse ilim ustalarının var olduğunu bile bilmemeli."
 
 #. [message]: speaker=Hamel
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:107
-#, fuzzy
 #| msgid "Has some grave ill become of Kal Kartha?"
 msgid "I fear some grave ill may have become Kal Kartha."
-msgstr "Kal Karta’da ciddi bir sorun mu var?"
+msgstr "Ciddi bir hastalığın Kal Kartha'ya dönüşmesinden korkuyorum."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:112
@@ -370,6 +361,9 @@ msgid ""
 "keepers since a hero of their line recovered it from the Caverns of Flame, "
 "centuries ago."
 msgstr ""
+"Ve Tursagan'ın Çekicinden de endişeleniyorum. Kal Karta'daki ırkdaşlarımız, "
+"soylarından bir kahraman onu yüzyıllar önce Alev Mağaralarından "
+"kurtardığından beri onun koruyucuları olmuştur."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:117
@@ -378,23 +372,22 @@ msgstr "Tursagan’ın Çekici mi?"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:122
-#, fuzzy
 #| msgid ""
 #| "Aye. The very tool with which our greatest runesmith made the Sceptre of "
 #| "Fire. But it is ancient, far older than Thursagan; he was but the last to "
 #| "wield it, and our oldest histories hint that this very hammer was used to "
-#| "forge the dwarves themselves in the heart of the deepest forges beneath "
-#| "Kal Kartha."
+#| "forge the dwarves themselves in the heart of the deepest forges beneath Kal "
+#| "Kartha."
 msgid ""
 "Aye. The very tool with which our greatest runesmith made the Sceptre of "
 "Fire. But it is ancient, far older than Thursagan; he was but the last to "
 "wield it, and our oldest histories hint that this very hammer was used to "
 "forge the dwarves themselves in the heart of the earth."
 msgstr ""
-"Evet. Ateş Asasını yapan en büyük oyma ustamızın özel çekici. O Tursagan’dan "
-"da eski bir antikadır; fakat Tursagan onu kullanan son kişiydi. Çok eski "
-"tarihlerde Kal Karta'nın altındaki en derin demirhanelerde cücelerin bu özel "
-"çekici kullandıklarına dair ipuçları var."
+"Evet. En büyük rün ustamızın Ateş Asasını yaptığı alet. Ama çok eskidir, "
+"Thursagan'dan çok daha eskidir; onu kullanan son kişi oydu ve en eski "
+"tarihlerimiz, bu çekicin dünyanın kalbinde cüceleri dövmek için "
+"kullanıldığını ima ediyor."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:127
@@ -402,38 +395,38 @@ msgid ""
 "But if the dwarves of Kal Kartha have held it all this time, why has none "
 "wielded it since Thursagan?"
 msgstr ""
+"Ama Kal Karta cüceleri tüm bu zaman boyunca onu elinde bulundurduysa, neden "
+"Tursagan'dan bu yana hiç kimse onu kullanmadı?"
 
 #. [message]: speaker=Hamel
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:132
-#, fuzzy
 #| msgid ""
 #| "When Thursagan burned to death with his hand on the Hammer, all the "
 #| "runemasters and arcanisters then living — all those who had sworn to the "
-#| "craft and bound themselves to the power o’ the Hammer — dropped dead "
-#| "without a mark on them, all struck down at the same moment. Their craft "
-#| "secrets died with them. That is why there are nae runesmiths among the "
-#| "dwarves today, and sorely we miss them."
+#| "craft and bound themselves to the power o’ the Hammer — dropped dead without"
+#| " a mark on them, all struck down at the same moment. Their craft secrets "
+#| "died with them. That is why there are nae runesmiths among the dwarves "
+#| "today, and sorely we miss them."
 msgid ""
 "Because when Thursagan burned to death with his hand on the Hammer, all the "
 "runemasters and arcanisters then living — all those who had sworn to the "
-"craft and bound themselves to the power o’ the Hammer — dropped dead without "
-"a mark on them, all struck down at the same moment. Their craft secrets died "
-"with them. That is why there are nae runesmiths among the Dwarves today, and "
-"sorely we miss them."
+"craft and bound themselves to the power o’ the Hammer — dropped dead without"
+" a mark on them, all struck down at the same moment. Their craft secrets "
+"died with them. That is why there are nae runesmiths among the Dwarves "
+"today, and sorely we miss them."
 msgstr ""
-"Tursagan elinde malum Çekiçle yanarak öldüğü zaman yaşayan tüm oyma ustaları "
-"ve gizemciler — hepsi Çekicin gücüne bağlılık yemini etmişlerdi — "
-"arkalarında bir iz bırakmadan kendilerini ölüme bıraktılar ve hepsini aynı "
-"anda kaybettik. Sırlarını da beraberlerinde götürdüler. Cüceler arasında "
-"bugün oyma ustalarının bulunmayışının sebebi budur, onları fena şekilde "
-"kaybettik."
+"Çünkü Thursagan, eli Çekiç üzerindeyken yanarak öldüğünde, o sırada hayatta "
+"olan tüm rune ustaları ve büyücüler (zanata yemin etmiş ve kendilerini "
+"Çekiç'in gücüne bağlamış olanlar) üzerlerinde hiçbir iz bırakmadan öldüler "
+"ve hepsi aynı anda vuruldu. Zanaat sırları da onlarla birlikte öldü. İşte bu"
+" yüzden bugün Cüceler arasında rün ustaları yok ve onları çok özlüyoruz."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:137
 msgid ""
 "That is what is said, my lord Hamel, and it is true. Except this; the Order "
-"of Loremasters has given me leave to reveal that the craft secrets were not, "
-"actually, quite as lost as we believed."
+"of Loremasters has given me leave to reveal that the craft secrets were not,"
+" actually, quite as lost as we believed."
 msgstr ""
 "Lord Hamel’in söyledikleri biri dışında doğrudur. İnanıldığı gibi Oymacılar "
 "Loncasının meslek sırları kaybolmadı."
@@ -446,13 +439,13 @@ msgstr "Ne diyorsun? Kaybolmadı mı?"
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:147
 msgid ""
-"Aye. Ye’ll recall that in repairing the western galleries we cleared a small "
-"cave-in hard by where Thursagan himself once had a workshop here, before he "
-"left to study in solitude in the further North."
+"Aye. Ye’ll recall that in repairing the western galleries we cleared a small"
+" cave-in hard by where Thursagan himself once had a workshop here, before he"
+" left to study in solitude in the further North."
 msgstr ""
 "Evet. Siz batı galerilerinin temizlenmesini istediğinizde, Tursagan’ın "
-"kuzeyde inzivaya çekilmeden önce atölye olarak kullandığı küçük bir mağarayı "
-"da temizlemiştik."
+"kuzeyde inzivaya çekilmeden önce atölye olarak kullandığı küçük bir mağarayı"
+" da temizlemiştik."
 
 #. [message]: speaker=Hamel
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:152
@@ -482,9 +475,9 @@ msgstr "Bundan niye benim haberim yok?"
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:167
 msgid ""
 "My lord, the find was very recent. We are still deciphering the book. And "
-"there is this: with the Hammer at Kal Kartha and the book here, the question "
-"of which holding shall have the training of the new runesmiths in its hands "
-"would be... delicate."
+"there is this: with the Hammer at Kal Kartha and the book here, the question"
+" of which holding shall have the training of the new runesmiths in its hands"
+" would be... delicate."
 msgstr ""
 "Lordum, defteri bulalı çok olmadı. Biz hala defterin şifresini çözmeye "
 "çalışıyoruz. Sorun şu: Çekiç Kal Karta’da, defter burada.  Yeni oymacıların "
@@ -510,17 +503,15 @@ msgstr ""
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:182
-#, fuzzy
 #| msgid ""
-#| "That is obvious; the Order of Loremasters wants to send an expedition to "
-#| "Kal Kartha to examine the possibility of restoring the order of "
-#| "Runemasters."
+#| "That is obvious; the Order of Loremasters wants to send an expedition to Kal"
+#| " Kartha to examine the possibility of restoring the order of Runemasters."
 msgid ""
-"That is obvious; the Order of Loremasters wants to send an expedition to Kal "
-"Kartha to find what has become of our kindred and the Hammer."
+"That is obvious; the Order of Loremasters wants to send an expedition to Kal"
+" Kartha to find what has become of our kindred and the Hammer."
 msgstr ""
-"Açıkçası, Oymacılar Loncası Kal Karta’ya ırkdaşlarımızın ve Çekicin "
-"akıbetini öğrenmek için bir keşif heyeti göndermek istiyor."
+"Bu çok açık; İrfan Ustaları Tarikatı, soydaşlarımıza ve Çekiç'e ne olduğunu "
+"bulmak için Kal Kartha'ya bir keşif heyeti göndermek istiyor."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:187
@@ -539,18 +530,17 @@ msgstr "Sizin büyük yeğeninizim, lordum."
 
 #. [message]: speaker=Hamel
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:202
-#, fuzzy
 #| msgid ""
-#| "Then I have decided. Aiglondur, you and Angarthing will fare to Kal "
-#| "Kartha together, as soon as may be, with the best men of your guard."
+#| "Then I have decided. Aiglondur, you and Angarthing will fare to Kal Kartha "
+#| "together, as soon as may be, with the best men of your guard."
 msgid ""
-"Ye’re young and not tested... but ye have the rank, and ye’ve shown the wits "
-"to use it well. I have decided. You and Angarthing will fare to Kal Kartha "
+"Ye’re young and not tested... but ye have the rank, and ye’ve shown the wits"
+" to use it well. I have decided. You and Angarthing will fare to Kal Kartha "
 "together, as soon as may be, with the best men of your guard."
 msgstr ""
-"Ben kararımı verdim. Sen ve Angarting, Kal Karta’ya birlikte seyahat "
-"edeceksiniz. Muhafız olarak en iyi adamlarımla birlikte bir an önce yola "
-"çıkın."
+"Gençsiniz ve test edilmediniz... ama rütbeniz var ve bunu iyi kullanacak "
+"zekayı gösterdiniz. Karar verdim. Sen ve Angarthing, en iyi muhafızlarınızla"
+" birlikte, mümkün olan en kısa sürede Kal Kartha'ya gideceksiniz."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:219
@@ -577,32 +567,32 @@ msgid "Strange Allies"
 msgstr "Tuhaf Müttefik"
 
 #. [part]
-#. 'march' is *not* a typo for 'marsh' here. In archaic English, 'march' means 'border'.
-#. The same word, as '-mark', is in the name of 'the Estmarks': the hills of the eastern border.
+#. 'march' is *not* a typo for 'marsh' here. In archaic English, 'march' means
+#. 'border'.
+#. The same word, as '-mark', is in the name of 'the Estmarks': the hills of
+#. the eastern border.
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:23
-#, fuzzy
 #| msgid ""
 #| "Angarthing, Aiglondur, Movrur, and the dwarvish troop traveled swiftly to "
 #| "the east through the settled lands of the Northern Alliance. Soon enough "
-#| "they came to the wilder march country, where raids by large bands of "
-#| "hostile orcs and men were all too common."
+#| "they came to the wilder march country, where raids by large bands of hostile"
+#| " orcs and men were all too common."
 msgid ""
 "Angarthing, Aiglondur, and the dwarvish troop traveled swiftly to the east "
-"through the settled lands of the Northern Alliance. Soon enough they came to "
-"the wilder march country, where raids by large bands of hostile orcs and men "
-"were all too common."
+"through the settled lands of the Northern Alliance. Soon enough they came to"
+" the wilder march country, where raids by large bands of hostile orcs and "
+"men were all too common."
 msgstr ""
-"Angarting, Aglondur ve Movrur, cüce askerlerle birlikte Kuzey İttifakının "
-"yerleşime açık bölgelerinden hızlıca geçtiler. Kısa zamanda, düşman orkların "
-"ve haydutların büyük gruplar halinde dolaştıkları vahşi hudut bölgesine "
-"vardılar."
+"Angarthing, Aiglondur ve cüce birliği, Kuzey İttifakı'nın yerleşik "
+"topraklarından hızla doğuya doğru ilerledi. Çok geçmeden, büyük düşman ork "
+"ve insan gruplarının baskınlarının çok yaygın olduğu daha vahşi yürüyüş "
+"bölgesine geldiler."
 
 #. [side]: type=Outlaw, id=Gorthas
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:46
-#, fuzzy
 #| msgid "Gorthas"
 msgid "Gorthas’s Gang"
-msgstr "Gortas"
+msgstr "Gorthas Çetesi"
 
 #. [side]: type=Outlaw, id=Gorthas
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:51
@@ -622,10 +612,13 @@ msgstr "İttifak adına, hemen bu toprakları terkedin!"
 #. [message]: speaker=Gothras
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:155
 msgid ""
-"We will fare where we will and take what we will, dog of an orc. To the dark "
-"gods with you and your precious ‘Alliance’. Even your own kind are fed up "
+"We will fare where we will and take what we will, dog of an orc. To the dark"
+" gods with you and your precious ‘Alliance’. Even your own kind are fed up "
 "with your peacemaking!"
 msgstr ""
+"Dilediğimiz yere gider, dilediğimizi alırız, ork köpeği. Karanlık tanrılara "
+"git seninle birlikte o değerli 'İttifakın'la. Kendi halkın bile barış "
+"girişimlerinden bıkmış!"
 
 #. [message]: role=true_orc
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:159
@@ -656,7 +649,6 @@ msgstr ""
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:172
-#, fuzzy
 #| msgid ""
 #| "I’m surprised myself that so many of the orcish tribes came over to the "
 #| "Alliance."
@@ -664,7 +656,9 @@ msgid ""
 "I’m surprised myself that so many of the orcish tribes came over to the "
 "Alliance. Not so strange to see humans raiding us, worse luck."
 msgstr ""
-"İttifaka bir sürü ork çetesi katıldığı için bu benim için sürpriz olmadı."
+"Bu kadar çok ork kabilesinin İttifak'a katılmasına ben de şaşırdım. "
+"İnsanların bize baskın yaptığını görmek o kadar da tuhaf değil, daha kötü "
+"şans."
 
 #. [message]: speaker=Marth-Tak
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:177
@@ -678,22 +672,22 @@ msgstr "Evet."
 
 #. [message]: speaker=Marth-Tak
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:185
-#, fuzzy
 #| msgid "Well, then, honor the treaty as I have."
 msgid "Well, then, honor the treaty as I have. Fight to repel these invaders."
-msgstr "İyi o zaman, anlaşmaya uygun davranın."
+msgstr ""
+"O halde sen de benim gibi anlaşmaya saygı göster. Bu işgalcileri püskürtmek "
+"için savaşın."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:189
-#, fuzzy
 #| msgid "That is our duty. For the Alliance!"
 msgid "That is our duty."
-msgstr "Bu bizim görevimiz. İttifak adına!"
+msgstr "Bu bizim görevimizdir."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:193
 msgid "For the Alliance! Axes up!"
-msgstr ""
+msgstr "İttifak adına! Baltalar yukarı!"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:201
@@ -710,10 +704,9 @@ msgstr "Mart Tak’ın Gortas’ı yenmesine yardım et"
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:217
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:921
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:1164
-#, fuzzy
 #| msgid "Death of Angarthing"
 msgid "Death of Aiglondur or Angarthing"
-msgstr "Angarting’in ölümü"
+msgstr "Aiglondur'un veya Angarthing'in Ölümü"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:209
@@ -731,33 +724,34 @@ msgid ""
 "My thanks, dwarves. These bandits might have hacked a bloody swathe through "
 "the Alliance’s tribes if we had not killed them here."
 msgstr ""
+"Teşekkürler, cüceler. Bu haydutları burada öldürmeseydik, İttifak kabileleri"
+" arasında kanlı bir iz bırakabilirlerdi."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:255
-#, fuzzy
 #| msgid ""
 #| "What matters is that these raiders are defeated now. My thanks to you, "
 #| "Marth-Tak, for proving there are orcs I can fight alongside rather than "
 #| "against. But we cannot linger here to celebrate; we are journeying east."
 msgid ""
 "My thanks to you, for proving there are orcs I can fight alongside rather "
-"than against. But we cannot linger here to celebrate; we are journeying east."
+"than against. But we cannot linger here to celebrate; we are journeying "
+"east."
 msgstr ""
-"Önemli olan bu yağmacıların artık kovulmasıdır. Karşı değil de yanlarında "
-"savaşabileceğim orkların olduğunu kanıtladığın için sana teşekkür ederim, "
-"Mart-Tak. Ama burada kutlamak için oyalanamayız; doğuya yolculuk ediyoruz."
+"Karşı çıkmak yerine yanında savaşabileceğim orkların olduğunu kanıtladığın "
+"için sana teşekkür ederim. Ama kutlamak için burada oyalanamayız; doğuya "
+"doğru yolculuk yapıyoruz."
 
 #. [message]: speaker=Marth-Tak
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:259
-#, fuzzy
 #| msgid ""
 #| "East, eh? You won’t find many friends in that direction. Travel safely."
 msgid ""
 "East, eh? You won’t find many friends in that direction. There’s talk of "
 "wolves, and worse. Travel safely."
 msgstr ""
-"Doğuya ha? O taraflarda çok fazla dost bulamayacaksınız. Yolculuğunuzun "
-"güvenli geçmesini dilerim."
+"Doğu, ha? Bu yönde çok fazla arkadaş bulamazsınız. Kurtlardan ve daha "
+"kötülerinden bahsediliyor. Güvenli bir şekilde seyahat edin."
 
 #. [scenario]: id=04_High_Pass
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:5
@@ -771,16 +765,20 @@ msgid ""
 "very notion of fighting alongside orcs rather than against them, continued "
 "north into the snow-covered peaks of the Heart Mountains."
 msgstr ""
+"Aglondur ve askerleri, bir kısmı orklara karşı değil de yanlarında savaşma "
+"fikrinden hâlâ kuşkuyla başlarını sallayarak Kalp Dağlarının karla kaplı "
+"zirvelerine doğru kuzeye yolculuklarını sürdürdü."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:118
-#, fuzzy
 #| msgid ""
 #| "Behold, the High Pass. By the old maps, we are halfway to Kal Kartha here."
 msgid ""
 "Behold, the High Pass. By the old maps, we are two months’ journey from Kal "
 "Kartha here."
-msgstr "İşte, Yüksek Geçit. Eski haritalara göre Kal Karta yolunu yarıladık."
+msgstr ""
+"İşte Yüksek Geçit. Eski haritalara göre Kal Kartha'dan buraya iki aylık bir "
+"yolculukla ulaşıyoruz."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:122
@@ -788,6 +786,8 @@ msgid ""
 "I hear the howling of wolves, and the shrill cries of gryphons. Traveling "
 "here may prove dangerous."
 msgstr ""
+"Kurtların ulumasını ve grifonların keskin çığlıklarını duyuyorum. Burada "
+"seyahat etmek tehlikeli olabilir."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:126
@@ -795,6 +795,8 @@ msgid ""
 "It may also prove useful. The dwarves of yesteryear rode armies of gryphons "
 "into battle, but few remain in Knalga today."
 msgstr ""
+"Aynı zamanda işe yarayabilir. Geçmiş dönemin cüceleri grifon orduları "
+"üzerinde savaşa girerdi, ancak bugün Kanalga'da pek azı kalmıştır."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:130
@@ -802,23 +804,25 @@ msgid ""
 "Gryphons here will be wild; unaccustomed to our kind. But perhaps we can "
 "train them to accept riders, if we capture them first."
 msgstr ""
+"Buradaki grifonlar vahşi olacak; türümüze alışkın değil. Ama belki önce "
+"yakalarsak, binici kabul etmeleri için eğitebiliriz."
 
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:139
 msgid "Capture as many gryphons as you can"
-msgstr ""
+msgstr "Olabildiğince çok grifon yakala"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:144
-#, fuzzy
 #| msgid "Death of Angarthing"
 msgid "Death of Aiglondur, Angarthing"
-msgstr "Angarting’in ölümü"
+msgstr "Aiglondur'un Ölümü, Angarthing"
 
 #. [note]
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:152
 msgid "To capture a gryphon, injure it below 10 hitpoints without killing it."
 msgstr ""
+"Bir grifon yakalamak için, onu öldürmeden 10 can puanının altına indir."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:164
@@ -826,57 +830,68 @@ msgid ""
 "It is an honor to travel alongside a loremaster, Angarthing. One cannot "
 "begin to fathom the secrets of your order."
 msgstr ""
+"Bir üstadla birlikte seyahat etmek onurdur, Angarting. Loncanızın sırlarını "
+"kavramaya başlamak bile mümkün değil."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:168
 msgid "I keep the Law. I witness the Deeds. Act with honor, Aiglondur."
 msgstr ""
+"Ben Yasayı koruyorum. Eylemlere tanıklık ediyorum. Onurla davran, Aglondur."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:312
 msgid "Well done! We have captured one gryphon."
-msgstr ""
+msgstr "Aferin! Bir grifon yakaladık."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:326
 msgid ""
-"This gryphon has perished! I did not mean to draw blood, only to exhaust and "
-"stun it, but I missed my mark."
+"This gryphon has perished! I did not mean to draw blood, only to exhaust and"
+" stun it, but I missed my mark."
 msgstr ""
+"Bu grifon öldü! Kan dökmek istememiştim, yalnızca onu yorup sersemletmek "
+"istedim, ama hedefi ıskaladım."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:377
 msgid "Do you hear that, Angarthing? There is shouting from the north."
-msgstr ""
+msgstr "Bunu duyuyor musun, Angarting? Kuzeyden bağırma sesleri geliyor."
 
 #. [message]: speaker=Ratheln
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:395
 msgid "Hail!"
-msgstr ""
+msgstr "Selam!"
 
 #. [message]: speaker=Ratheln
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:399
 msgid "Hail, dwarves! I am Ratheln. Are you friends or foes?"
-msgstr ""
+msgstr "Selam, cüceler! Ben Ratelin. Dost musunuz, düşman mı?"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:403
 msgid ""
 "I do not know you, and you have done my kin no harm. I wish no ill upon you."
 msgstr ""
+"Seni tanımıyorum ve ırkdaşlarıma zarar vermedin. Sana kötülük dilemiyorum."
 
 #. [message]: speaker=Ratheln
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:407
 msgid ""
-"Then please, help us! My colleagues and I are assailed by a flight of drakes!"
+"Then please, help us! My colleagues and I are assailed by a flight of "
+"drakes!"
 msgstr ""
+"O halde lütfen bize yardım edin! Meslektaşlarım ve ben bir ejder sürüsünün "
+"saldırısına uğruyoruz!"
 
 #. [message]: speaker=Ratheln
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:411
 msgid ""
-"Our fire magic is useless against those fire-breathing monsters. Our camp is "
-"not far from here, to the northeast."
+"Our fire magic is useless against those fire-breathing monsters. Our camp is"
+" not far from here, to the northeast."
 msgstr ""
+"Ateş büyülerimiz o ateş nefesli canavarlara karşı işe yaramıyor. Kampımız "
+"buradan uzak değil, kuzeydoğuda."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:415
@@ -884,36 +899,38 @@ msgid ""
 "Northeast is the way we are traveling. And I’d not leave anyone who needs "
 "our help stranded to burn. Lead the way."
 msgstr ""
+"Kuzeydoğu zaten gittiğimiz yön. Yardıma muhtaç kimseyi yanmaya terk etmem. "
+"Yolu göster."
 
 #. [scenario]: id=05_Mages_and_Drakes
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:5
 msgid "Mages and Drakes"
-msgstr ""
+msgstr "Büyücüler ve Ejderler"
 
 #. [side]: type=Drake Flameheart, id=Glashal
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:35
 msgid "Drakes"
-msgstr ""
+msgstr "Ejderler"
 
 #. [side]: type=Drake Flameheart, id=Glashal
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:39
 msgid "Glashal"
-msgstr ""
+msgstr "Glashal"
 
 #. [side]: type=Arch Mage, id=Master Perrin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:71
 msgid "Isle of Alduin"
-msgstr ""
+msgstr "Alduin Adası"
 
 #. [side]: type=Arch Mage, id=Master Perrin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:75
 msgid "Master Perrin"
-msgstr ""
+msgstr "Üstat Perrin"
 
 #. [event]
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:110
 msgid "Preceptor"
-msgstr ""
+msgstr "Öğretici"
 
 #. [message]: speaker=Preceptor
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:144
@@ -921,6 +938,8 @@ msgid ""
 "Master Perrin! Ratheln returns from the High Pass, with a company of "
 "dwarves. They look well-armed, and march in battle array."
 msgstr ""
+"Üstat Perrin! Ratelin Yüksek Geçit'ten, bir bölük cüceyle geri dönüyor. İyi "
+"silahlı görünüyorlar ve savaş düzeninde yürüyorlar."
 
 #. [message]: speaker=Master Perrin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:148
@@ -928,6 +947,8 @@ msgid ""
 "Help, if we are fortunate. Hail! You on the road! Who comes bearing arms "
 "into our valley?"
 msgstr ""
+"Şanslıysak, yardım. Selam! Yoldaki siz! Kim geliyor bu kadar silahlı "
+"vadimize?"
 
 #. [message]: speaker=Glashal
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:152
@@ -935,29 +956,34 @@ msgid ""
 "‘Our’ valley, says Master Perrin.\n"
 "The arrogance of these mages is intolerable."
 msgstr ""
+"‘Bizim’ vadimiz, diyor Üstat Perrin.\n"
+"Bu büyücülerin kibri dayanılmaz."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:157
-#, fuzzy
 #| msgid ""
 #| "A delegation of the Northern Alliance, seeking the road through to Kal "
 #| "Kartha."
 msgid ""
-"A delegation of the Northern Alliance, traveling east. I believe we’ve found "
-"a friend of yours in the High Pass."
-msgstr "Kuzey İttifakının delegeleriyiz. Kal Karta’ya giden yolu arıyoruz."
+"A delegation of the Northern Alliance, traveling east. I believe we’ve found"
+" a friend of yours in the High Pass."
+msgstr ""
+"Kuzey İttifakı'ndan bir delegasyon doğuya gidiyor. Sanırım Yüksek Geçit'te "
+"bir arkadaşınızı bulduk."
 
 #. [message]: speaker=Ratheln
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:161
 msgid "They can help us, Master Perrin."
-msgstr ""
+msgstr "Bize yardım edebilirler, Üstat Perrin."
 
 #. [message]: speaker=Master Perrin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:165
 msgid ""
-"Well met, then. My students and I journeyed here to study the nest of drakes "
-"in the cliffs near the valley’s end."
+"Well met, then. My students and I journeyed here to study the nest of drakes"
+" in the cliffs near the valley’s end."
 msgstr ""
+"Lütuf ki geldik. Öğrencilerim ve ben vadinin sonundaki kayalıklardaki ejder "
+"yuvasını incelemek için buraya geldik."
 
 #. [message]: speaker=Master Perrin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:169
@@ -965,6 +991,8 @@ msgid ""
 "Unfortunately, they’ve proven uncooperative. The brutes attacked us several "
 "times, and show no sign of stopping. I fear that they mean to kill us all!"
 msgstr ""
+"Ne yazık ki işbirliği yapacakları yok. O vahşiler bize defalarca saldırdı ve"
+" durmaya hiç niyetleri yok. Hepsimizi öldürmek istediklerinden korkuyorum!"
 
 #. [message]: speaker=Glashal
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:173
@@ -974,41 +1002,46 @@ msgid ""
 "I call a Hunt upon your kind, men and dwarves alike.\n"
 "None will leave this valley alive."
 msgstr ""
+"Artık kesiklerinize ve iğnelerinize katlanmayacağım.\n"
+"Uzun zamandır bizi Av olarak taciz ettiniz.\n"
+"Türünüze, insanlara ve cücelere karşı Av ilan ediyorum.\n"
+"Bu vadiden sağ çıkan olmayacak."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:180
 msgid "Harrumph. I wonder who is truly at fault here."
-msgstr ""
+msgstr "Hm. Burada gerçekte kimin suçlu olduğunu merak ediyorum."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:184
 msgid "We must fight or we will all be slain. Axes up!"
-msgstr ""
+msgstr "Savaşmalıyız yoksa hepimiz öldürülürüz. Baltalar yukarı!"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:192
-#, fuzzy
 #| msgid "Defeat Bashnark"
 msgid "Defeat Glashal"
-msgstr "Başnark’ı yen"
+msgstr "Glashal'ı yen"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:200
 msgid "Death of Master Perrin or Ratheln"
-msgstr ""
+msgstr "Üstat Perrin veya Ratelin'in ölümü"
 
 #. [message]: speaker=Master Perrin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:234
 msgid "Aaarrgh! This expedition was a terrible idea..."
-msgstr ""
+msgstr "Aaarrgh! Bu sefer berbat bir fikirdi..."
 
 #. [message]: speaker=Master Perrin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:255
 msgid ""
-"We’re grateful for your assistance, dwarves. Although I am sorry things came "
-"to blows — there is little left for us to study. The drakes are dead, and "
+"We’re grateful for your assistance, dwarves. Although I am sorry things came"
+" to blows — there is little left for us to study. The drakes are dead, and "
 "their castle is even more decrepit than it was before."
 msgstr ""
+"Yardımınız için minnettarız, cüceler. Dövüşe dönmesine üzülsem de — "
+"inceleyecek az şey kaldı. Ejderler ölü ve kaleleri öncekinden de daha harap."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:260
@@ -1017,13 +1050,18 @@ msgid ""
 "disrepair... by the decay, since even before the drakes came. There are orc-"
 "arrows embedded in the walls..."
 msgstr ""
+"Hmm. Bu taş işçiliği cüce yapımı. Ama uzun zamandır terk edilmiş ve harap "
+"olmuş... ejderler gelmeden önce bile çürümeye yüz tutmuş. Duvarlara "
+"saplanmış ork okları var..."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:264
 msgid ""
-"I’ve a grim feeling about this. Knalga once suffered greatly at the hands of "
-"orcs. Kal Kartha is smaller by half, and not nigh as war-like."
+"I’ve a grim feeling about this. Knalga once suffered greatly at the hands of"
+" orcs. Kal Kartha is smaller by half, and not nigh as war-like."
 msgstr ""
+"Bu konuda kaygılı bir his var içimde. Kanalga bir zamanlar orkların elinde "
+"büyük acılar çekti. Kal Karta yarı yarıya daha küçük ve savaşçı değil."
 
 #. [message]: speaker=Master Perrin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:269
@@ -1032,16 +1070,19 @@ msgid ""
 "thinking that brought Aiglondur here. If the dwarves allow it, will you "
 "accompany them in their journey east?"
 msgstr ""
+"Bize yardım ettiniz; size yardım etmek bizim görevimiz. Ratelin, Aglondur'u "
+"buraya getiren senin hızlı düşüncendi. Cüceler izin verirse, onlara doğuya "
+"yolculuklarında eşlik eder misin?"
 
 #. [message]: speaker=Ratheln
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:273
 msgid "I will."
-msgstr ""
+msgstr "Edeceğim."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:278
 msgid "I am grateful."
-msgstr ""
+msgstr "Minnettarım."
 
 #. [message]: speaker=Master Perrin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:282
@@ -1049,6 +1090,8 @@ msgid ""
 "Then go safely and return swiftly. The rest of us shall make our retreat "
 "back to Alduin."
 msgstr ""
+"O halde güvenle gidin ve çabuk dönün. Geri kalanımız Alduin'e geri "
+"çekileceğiz."
 
 #. [scenario]: id=06_Fear
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:5
@@ -1074,25 +1117,26 @@ msgstr "Köylüler"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:131
-#, fuzzy
 #| msgid ""
-#| "We should be on the outskirts of the settled country around Kal Kartha, "
-#| "but something doesn’t feel right here."
+#| "We should be on the outskirts of the settled country around Kal Kartha, but "
+#| "something doesn’t feel right here."
 msgid ""
 "The maps show a village nearby. Their keep should be just ahead, but "
 "something doesn’t feel right."
 msgstr ""
-"Kal Karta’yı kuşatan dış mahallelerde olmamız gerekir, fakat burada yolunda "
-"gitmeyen bir şeyler olduğunu hissediyorum."
+"Haritalar yakınlardaki bir köyü gösteriyor. Kaleleri hemen ileride olmalıydı"
+" ama bir şeyler doğru gelmiyordu."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:135
-#, fuzzy
-#| msgid "It’s too quiet... and I think I smell traces of smoke on the wind."
+#| msgid ""
+#| "It’s too quiet... and I think I smell traces of smoke on the wind."
 msgid ""
-"It’s too quiet... and I think I smell traces of smoke on the wind. There has "
-"been fire near here recently, and not a clean one."
-msgstr "Çok sessiz... ve rüzgarda duman kokusu var."
+"It’s too quiet... and I think I smell traces of smoke on the wind. There has"
+" been fire near here recently, and not a clean one."
+msgstr ""
+"Çok sessiz... ve sanırım rüzgarda duman izleri alıyorum. Yakın zamanda "
+"buranın yakınında bir yangın çıktı ve temiz bir yangın değil."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:139
@@ -1104,41 +1148,40 @@ msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:147
-#, fuzzy
 #| msgid "Defeat the orcish leaders"
 msgid "Defeat the enemy leader"
-msgstr "Ork liderlerini yen"
+msgstr "Düşman liderini yen"
 
 #. [event]
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:218
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:381
 msgid "Ollin"
-msgstr ""
+msgstr "Ollin"
 
 #. [message]: speaker=Ollin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:221
 msgid "Don’t kill me, masters! Please don’t kill me!"
-msgstr ""
+msgstr "Beni öldürmeyin, ustalar! Lütfen beni öldürmeyin!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:225
 msgid "You’re in no danger from us. What lies to the east of here?"
-msgstr ""
+msgstr "Bizden hiçbir tehlike yok. Buranın doğusunda ne var?"
 
 #. [message]: speaker=Ollin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:229
 msgid "You wear no mask. You... you’re not with them?"
-msgstr ""
+msgstr "Maske takmıyorsunuz. Siz... onlarla değil misiniz?"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:233
 msgid "What are you talking about?"
-msgstr ""
+msgstr "Ne hakkında konuşuyorsunuz?"
 
 #. [message]: speaker=Ollin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:237
 msgid "The masked dwarves. Killing, burning, kidnapping. Look..."
-msgstr ""
+msgstr "Maskeli cüceler. Öldürüyorlar, yakıyorlar, kaçırıyorlar. Bakın..."
 
 #. [message]: role=masked_speaker
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:249
@@ -1146,18 +1189,22 @@ msgid ""
 "Fellow dwarves, hail! We’re looking for a human refugee, a male with a "
 "broken arm. Have you seen him? Our master demands his life."
 msgstr ""
+"Cüce kardeşler, selam! Bir insan mülteci arıyoruz, kolu kırık erkek biri. "
+"Gördünüz mü? Efendimiz onun canını istiyor."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:253
 msgid "He is here. How has he wronged your master, that you seek his death?"
-msgstr ""
+msgstr "Burada. Efendinize nasıl zarar verdi de ölümünü istiyorsunuz?"
 
 #. [message]: role=masked_speaker
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:257
 msgid ""
-"Does it matter? He is only a dirtgrubbing human, not fit to polish the boots "
-"of the true people."
+"Does it matter? He is only a dirtgrubbing human, not fit to polish the boots"
+" of the true people."
 msgstr ""
+"Önemi var mı? O sadece toprak eşelen bir insan, gerçek halkın botlarını bile"
+" cilalamaya layık değil."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:261
@@ -1165,6 +1212,7 @@ msgid ""
 "What is your name, masked one? Will you stand behind your deed? I am a "
 "witness."
 msgstr ""
+"Adın ne, maskeli? Eyleminin arkasında duracak mısın? Ben bir gözlemciyim."
 
 #. [message]: role=masked_speaker
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:265
@@ -1172,13 +1220,18 @@ msgid ""
 "A witness? My name is... my name is not important. My deed will speak its "
 "own truth."
 msgstr ""
+"Bir gözlemci mi? Adım... adım önemli değil. Eylemim kendi gerçeğini "
+"söyleyecek."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:269
 msgid ""
 "You speak without honor. Mine is the power of our ancient Law; speak your "
-"name and give up your murder, or the Law will cast you forth. I am a witness!"
+"name and give up your murder, or the Law will cast you forth. I am a "
+"witness!"
 msgstr ""
+"Onursuzca konuşuyorsunuz. Bende kadim Yasanın gücü var; adınızı söyleyin ve "
+"cinayetinizden vazgeçin, yoksa Yasa sizi dışarı atacak. Ben bir gözlemciyim!"
 
 #. [message]: role=masked_speaker
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:277
@@ -1186,16 +1239,18 @@ msgid ""
 "If you were a witness of the true people, you would not let a dirtgrubber "
 "hide behind your robes. I deny you!"
 msgstr ""
+"Gerçek halkın bir gözlemcisi olsaydın, bir toprak eşelencinin cübbenin "
+"arkasına saklanmasına izin vermezdin. Seni reddediyorum!"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:282
 msgid "The Law speaks: you are cast out. You are un-dwarf. I AM A WITNESS!"
-msgstr ""
+msgstr "Yasa konuşuyor: kovuldunuz. Cüce değilsiniz. BEN BİR GÖZLEMCİYİM!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:286
 msgid "Up axes!"
-msgstr ""
+msgstr "Baltalar yukarı!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:306
@@ -1203,6 +1258,8 @@ msgid ""
 "I have never seen the formal banishment before. One reads of it in the old "
 "tales, of course, but to hear it with one’s own ears? It was... unsettling."
 msgstr ""
+"Resmi sürgünü daha önce hiç görmedim. Eski masallarda elbette okunur, ama "
+"kendi kulaklarınla duymak? Bu... rahatsız ediciydi."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:310
@@ -1210,6 +1267,8 @@ msgid ""
 "It is not something we do often. The last such was in my grandsire’s time. "
 "But look upon the human’s wrists if you have any doubt it was merited."
 msgstr ""
+"Sık yaptığımız bir şey değil. Sonuncusu büyükbabamın zamanındaydı. Ama hak "
+"edilip edilmediğinden şüphe duyuyorsan, insanın bileklerine bak."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:314
@@ -1217,18 +1276,20 @@ msgid ""
 "Shackles. Scars. No, Angarthing, I would not doubt you, even if it were my "
 "place to doubt a loremaster."
 msgstr ""
+"Kelepçeler. Yara izleri. Hayır, Angarting, seni sorgulamam, bir üstadı "
+"sorgulamak benim haddim olmasa bile."
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:335
 msgid "Argh!"
-msgstr ""
+msgstr "Argh!"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:341
 msgid ""
 "Our castle is small, and these masked dwarves are many. This will be a "
 "bloody fight."
-msgstr ""
+msgstr "Kalemiz küçük ve bu maskeli cüceler çok. Bu kanlı bir dövüş olacak."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:345
@@ -1236,25 +1297,26 @@ msgid ""
 "The masked ones must have raided this place before. Damaging the castle "
 "would have made it harder for the peasants to rally a defense."
 msgstr ""
+"Maskeli olanlar daha önce bu yeri yağmalamış olmalı. Kaleye zarar vermek, "
+"köylülerin savunmaya geçmesini zorlaştırmış olurdu."
 
 #. [message]: role=masked_speaker
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:363
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:252
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:370
-#, fuzzy
 #| msgid "They are too powerful! Retreat!"
 msgid "They are defeated!"
-msgstr "Çok güçlüler! Geri çekilin!"
+msgstr "Yenildiler!"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:374
 msgid "You have acted in honor. I am a witness."
-msgstr ""
+msgstr "Onurla davrandınız. Ben bir gözlemciyim."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:378
@@ -1262,26 +1324,34 @@ msgid ""
 "I do not wish to imagine what could drive dwarves to such depravity. These "
 "outlaws must have been desperate; consumed by fear or madness."
 msgstr ""
+"Cüceleri böyle bir ahlaksızlığa sürükleyebilecek şeyi hayal etmek "
+"istemiyorum. Bu kanun kaçakları çaresiz olmuş olmalı; korku ya da delilikle "
+"tükenmiş."
 
 #. [message]: speaker=Ollin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:386
 msgid "Thank you for your help, and for saving us!"
-msgstr ""
+msgstr "Yardımınız ve bizi kurtardığınız için teşekkür ederiz!"
 
 #. [message]: speaker=Ollin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:390
 msgid ""
-"I do not mean to sound ungrateful, but — the masked ones... they always come "
-"back..."
+"I do not mean to sound ungrateful, but — the masked ones... they always come"
+" back..."
 msgstr ""
+"Nankör görünmek istemiyorum ama — maskeli olanlar... her zaman geri "
+"dönüyorlar..."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:394
 msgid ""
 "There is a camp of mages not far upriver. If they have not yet departed, "
-"they can help you. Travel westways, to lands of the Northern Alliance. There "
-"you will be safe, and welcomed."
+"they can help you. Travel westways, to lands of the Northern Alliance. There"
+" you will be safe, and welcomed."
 msgstr ""
+"Nehir yukarısında uzak olmayan bir büyücü kampı var. Henüz ayrılmadılarsa "
+"size yardım edebilirler. Batıya gidin, Kuzey İttifakı topraklarına. Orada "
+"güvende olacak ve karşılanacaksınız."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:398
@@ -1289,6 +1359,9 @@ msgid ""
 "We dwarves travel east. We must reach Kal Kartha, more urgently now than "
 "ever. Before anything terrible happens, if we are lucky..."
 msgstr ""
+"Biz cüceler doğuya gidiyoruz. Kal Karta'ya ulaşmalıyız, şimdiye kadar "
+"olduğundan daha acil bir şekilde. Şanslıysak, korkunç bir şey olmadan "
+"önce..."
 
 #. [scenario]: id=07_Forbidden_Forest
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Forbidden_Forest.cfg:5
@@ -1331,30 +1404,28 @@ msgstr "Ormanımıza giren kim?"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Forbidden_Forest.cfg:210
-#, fuzzy
 #| msgid ""
 #| "A delegation of the Northern Alliance, seeking the road through to Kal "
 #| "Kartha."
 msgid ""
 "A delegation of the Northern Alliance, urgently seeking the road through to "
 "Kal Kartha."
-msgstr "Kuzey İttifakının delegeleriyiz. Kal Karta’ya giden yolu arıyoruz."
+msgstr ""
+"Kuzey İttifakından bir delegasyon acilen Kal Kartha'ya giden yolu arıyor."
 
 #. [message]: speaker=Elurin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Forbidden_Forest.cfg:215
-#, fuzzy
 #| msgid ""
-#| "We allow few outsiders in our forest paths, and no dwarves since the "
-#| "masked ones began to trouble our eastern margins. No axe-bearers shall "
-#| "come near our trees. Return whence you came!"
+#| "We allow few outsiders in our forest paths, and no dwarves since the masked "
+#| "ones began to trouble our eastern margins. No axe-bearers shall come near "
+#| "our trees. Return whence you came!"
 msgid ""
 "We allow few outsiders in our forest paths, and no dwarves since the war in "
 "the east. No axe-bearers shall come near our trees. Return whence you came!"
 msgstr ""
-"Orman yolumuzu kullanmak isteyenlere izin veriyoruz ama maskeli birileri "
-"doğu sınırlarımızda sorun çıkarmaya başladığından beri cücelere izin "
-"vermiyoruz. Balta taşıyan hiç kimse ağaçlarımızın yanına yaklaşamaz. "
-"Geldiğiniz yere geri dönün!"
+"Orman yollarımıza çok az yabancının girmesine izin veriyoruz ve doğudaki "
+"savaştan bu yana cücelere izin vermiyoruz. Hiçbir balta taşıyıcısı "
+"ağaçlarımızın yanına yaklaşmayacak. Geldiğin yere dön!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Forbidden_Forest.cfg:220
@@ -1364,12 +1435,18 @@ msgid ""
 "you say, then that is all the more reason for us to make haste. Please tell "
 "me what you know of our kin, elf."
 msgstr ""
+"Kış topuklarımızda ve ormanınız, karla tıkalı dağlar ile nehir arasındaki "
+"tek boşluğu kaplıyor. Söylediğiniz gibi Kal Karta'da savaş varsa, bu acele "
+"etmemiz için daha fazla neden demek. Lütfen ırkdaşlarımız hakkında "
+"bildiklerinizi söyleyin, elf."
 
 #. [message]: speaker=Elurin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Forbidden_Forest.cfg:225
 msgid ""
 "I will say no more. I have already given our answer. Return whence you came."
 msgstr ""
+"Artık daha fazla söylemeyeceğim. Cevabımızı zaten verdik. Geldiğiniz yere "
+"geri dönün."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Forbidden_Forest.cfg:230
@@ -1383,16 +1460,15 @@ msgstr "Buradan geçemezsiniz."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Forbidden_Forest.cfg:240
-#, fuzzy
 #| msgid ""
-#| "Winter comes on our heels, and your forest straddles the only gap in "
-#| "these mountains. You leave us no choice but to fight you."
+#| "Winter comes on our heels, and your forest straddles the only gap in these "
+#| "mountains. You leave us no choice but to fight you."
 msgid ""
-"We must aid our kin. If you will not let us through peacefully, you leave us "
-"no choice but to fight."
+"We must aid our kin. If you will not let us through peacefully, you leave us"
+" no choice but to fight."
 msgstr ""
-"Kış burnumuzun dibine kadar geldi ve ormanınız bu dağlardan geçilecek tek "
-"yer. Bize sizinle dövüşmekten başka seçenek bırakmadınız."
+"Akrabalarımıza yardım etmeliyiz. Eğer barış içinde geçmemize izin "
+"vermezseniz, bize savaşmaktan başka seçenek bırakmazsınız."
 
 #. [message]: speaker=Elurin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Forbidden_Forest.cfg:245
@@ -1405,16 +1481,14 @@ msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Forbidden_Forest.cfg:268
-#, fuzzy
 #| msgid "Move both Aiglondur and Angarthing to the eastern signpost"
 msgid "Move both Aiglondur and Angarthing to the eastern edge of the map"
-msgstr ""
-"Angarting ve Aglondur'u doğudaki yol işaretine (diğerinin yanına) götür"
+msgstr "Hem Aiglondur'u hem de Angarthing'i haritanın doğu ucuna taşıyın"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Forbidden_Forest.cfg:299
 msgid "We shall pass!"
-msgstr ""
+msgstr "Geçeceğiz!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Forbidden_Forest.cfg:339
@@ -1425,10 +1499,10 @@ msgstr ""
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Forbidden_Forest.cfg:349
-#, fuzzy
 #| msgid "Kal Kartha should be only another day’s march north of here."
 msgid "Kal Kartha should be only another week’s march east of here."
-msgstr "Kal Karta, kuzeyde bir günlük uzaklıkta olmalı."
+msgstr ""
+"Kal Kartha buranın doğusunda sadece bir haftalık yürüyüş mesafesinde olmalı."
 
 #. [scenario]: id=08_The_Siege_of_Kal_Kartha
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Siege_of_Kal_Kartha.cfg:5
@@ -1437,10 +1511,9 @@ msgstr "Kal Karta Kuşatması"
 
 #. [side]
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Siege_of_Kal_Kartha.cfg:37
-#, fuzzy
 #| msgid "Kal Karthans"
 msgid "Kal Kartha"
-msgstr "Kal Kartanus"
+msgstr "Kal Kartha"
 
 #. [event]
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Siege_of_Kal_Kartha.cfg:137
@@ -1448,12 +1521,12 @@ msgid "West Gate"
 msgstr "Batı Kapısı"
 
 #. [message]: speaker=Angarthing
-#. Angarthing specifies that Kal Kartha has many entrances. This helps explain how the Fear dwarves managed to leave while the West Gate was under siege.
+#. Angarthing specifies that Kal Kartha has many entrances. This helps explain
+#. how the Fear dwarves managed to leave while the West Gate was under siege.
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Siege_of_Kal_Kartha.cfg:198
-#, fuzzy
 #| msgid "Behold! The West Gate of Kal Kartha!"
 msgid "Behold! The West Gate of Kal Kartha! The largest of their many doors."
-msgstr "İşte! Kal Karta’nın Batı Kapısı!"
+msgstr "Bakın! Kal Kartha'nın Batı Kapısı! Birçok kapının en büyüğü."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Siege_of_Kal_Kartha.cfg:204
@@ -1461,6 +1534,8 @@ msgid ""
 "And under siege, as we feared — by orcs. But we are not too late! The "
 "defenders yet hold."
 msgstr ""
+"Ve korktuğumuz gibi kuşatma altında — orklar tarafından. Ama çok geç "
+"değiliz! Savunucular hâlâ tutuyor."
 
 #. [message]: speaker=leader3
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Siege_of_Kal_Kartha.cfg:208
@@ -1473,19 +1548,19 @@ msgstr ""
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Siege_of_Kal_Kartha.cfg:212
-#, fuzzy
 #| msgid "Let us bring our kin that orc’s head as a guesting-gift."
 msgid ""
 "There is a mighty host between us and our kin. Let us bring them that orc’s "
 "head as a guesting-gift!"
-msgstr "Irkdaşlarımıza şu orkun kellesini hediye olarak götürelim."
+msgstr ""
+"Bizimle soydaşlarımız arasında güçlü bir ordu var. Misafir hediyesi olarak "
+"onlara o orkun kafasını getirelim!"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Siege_of_Kal_Kartha.cfg:219
-#, fuzzy
 #| msgid "Defeat the orcish leaders"
 msgid "Defeat any three orcish leaders"
-msgstr "Ork liderlerini yen"
+msgstr "Herhangi üç ork liderini yen"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Siege_of_Kal_Kartha.cfg:227
@@ -1507,11 +1582,12 @@ msgstr "Kal Karta alındı. Görevimizi yerine getiremedik."
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Siege_of_Kal_Kartha.cfg:297
 msgid "Useless grunts! We should have taken the gate weeks ago! Fight harder!"
 msgstr ""
+"İşe yaramaz serseriler! Kapıyı haftalar önce almalıydık! Daha sert savaşın!"
 
 #. [message]: speaker=Ratheln
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Siege_of_Kal_Kartha.cfg:309
 msgid "I think they’ve been reinforced. I really don’t like orcs."
-msgstr ""
+msgstr "Takviye aldıklarını düşünüyorum. Orklardan gerçekten hoşlanmıyorum."
 
 #. [message]: id=leader3,leader4,leader5,leader6
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Siege_of_Kal_Kartha.cfg:334
@@ -1519,17 +1595,18 @@ msgid ""
 "Grr... nasty stinky-midgets. We know what you’re up to in there. We’ll be "
 "back."
 msgstr ""
+"Grr... iğrenç pis ufaklıklar. Orada ne yaptığınızı biliyoruz. Geri "
+"döneceğiz."
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Siege_of_Kal_Kartha.cfg:348
-#, fuzzy
 #| msgid ""
 #| "Hail, fellow dwarves. All Kal Kartha thanks you for your timely rescue."
 msgid ""
 "Hail, fellow dwarves! Well fought, and our thanks; we were sorely pressed."
 msgstr ""
-"Selam, cüce arkadaşlar. Tüm Kal Karta bizi zamanında kurtardığınız için size "
-"teşekkür eder."
+"Selam, cüce dostlarım! İyi mücadele ettik ve teşekkür ederiz; çok baskı "
+"altındaydık."
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Siege_of_Kal_Kartha.cfg:352
@@ -1537,6 +1614,8 @@ msgid ""
 "I had not expected to find allies so far from peopled lands. From whence do "
 "you hail?"
 msgstr ""
+"İnsanların yaşadığı topraklardan bu kadar uzakta müttefik bulmayı "
+"beklemiyordum. Siz nereden geliyorsunuz?"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Siege_of_Kal_Kartha.cfg:356
@@ -1544,23 +1623,23 @@ msgid ""
 "We come at the behest of Hamel, Lord of Knalga and Lord Companion of the "
 "Northern Alliance. We seek audience with your lord."
 msgstr ""
+"Kanalga Lordu ve Kuzey İttifakının Eş Lordu Hamel'in emriyle geliyoruz. "
+"Lorduyla görüşmek istiyoruz."
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Siege_of_Kal_Kartha.cfg:360
-#, fuzzy
 #| msgid ""
 #| "Well fought, and our thanks; we were sore pressed. You are our honored "
-#| "guests, and I will show you to the best quarters we have myself. Our "
-#| "lord, the runemaster Karrag, will want to have speech with you on the "
-#| "morrow."
+#| "guests, and I will show you to the best quarters we have myself. Our lord, "
+#| "the runemaster Karrag, will want to have speech with you on the morrow."
 msgid ""
-"You are our honored guests, and I will show you to the best quarters we have "
-"myself. Then I must see to my troop’s care. Lord Karrag will have speech "
+"You are our honored guests, and I will show you to the best quarters we have"
+" myself. Then I must see to my troop’s care. Lord Karrag will have speech "
 "with you on the morrow."
 msgstr ""
-"İyi dövüştü, teşekkürler. Konukluğunuzdan onur duyarız ve size en iyi "
-"odalarımızı vereceğiz. Liderimiz oyma ustası Karrag yarın sizinle konuşmak "
-"istiyor."
+"Sizler bizim onur konuklarımızsınız ve size sahip olduğumuz en iyi konaklama"
+" yerini göstereceğim. O zaman birliğimin bakımını üstlenmeliyim. Lord Karrag"
+" yarın sizinle konuşacak."
 
 #. [scenario]: id=09_The_Court_of_Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:5
@@ -1580,6 +1659,9 @@ msgid ""
 "to our humble hold. Our throne room lies just ahead — the runemaster Karrag "
 "will surely be eager to see you."
 msgstr ""
+"Bu taraftan, Kanalga'lılar. Türünüzden birinin mütevazı kalemizdeki yolumuzu"
+" bulması uzun zamandır olmamıştı. Taht odamız hemen önünüzde — rûncü Karrag "
+"sizi görmek için can atıyor olmalı."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:135
@@ -1593,7 +1675,6 @@ msgstr ""
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:139
-#, fuzzy
 #| msgid ""
 #| "Aye? Well, you’d know such things better than I, loremaster. Lord Karrag "
 #| "toiled for long years to recover the craft lore. He was elevated when our "
@@ -1603,20 +1684,21 @@ msgid ""
 "Aye? Well, you’d know such things better than I, loremaster. Our Karrag "
 "toiled for long years to recover the craft lore. He was elevated when our "
 "old lord fell in battle against the besieging orcs. Karrag himself was "
-"wounded near to death; none thought he would recover. But he leads us today, "
-"and his runelore has oft been the only shield between us and the orcs."
+"wounded near to death; none thought he would recover. But he leads us today,"
+" and his runelore has oft been the only shield between us and the orcs."
 msgstr ""
-"Öyle mi? Siz böyle şeyleri elbette benden daha iyi bilirsiniz üstat. Karrag "
-"beyimiz meslek ilmini kurtarmak için yıllarını harcadı. Ork kuşatmasına "
-"karşı savaşta kaybettiğimiz eski liderimizin yerine geçti. Karrag şimdi "
-"yaralı, ölmek üzere; onu kurtaracak kimse yok."
+"Evet? Sen bu tür şeyleri benden daha iyi bilirsin, bilgin. Bizim Karrag'ımız"
+" zanaat bilgisini kurtarmak için uzun yıllar uğraştı. Eski lordumuz kuşatan "
+"orklara karşı savaşta düştüğünde yükseldi. Karrag'ın kendisi de ölüme yakın "
+"bir şekilde yaralandı; kimse onun iyileşeceğini düşünmüyordu. Ama bugün bize"
+" liderlik ediyor ve runelore'u çoğu zaman bizimle orklar arasındaki tek "
+"kalkan olmuştur."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:143
-#, fuzzy
 #| msgid "The Hammer of Thursagan?"
 msgid "He has grasped the Hammer of Thursagan, then?"
-msgstr "Tursagan’ın Çekici mi?"
+msgstr "O halde Thursagan Çekici'ni mi yakaladı?"
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:147
@@ -1625,28 +1707,30 @@ msgid ""
 "followers. He has promised all of us that the Hammer’s power will smash and "
 "scatter all our enemies."
 msgstr ""
+"Evet. Alt katlardaki bir atölyede kişisel takipçileriyle üzerinde çalışıyor."
+" Hepimize Çekicin gücünün tüm düşmanlarımızı ezeceğini ve dağıtacağını vaat "
+"etti."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:151
-#, fuzzy
 #| msgid "The Hammer is a tool of crafting and making, not a weapon."
 msgid ""
 "That is strange. The Hammer is a tool of crafting and making, not a weapon. "
 "What can he mean to do with it?"
 msgstr ""
-"Çekiç metale şekil vermekte kullanılan bir el aletidir, bir silah değildir."
+"Bu çok tuhaf. Çekiç bir silah değil, bir işçilik ve yapım aracıdır. Bununla "
+"ne yapmak istiyor olabilir?"
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:171
-#, fuzzy
 #| msgid "We are."
 msgid "We are here."
-msgstr "Evet."
+msgstr "Biz buradayız."
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:188
 msgid "Greetings, Knalgans!"
-msgstr ""
+msgstr "Selam, Kanalga'lılar!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:192
@@ -1654,25 +1738,24 @@ msgid ""
 "Psst, Angarthing... Karrag and those dwarves on the dais, they’re all "
 "<i>masked</i>."
 msgstr ""
+"Psst, Angarting... Karrag ve kürsüdeki o cüceler, hepsi <i>maskeli</i>."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:196
-#, fuzzy
 #| msgid "Indeed. There is something very wrong here."
 msgid "I see it. There is something very wrong here."
-msgstr "Gerçekten. Burada yanlış giden şeyler var."
+msgstr "Görüyorum. Burada çok yanlış bir şey var."
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:200
-#, fuzzy
 #| msgid ""
 #| "Hail, fellow dwarves. All Kal Kartha thanks you for your timely rescue."
 msgid ""
 "It is good to once more host Knalgans in these halls. All Kal Kartha thanks "
 "you for your timely rescue."
 msgstr ""
-"Selam, cüce arkadaşlar. Tüm Kal Karta bizi zamanında kurtardığınız için size "
-"teşekkür eder."
+"Knalganları bir kez daha bu salonlarda ağırlamak güzel. Tüm Kal Kartha, "
+"zamanında kurtardığınız için size teşekkür ediyor."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:204
@@ -1685,44 +1768,42 @@ msgstr ""
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:208
-#, fuzzy
 #| msgid ""
 #| "All dwarves are kin, and must prevail against orcs and humans and other "
-#| "dirtgrubbers. You can be part of the fist that smites them through the "
-#| "power of our ancient heirloom, the Hammer of Thursagan."
+#| "dirtgrubbers. You can be part of the fist that smites them through the power"
+#| " of our ancient heirloom, the Hammer of Thursagan."
 msgid ""
 "All dwarves are kin, and must prevail against orcs and humans and other "
 "dirtgrubbers. You can be part of the fist that smites them."
 msgstr ""
-"Tüm cüceler kardeştir ve orklardan, insanlardan ve diğer yaratıklardan "
-"üstünlerdir. Kadim yadigârımız Thursagan'ın Çekici'nin gücüyle onları vuran "
-"yumruğun bir parçası olabilirsiniz."
+"Tüm cüceler akrabadır ve orklara, insanlara ve diğer pisliklere karşı galip "
+"gelmeliler. Onlara saldıran yumruğun bir parçası olabilirsiniz."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:212
 msgid "We did not come to smite anyone, but to re-open contact and trade."
 msgstr ""
+"Kimseyi ezmek için değil, iletişim ve ticareti yeniden açmak için geldik."
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:216
-#, fuzzy
 #| msgid ""
 #| "All dwarves are kin, and must prevail against orcs and humans and other "
-#| "dirtgrubbers. You can be part of the fist that smites them through the "
-#| "power of our ancient heirloom, the Hammer of Thursagan."
+#| "dirtgrubbers. You can be part of the fist that smites them through the power"
+#| " of our ancient heirloom, the Hammer of Thursagan."
 msgid ""
 "Trade? Your destruction of the besieging orcs was a far nobler act than "
 "trade. There can be more such victories. And there will be by the power of "
 "our ancient heirloom, the Hammer of Thursagan."
 msgstr ""
-"Tüm cüceler kardeştir ve orklardan, insanlardan ve diğer yaratıklardan "
-"üstünlerdir. Kadim yadigârımız Thursagan'ın Çekici'nin gücüyle onları vuran "
-"yumruğun bir parçası olabilirsiniz."
+"Ticaret? Kuşatan orkları yok etmeniz ticaretten çok daha asil bir "
+"davranıştı. Bu tür zaferlerin sayısı artabilir. Ve kadim yadigarımız "
+"Thursagan'ın Çekici'nin gücüyle olacak."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:220
 msgid "It is remembered in Knalga that Kal Kartha holds the Hammer."
-msgstr ""
+msgstr "Kanalga'da Kal Karta'nın Çekici elinde bulundurduğu hatırlanır."
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:224
@@ -1730,6 +1811,8 @@ msgid ""
 "Yes! And the Hammer holds the soul of the dwarves, the true people. "
 "Together, we can march to greater victories! Will you of Knalga join me?"
 msgstr ""
+"Evet! Ve Çekiç cücelerin, gerçek halkın ruhunu barındırıyor. Birlikte daha "
+"büyük zaferlere yürüyebiliriz! Kanalga'dan olanlar bana katılacak mı?"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:232
@@ -1742,7 +1825,6 @@ msgstr ""
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:236
-#, fuzzy
 #| msgid ""
 #| "Quiet, Movrur. Loremaster, you... do not wish to see what is beneath this "
 #| "mask. I was terribly wounded in an orcish attack. Disfigured."
@@ -1750,8 +1832,8 @@ msgid ""
 "You... do not wish to see what is beneath this mask. I was terribly wounded "
 "in an orcish attack. Disfigured."
 msgstr ""
-"Kes sesini Movrur. Üstat, sen... bu maskenin altındakini görmek istemezsin. "
-"Bir ork saldırısında çok kötü yaralandım. Şekli bozuldu."
+"Sen... bu maskenin altında ne olduğunu görmek istemezsin. Bir ork "
+"saldırısında ağır yaralandım. Şekli bozuk."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:240
@@ -1764,18 +1846,16 @@ msgstr ""
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:244
-#, fuzzy
 #| msgid ""
-#| "Master, you need not answer to this fool. Even for a loremaster, to "
-#| "dictate to a lord in his own holding... and one who holds the very soul "
-#| "of the dwarves in his hand. It is unthinkable!"
+#| "Master, you need not answer to this fool. Even for a loremaster, to dictate "
+#| "to a lord in his own holding... and one who holds the very soul of the "
+#| "dwarves in his hand. It is unthinkable!"
 msgid ""
-"Impertinent fool! It is not for you to dictate to a lord in his own holding, "
-"much less one who holds the very soul of the dwarves in his hand."
+"Impertinent fool! It is not for you to dictate to a lord in his own holding,"
+" much less one who holds the very soul of the dwarves in his hand."
 msgstr ""
-"Usta, bu aptala cevap vermene gerek yok. Bir üstat için bile bir lorda ne "
-"yapacağını söylemek... üstelik bir çok cücenin ruhunu ve seni elinde tutan "
-"birine... Bu kabul edilemez!"
+"Küstah aptal! Kendi elindeki bir lorda, hele cücelerin ruhunu elinde tutan "
+"birine dikte etmek sana düşmez."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:248
@@ -1788,19 +1868,20 @@ msgstr ""
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:256
-#, fuzzy
 #| msgid "So you say."
 msgid "As you wish."
-msgstr "Yani diyorsun ki."
+msgstr "Nasıl istersen."
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:287
-#, fuzzy
-#| msgid "No... no... it is horrible! My lord, how did you come to this?"
+#| msgid ""
+#| "No... no... it is horrible! My lord, how did you come to this?"
 msgid ""
 "An empty skull?! A lich?! No... no... it is horrible! My lord, how did you "
 "come to this?"
-msgstr "Hayır... hayır... bu korkunç! Lordum nasıl bu hale geldiniz?"
+msgstr ""
+"Boş bir kafatası mı? Lich mi? Hayır... hayır... bu korkunç! Hocam nasıl bu "
+"noktaya geldiniz?"
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:291
@@ -1815,23 +1896,22 @@ msgstr ""
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:300
-#, fuzzy
 #| msgid ""
-#| "And you have sealed your doom. Hundreds of dirtgrubbers have already died "
-#| "to weave a web of blood around the Hammer and the soul of the dwarves. "
-#| "You and your new friends will be the last sacrifices I require to bind "
-#| "the entire dwarvish race to my purpose. TAKE THEM!"
+#| "And you have sealed your doom. Hundreds of dirtgrubbers have already died to"
+#| " weave a web of blood around the Hammer and the soul of the dwarves. You and"
+#| " your new friends will be the last sacrifices I require to bind the entire "
+#| "dwarvish race to my purpose. TAKE THEM!"
 msgid ""
-"And you have sealed your doom. Hundreds of dirtgrubbers have already died to "
-"weave a web of blood around the Hammer and the soul of the dwarves. You and "
-"your new friends will be the last sacrifices I require to bind the entire "
+"And you have sealed your doom. Hundreds of dirtgrubbers have already died to"
+" weave a web of blood around the Hammer and the soul of the dwarves. You and"
+" your new friends will be the last sacrifices I require to bind the entire "
 "dwarvish race to my purpose. Take the Knalgans, and Dulcatulos too! TAKE "
 "THEM!"
 msgstr ""
-"Ve siz kaderinizi tayin ettiniz. Cücelerin ruhları ve Çekicin çevresinde bir "
-"kan ağı örmek için bu pisliklerin yüzlercesi zaten öldürüldü. Tüm cüce "
-"ırkınının amacım doğrultusunda hizmet etmelerini sağlamak için sen ve "
-"arkadaşların son kurbanlarım olacaklar. YAKALAYIN ŞUNLARI!"
+"Ve sen kıyametini mühürledin. Yüzlerce pislikçi, Çekiç'in ve cücelerin "
+"ruhunun etrafına bir kan ağı örmek için çoktan öldü. Sen ve yeni "
+"arkadaşların, tüm cüce ırkını amacıma bağlamak için ihtiyacım olan son "
+"fedakarlıklar olacaksınız. Knalganları ve Dulcatulos'u da alın! ONLARI ALIN!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:346
@@ -1850,7 +1930,7 @@ msgstr "Karrag’ı yen"
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:386
 msgid "A lich is no lord of mine!"
-msgstr ""
+msgstr "Bir umacı benim lordum olamaz!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:438
@@ -1858,44 +1938,49 @@ msgid ""
 "Wait... something is not right. Karrag is not fighting back. He is nothing "
 "but an illusion!"
 msgstr ""
+"Bekle... bir şeyler yanlış. Karrag savaşmıyor. O sadece bir yanılsamadan "
+"ibaret!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:472
-msgid "What is this? Karrag did not fight back. He is nothing but an illusion!"
-msgstr ""
+msgid ""
+"What is this? Karrag did not fight back. He is nothing but an illusion!"
+msgstr "Bu ne? Karrag savaşmadı. O sadece bir yanılsamadan ibaret!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:483
 msgid ""
 "Look — there is a stairway behind the throne! I hear receding footsteps."
 msgstr ""
+"Bakın — tahtın arkasında bir merdiven var! Uzaklaşan ayak seslerini "
+"duyuyorum."
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:487
-#, fuzzy
 #| msgid ""
-#| "Then Karrag has fled to the underlevels. None but his masked ones go "
-#| "there any more."
+#| "Then Karrag has fled to the underlevels. None but his masked ones go there "
+#| "any more."
 msgid ""
 "Then Karrag has fled to the underlevels. None but the masked ones — his "
 "inner circle — go there any more."
 msgstr ""
-"O halde Karrag alt katlara kaçtı. Hiçbir maskeli burayı sağ terketmemeli."
+"Daha sonra Karrag alt katlara kaçtı. Artık oraya maskeli olanlar - yakın "
+"çevresi - dışında kimse gitmiyor."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:491
-#, fuzzy
 #| msgid ""
 #| "We must follow. Quickly! It may be his talk of perverting the Hammer was "
 #| "merely mad raving, but we cannot allow the risk that his foul spell might "
 #| "succeed."
 msgid ""
-"We must follow. Quickly, and seal the entrance behind us! It may be his talk "
-"of perverting the Hammer was merely mad raving, but we cannot allow the risk "
-"that his foul spell might succeed."
+"We must follow. Quickly, and seal the entrance behind us! It may be his talk"
+" of perverting the Hammer was merely mad raving, but we cannot allow the "
+"risk that his foul spell might succeed."
 msgstr ""
-"Onu takip etmeliyiz, çabuk olun! Çekiç hakkında söyledikleri yanıltıcı  "
-"olabilir. Söylediklerini gerçekleştirmesine izin veremeyiz."
+"Takip etmeliyiz. Çabuk, girişi arkamızdan kapatın! Çekiç'i yoldan çıkarma "
+"konusundaki konuşması sadece çılgınca bir çılgınlık olabilir ama onun kötü "
+"büyüsünün başarıya ulaşması riskine izin veremeyiz."
 
 #. [scenario]: id=10_The_Underlevels
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:5
@@ -1904,10 +1989,9 @@ msgstr "Alt Katlar"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:213
-#, fuzzy
 #| msgid "Karrag"
 msgid "Find Karrag"
-msgstr "Karrag"
+msgstr "Karrag'ı bul"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:263
@@ -1916,18 +2000,18 @@ msgstr "Burası ölüm kokuyor."
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:267
-#, fuzzy
 #| msgid ""
-#| "It has been... so many years since I’ve been down here. Only Karrag and "
-#| "his personal followers used this level. I can’t believe I never wondered "
-#| "about that before."
+#| "It has been... so many years since I’ve been down here. Only Karrag and his "
+#| "personal followers used this level. I can’t believe I never wondered about "
+#| "that before."
 msgid ""
 "It has been... so many years since I’ve been down here. Only Karrag and his "
 "personal followers — the masked ones — used this level. I can't believe I "
 "never wondered about that before."
 msgstr ""
-"Yıllardır... aşağılara inmemiştim. Sadece Karrag ve kişisel yardımcıları bu "
-"katı kullanır. Neden bunu daha önce merak etmedim ki."
+"Buraya gelmeyeli çok uzun yıllar oldu. Bu seviyeyi yalnızca Karrag ve onun "
+"kişisel takipçileri (maskeli olanlar) kullanıyordu. Bunu daha önce hiç merak"
+" etmediğime inanamıyorum."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:272
@@ -1945,6 +2029,8 @@ msgid ""
 "Dulcatulos fought with us to the death. How did he not wonder about Karrag "
 "before?"
 msgstr ""
+"Dulkatul ölüme kadar bizimle savaştı. Daha önce Karrag hakkında neden merak "
+"etmedi?"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:290
@@ -1956,8 +2042,8 @@ msgstr "Karrag <i>nerede</i>? Hemen arkasından girdik halbuki."
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:295
 msgid ""
 "Most likely he has cloaked himself, thinking to run ahead to gather his "
-"followers. He could be within a spear-cast of us now and we wouldn’t know it "
-"in this gloom."
+"followers. He could be within a spear-cast of us now and we wouldn’t know it"
+" in this gloom."
 msgstr ""
 "Karanlıkta gizleniyor olmalı. Bence gidip takipçilerini toplayacak. Bizden "
 "bir mızrak menzili mesafede olması lazım ama bu karanlıkta yerini "
@@ -1991,21 +2077,19 @@ msgstr "Zavallı adam başaramadı."
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:407
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:408
 msgid "This chest contains 50 gold pieces."
-msgstr ""
+msgstr "Bu sandık 50 altın içeriyor."
 
 #. [scenario]: id=10_The_Underlevels
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:409
-#, fuzzy
 #| msgid "There’s some gold in here!"
 msgid "There’s 150 gold in this chest!"
-msgstr "Burada biraz altın var!"
+msgstr "Bu sandıkta 150 altın var!"
 
 #. [scenario]: id=10_The_Underlevels
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:410
-#, fuzzy
 #| msgid "There’s some gold in here!"
 msgid "There’s 200 gold in this chest!"
-msgstr "Burada biraz altın var!"
+msgstr "Bu sandıkta 200 altın var!"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:437
@@ -2082,17 +2166,21 @@ msgid ""
 "This must be a transport rune. Now that it is active, we can use to it to "
 "travel back and forth between here and the central gate."
 msgstr ""
+"Bu bir ulaşım rûnu olmalı. Artık etkin olduğuna göre, burası ile merkezi "
+"kapı arasında gidip gelmek için kullanabiliriz."
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:677
 msgid "We have activated another transport rune."
-msgstr ""
+msgstr "Başka bir ulaşım rûnu etkinleştirdik."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:766
 msgid ""
-"Dark magic swirls in the air. Karrag grows stronger with each passing minute."
+"Dark magic swirls in the air. Karrag grows stronger with each passing "
+"minute."
 msgstr ""
+"Kara büyü havada çırpınıyor. Karrag geçen her dakikayla daha güçlü oluyor."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:771
@@ -2101,18 +2189,24 @@ msgid ""
 "confront him, the more gold he’ll have had time to stockpile. Open the "
 "Status Table (<i>Alt+S</i>) to check your opponents’ gold and income."
 msgstr ""
+"Karrag henüz asker toplamıyor, bu yüzden ona ulaşmanız ve yüzleşmeniz ne "
+"kadar uzun sürerse, o kadar çok altın biriktirme zamanı olacak. "
+"Rakiplerinizin altın ve gelirini kontrol etmek için Durum Tablosunu "
+"(<i>Alt+S</i>) açın."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:773
 msgid ""
-"Of course, the longer you wait to confront Karrag, the more gold you’ll have "
-"time to stockpile too."
+"Of course, the longer you wait to confront Karrag, the more gold you’ll have"
+" time to stockpile too."
 msgstr ""
+"Tabii, Karrag ile yüzleşmeyi ne kadar beklerseniz, siz de o kadar çok altın "
+"biriktirme zamanı bulursunuz."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:887
 msgid "It is done."
-msgstr ""
+msgstr "Tamamdır."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:892
@@ -2167,8 +2261,8 @@ msgstr ""
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:981
 msgid ""
-"Any enemy of my rule is no better than the filthiest of dirtgrubbers. You no "
-"longer belong to the true people. You will become my slaves!"
+"Any enemy of my rule is no better than the filthiest of dirtgrubbers. You no"
+" longer belong to the true people. You will become my slaves!"
 msgstr ""
 "Sen kim oluyorsun da benim yönetimimi sorguluyorsun çöp torbası! Kölem "
 "haline gelince sesiniz kesilir!"
@@ -2213,19 +2307,18 @@ msgstr ""
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:1043
-#, fuzzy
 #| msgid ""
 #| "Do not mourn his passing, Dulcatulos. The Karrag you knew died many years "
 #| "ago when his lust for power consumed him. It is now time to put the past "
 #| "behind and right the wrongs that have been wrought here."
 msgid ""
-"And your rule is at an end, Karrag, once the brave lord of Kal Kartha. It is "
-"now time to put the past behind and right the wrongs that have been wrought "
-"here."
+"And your rule is at an end, Karrag, once the brave lord of Kal Kartha. It is"
+" now time to put the past behind and right the wrongs that have been wrought"
+" here."
 msgstr ""
-"Yasını tutmayın, Dulkatul. Tanıdığınız Karrag, güç arzusu benliğini "
-"tükettiğinde, yıllar önce öldü. Şimdi, geçmişi geride bırakıp yapılan "
-"yanlışları düzeltmenin zamanıdır."
+"Ve hükümdarlığın sona erdi, bir zamanlar Kal Kartha'nın cesur lordu Karrag. "
+"Artık geçmişi geride bırakıp burada yapılan yanlışları düzeltmenin zamanı "
+"geldi."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:1050
@@ -2254,8 +2347,8 @@ msgstr "Evet, gidelim."
 #. [message]: speaker=Dufon
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:1085
 msgid ""
-"You shall never pass through here! The doors I guard are sealed by the power "
-"of the Hammer itself."
+"You shall never pass through here! The doors I guard are sealed by the power"
+" of the Hammer itself."
 msgstr "Geçemezsiniz ahmaklar! Kapıları Çekicin gücü ile mühürledim."
 
 #. [message]: speaker=unit
@@ -2279,17 +2372,17 @@ msgstr "Efendimizin... töreni... kesilmemeli..."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:1120
-#, fuzzy
 #| msgid ""
 #| "It seems that the guard spoke the truth. These doors will not open to us!"
 msgid ""
-"It seems that the guard spoke the truth. The eastern way is shut fast! There "
-"are two curious runes on the ground."
-msgstr "Muhafız doğru söylüyormuş. Bu kapıları zor kullanarak açamayız!"
+"It seems that the guard spoke the truth. The eastern way is shut fast! There"
+" are two curious runes on the ground."
+msgstr ""
+"Gardiyanın doğruyu söylediği anlaşılıyor. Doğu yolu hızla kapatıldı! Yerde "
+"iki ilginç rün var."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:1125
-#, fuzzy
 #| msgid ""
 #| "They are sealed by the ancient runelore of the Hammer. No amount of force "
 #| "can open these doors — we will need to find the keys to the seals here."
@@ -2297,44 +2390,46 @@ msgid ""
 "The way is sealed by the ancient runelore of the Hammer. No amount of force "
 "can open these doors."
 msgstr ""
-"Onlar çekicin antik rûn bilgisiyle mühürlendi. Bu kapıları hiçbir kuvvet "
-"açamaz - kapıyı mühürleyen tuşları bulmamız gerekiyor."
+"Yol, Çekiç'in kadim rün cevheri tarafından mühürlenmiştir. Hiçbir kuvvet bu "
+"kapıları açamaz."
 
 #. [message]: speaker=Ratheln
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:1130
 msgid "Most curious. I’ve never encountered magic of this sort before."
-msgstr ""
+msgstr "Çok tuhaf. Bu türden bir büyüyle daha önce hiç karşılaşmadım."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:1135
 msgid ""
 "You know something of runes, Angarthing. You have read Thursagan’s notebook."
 msgstr ""
+"Rûnlar hakkında bir şeyler biliyorsunuz, Angarting. Tursagan'ın defterini "
+"okudunuz."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:1140
 msgid "Aye."
-msgstr ""
+msgstr "Evet."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:1145
 msgid "Can you open the doors?"
-msgstr ""
+msgstr "Kapıları açabilir misin?"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:1150
 msgid "Perhaps. We must be prepared for what lies beyond."
-msgstr ""
+msgstr "Belki. Ötesinde ne olduğuna hazırlıklı olmalıyız."
 
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:1156
 msgid "Prepare to face Karrag"
-msgstr ""
+msgstr "Karrag ile yüzleşmeye hazırlan"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:1160
 msgid "When you are ready, move Angarthing to the marked hex"
-msgstr ""
+msgstr "Hazır olduğunuzda, Angarting'i işaretli hücreye götürün"
 
 #. [message]: speaker=Dranath
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:1181
@@ -2382,7 +2477,8 @@ msgstr ""
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:1243
 msgid ""
 "HAHAHAHA! Yes, yes, YES! The rite of death is complete at last! Die, you "
-"filthy dirtgrubbers, die so that I may raise you again as my mindless slaves!"
+"filthy dirtgrubbers, die so that I may raise you again as my mindless "
+"slaves!"
 msgstr ""
 "HAHAHAHA! Evet evet EVET! Ölüm ayini sonunda tamamlandı! Geberin, sizi "
 "şapşal pislikler, geberin de sizi akılsız kölelerim haline getirebileyim!"
@@ -2502,22 +2598,30 @@ msgid ""
 "I have been on your track for weeks. Some time ago the Alliance received a "
 "ragged band of refugees, hailing from a small village west of here."
 msgstr ""
+"Haftalar boyunca izinizdeydim. Bir süre önce İttifak, buradan batıdaki küçük"
+" bir köyden gelen perişan bir mülteci grubu kabul etti."
 
 #. [message]: speaker=Pelias
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/11_Epilogue.cfg:197
 msgid ""
 "They told a tale of terror and torment; of masked dwarves and axes in the "
-"night. As Lord Protector of the Alliance and an ally to all free men, Tallin "
-"bids you vanquish this evil."
+"night. As Lord Protector of the Alliance and an ally to all free men, Tallin"
+" bids you vanquish this evil."
 msgstr ""
+"Gece maskeli cüceler ve baltalar hakkında korku ve işkence dolu bir hikâye "
+"anlattılar. İttifakın Koruyucu Lordu ve tüm özgür insanların müttefiki "
+"olarak Talin, bu kötülüğü yenmenizi emrediyor."
 
 #. [message]: speaker=Pelias
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/11_Epilogue.cfg:202
 msgid ""
-"To emphasize the grave importance of the matter, the Protector would dub you "
-"a Lord Companion of the Alliance should you succeed. ...although by the "
+"To emphasize the grave importance of the matter, the Protector would dub you"
+" a Lord Companion of the Alliance should you succeed. ...although by the "
 "scene now before me, perhaps you have already?"
 msgstr ""
+"Meselenin ağır önemini vurgulamak adına, Koruyucu başarılı olmanız durumunda"
+" sizi İttifakın Eş Lordu olarak atamak istiyor. ...şu an önümdeki sahneye "
+"bakınca, belki zaten oldunuz?"
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/11_Epilogue.cfg:212
@@ -2530,8 +2634,8 @@ msgid ""
 "It would be no shame for a Lord Companion to rule this holding, as Hamel "
 "does at Knalga."
 msgstr ""
-"Hamel’in Kanalga‘da yaptığı gibi bir Eş Liderin bu bölgeyi yönetmesi yakışık "
-"almaz."
+"Hamel’in Kanalga‘da yaptığı gibi bir Eş Liderin bu bölgeyi yönetmesi yakışık"
+" almaz."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/11_Epilogue.cfg:222
@@ -2561,13 +2665,11 @@ msgstr "Cüce Tarihçi"
 
 #. [unit_type]: id=Dwarvish Annalist, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Annalist.cfg:22
-#, fuzzy
 #| msgid ""
-#| "Dwarvish Annalists are the historians of this ancient and proud race. "
-#| "They are few in number, and their very existence is not generally known "
-#| "to the other peoples of the Great Continent. To the abilities of the "
-#| "Witness they add, through the study of herb and mineral lore, the ability "
-#| "to cure poison."
+#| "Dwarvish Annalists are the historians of this ancient and proud race. They "
+#| "are few in number, and their very existence is not generally known to the "
+#| "other peoples of the Great Continent. To the abilities of the Witness they "
+#| "add, through the study of herb and mineral lore, the ability to cure poison."
 msgid ""
 "Dwarvish Annalists are the historians of this ancient and proud race. They "
 "are few in number, and their very existence is not generally known to the "
@@ -2575,10 +2677,11 @@ msgid ""
 "deliberately unlike that of their fellows, one designed to turn the vaunted "
 "strength of the dwarves against itself."
 msgstr ""
-"Cüce Tarihçiler bu eki ve mağrur ırkın tarihçileridir. Sayıları çok azdır ve "
-"Büyük Kıtanın diğer halklarının onların varlığından haberleri bile yoktur. "
-"Gözlemcilik yeteneklerine ek olarak bitkiler ve mineraller konusundaki "
-"uzmanlıkları sayesinde zehirlermeleri tedavi edebilirler."
+"Cüce Annalistleri bu kadim ve gururlu ırkın tarihçileridir. Sayıları azdır "
+"ve varlıkları Büyük Kıtanın diğer halkları tarafından genel olarak "
+"bilinmemektedir. Akranlarınınkinden farklı olarak, cücelerin övülen gücünü "
+"kendilerine karşı çevirmek için tasarlanmış bir dövüş stilini kasıtlı olarak"
+" öğreniyorlar."
 
 #. [attack]: type=impact
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Annalist.cfg:57
@@ -2589,21 +2692,25 @@ msgstr "bola"
 #. [dummy]: id=smoke
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Grenadier.cfg:255
 msgid "smoke"
-msgstr ""
+msgstr "duman"
 
 #. [dummy]: id=smoke
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Grenadier.cfg:256
 msgid ""
 "Hit or miss, this attack creates a cloud of cloying, caustic smoke on the "
-"targeted hex. Any unit inside suffers halved chance-to-hit and can no longer "
-"enforce a zone of control. The cloud lasts until the start of this unit’s "
+"targeted hex. Any unit inside suffers halved chance-to-hit and can no longer"
+" enforce a zone of control. The cloud lasts until the start of this unit’s "
 "next turn."
 msgstr ""
+"İsabet etse de etmese de bu saldırı, hedeflenen hücrede bunaltıcı, yakıcı "
+"bir duman bulutu oluşturur. İçindeki herhangi bir birimin isabet şansı "
+"yarıya iner ve artık kontrol bölgesi uygulayamaz. Bulut, bu birimin bir "
+"sonraki turunun başına kadar sürer."
 
 #. [dummy]: id=smoke
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Grenadier.cfg:258
 msgid "<i>Magical</i> attacks are unaffected by smoke."
-msgstr ""
+msgstr "<i>Sihirli</i> saldırılar dumandan etkilenmez."
 
 #. [dummy]: id=smoke
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Grenadier.cfg:259
@@ -2611,47 +2718,58 @@ msgid ""
 "This unit’s attacks create clouds of caustic smoke, halving chance-to-hit "
 "and nullifying zone of control for any unit caught inside."
 msgstr ""
+"Bu birimin saldırıları yakıcı duman bulutları oluşturur; içinde kalan "
+"herhangi bir birimin isabet şansını yarıya indirir ve kontrol bölgesini "
+"geçersiz kılar."
 
 #. [unit_type]: id=Dwarvish Grenadier, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Grenadier.cfg:278
-#, fuzzy
 #| msgid "Dwarvish Loremaster"
 msgid "Dwarvish Grenadier"
-msgstr "Cüce Üstat"
+msgstr "Cüce Bombacı"
 
 #. [unit_type]: id=Dwarvish Grenadier, race=dwarf
-#. The "fine black dust" is a pouch of gunpowder, which a dead Dwarvish Thunderer (or Grenadier) has used for his weapon.
-#. When Ravan mutters his "arcane word of opening", magic causes sparks to leap from his fingers, which detonates the pouch.
-#. The actual detonation is cut off, letting the reader imagine exactly what might or might not have happened.
+#. The "fine black dust" is a pouch of gunpowder, which a dead Dwarvish
+#. Thunderer (or Grenadier) has used for his weapon.
+#. When Ravan mutters his "arcane word of opening", magic causes sparks to
+#. leap from his fingers, which detonates the pouch.
+#. The actual detonation is cut off, letting the reader imagine exactly what
+#. might or might not have happened.
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Grenadier.cfg:295
 msgid ""
 "Upon the person of a fallen dwarf, the arch-mage Ravan (before his fall to "
 "evil) once espied a pouch, carefully sealed and filled — unbeknownst to him "
 "— of a fine black dust."
 msgstr ""
+"Bir baş büyücü olan Ravan (kötüye düşmeden önce), düşmüş bir cücenin "
+"üzerinde, dikkatlice mühürlenmiş ve — bilmeden — ince siyah bir tozla dolu "
+"bir kese keşfetti."
 
 #. [unit_type]: id=Dwarvish Grenadier, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Grenadier.cfg:297
 msgid ""
 "Arthritic fingers unable to loose the knot that held tight its mouth, Ravan "
-"leaned forward, muttering under his breath an arcane word of opening. Sparks "
-"leapt from his fingers—"
+"leaned forward, muttering under his breath an arcane word of opening. Sparks"
+" leapt from his fingers—"
 msgstr ""
+"Romatizmalı parmakları ağzını sıkıca tutan düğümü çözemeyince Ravan öne "
+"eğildi, nefesiyle bir açılma sözü mırıldandı. Parmaklarından kıvılcımlar "
+"fırladı—"
 
 #. [attack]: type=fire
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Grenadier.cfg:303
 msgid "torch"
-msgstr ""
+msgstr "meşale"
 
 #. [attack]: type=blade
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Grenadier.cfg:312
 msgid "dagger"
-msgstr ""
+msgstr "hançer"
 
 #. [attack]: type=fire
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Grenadier.cfg:321
 msgid "flashpowder"
-msgstr ""
+msgstr "patlama tozu"
 
 #. [unit_type]: id=Dwarvish Loremaster, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Loremaster.cfg:4
@@ -2660,14 +2778,13 @@ msgstr "Cüce Üstat"
 
 #. [unit_type]: id=Dwarvish Loremaster, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Loremaster.cfg:24
-#, fuzzy
 #| msgid ""
 #| "Loremasters are the sages of the dwarvish race. Their counsel is greatly "
 #| "valued by war-leaders and chieftains, and they are viewed with awe by "
-#| "ordinary dwarves, for they alone have plumbed the deepest and most "
-#| "closely-held secrets of dwarven knowledge. It is said that where a "
-#| "loremaster stands, there is the soul of the dwarves. To the abilities of "
-#| "the Annalist they add a limited ability to heal."
+#| "ordinary dwarves, for they alone have plumbed the deepest and most closely-"
+#| "held secrets of dwarven knowledge. It is said that where a loremaster "
+#| "stands, there is the soul of the dwarves. To the abilities of the Annalist "
+#| "they add a limited ability to heal."
 msgid ""
 "Loremasters are the sages of the dwarvish race. Their counsel is greatly "
 "valued by war-leaders and chieftains, and they are viewed with awe by "
@@ -2675,9 +2792,11 @@ msgid ""
 "held secrets of dwarven knowledge. It is said that where a Loremaster "
 "stands, there is the soul of the dwarves."
 msgstr ""
-"Cüce Üstatlar cüce ırkının bilgeleridir. Onların oluşturduğu meclise savaş "
-"liderleri ve şefler çok değer verir. Sınırlı da olsa tedavici bir yanları da "
-"vardır."
+"İlim ustaları cüce ırkının bilgeleridir. Onların öğütleri savaş liderleri ve"
+" reisler tarafından büyük değer görüyor ve sıradan cüceler tarafından "
+"hayranlıkla izleniyorlar çünkü cüce bilgisinin en derin ve en yakından "
+"saklanan sırlarını yalnızca onlar araştırmış durumda. Bir İlim Ustasının "
+"bulunduğu yerde cücelerin ruhunun da bulunduğu söylenir."
 
 #. [unit_type]: id=Dwarvish Masked Berserker, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Berserker.cfg:4
@@ -2716,8 +2835,8 @@ msgid ""
 "the prowess of their kind."
 msgstr ""
 "Cüce efsanesinde korkulan, akranlarına ve cüce türünün bilginlerine hesap "
-"vermeden türünün çetin savaş güçlerini karanlık ve kanlı amaçları için silah "
-"olarak kullanan, yüzünü maskeleyen bir Cüce Lord'dur. Yüzünü gizlemeyen "
+"vermeden türünün çetin savaş güçlerini karanlık ve kanlı amaçları için silah"
+" olarak kullanan, yüzünü maskeleyen bir Cüce Lord'dur. Yüzünü gizlemeyen "
 "ırkdaşı gibi, Maskeli Cüce Lord baltayı ve çekici ustaca kullanır ve "
 "fırlattığı el baltasıyla hedefi birkaç adımdan vurabilir. Ayakları üzerinde "
 "yavaş olmalarına rağmen bu cüceler, türlerinin hünerlerinin bir kanıtıdır."
@@ -2746,6 +2865,12 @@ msgid ""
 "make them imposing foes indeed. In the dark dreams of dwarvenkind, some "
 "conceal their faces behind riveted masks."
 msgstr ""
+"Kanalga demirhanelerinin en sağlam zırhı ve zincir gömleğiyle donatılmış "
+"olan Çelik Zırhlılar, cüce ordularının öncü gücüdür. Savaşın kızgın "
+"ortamında gösterdikleri direnç ve hem savaş baltası hem de savaş çekici "
+"konusundaki ustalıklarıyla gerçekten göz korkutucu düşmanlardır. Cüce "
+"türünün karanlık düşlerinde bazıları perçinli maskeler arkasına yüzlerini "
+"gizler."
 
 #. [unit_type]: id=Dwarvish Masked Thunderer, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Thunderer.cfg:4
@@ -2769,15 +2894,14 @@ msgstr "Cüce Gözlemci"
 
 #. [unit_type]: id=Dwarvish Witness, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Witness.cfg:18
-#, fuzzy
 #| msgid ""
 #| "A Witness functions as the eyes of the dwarves’ history, a deep lore that "
-#| "they never share with outsiders. The presence of a Witness inspires "
-#| "dwarvish warriors with the knowledge that their deeds (and their deaths) "
-#| "will not go unrecorded. They learn a fighting style deliberately unlike "
-#| "that of their fellows, one designed to turn the vaunted strength of the "
-#| "dwarves against itself. The person of a Witness is considered sacred, and "
-#| "Witnesses are often used as envoys between dwarvish clans."
+#| "they never share with outsiders. The presence of a Witness inspires dwarvish"
+#| " warriors with the knowledge that their deeds (and their deaths) will not go"
+#| " unrecorded. They learn a fighting style deliberately unlike that of their "
+#| "fellows, one designed to turn the vaunted strength of the dwarves against "
+#| "itself. The person of a Witness is considered sacred, and Witnesses are "
+#| "often used as envoys between dwarvish clans."
 msgid ""
 "A Witness functions as the eyes of the dwarves’ history, a deep lore that "
 "they never share with outsiders. The presence of a Witness instils dwarvish "
@@ -2785,26 +2909,30 @@ msgid ""
 "unrecorded, inspiring them to daunting deeds and great heroics. The person "
 "of a Witness is considered sacred, and Witnesses are often used as envoys "
 "between dwarvish clans."
-msgstr "Bir gözlemcinin işlevi cüce tarihine tanıklık etmektir."
+msgstr ""
+"Bir Tanık, cücelerin geçmişinin gözleri olarak işlev görür; bu, onların "
+"yabancılarla asla paylaşmadıkları derin bir bilgidir. Bir Şahidin varlığı, "
+"cüce savaşçılara yaptıklarının (ve ölümlerinin) kayıt dışı kalmayacağı "
+"bilgisini aşılayarak onlara göz korkutucu işler ve büyük kahramanlıklar "
+"yapma konusunda ilham verir. Bir Şahidin şahsı kutsal kabul edilir ve "
+"Şahitler genellikle cüce klanları arasında elçi olarak kullanılır."
 
 #. [unit_type]: id=Grounded Gryphon, race=gryphon
 #: data/campaigns/The_Hammer_of_Thursagan/units/Sleeping_Gryphon.cfg:4
 msgid "Grounded Gryphon"
-msgstr ""
+msgstr "Karada Grifon"
 
 #. [leadership]: id=witness
 #: data/campaigns/The_Hammer_of_Thursagan/utils/abilities.cfg:10
-#, fuzzy
 #| msgid "Dwarvish Witness"
 msgid "witness"
-msgstr "Cüce Gözlemci"
+msgstr "tanık"
 
 #. [leadership]: id=witness
 #: data/campaigns/The_Hammer_of_Thursagan/utils/abilities.cfg:11
-#, fuzzy
 #| msgid "female^inspire"
 msgid "female^witness"
-msgstr "telkin"
+msgstr "kadın tanık"
 
 #. [leadership]: id=witness
 #: data/campaigns/The_Hammer_of_Thursagan/utils/abilities.cfg:12
@@ -2812,6 +2940,8 @@ msgid ""
 "Adjacent allied dwarves gain +25% damage, or +100% damage when they fight "
 "higher-level opponents."
 msgstr ""
+"Bitişik müttefik cüceler +%25 hasar kazanır ya da daha yüksek seviyeli "
+"rakiplerle dövüşürken +%100 hasar kazanır."
 
 #. [leadership]: id=witness
 #: data/campaigns/The_Hammer_of_Thursagan/utils/abilities.cfg:13
@@ -2819,6 +2949,8 @@ msgid ""
 "This unit inspires adjacent allied dwarves, increasing their damage — "
 "particularly when they fight higher-level opponents."
 msgstr ""
+"Bu birim bitişik müttefik cüceleri ilham eder, hasarlarını artırır — "
+"özellikle daha yüksek seviyeli rakiplerle dövüşürken."
 
 #: data/campaigns/The_Hammer_of_Thursagan/utils/characters.cfg:33
 msgid "Aiglondur"
@@ -2855,51 +2987,47 @@ msgstr "Oh hayır! Üstadımız olmadan görevimizi tamamlayamayız!"
 #. [message]: speaker=Ratheln
 #: data/campaigns/The_Hammer_of_Thursagan/utils/herodeaths.cfg:47
 msgid "Aaarrgh! What will become of my students back home..."
-msgstr ""
+msgstr "Aaarrgh! Evdeki öğrencilerime ne olacak..."
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/utils/herodeaths.cfg:60
 msgid "At least I die with my axe in my hand..."
-msgstr ""
+msgstr "En azından baltam elimde ölüyorum..."
 
 #~ msgid "I found some gold!"
 #~ msgstr "Biraz altın buldum!"
 
 #~ msgid "This must be one of the runic keys!"
-#~ msgstr "Bu runik tuşlardan biri olmalı!"
+#~ msgstr "Bu rün anahtarlarından biri olmalı!"
 
 #~ msgid "We still need to find the other one!"
-#~ msgstr "Bir tane daha bulmamız gerek!"
+#~ msgstr "Diğerini hala bulmamız gerekiyor!"
 
 #~ msgid "Find and activate the runic keys (one remaining)"
-#~ msgstr "Runik tuşları bulun ve etkinleştirin (bir tanesi kaldı)"
+#~ msgstr "Rün anahtarlarını bul ve etkinleştir (bir tane kaldı)"
 
 #~ msgid ""
 #~ "You may teleport units between matching runes (the destination must be "
 #~ "clear)"
 #~ msgstr ""
-#~ "Birimleri iki aynı rûn arasında ışınlayabilirsiniz (varış yeri boş "
-#~ "olmalıdır)"
+#~ "Birbirine uyan rünler arasında birimleri ışınlayabilirsiniz (hedef boş "
+#~ "olmalı)"
 
 #~ msgid "We’ve found a runic key!"
-#~ msgstr "Bir runik tuş bulduk!"
+#~ msgstr "Bir rün anahtarı bulduk!"
 
 #~ msgid "The keys have been found. The door should open..."
-#~ msgstr "Tuşlar bulundu.  Kapı açılmış olmalı.."
+#~ msgstr "Anahtarlar bulundu. Kapı açılmalı..."
 
 #~ msgid "Find and activate the runic keys to the sealed door"
-#~ msgstr "Mühürlü kapıyı açacak rûn tuşlarını bul ve etkinleştir"
+#~ msgstr "Mühürlü kapının rün anahtarlarını bul ve etkinleştir"
 
-#, fuzzy
-#~| msgid ""
-#~| "It is Karrag’s doing—his will, and his dark magic. I think he has been "
-#~| "casting glamours on all of you ever since he passed over."
 #~ msgid ""
-#~ "It is Karrag’s doing—his will, and his dark magic. I think Karrag has "
-#~ "been casting glamours on all of you ever since he passed over."
+#~ "It is Karrag’s doing—his will, and his dark magic. I think Karrag has been "
+#~ "casting glamours on all of you ever since he passed over."
 #~ msgstr ""
-#~ "Bu Karrag'ın işi - onun iradesi ve onun kara büyüsü olmalı. Buraya "
-#~ "geldiğinden beri hepinize büyü yaptığını düşünüyorum."
+#~ "Bu Karrag'ın işi, onun iradesi ve kara büyüsü. Sanırım Karrag öldüğünden "
+#~ "beri hepinize cazibe katıyor."
 
 #~ msgid "Fighter"
 #~ msgstr "Savaşçı"
@@ -2908,361 +3036,355 @@ msgstr ""
 #~ msgstr "Çelik Zırhlı"
 
 #~ msgid "Challenging"
-#~ msgstr "Meydan Okuma"
+#~ msgstr "Zorlu"
 
 #~ msgid "Lord"
-#~ msgstr "Lider"
+#~ msgstr "Lord"
 
 #~ msgid "Pelmathidrol"
-#~ msgstr "Pelmatidrol"
+#~ msgstr "Pelmathidrol"
 
 #~ msgid "Orcs"
 #~ msgstr "Orklar"
 
 #~ msgid ""
-#~ "Hail, kinsmen of Knalga. I have been tracking that orc for several days. "
-#~ "He be part of a band of raiders that attacked us a few weeks ago and "
-#~ "stole many arms from our forges."
+#~ "Hail, kinsmen of Knalga. I have been tracking that orc for several days. He "
+#~ "be part of a band of raiders that attacked us a few weeks ago and stole many"
+#~ " arms from our forges."
 #~ msgstr ""
-#~ "Selam, Kanalga'lı kardeşlerim. Birkaç gündür o orku takip ediyorum. "
-#~ "Birkaç hafta önce bize saldıran ve demirhanelerimizden birçok silah çalan "
-#~ "yağmacı çetesinden olabilir."
+#~ "Selam, Knalga akrabaları. O orku birkaç gündür takip ediyorum. O, birkaç "
+#~ "hafta önce bize saldıran ve demirhanelerimizden birçok silah çalan bir "
+#~ "akıncı grubunun parçası."
 
 #~ msgid "Yes, this cloak-pin be of our work."
 #~ msgstr "Evet, bu pelerin iğnesi bizim işimiz."
 
 #~ msgid "Hold... kinsman. Who are you and from where do you hail?"
-#~ msgstr "Orada dur... kardeşim. Sen kimsin ve nereden geliyorsun?"
+#~ msgstr "Dur... akraba. Sen kimsin ve nereden geliyorsun?"
 
 #~ msgid "I be Movrur, of the ancient stronghold of Kal Kartha."
-#~ msgstr "Ben Kal Karta'nın eski kalesinden Movrur."
+#~ msgstr "Ben Movrur, kadim Kal Kartha kalesindenim."
 
 #~ msgid ""
 #~ "Kal Kartha, the hold of the forges and the olden birthplace of our kind? "
 #~ "That Kal Kartha? We have not heard from you in years! It was thought that "
 #~ "your hold was lost to the orcs long ago."
 #~ msgstr ""
-#~ "Kal Karta, demirhanelerin ambarı ve türümüzün eski doğum yeri olan? Hani "
-#~ "şu Kal Karta mı? Yıllardır sizden haber alamıyoruz! Uzun zaman önce "
-#~ "orklar ele geçirdiği için kaybedildiği düşünülüyordu."
+#~ "Kal Kartha, demirhanelerin kalesi ve türümüzün kadim doğum yeri mi? O Kal "
+#~ "Kartha mı? Sizden yıllardır haber almadık! Kalenizin uzun zaman önce orklara"
+#~ " kaybedildiği sanılıyordu."
 
 #~ msgid ""
-#~ "Aye, our hold was once overrun by orcs, but in recent times, we have "
-#~ "begun to clear them out and reclaim the lands that were once ours. "
-#~ "However, as you saw here, our troubles with the orcs are far from over."
+#~ "Aye, our hold was once overrun by orcs, but in recent times, we have begun "
+#~ "to clear them out and reclaim the lands that were once ours. However, as you"
+#~ " saw here, our troubles with the orcs are far from over."
 #~ msgstr ""
-#~ "Evet, ambarımız bir zamanlar orklar tarafından istila edilmişti ama son "
-#~ "zamanlarda onları temizlemeye ve bir zamanlar bizim olan toprakları geri "
-#~ "almaya başladık. Ancak, burada gördüğünüz gibi, orklarla olan "
-#~ "sorunlarımız hala bitmedi."
+#~ "Evet, kalemiz bir zamanlar orklar tarafından istila edilmişti, ancak son "
+#~ "zamanlarda onları temizlemeye ve bir zamanlar bize ait olan toprakları geri "
+#~ "almaya başladık. Ancak, burada gördüğünüz gibi, orklarla olan sorunlarımız "
+#~ "henüz bitmedi."
 
 #~ msgid ""
-#~ "In that case, we had best consult Lord Hamel. We may yet be able to send "
-#~ "you some aid against these orcish marauders."
+#~ "In that case, we had best consult Lord Hamel. We may yet be able to send you"
+#~ " some aid against these orcish marauders."
 #~ msgstr ""
-#~ "Bu durumda Lord Hamel'e danışsak iyi olur. Bu ork yağmacılarına karşı "
-#~ "size biraz yardım göndermemiz mümkün olabilir."
+#~ "Bu durumda, en iyisi Lord Hamel'e danışmalıyız. Bu ork akıncılarına karşı "
+#~ "size hala yardım gönderebiliriz."
 
 #~ msgid "If you wish it. Let us see what you can offer."
-#~ msgstr "Nasıl isterseniz. Neler sunabileceğinizi görelim."
+#~ msgstr "Eğer dilerseniz. Bakalım ne teklif edebilirsiniz."
 
 #~ msgid ""
-#~ "Nay, it was merely... bad luck. We had just uncovered a magma bed for a "
-#~ "new forge, one hot enough to reforge the ruined Hammer of Thursagan. We "
-#~ "brought a loremaster to survey the site, but orcs ambushed us not long "
-#~ "after he arrived."
+#~ "Nay, it was merely... bad luck. We had just uncovered a magma bed for a new "
+#~ "forge, one hot enough to reforge the ruined Hammer of Thursagan. We brought "
+#~ "a loremaster to survey the site, but orcs ambushed us not long after he "
+#~ "arrived."
 #~ msgstr ""
-#~ "Hayır, sadece... kötü şanstı. Yeni demir ocağı için bir magma yatağı "
-#~ "ortaya çıkarmıştık, harap durumdaki Thursagan'ın Çekici'ni yeniden "
-#~ "dövecek kadar sıcaktı. Bölgeyi incelemesi için bir üstat getirdik ama o "
-#~ "geldikten kısa süre sonra orklar bizi pusuya düşürdü."
+#~ "Hayır, bu sadece... kötü şanstı. Yeni bir demirhane için, harap olmuş "
+#~ "Thursagan Çekici'ni yeniden dövecek kadar sıcak bir magma yatağı "
+#~ "keşfetmiştik. Alanı incelemesi için bir bilge usta getirdik, ancak o "
+#~ "geldikten kısa bir süre sonra orklar bize pusu kurdu."
 
 #~ msgid ""
-#~ "We recovered the pieces from the Caverns of Flame long ago, but were "
-#~ "unable to repair the artifact. The consequences of the Hammer’s ruination "
-#~ "have thus been irreparable."
+#~ "We recovered the pieces from the Caverns of Flame long ago, but were unable "
+#~ "to repair the artifact. The consequences of the Hammer’s ruination have thus"
+#~ " been irreparable."
 #~ msgstr ""
-#~ "Alev Mağaralarından parçaları uzun zaman önce kurtardık ama eseri tamir "
-#~ "edemedik. Çekiç'in harabiyetinin sonuçları bu nedenle onarılamaz olmuştur."
+#~ "Parçaları Alev Mağaraları'ndan uzun zaman önce kurtardık, ancak eseri tamir "
+#~ "edemedik. Çekiç'in harap olmasının sonuçları bu nedenle telafi edilemez "
+#~ "oldu."
 
 #~ msgid "What consequences?"
 #~ msgstr "Ne gibi sonuçlar?"
 
 #~ msgid ""
-#~ "Ye’re young and not tested... but ye have the rank, and ye’ve shown the "
-#~ "wits to use it well. Movrur? What think ye?"
+#~ "Ye’re young and not tested... but ye have the rank, and ye’ve shown the wits"
+#~ " to use it well. Movrur? What think ye?"
 #~ msgstr ""
-#~ "Sen genç ve tecrübesizsin... Fakat bir rütben var ve zekanı iyi "
-#~ "kullandığını gösterdin. Movrur? Sen ne düşünüyorsun?"
+#~ "Gençsin ve test edilmemişsin... ama rütben var ve onu iyi kullanacak zekayı "
+#~ "gösterdin. Movrur? Ne düşünüyorsun?"
 
 #~ msgid ""
 #~ "As the orcs recently slew one of our invaluable loremasters, we would "
 #~ "welcome the wisdom of one of our kin from Knalga."
 #~ msgstr ""
-#~ "Orklar yakın zamanda paha biçilmez üstatlarımızdan birini öldürdüğünden, "
-#~ "Kanalgalı kardeşlerimizden birinin bilgeliğini memnuniyetle "
-#~ "karşılayacağız."
+#~ "Orklar yakın zamanda paha biçilmez bilge ustalarımızdan birini katlettiği "
+#~ "için, Knalga'dan bir akrabamızın bilgeliğini memnuniyetle karşılarız."
 
 #~ msgid "Invaders"
-#~ msgstr "Davetsiz Konuklar"
+#~ msgstr "İstilacılar"
 
 #~ msgid "Death of Movrur"
-#~ msgstr "Movrur’un ölümü"
+#~ msgstr "Movrur'un Ölümü"
 
 #~ msgid ""
 #~ "Movrur, I had meant to ask you this before, but why do you wear a mask?"
-#~ msgstr "Movrur, bunu sana daha önce soracaktım ama neden maske takıyorsun?"
+#~ msgstr ""
+#~ "Movrur, bunu sana daha önce sormak istemiştim, ama neden maske takıyorsun?"
 
 #~ msgid ""
-#~ "Kal Kartha is the stronghold of numerous, ancient forges. We are at home "
-#~ "in deep firepits, as smiths and craftsmen. The mask is a sign of our "
-#~ "mastery of the forge."
+#~ "Kal Kartha is the stronghold of numerous, ancient forges. We are at home in "
+#~ "deep firepits, as smiths and craftsmen. The mask is a sign of our mastery of"
+#~ " the forge."
 #~ msgstr ""
-#~ "Kal Karta, sayısız antik demirhanenin kalesidir. Orası demirciler ve "
-#~ "zanaatkarlar olarak derin ateş çukurlarındaki yurdumuzdur. Maske ise, "
-#~ "demirhanedeki ustalığımızın bir işaretidir."
+#~ "Kal Kartha, sayısız kadim demirhanenin kalesidir. Derin ateş çukurlarında, "
+#~ "demirciler ve zanaatkarlar olarak evimizdeyiz. Maske, demirhanedeki "
+#~ "ustalığımızın bir işaretidir."
 
 #~ msgid ""
 #~ "And more practically, it shields the face from flying sparks and molten "
-#~ "steel. Even the forgemasters of Knalga don the mask, though perhaps not "
-#~ "as continuously as our friend Movrur does. But we have no time to discuss "
-#~ "this further right now; I see trouble brewing down the road!"
+#~ "steel. Even the forgemasters of Knalga don the mask, though perhaps not as "
+#~ "continuously as our friend Movrur does. But we have no time to discuss this "
+#~ "further right now; I see trouble brewing down the road!"
 #~ msgstr ""
-#~ "Ve daha pratik olarak, yüzü uçuşan kıvılcımlardan ve erimiş çelikten "
-#~ "korur. Belki arkadaşımız Movrur'un yaptığı kadar sürekli olmasa da, "
-#~ "Kanalga'nın demirci ustaları bile maske takıyor. Ancak şu anda bunu daha "
-#~ "fazla tartışacak vaktimiz yok. Yolun aşağısında bir sorun olduğunu "
-#~ "görüyorum!"
+#~ "Ve daha pratik olarak, yüzü uçuşan kıvılcımlardan ve erimiş çelikten korur. "
+#~ "Knalga'nın demircibaşıları bile maskeyi takar, gerçi belki de dostumuz "
+#~ "Movrur kadar sürekli değil. Ama şu an bunu daha fazla tartışacak vaktimiz "
+#~ "yok; yolda bir sorun çıktığını görüyorum!"
 
 #~ msgid ""
 #~ "My thanks, dwarves. There have been many attacks on the border tribes of "
 #~ "late, and though we have repelled them thus far, the assaults have gotten "
 #~ "only more fierce with each passing day."
 #~ msgstr ""
-#~ "Teşekkürler cüceler. Son zamanlarda sınır kabilelerine çok sayıda saldırı "
-#~ "oldu ve şimdiye kadar onları püskürttüysek de saldırılar her geçen gün "
+#~ "Teşekkürler, cüceler. Son zamanlarda sınır kabilelerine çok sayıda saldırı "
+#~ "oldu ve şimdiye kadar onları püskürtmüş olsak da, saldırılar her geçen gün "
 #~ "daha da şiddetlendi."
 
 #~ msgid ""
-#~ "Indeed? What disturbs me is that these orcs bear arms and coins of "
-#~ "dwarvish make. It intimates that this war-band was hired for this purpose."
+#~ "Indeed? What disturbs me is that these orcs bear arms and coins of dwarvish "
+#~ "make. It intimates that this war-band was hired for this purpose."
 #~ msgstr ""
-#~ "Aslında? Beni rahatsız eden şey, bu orkların cüce yapımı silahlar ve "
-#~ "madeni paralar taşıması. Bu savaş çetesinin bu amaç için tutulduğunu ima "
-#~ "ediyor."
+#~ "Gerçekten mi? Beni rahatsız eden şey, bu orkların cüce yapımı silahlar ve "
+#~ "paralar taşıması. Bu, bu savaş grubunun bu amaçla kiralandığını ima ediyor."
 
 #~ msgid ""
-#~ "Nonsense. It may very well be that these orcs defeated a garrison of "
-#~ "dwarves and raided their supplies. You need not draw such drastic "
-#~ "conclusions from such an insignificant encounter."
+#~ "Nonsense. It may very well be that these orcs defeated a garrison of dwarves"
+#~ " and raided their supplies. You need not draw such drastic conclusions from "
+#~ "such an insignificant encounter."
 #~ msgstr ""
-#~ "Saçmalık. Bu orklar bir cüce garnizonuna baskın yapmış ve erzaklarını "
-#~ "yağmalamış olabilir. Bu kadar önemsiz bir karşılaşmadan bu kadar sert "
+#~ "Saçmalık. Pekala bu orklar bir cüce garnizonunu yenmiş ve erzaklarını "
+#~ "yağmalamış olabilir. Böylesine önemsiz bir karşılaşmadan bu kadar sert "
 #~ "sonuçlar çıkarmanıza gerek yok."
 
 #~ msgid ""
-#~ "And what of the orcs that Aiglondur fended off at the East Gate of "
-#~ "Knalga? Their leader’s cloak-pin bore the emblem of Kal Kartha—"
+#~ "And what of the orcs that Aiglondur fended off at the East Gate of Knalga? "
+#~ "Their leader’s cloak-pin bore the emblem of Kal Kartha—"
 #~ msgstr ""
-#~ "Peki ya Aglondur'un Kanalga'nın Doğu Kapısı'nda savuşturduğu orklar? "
-#~ "Liderlerinin pelerininde Kal Kartha amblemi vardı—"
+#~ "Peki ya Aiglondur'un Knalga'nın Doğu Kapısı'nda savuşturduğu orklar? "
+#~ "Liderlerinin pelerin iğnesi Kal Kartha amblemini taşıyordu—"
 
 #~ msgid ""
-#~ "Several of our scouting bands were ambushed recently. These orcs must "
-#~ "have been among those who slew our kinsmen. It is all the better we "
-#~ "slaughtered them here!"
+#~ "Several of our scouting bands were ambushed recently. These orcs must have "
+#~ "been among those who slew our kinsmen. It is all the better we slaughtered "
+#~ "them here!"
 #~ msgstr ""
-#~ "Birkaç keşif grubumuz yakın zamanda pusuya düşürüldü. Bu orklar, "
-#~ "kardeşlerimizi katledenler arasında olmalı. Onları burada gebertsek daha "
-#~ "iyi olur!"
+#~ "Keşif birliklerimizden birkaçı yakın zamanda pusuya düşürüldü. Bu orklar, "
+#~ "akrabalarımızı katledenler arasında olmalı. Onları burada katletmemiz çok "
+#~ "daha iyi oldu!"
 
 #~ msgid "Indeed..."
-#~ msgstr "Aslında..."
+#~ msgstr "Gerçekten..."
 
 #~ msgid "Monsters"
-#~ msgstr "Yaratıklar"
+#~ msgstr "Canavarlar"
 
 #~ msgid "Kaara"
 #~ msgstr "Kaara"
 
 #~ msgid "Move Aiglondur to the signpost at the east end of the pass"
-#~ msgstr "Aglondur’u geçidin doğu ucundaki yol işaretine götür"
+#~ msgstr "Aiglondur'u geçidin doğu ucundaki tabelaya taşı"
 
 #~ msgid ""
-#~ "We must push through quickly; there is a vicious storm coming in behind "
-#~ "us. Being caught in a blizzard on those heights would be no laughing "
-#~ "matter."
+#~ "We must push through quickly; there is a vicious storm coming in behind us. "
+#~ "Being caught in a blizzard on those heights would be no laughing matter."
 #~ msgstr ""
-#~ "Burayı çabucak geçmeliyiz. Arkamızdan şiddetli bir fırtına yaklaşıyor. Bu "
-#~ "yükseklikte tipiye yakalanırsak hayrımıza olmaz."
+#~ "Hızla ilerlemeliyiz; arkamızdan şiddetli bir fırtına geliyor. O "
+#~ "yüksekliklerde bir kar fırtınasına yakalanmak hiç de şaka olmazdı."
 
 #~ msgid ""
 #~ "It has begun to snow. Move, everyone! To be trapped here would be death."
-#~ msgstr "Kar başladı. Herkes canlansın! Burada tuzağa düşüp öleceğiz."
+#~ msgstr ""
+#~ "Kar yağmaya başladı. Herkes hareket etsin! Burada mahsur kalmak ölüm olur."
 
 #~ msgid ""
 #~ "We’re snowed in. Our mission has failed, even if we live until the spring."
-#~ msgstr ""
-#~ "Kara yakalandık. Bahar gelene kadar yaşasak bile görevimizi başaramadık."
+#~ msgstr "Kara saplandık. Bahara kadar yaşasak bile görevimiz başarısız oldu."
 
 #~ msgid "We’re through the pass!"
 #~ msgstr "Geçidi aştık!"
 
 #~ msgid ""
-#~ "That may not be a blessing. Something has been driving these orcish "
-#~ "raiders to push into Alliance territory. Don’t you wonder what it is?"
+#~ "That may not be a blessing. Something has been driving these orcish raiders "
+#~ "to push into Alliance territory. Don’t you wonder what it is?"
 #~ msgstr ""
-#~ "Bu bir lütuf olmayabilir. Bu ork yağmacılarını İttifak topraklarına "
-#~ "girmeye iten bir şey var. Ne olduğunu merak etmiyor musun?"
+#~ "Bu bir lütuf olmayabilir. Bu ork akıncılarını İttifak topraklarına iten bir "
+#~ "şey var. Ne olduğunu merak etmiyor musun?"
 
 #~ msgid ""
 #~ "The same that has been driving them to attack us at Kal Kartha. But, no "
 #~ "matter the reason for their aggression, we shall slaughter them all the "
 #~ "same."
 #~ msgstr ""
-#~ "Onları Kal Karta'da bize saldırmaya iten şeyle aynı. Ama "
-#~ "saldırganlıklarının sebebi ne olursa olsun, hepsini aynı şekilde "
-#~ "katledeceğiz."
+#~ "Kal Kartha'da bize saldırmaya iten şeyin aynısı. Ama saldırganlıklarının "
+#~ "nedeni ne olursa olsun, hepsini aynı şekilde katledeceğiz."
 
 #~ msgid ""
-#~ "We are coming to Kal Kartha to study the Hammer of Thursagan, not "
-#~ "mindlessly slay orcs."
+#~ "We are coming to Kal Kartha to study the Hammer of Thursagan, not mindlessly"
+#~ " slay orcs."
 #~ msgstr ""
-#~ "Kal Karta'ya Thursagan'ın Çekici'ni incelemek için geliyoruz, akılsızca "
-#~ "orkları öldürmek için değil."
+#~ "Kal Kartha'ya Thursagan'ın Çekici'ni incelemek için geliyoruz, düşüncesizce "
+#~ "orkları katletmek için değil."
 
 #~ msgid ""
 #~ "Indeed, you are, but you musn’t lose sight of the end goal. Restoring the "
-#~ "Hammer will revive the ancient art of runecraft and bring dwarven-kind "
-#~ "back to glory. With the Hammer restored, no orc shall ever be a threat to "
-#~ "us ever again."
+#~ "Hammer will revive the ancient art of runecraft and bring dwarven-kind back "
+#~ "to glory. With the Hammer restored, no orc shall ever be a threat to us ever"
+#~ " again."
 #~ msgstr ""
-#~ "Gerçekten öyle, ama nihai hedefi gözden kaçırmamalısın. Çekiç'i tamir "
-#~ "etmek kadim oymacılık sanatını canlandıracak ve cüce türünü ihtişamına "
-#~ "geri getirecek. Çekiç tamir edildiğinde, hiçbir ork bizim için asla bir "
-#~ "daha tehdit olmayacak."
+#~ "Gerçekten de öyle, ama nihai hedefi gözden kaçırmamalısın. Çekici restore "
+#~ "etmek, kadim rün sanatını yeniden canlandıracak ve cüce ırkını eski "
+#~ "ihtişamına kavuşturacak. Çekiç restore edildiğinde, hiçbir ork bize bir daha"
+#~ " asla tehdit oluşturamayacak."
 
 #~ msgid ""
 #~ "I hope so, for the sake of peace and the safety of our people. For now, "
 #~ "however, we must content ourselves with pressing onward toward Kal Kartha."
 #~ msgstr ""
-#~ "Barış ve halkımızın güvenliği adına, öyle umuyorum. Ancak şimdilik, Kal "
-#~ "Karta'ya doğru ilerlemekle yetinmeliyiz."
+#~ "Umarım öyle olur, barış ve halkımızın güvenliği adına. Şimdilik ise, Kal "
+#~ "Kartha'ya doğru ilerlemeye devam etmekle yetinmeliyiz."
 
 #~ msgid "Raiders"
-#~ msgstr "Yağmacılar"
+#~ msgstr "Akıncılar"
 
 #~ msgid "Find the inhabitants"
-#~ msgstr "Bölge sakinlerini bul"
+#~ msgstr "Sakinleri bul"
 
 #~ msgid "There has been fire near here recently, and not a clean one."
 #~ msgstr ""
-#~ "Yakınlarda bir yerde ateş yakılmış ama temiz bir ateş gibi kokmuyor."
+#~ "Yakınlarda yakın zamanda bir yangın olmuş, hem de temiz bir yangın değil."
 
 #~ msgid "Help! Someone please help!"
-#~ msgstr "İmdat! Biri yardım etsin lütfen!"
+#~ msgstr "Yardım edin! Lütfen biri yardım etsin!"
 
 #~ msgid "Help!"
-#~ msgstr "İmdat!"
+#~ msgstr "Yardım!"
 
 #~ msgid ""
 #~ "<i>Quiet, dirtgrubber. Ye’ll not cry for help from these newcomers, else "
 #~ "I’ll torture yer family ta death bef’re yer eyes.</i>"
 #~ msgstr ""
-#~ "<i>Sessiz ol pislik. Bu yeni gelenlerden yardım istemek için "
-#~ "yalvarmayacaksın, yoksa ailene işkence edip gözlerinin önünde öldürürüm. "
-#~ "</i>"
+#~ "<i>Sus, pislik. Bu yeni gelenlerden yardım dilenmeyeceksin, yoksa aileni "
+#~ "gözlerinin önünde ölüme kadar işkence ederim.</i>"
 
 #~ msgid "They’ll stop you!"
-#~ msgstr "Onlar seni durdurur!"
+#~ msgstr "Seni durduracaklar!"
 
 #~ msgid "<i>Look again, slave. We march among their ranks too!</i>"
-#~ msgstr ""
-#~ "<i>Tekrar bak, köle. Biz de onların safları arasında yürüyoruz! </i>"
+#~ msgstr "<i>Tekrar bak, köle. Biz de onların saflarında yürüyoruz!</i>"
 
 #~ msgid "<i>It can’t be...</i>"
-#~ msgstr "<i>Bu olamaz...</i>"
+#~ msgstr "<i>Olamaz...</i>"
 
 #~ msgid "<i>Now, be silent while the master speaks.</i>"
-#~ msgstr "<i>Şimdi, efendi konuşurken sessiz olun.</i>"
+#~ msgstr "<i>Şimdi, efendi konuşurken sessiz ol.</i>"
 
 #~ msgid "What in the world is going on here?"
-#~ msgstr "Burada neler oluyor?"
+#~ msgstr "Burada neler oluyor böyle?"
 
 #~ msgid ""
-#~ "Fellow dwarves, hail! Kinsman Movrur, are ye back so soon from your "
-#~ "journey to Knalga?"
+#~ "Fellow dwarves, hail! Kinsman Movrur, are ye back so soon from your journey "
+#~ "to Knalga?"
 #~ msgstr ""
-#~ "Dost cüceler, selamlar! Kardeş Movrur, Kanalga yolculuğundan bu kadar "
-#~ "çabuk mu döndün?"
+#~ "Yoldaş cüceler, selam! Akraba Movrur, Knalga yolculuğundan bu kadar çabuk mu"
+#~ " döndün?"
 
 #~ msgid ""
-#~ "Aye. I’ve brought some of our brethren from the Dwarven Doors; we make "
-#~ "for the forges of Kal Kartha to examine the Hammer."
+#~ "Aye. I’ve brought some of our brethren from the Dwarven Doors; we make for "
+#~ "the forges of Kal Kartha to examine the Hammer."
 #~ msgstr ""
-#~ "Evet. Kardeşlerimizden bazılarını Cüce Kapılarından getirdim; Çekiç'i "
-#~ "incelemek için Kal Karta demirhanelerine gidiyoruz."
+#~ "Evet. Cüce Kapıları'ndan bazı kardeşlerimizi getirdim; Çekici incelemek için"
+#~ " Kal Kartha'nın demirhanelerine gidiyoruz."
 
 #~ msgid "Excellent. As for the current project, we—"
 #~ msgstr "Mükemmel. Mevcut projeye gelince, biz—"
 
 #~ msgid ""
-#~ "You two haven’t answered my question. Burnt homes? The peasants in a "
-#~ "panic? Something is very wrong here."
+#~ "You two haven’t answered my question. Burnt homes? The peasants in a panic? "
+#~ "Something is very wrong here."
 #~ msgstr ""
-#~ "Siz ikiniz, soruma cevap vermediniz. Yanmış evler mi? Köylüler panik "
-#~ "içinde mi? Burada bir şey çok yanlış."
+#~ "İkiniz sorumu yanıtlamadınız. Yanmış evler mi? Panik içindeki köylüler mi? "
+#~ "Burada bir şeyler çok yanlış."
 
 #~ msgid ""
-#~ "... aye. We’ve been under attack by some marauding orcs, who’re hidin’ "
-#~ "out in some of the villages. I put some guards out in the fields to... "
-#~ "protect the peasants, but we haven’t the forces to root out all of them "
-#~ "orcs."
+#~ "... aye. We’ve been under attack by some marauding orcs, who’re hidin’ out "
+#~ "in some of the villages. I put some guards out in the fields to... protect "
+#~ "the peasants, but we haven’t the forces to root out all of them orcs."
 #~ msgstr ""
-#~ "...evet. Bazı köylerde saklanan yağmacı orklar tarafından saldırıya "
-#~ "uğradık. Köylüleri korumak için tarlalara bazı muhafızlar yerleştirdim "
-#~ "ama orkların hepsini kökünden söküp atacak gücümüz yok."
+#~ "... evet. Bazı köylerde saklanan yağmacı orkların saldırısı altındayız. "
+#~ "Köylüleri korumak için tarlalara bazı muhafızlar yerleştirdim ama tüm "
+#~ "orkları kökünden söküp atacak gücümüz yok."
 
 #~ msgid "<i>That’s not what the guards are for...</i>"
-#~ msgstr "<i>Muhafızların amacı bu değil...</i>"
+#~ msgstr "<i>Muhafızlar bunun için değil...</i>"
 
 #~ msgid "<i>Did I not tell you to be silent?</i>"
 #~ msgstr "<i>Sana sessiz ol demedim mi?</i>"
 
 #~ msgid "Orcs, you say?"
-#~ msgstr "Orklar mı dedin?"
+#~ msgstr "Orklar mı, diyorsun?"
 
 #~ msgid ""
 #~ "Yes, orcs. The outskirts of Kal Kartha are a dangerous place. We’ve been "
 #~ "forced to dedicate more of our forces here just to protect the peasants "
 #~ "while they... go about their business."
 #~ msgstr ""
-#~ "Evet, orklar. Kal Karta'nın etekleri tehlikeli bir yer. Köylüler işlerine "
-#~ "devam ederken onları korumak için gücümüzün çoğunu buraya aktarmak "
-#~ "zorunda kaldık."
+#~ "Evet, orklar. Kal Kartha'nın etekleri tehlikeli bir yer. Köylüleri işlerini "
+#~ "yaparken korumak için daha fazla gücümüzü buraya ayırmak zorunda kaldık."
 
 #~ msgid ""
 #~ "Well, then. Since we are already here, why don’t we... help you root out "
 #~ "these orcs? It will help the peasants get back to their lives."
 #~ msgstr ""
-#~ "İyi o zaman. Madem buradayız, neden bu orkların kökünü kazımana yardım "
-#~ "etmiyoruz? Köylülerin hayatlarına geri dönmelerine yardımcı olacak."
+#~ "Pekala o zaman. Madem buradayız, neden size bu orkları kökünden söküp "
+#~ "atmakta yardım etmiyoruz? Bu, köylülerin hayatlarına geri dönmelerine "
+#~ "yardımcı olacaktır."
 
 #~ msgid "Certainly..."
-#~ msgstr "Kesinlikle..."
+#~ msgstr "Elbette..."
 
 #~ msgid "<i>Angarthing, is something wrong?</i>"
-#~ msgstr "<i>Angarting, birşeyler yanlış mı?</i>"
+#~ msgstr "<i>Angarthing, bir sorun mu var?</i>"
 
 #~ msgid ""
 #~ "<i>Something is suspicious here. Stay alert and keep an eye on what those "
 #~ "masked dwarves do. Movrur, too.</i>"
 #~ msgstr ""
-#~ "<i>Burada bir şey şüpheli. Tetikte olun ve o maskeli cücelerin "
-#~ "yaptıklarına dikkat edin. Movrur'a da. </i>"
+#~ "<i>Burada bir şeyler şüpheli. Tetikte ol ve o maskeli cücelerin ne yaptığına"
+#~ " dikkat et. Movrur'a da.</i>"
 
 #~ msgid "Find and defeat the orcish intruders"
-#~ msgstr "Ork işgalcileri bul ve yen"
+#~ msgstr "Ork istilacıları bul ve yen"
 
 #~ msgid "The orcs are here! Up axes!"
 #~ msgstr "Orklar burada! Baltalar havaya!"
@@ -3274,220 +3396,214 @@ msgstr ""
 #~ "So, the filth shows its face at last. You may think yourself mighty for "
 #~ "preying on weak humans, but you stand no chance against us dwarves."
 #~ msgstr ""
-#~ "Böylece pislik en sonunda yüzünü gösteriyor. Zayıf insanları avladığınız "
-#~ "için güçlü olduğunuzu düşünebilirsiniz ama biz cücelere karşı hiç "
-#~ "şansınız yok."
+#~ "Demek pislik sonunda yüzünü gösterdi. Zayıf insanları avladığın için kendini"
+#~ " güçlü sanabilirsin ama bize cücelere karşı hiçbir şansın yok."
 
 #~ msgid "We shall see, masked one."
-#~ msgstr "Göreceğiz, maskeli."
+#~ msgstr "Göreceğiz, maskeli olan."
 
 #~ msgid "Their leader has fled! We have won!"
-#~ msgstr "Liderleri kaçtı! Biz kazandık!"
+#~ msgstr "Liderleri kaçtı! Kazandık!"
 
 #~ msgid "In his haste to escape, it seems like the orc dropped some coins."
-#~ msgstr ""
-#~ "Kaçmak için acele ederken, ork biraz bozuk para düşürmüş gibi görünüyor."
+#~ msgstr "Kaçma telaşında, ork bazı paralar düşürmüş gibi görünüyor."
 
 #~ msgid "Let me see those."
-#~ msgstr "Şunlara bir bakayım."
+#~ msgstr "Şunları bir göreyim."
 
 #~ msgid ""
 #~ "These look as if they are of dwarven make! Movrur, what is the meaning of "
 #~ "this?"
-#~ msgstr ""
-#~ "Bunlar sanki cüce yapımı gibi görünüyor! Movrur, bunun anlamı nedir?"
+#~ msgstr "Bunlar cüce yapımı gibi görünüyor! Movrur, bunun anlamı ne?"
 
 #~ msgid ""
-#~ "In his haste to escape, it seems like the orc dropped some coins. It "
-#~ "looks as if they are of dwarven make! Movrur, what is the meaning of this?"
+#~ "In his haste to escape, it seems like the orc dropped some coins. It looks "
+#~ "as if they are of dwarven make! Movrur, what is the meaning of this?"
 #~ msgstr ""
-#~ "Kaçmak için acele ederken, ork biraz bozuk para düşürmüş gibi görünüyor. "
-#~ "Cüce yapımı gibi görünüyorlar! Movrur, bunun anlamı nedir?"
+#~ "Kaçma telaşında, ork birkaç sikke düşürmüş gibi görünüyor. Bunlar cüce "
+#~ "yapımı gibi! Movrur, bunun anlamı ne?"
 
 #~ msgid ""
-#~ "In his haste to escape, it seems like the orc dropped some coins. It "
-#~ "looks as if they are of dwarven make!"
+#~ "In his haste to escape, it seems like the orc dropped some coins. It looks "
+#~ "as if they are of dwarven make!"
 #~ msgstr ""
-#~ "Kaçmak için acele ederken, ork biraz bozuk para düşürmüş gibi görünüyor. "
-#~ "Cüce yapımı gibi görünüyorlar!"
+#~ "Kaçma telaşında, ork birkaç sikke düşürmüş gibi görünüyor. Bunlar cüce "
+#~ "yapımı gibi!"
 
 #~ msgid "What, are you sure? Movrur, what is the meaning of this?"
-#~ msgstr "Ne, emin misin? Movrur, bunun anlamı nedir?"
+#~ msgstr "Ne, emin misin? Movrur, bunun anlamı ne?"
 
 #~ msgid ""
 #~ "Thieves and raiders, that be what these orcs are. They oft steal our gold "
 #~ "and weapons in their raids, for such beasts have little ability to create "
 #~ "either on their own."
 #~ msgstr ""
-#~ "Hırsızlar ve yağmacılar, işte bu orklar. Baskınlarında sık sık "
-#~ "altınlarımızı ve silahlarımızı çalanlar, bu tür canavarların kendi "
-#~ "başlarına çaldıkları şeyleri yapacak yetenekleri çok azdır."
+#~ "Hırsızlar ve akıncılar, bu orklar işte böyle. Kendi başlarına bir şey "
+#~ "yaratma yetenekleri az olduğu için akınlarında sık sık altınlarımızı ve "
+#~ "silahlarımızı çalarlar."
 
 #~ msgid ""
 #~ "We of Kal Kartha have no reason to give these foul orcs any of our hard-"
 #~ "earned gold, if that is what you are insinuating, <i>loremaster</i>."
 #~ msgstr ""
-#~ "Kal Karta'lı olarak, ima ettiğiniz şey buysa, <i>üstadım</i>, zor "
-#~ "kazanılmış altınlarımızı bu şapşal orklara vermek için hiçbir nedenimiz "
-#~ "yok."
+#~ "Eğer ima ettiğin buysa, <i>bilge</i>, Kal Kartha halkı olarak bu iğrenç "
+#~ "orklara zor kazanılmış altınlarımızdan vermemiz için hiçbir sebep yok."
 
 #~ msgid ""
-#~ "Indeed. Although I find it odd that the orcs would have found such a sum "
-#~ "of dwarven currency from raiding human villages..."
+#~ "Indeed. Although I find it odd that the orcs would have found such a sum of "
+#~ "dwarven currency from raiding human villages..."
 #~ msgstr ""
-#~ "Aslında. Orkların insan köylerini yağmalayarak bu kadar çok miktarda cüce "
-#~ "parası bulmasını tuhaf bulsam da..."
+#~ "Gerçekten de. Gerçi orkların insan köylerini yağmalayarak bu kadar cüce "
+#~ "parası bulmuş olmalarını tuhaf buluyorum..."
 
 #~ msgid ""
-#~ "If it pleases you, I will distribute this gold to these... poor... "
-#~ "humans. That way, they can return to their fields with their money "
-#~ "returned to them, and we can be on our way to Kal Kartha."
+#~ "If it pleases you, I will distribute this gold to these... poor... humans. "
+#~ "That way, they can return to their fields with their money returned to them,"
+#~ " and we can be on our way to Kal Kartha."
 #~ msgstr ""
-#~ "Eğer sizi menun edecekse, bu altını bu... zavallı... insanlara "
-#~ "dağıtacağım. Böylece paraları kendilerine iade edilerek tarlalarına "
-#~ "dönebilirler ve biz de Kal Karta'ya doğru yola çıkabiliriz."
+#~ "Eğer uygun görürseniz, bu altını bu... zavallı... insanlara dağıtacağım. "
+#~ "Böylece paraları kendilerine iade edilmiş olarak tarlalarına dönebilirler ve"
+#~ " biz de Kal Kartha'ya doğru yola çıkabiliriz."
 
 #~ msgid ""
 #~ "<i>That did not really answer your concern.</i> Very well, that sounds "
 #~ "reasonable to me."
-#~ msgstr ""
-#~ "<i>Bu aslında endişelerimizin yanıtı olmadı.</i> Pekala, yine de bu bana "
-#~ "kabul edilebilir göründü."
+#~ msgstr "<i>Bu endişeni pek gidermedi.</i> Pekala, bana mantıklı geliyor."
 
 #~ msgid ""
-#~ "<i>Aye, we shall have to watch him more closely. Something is strange "
-#~ "about him and the rest of these masked ones.</i> Lead the way, Movrur."
+#~ "<i>Aye, we shall have to watch him more closely. Something is strange about "
+#~ "him and the rest of these masked ones.</i> Lead the way, Movrur."
 #~ msgstr ""
-#~ "<i>Evet, onu daha yakından izlememiz gerekecek. Onda ve bu maskelilerin "
-#~ "geri kalanında bir tuhaflık var.</i> Yolu göster, Movrur."
+#~ "<i>Evet, onu daha yakından izlememiz gerekecek. Onda ve bu maskelilerin geri"
+#~ " kalanında tuhaf bir şeyler var.</i> Yolu göster, Movrur."
 
 #~ msgid ""
-#~ "To win, either move Aiglondur to the signpost and Angarthing next to him, "
-#~ "or move Angarthing to the signpost and Aiglondur next to him."
+#~ "To win, either move Aiglondur to the signpost and Angarthing next to him, or"
+#~ " move Angarthing to the signpost and Aiglondur next to him."
 #~ msgstr ""
-#~ "Kazanmak için Angarting ve Aglondur'u (ikisini de) yol işaretine "
-#~ "diğerinin yanına götürün."
+#~ "Kazanmak için, ya Aiglondur'u işaret direğine ve Angarthing'i yanına taşı, "
+#~ "ya da Angarthing'i işaret direğine ve Aiglondur'u yanına taşı."
 
 #~ msgid "Tan-Morgh"
-#~ msgstr "Tan-Morg"
+#~ msgstr "Tan-Morgh"
 
 #~ msgid "Tan-Garukh"
-#~ msgstr "Tan-Garuk"
+#~ msgstr "Tan-Garukh"
 
 #~ msgid "Tan-Wagran"
-#~ msgstr "Tan-Fagran"
+#~ msgstr "Tan-Wagran"
 
 #~ msgid ""
-#~ "And under siege, I see. There is a mighty host of orcs between us and "
-#~ "that gate."
-#~ msgstr "Ve kuşatma altında. Kapıyla aramızda güçlü bir ork ordusu var."
+#~ "And under siege, I see. There is a mighty host of orcs between us and that "
+#~ "gate."
+#~ msgstr ""
+#~ "Ve kuşatma altında, görüyorum. Bizimle o kapı arasında büyük bir ork ordusu "
+#~ "var."
 
 #~ msgid "<i>Dulcatulos, you dunce...</i>"
-#~ msgstr "<i>Dulkatul, seni aptal...</i>"
+#~ msgstr "<i>Dulcatulos, seni aptal...</i>"
 
 #~ msgid "<i>Did I say something I should have not?</i>"
 #~ msgstr "<i>Söylememem gereken bir şey mi söyledim?</i>"
 
 #~ msgid "<i>Never mind. I shall deal with you later.</i>"
-#~ msgstr "<i>Boşver. Seninle sonra ilgileneceğim.</i>"
+#~ msgstr "<i>Boş ver. Seninle sonra ilgileneceğim.</i>"
 
 #~ msgid ""
 #~ "But he revived himself and stands with us now. That is all that matters."
-#~ msgstr ""
-#~ "Ama kendini canlandırdı ve şimdi bizimle birlikte duruyor. Yani önemli "
-#~ "olan bu."
+#~ msgstr "Ama kendini diriltti ve şimdi bizimle duruyor. Önemli olan bu."
 
 #~ msgid ""
 #~ "He has grasped the Hammer of Thursagan, then? Else I know not how he "
 #~ "recovered the runelore of old."
 #~ msgstr ""
-#~ "Yani, Thursagan'ın Çekici'nin ne olduğunu anladı mı? Yoksa eski rünleri "
-#~ "nasıl kurtardığını bilmiyorum."
+#~ "Thursagan'ın Çekici'ni kavramış mı yani? Yoksa kadim rün bilgisini nasıl "
+#~ "geri kazandığını bilemiyorum."
 
 #~ msgid ""
 #~ "Aye. Shattered though the Hammer may be, it still retains some of its old "
-#~ "power. With your knowledge and help, loremaster, we can reforge the "
-#~ "hammer and use its power to smash all enemies that oppose us."
+#~ "power. With your knowledge and help, loremaster, we can reforge the hammer "
+#~ "and use its power to smash all enemies that oppose us."
 #~ msgstr ""
-#~ "Evet. Çekiç parçalanmış olsa da eski gücünün bir kısmını hala koruyor. "
-#~ "Bilgin ve yardımınla üstadım, çekici yeniden dövebilir ve gücünü bize "
-#~ "karşı çıkan tüm düşmanları ezmek için kullanabiliriz."
+#~ "Evet. Çekiç parçalanmış olsa da, eski gücünün bir kısmını hala koruyor. "
+#~ "Bilgin ve yardımınla, bilge, çekici yeniden dövebilir ve gücünü bize karşı "
+#~ "çıkan tüm düşmanları ezmek için kullanabiliriz."
 
 #~ msgid ""
-#~ "Is it not? Lord Karrag has wielded it in battle to great effect, even "
-#~ "broken as it is."
+#~ "Is it not? Lord Karrag has wielded it in battle to great effect, even broken"
+#~ " as it is."
 #~ msgstr ""
-#~ "Değil mi? Lord Karrag onu büyük bir etki için savaşta kullandı, hatta "
-#~ "kırık olduğu halde."
+#~ "Değil mi? Lord Karrag onu savaşta büyük bir etkiyle kullandı, kırık olmasına"
+#~ " rağmen."
 
 #~ msgid ""
-#~ "<i>Stop speaking, you imbecile.</i> That would be the power of runecraft "
-#~ "you witness. No fool would take a broken weapon into battle, much less a "
+#~ "<i>Stop speaking, you imbecile.</i> That would be the power of runecraft you"
+#~ " witness. No fool would take a broken weapon into battle, much less a "
 #~ "precious artifact like the Hammer. Karrag holds it as a symbol of his "
 #~ "knowledge and mastery of lore, no more than that."
 #~ msgstr ""
-#~ "<i>Kes sesini, seni embesil.</i> Bu, tanık olduğun rün oymacılığının gücü "
-#~ "olurdu. Çekiç gibi değerli bir eser bir yana, hiçbir aptal savaşa kırık "
-#~ "bir silah almaz. Karrag onu bilgisinin ve irfan ustalığının bir sembolü "
-#~ "olarak görüyor, bundan daha fazlası değil."
+#~ "<i>Konuşmayı kes, seni aptal.</i> Tanıklık ettiğin şey rün sanatının "
+#~ "gücüdür. Hiçbir aptal kırık bir silahı savaşa götürmez, Çekiç gibi değerli "
+#~ "bir eserden bahsetmiyorum bile. Karrag onu bilgisinin ve irfan ustalığının "
+#~ "bir sembolü olarak tutuyor, başka bir şey değil."
 
 #~ msgid ""
-#~ "As you say. These things are for lords and loremasters to worry about, "
-#~ "not the likes of me. I must see to my troop’s care. Food will be brought "
-#~ "to you; rest well. We will speak again."
+#~ "As you say. These things are for lords and loremasters to worry about, not "
+#~ "the likes of me. I must see to my troop’s care. Food will be brought to you;"
+#~ " rest well. We will speak again."
 #~ msgstr ""
-#~ "Dediğin gibi. Bunlar benim gibiler için değil, lordlar ve bilginler için "
-#~ "endişelenilecek şeyler. Birliğimin bakımıyla ilgilenmeliyim. Size yiyecek "
-#~ "getirilecek; iyice dinlenin sonra tekrar konuşuruz."
+#~ "Dediğin gibi. Bu şeyler lordların ve bilgelerin endişelenmesi gereken "
+#~ "şeyler, benim gibilerin değil. Birliğimin bakımına bakmalıyım. Size yemek "
+#~ "getirilecek; iyi dinlenin. Tekrar konuşuruz."
 
 #~ msgid ""
 #~ "I shall go take my place by Lord Karrag. See to it that you offer him the "
 #~ "respect that he is due."
 #~ msgstr ""
-#~ "Gidip Lord Karrag'ın yanında yerimi alacağım. Ona hak ettiği saygıyı "
-#~ "göstermeye dikkat et."
+#~ "Lord Karrag'ın yanındaki yerimi almaya gideceğim. Ona hak ettiği saygıyı "
+#~ "gösterdiğinden emin ol."
 
 #~ msgid "Angarthing... I have a bad feeling about this."
-#~ msgstr "Angarting... İçimde kötü bir his var."
+#~ msgstr "Angarthing... Bu konuda kötü bir hissim var."
 
 #~ msgid ""
 #~ "We did not come to smite anyone, especially not using the most prized "
 #~ "artifact of our heritage as a mere weapon."
 #~ msgstr ""
-#~ "Kimseyi cezalandırmaya gelmedik, özellikle de mirasımızın en değerli "
-#~ "eserini bir silah olarak kullanmadık."
+#~ "Kimseyi yok etmeye gelmedik, özellikle de mirasımızın en değerli eserini "
+#~ "basit bir silah olarak kullanarak değil."
 
 #~ msgid ""
-#~ "Weapon? No, no, loremaster... you mistake my intentions. You know, as "
-#~ "well as I do, that the Hammer is hardly a paltry weapon. The Hammer holds "
-#~ "the soul of the dwarves, the true people. It is that which forged our "
-#~ "flesh and blood, that which binds our will and forges our resolve. It is "
-#~ "a symbol of our superiority as the true people of Irdya, an image that "
-#~ "the other races shall respect and fear!"
+#~ "Weapon? No, no, loremaster... you mistake my intentions. You know, as well "
+#~ "as I do, that the Hammer is hardly a paltry weapon. The Hammer holds the "
+#~ "soul of the dwarves, the true people. It is that which forged our flesh and "
+#~ "blood, that which binds our will and forges our resolve. It is a symbol of "
+#~ "our superiority as the true people of Irdya, an image that the other races "
+#~ "shall respect and fear!"
 #~ msgstr ""
-#~ "Silah mı? Hayır, hayır, üstadım... niyetimi yanlış anlıyorsun. Sen de "
-#~ "benim kadar biliyorsun ki Çekiç pek de önemsiz bir silah değil. Çekiç, "
-#~ "gerçek halk olan cücelerin ruhunu taşır. Etimizi ve kanımızı "
-#~ "şekillendiren, irademizi bağlayan ve kararlılığımızı güçlendiren şeydir. "
-#~ "İrdiya'nın gerçek halkı olarak üstünlüğümüzün simgesi, diğer ırkların "
-#~ "saygı duyacağı ve korkacağı bir imge!"
+#~ "Silah mı? Hayır, hayır, bilge... niyetimi yanlış anlıyorsun. Benim kadar sen"
+#~ " de biliyorsun ki Çekiç pek de önemsiz bir silah değil. Çekiç, cücelerin, "
+#~ "gerçek halkın ruhunu barındırır. O, etimizi ve kanımızı şekillendiren, "
+#~ "irademizi bağlayan ve kararlılığımızı pekiştirendir. O, Irdya'nın gerçek "
+#~ "halkı olarak üstünlüğümüzün bir sembolüdür, diğer ırkların saygı duyacağı ve"
+#~ " korkacağı bir imajdır!"
 
 #~ msgid "... so... what are you suggesting?"
 #~ msgstr "... yani... ne öneriyorsun?"
 
 #~ msgid ""
 #~ "The Hammer is still incomplete; we need the knowledge of a loremaster to "
-#~ "reforge the remaining shards and restore the artifact to its most "
-#~ "powerful state. Once that is done, none will be able to stand before me! "
-#~ "Join us, loremaster. We can put your talent to good use."
+#~ "reforge the remaining shards and restore the artifact to its most powerful "
+#~ "state. Once that is done, none will be able to stand before me! Join us, "
+#~ "loremaster. We can put your talent to good use."
 #~ msgstr ""
-#~ "Çekiç hala tamamlanmadı; kalan parçaları yeniden dövebilmek ve eseri en "
-#~ "güçlü durumuna getirmek için bir üstadın bilgisine ihtiyacımız var. Bu "
-#~ "yapıldıktan sonra, kimse önümde duramayacak! Bize katılın, üstadım. "
-#~ "Yeteneğinizi en iyi şekilde kullanabiliriz."
+#~ "Çekiç hala eksik; kalan parçaları yeniden dövmek ve eseri en güçlü haline "
+#~ "getirmek için bir bilgenin bilgisine ihtiyacımız var. Bu yapıldığında, kimse"
+#~ " benim karşımda duramayacak! Bize katıl, bilge. Yeteneğini iyi bir şekilde "
+#~ "kullanabiliriz."
 
 #~ msgid "Impertinent cur! You dare—"
-#~ msgstr "Küstah it! Bu ne cüret—"
+#~ msgstr "Küçümseyici köpek! Nasıl cüret edersin—"
 
 #~ msgid "Master—"
 #~ msgstr "Usta—"
@@ -3496,72 +3612,70 @@ msgstr ""
 #~ "Wait... the lich’s apparent death was another illusion. In truth he ran "
 #~ "through that doorway behind the throne."
 #~ msgstr ""
-#~ "Dur biraz... Umacının ölmüş görünmesi başka bir aldatmaca. Aslında tahtın "
-#~ "arkasındaki kapıdan kaçtı."
+#~ "Bekle... hortlağın görünen ölümü başka bir yanılsamaydı. Gerçekte tahtın "
+#~ "arkasındaki o kapıdan kaçtı."
 
 #~ msgid "Find and defeat Karrag"
-#~ msgstr "Karrag’ı bul ve yen"
+#~ msgstr "Karrag'ı bul ve yen"
 
 #~ msgid ""
-#~ "I have been on your track for weeks. Word of your rout of Tan-Morgh and "
-#~ "his allies spread, and reached Tallin. You did the Alliance better "
-#~ "service than you knew that day; Tan-Morgh had exchanged messages with "
-#~ "certain orcish chieftains within the Alliance, and your victory prevented "
-#~ "a dangerous revolt."
+#~ "I have been on your track for weeks. Word of your rout of Tan-Morgh and his "
+#~ "allies spread, and reached Tallin. You did the Alliance better service than "
+#~ "you knew that day; Tan-Morgh had exchanged messages with certain orcish "
+#~ "chieftains within the Alliance, and your victory prevented a dangerous "
+#~ "revolt."
 #~ msgstr ""
-#~ "Haftalardır peşinizdeydim. Tan-Malgar’ı ve müttefiklerinin kökünü "
-#~ "kazıdığınız haberi Talin’e ulaşmış. İttifaka büyük bir hizmette "
-#~ "bulundunuz; Tan-Malgar İttifaka dahil olan bazı ork şeflerle iletişim "
-#~ "halindeymiş. Zaferinizle tehlikeli bir isyanı önlemiş oldunuz."
+#~ "Haftalardır izindeydim. Tan-Morgh ve müttefiklerini bozguna uğrattığın "
+#~ "haberi yayıldı ve Tallin'e ulaştı. O gün İttifak'a bildiğinden daha iyi bir "
+#~ "hizmet ettin; Tan-Morgh, İttifak içindeki bazı ork şefleriyle mesajlaşmıştı "
+#~ "ve senin zaferin tehlikeli bir isyanı önledi."
 
 #~ msgid ""
-#~ "Aiglondur, the Protector dubs you a Lord Companion of the Alliance. He "
-#~ "bids you return to Knalga as soon as convenient, for your investiture."
+#~ "Aiglondur, the Protector dubs you a Lord Companion of the Alliance. He bids "
+#~ "you return to Knalga as soon as convenient, for your investiture."
 #~ msgstr ""
-#~ "Aglondur, Talin size şövalyelik ünvanı vererek İttifakın Eş Lideri ilan "
-#~ "etti. Resmen tayin edilmeniz için en uygun zamanda Kanalga’ya dönmeniz "
-#~ "gerektiğini söyledi."
+#~ "Aiglondur, Koruyucu seni İttifak'ın Lord Yoldaşı ilan ediyor. Törenin için "
+#~ "uygun olur olmaz Knalga'ya dönmeni emrediyor."
 
 #~ msgid "inspire"
-#~ msgstr "telkin"
+#~ msgstr "ilham ver"
 
 #~ msgid ""
 #~ "This unit can inspire own units that are next to it, making them fight "
-#~ "better. Adjacent own units of lower or equal level will deal 25% more "
-#~ "damage plus 25% for each level they are below the inspiring unit."
+#~ "better. Adjacent own units of lower or equal level will deal 25% more damage"
+#~ " plus 25% for each level they are below the inspiring unit."
 #~ msgstr ""
-#~ "Bu birim etki alanındaki birimlere daha iyi dövüşmeleri için telkinde "
-#~ "bulunur. Düşük ve denk seviyeli birimler, telkinde bulunan birimle "
-#~ "aralarındaki seviye farkı çarpı %25 artı %25 daha fazla hasar verirler."
+#~ "Bu birim, yanındaki kendi birimlerine ilham vererek daha iyi savaşmalarını "
+#~ "sağlayabilir. Daha düşük veya eşit seviyedeki bitişik kendi birimleri, ilham"
+#~ " veren birimin altında oldukları her seviye için %25 ek olarak %25 daha "
+#~ "fazla hasar verir."
 
 #~ msgid ""
-#~ "The presence of this unit inspires own units next to it to deal more "
-#~ "damage in combat, though this only applies to units of lower or equal "
-#~ "level."
+#~ "The presence of this unit inspires own units next to it to deal more damage "
+#~ "in combat, though this only applies to units of lower or equal level."
 #~ msgstr ""
-#~ "Bu birim çevresindeki dost birimlere daha iyi dövüşmeleri için telkinde "
-#~ "bulunur. Ancak sadece kendi seviyesindeki ve daha alt seviyeden birimlere "
-#~ "telkinde bulunabilir."
+#~ "Bu birimin varlığı, yanındaki kendi birimlerine savaşta daha fazla hasar "
+#~ "vermeleri için ilham verir, ancak bu sadece daha düşük veya eşit seviyedeki "
+#~ "birimler için geçerlidir."
 
 #~ msgid "Movrur"
 #~ msgstr "Movrur"
 
 #~ msgid "We needed Movrur to accompany us to Kal Kartha!"
-#~ msgstr "Movrur'un bize Kal Kartha'ya kadar eşlik etmesi gerekiyordu!"
+#~ msgstr "Movrur'un Kal Kartha'ya bize eşlik etmesi gerekiyordu!"
 
 #~ msgid ""
-#~ "Without Dulcatulos to explain our actions to the Kal Karthans we’ll have "
-#~ "to fight them, too. Our mission has failed."
+#~ "Without Dulcatulos to explain our actions to the Kal Karthans we’ll have to "
+#~ "fight them, too. Our mission has failed."
 #~ msgstr ""
-#~ "Dulkatul olmaksızın yaptıklarımızı Kal Kartalılara açıklayamayız. Onlarla "
-#~ "da dövüşmek zorunda kalırız. Görevi yerine getiremedik."
+#~ "Dulcatulos olmadan Kal Kartha halkına eylemlerimizi açıklayamazsak, onlarla "
+#~ "da savaşmak zorunda kalacağız. Görevimiz başarısız oldu."
 
 #~ msgid ""
 #~ "More experienced dwarvish fighters wear heavy chain mail and plate armor, "
-#~ "for which they are rightly famous. In the dark dreams of dwarvenkind, "
-#~ "some conceal their faces behind riveted masks."
+#~ "for which they are rightly famous. In the dark dreams of dwarvenkind, some "
+#~ "conceal their faces behind riveted masks."
 #~ msgstr ""
-#~ "En tecrübeli Cüce savaşçılar kendileriyle meşhur ettikleri çelik örgülü "
-#~ "bir zırh giyer ve uzuvlarını çelik plakalarla korurlar. Bazı kötü cüceler "
-#~ "yüzlerine yansıyan kötülüklerini gizlemek istercesine yüzlerini bir "
-#~ "maskenin altında gizler."
+#~ "Daha deneyimli cüce savaşçılar, haklı olarak ünlü oldukları ağır zincir zırh"
+#~ " ve plaka zırh giyerler. Cüce ırkının karanlık rüyalarında, bazıları "
+#~ "yüzlerini perçinli maskelerin arkasına gizler."

@@ -1,0 +1,67 @@
+term_id	term	canonical_translation	notes	confidence
+F01	Loyalists	Loyalists		high
+F02	Rebels	反乱軍		high
+F03	Undead	アンデッド		high
+F04	Northerners	Northerners		high
+F05	Drakes	ドレーク		high
+F06	Knalgan Alliance	ナルガン同盟		high
+F07	Dunefolk	デューンフォーク		high
+R01	Elvish		not found in .po files	low
+R02	Orcish		not found in .po files	low
+R03	Dwarven		not found in .po files	low
+R04	Drake	ドレーク		high
+R05	Naga	ナーガ		high
+R06	Merman/Mermaid		not found in .po files	low
+R07	Troll	トロル		high
+R08	Wose	ウーズ		high
+A01	Lawful	秩序		high
+A02	Neutral	中立		high
+A03	Chaotic	混沌		high
+A04	Liminal	薄明		high
+T01	Dawn	夜明け		high
+T02	Morning	午前	ISSUE: extracted string '警告' means Warning in Japanese, not the time-of-day Morning. Corrected to '午前' (forenoon/morning).	high
+T03	Afternoon	午後		high
+T04	Dusk	夕暮れ		high
+T05	First Watch	夜		high
+T06	Second Watch	深夜		high
+G01	Campaign	キャンペーン		high
+G02	Scenario	シナリオ		high
+G03	Side	陣営		high
+G04	Village	村		high
+G05	Income	収入		high
+G06	Gold	ゴールド		high
+G07	Experience		not found in .po files	low
+G08	Level	レベル		high
+G09	Turn	ターン		high
+G10	Hex		not found in .po files	low
+G11	Castle	城		high
+G12	Keep	主塔		high
+G13	Zone of Control	支配領域（ZoC：Zone of Control）		high
+G14	Recall	召還		high
+G15	Recruit	雇用		high
+G16	Leader	リーダー		high
+C01	leadership	統率		high
+C02	healing		not found in .po files	low
+C03	slow	鈍重		high
+C04	poison	毒		high
+C05	petrify		not found in .po files	low
+C06	berserk	狂戦		high
+C07	skirmisher	散兵		high
+C08	marksman	精密		high
+C09	magical	魔法		high
+C10	steadfast	装甲		high
+C11	regenerates	再生		high
+C12	ambush	伏兵		high
+C13	illumination		not found in .po files	low
+C14	concealment	潜伏		high
+TR01	Forest	森		high
+TR02	Hills	丘		high
+TR03	Mountains	山		high
+TR04	Flat	平地		high
+TR05	Sand	砂地		high
+TR06	Frozen	凍土		high
+TR07	Swamp	沼地		high
+TR08	Deep Water	深水		high
+TR09	Shallow Water	浅瀬		high
+TR10	Ford	川瀬		high
+TR11	Cave	洞窟		high

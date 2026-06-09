@@ -1,0 +1,40 @@
+{
+  "empty": {
+    "They most probably took the route through the foothills. The journey is time consuming but much safer compared to the direct route through the Desert of Death.": "Büyük ihtimalle tepelik arazilerden geçen yolu kullandılar. Bu yol zaman alıcı ama Ölüm Çölü'nden geçen doğrudan yola kıyasla çok daha güvenli.",
+    "Curses! He is here already?! I had the messengers of the Alliance bribed to ensure no messages reached Dwarven Doors. I suppose it was only a matter of time...": "Kahretsin! O zaten burada mı?! İttifak'ın habercilerini Cüce Kapıları'na hiçbir haber ulaşmasın diye rüşvet vermiştim. Sanırım bu an kaçınılmazdı...",
+    "Endurance: +8 HP (Hitpoints)": "Dayanıklılık: +8 YP (Yaşam Puanı)",
+    "Melee: greatsword +1 damage": "Yakın: büyük kılıç +1 hasar",
+    "Ranged: bow +1 damage": "Menzilli: yay +1 hasar",
+    "Melee: short sword +1 damage": "Yakın: kısa kılıç +1 hasar",
+    "Ranged: crossbow (pierce) +1 damage": "Menzilli: tatar yayı (delme) +1 hasar",
+    "Ranged: crossbow (fire) +2 damage": "Menzilli: tatar yayı (ateş) +2 hasar",
+    "Melee: fangs +1 damage": "Yakın: dişler +1 hasar",
+    "Melee: claws +1 damage": "Yakın: pençeler +1 hasar",
+    "Melee: torch +1 damage": "Yakın: meşale +1 hasar",
+    "Ranged: net +1 damage": "Menzilli: ağ +1 hasar",
+    "Melee: hammer +2 damage": "Yakın: çekiç +2 hasar",
+    "Melee: fist +2 damage": "Yakın: yumruk +2 hasar",
+    "Melee: sling +4 damage": "Yakın: sapan +4 hasar",
+    "Melee: hammer +1 damage": "Yakın: çekiç +1 hasar",
+    "Ranged: crossbow +1 damage": "Menzilli: tatar yayı +1 hasar",
+    "Melee: blade +2 damage": "Yakın: bıçak +2 hasar",
+    "Melee: kick +2 damage": "Yakın: tekme +2 hasar",
+    "Ranged: throwing knives +1 damage": "Menzilli: fırlatma bıçakları +1 hasar",
+    "Melee: +1 spear damage": "Yakın: mızrak +1 hasar",
+    "Ranged: +1 spear damage": "Menzilli: mızrak +1 hasar",
+    "Melee: staff +1 damage": "Yakın: asa +1 hasar",
+    "Ranged: curse +1 damage": "Menzilli: lanet +1 hasar",
+    "Congratulations, your $unit.language_name has leveled up... but they're already at their max level!\\n\\nWhen this happens, <span color='#0D87B6'><b>some campaigns</b></span> — like this one — allow you to select a minor bonus to hitpoints or damage. These bonuses are called "AMLAs": "After Maximum Level Advancements". If your max-level units have normal, <span color='#0D87B6'><b>blue experience bars</b></span>, that means these AMLAs are available.\\n\\n<span color='#9608CF'><b><i>Other campaigns</i></b></span> don't have these AMLA options, and instead always give max-level units +3 max hp when they level up. If your max-level units have <span color='#9608CF'><b>purple experience bars</b></span>, they'll only get +3 max hp when they level up.\\n\\n": "Tebrikler, $unit.language_name seviye atladı... ancak zaten en yüksek seviyede!\\n\\nBu durumda, <span color='#0D87B6'><b>bazı seferberlikler</b></span> — bu seferberlik gibi — size yaşam puanı ya da hasara küçük bir bonus seçme imkânı tanır. Bu bonuslar "AMLA" olarak adlandırılır: "Azami Seviye Sonrası İlerlemeler". Azami seviyedeki birliklerinizin deneyim çubukları normal <span color='#0D87B6'><b>mavi</b></span> görünüyorsa bu AMLAların mevcut olduğu anlamına gelir.\\n\\n<span color='#9608CF'><b><i>Diğer seferberliklerde</i></b></span> bu AMLA seçenekleri yoktur; bunun yerine azami seviyedeki birimler her seviye atladığında her zaman +3 azami YP kazanır. Azami seviyedeki birliklerinizin deneyim çubukları <span color='#9608CF'><b>mor</b></span> görünüyorsa seviye atladıklarında yalnızca +3 azami YP alacaklardır.\\n\\n",
+    "Ok, continue with the game": "Tamam, oyuna devam et",
+    "Don't show this message again": "Bu mesajı bir daha gösterme"
+  },
+  "fuzzy": {
+    "Current Campaign Maintainer": "Güncel Seferberlik Sürdürücüsü",
+    "Campaign Maintainers (former)": "Seferberlik Sürdürücüleri (eski)",
+    "When we realized that there was no way we could hold the humans off, we sent them east to a place near the Mourned Hills along with most of our women and children. The majority of our grunts and archers went with them to ensure their safety. The rest of us remained here to buy them some time. It has been three days since their evacuation.": "İnsanları engellememizin mümkün olmadığını anladığımızda onları kadın ve çocuklarımızın çoğuyla birlikte doğuya, Matemli Tepelerin yakınında bir yere gönderdik. Izbandutlarımızın ve okçularımızın büyük bölümü onların güvenliğini sağlamak için onlara eşlik etti. Kalanımız burada biraz zaman kazanmaya çalıştık. Tahliyelerinin üzerinden üç gün geçti.",
+    "Wise decision. We have actually come to speak to the shamans, but while we are here we must help you out of this scrape. Grüü, fight the humans if you must, but don't be reckless. Getting me to the Tirigaz keep so I can rally our forces for the counterattack must be our first priority. And, I need you to stay alive. We can't defeat them by sea without ships, but we can destroy the foothold they have gained on the land.": "Akıllıca bir karar. Biz aslında şamanlarla konuşmaya gelmiştik, fakat buradayken sizi bu beladan kurtarmalıyız. Gürü, gerekirse insanlara karşı savaş ama pervasız olma. Karşı saldırı için kuvvetlerimizi toplayabilmem adına beni Tirigaz kalesine ulaştırmak ilk önceliğimiz olmalı. Ve senin hayatta kalman şart. Onları denizde, gemiler olmadan yenemeyiz; ama topraklarımızda edindikleri tutunma noktasını yok edebiliriz.",
+    "Escort Inarix and at least four saurians to Prestim.": "İnariks'i en az dört sürüngenle birlikte Prestim'e ulaştır.",
+    "In order to recruit saurians later on, bring Inarix and at least four saurians to safety.": "Sürüngenleri ileride askere alabilmek için İnariks'i en az dört sürüngenle birlikte Prestim'e güvenle ulaştır.",
+    "You retrieve $amount_gold of Grüü's leftover gold.": "Gürü'nün geriye kalan altınından $amount_gold altın alıyorsunuz."
+  }
+}

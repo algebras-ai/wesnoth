@@ -1,0 +1,67 @@
+term_id	term	canonical_translation	notes	confidence
+F01	Loyalists	Matapat		high
+F02	Rebels		not found in .po files	low
+F03	Undead	matapat	ISSUE: 'matapat' means faithful/loyal in Tagalog — same semantic as F01 Loyalists. Undead faction should use an undead/zombie-related term. Extraction collision. Confidence lowered.	low
+F04	Northerners		not found in .po files	low
+F05	Drakes	Mga Kabibi	ISSUE: 'Mga Kabibi' means Shellfish/Clams in Tagalog. Drakes are dragon-kin fire warriors — completely wrong semantic field. Severe extraction collision. Confidence lowered.	low
+F06	Knalgan Alliance		not found in .po files	low
+F07	Dunefolk	Tao		high
+R01	Elvish		not found in .po files	low
+R02	Orcish		not found in .po files	low
+R03	Dwarven		not found in .po files	low
+R04	Drake	Kabibi		high
+R05	Naga	Naga		high
+R06	Merman/Mermaid		not found in .po files	low
+R07	Troll	Trowl		high
+R08	Wose	Wose		high
+A01	Lawful	matapat		high
+A02	Neutral	walang pinapanigan		high
+A03	Chaotic	magulo		high
+A04	Liminal	matapat		high
+T01	Dawn	Bukang-liwayway		high
+T02	Morning	Umaga		high
+T03	Afternoon	Hapon		high
+T04	Dusk	Takipsilim		high
+T05	First Watch	Unang Tingin		high
+T06	Second Watch	Ikalawang Tingin		high
+G01	Campaign		not found in .po files	low
+G02	Scenario	Tapusin ang pangyayari		high
+G03	Side	Ang kasunod na Dako		high
+G04	Village	Nayon		high
+G05	Income		not found in .po files	low
+G06	Gold	Ginto		high
+G07	Experience		not found in .po files	low
+G08	Level	lebel		high
+G09	Turn	Turno		high
+G10	Hex		not found in .po files	low
+G11	Castle	Kastilyo		high
+G12	Keep		not found in .po files	low
+G13	Zone of Control		not found in .po files	low
+G14	Recall		not found in .po files	low
+G15	Recruit		not found in .po files	low
+G16	Leader		not found in .po files	low
+C01	leadership	pamumuno		high
+C02	healing		not found in .po files	low
+C03	slow	humina		high
+C04	poison	lason		high
+C05	petrify		not found in .po files	low
+C06	berserk	mabangis		high
+C07	skirmisher	malakas		high
+C08	marksman		not found in .po files	low
+C09	magical	mahiwaga		high
+C10	steadfast	matatag		high
+C11	regenerates	malusog		high
+C12	ambush	tambangan		high
+C13	illumination		not found in .po files	low
+C14	concealment	matalino		high
+TR01	Forest	Gubat		high
+TR02	Hills	Burol		high
+TR03	Mountains	Bundok		high
+TR04	Flat		not found in .po files	low
+TR05	Sand	Buhangin		high
+TR06	Frozen		not found in .po files	low
+TR07	Swamp	Latian		high
+TR08	Deep Water		not found in .po files	low
+TR09	Shallow Water		not found in .po files	low
+TR10	Ford		not found in .po files	low
+TR11	Cave	Kuweba		high

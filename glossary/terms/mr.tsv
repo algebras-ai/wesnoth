@@ -1,0 +1,67 @@
+term_id	term	canonical_translation	notes	confidence
+F01	Loyalists	ईमानी		high
+F02	Rebels		not found in .po files	low
+F03	Undead	अ-मृत		high
+F04	Northerners		not found in .po files	low
+F05	Drakes		not found in .po files	low
+F06	Knalgan Alliance		not found in .po files	low
+F07	Dunefolk	यांत्रिक		high
+R01	Elvish		not found in .po files	low
+R02	Orcish		not found in .po files	low
+R03	Dwarven		not found in .po files	low
+R04	Drake		not found in .po files	low
+R05	Naga		not found in .po files	low
+R06	Merman/Mermaid		not found in .po files	low
+R07	Troll		not found in .po files	low
+R08	Wose		not found in .po files	low
+A01	Lawful		not found in .po files	low
+A02	Neutral		not found in .po files	low
+A03	Chaotic		not found in .po files	low
+A04	Liminal		not found in .po files	low
+T01	Dawn	पहाट		high
+T02	Morning	इशारा		high
+T03	Afternoon	दुपार		high
+T04	Dusk	संध्याकाळ		high
+T05	First Watch	रात्र		high
+T06	Second Watch	मध्यरात्र		high
+G01	Campaign		not found in .po files	low
+G02	Scenario	मोहरा निवडा		high
+G03	Side		not found in .po files	low
+G04	Village	गाव		high
+G05	Income		not found in .po files	low
+G06	Gold		not found in .po files	low
+G07	Experience		not found in .po files	low
+G08	Level	पातळी		high
+G09	Turn	पाळी		high
+G10	Hex		not found in .po files	low
+G11	Castle	कोट		high
+G12	Keep		not found in .po files	low
+G13	Zone of Control		not found in .po files	low
+G14	Recall		not found in .po files	low
+G15	Recruit		not found in .po files	low
+G16	Leader		not found in .po files	low
+C01	leadership	नेतृत्वगुण		high
+C02	healing		not found in .po files	low
+C03	slow		not found in .po files	low
+C04	poison	विष		high
+C05	petrify		not found in .po files	low
+C06	berserk		not found in .po files	low
+C07	skirmisher		not found in .po files	low
+C08	marksman		not found in .po files	low
+C09	magical	जादुई		high
+C10	steadfast		not found in .po files	low
+C11	regenerates		not found in .po files	low
+C12	ambush		not found in .po files	low
+C13	illumination		not found in .po files	low
+C14	concealment		not found in .po files	low
+TR01	Forest	जंगल		high
+TR02	Hills	टेकड्या		high
+TR03	Mountains	पर्वत		high
+TR04	Flat		not found in .po files	low
+TR05	Sand	रेती		high
+TR06	Frozen		not found in .po files	low
+TR07	Swamp		not found in .po files	low
+TR08	Deep Water		not found in .po files	low
+TR09	Shallow Water		not found in .po files	low
+TR10	Ford		not found in .po files	low
+TR11	Cave	गुहा		high

@@ -1,0 +1,67 @@
+term_id	term	canonical_translation	notes	confidence
+F01	Loyalists	Lojalan		high
+F02	Rebels		not found in .po files	low
+F03	Undead	Nemrtvi		high
+F04	Northerners		not found in .po files	low
+F05	Drakes		not found in .po files	low
+F06	Knalgan Alliance		not found in .po files	low
+F07	Dunefolk	Vodstvo		high
+R01	Elvish		not found in .po files	low
+R02	Orcish		not found in .po files	low
+R03	Dwarven		not found in .po files	low
+R04	Drake	Vodstvo		high
+R05	Naga		not found in .po files	low
+R06	Merman/Mermaid		not found in .po files	low
+R07	Troll	Vodstvo		high
+R08	Wose		not found in .po files	low
+A01	Lawful		not found in .po files	low
+A02	Neutral	neutralan		high
+A03	Chaotic	kaotičan		high
+A04	Liminal	liminalno		high
+T01	Dawn	Zora		high
+T02	Morning	Jutro	ISSUE: extracted string 'Upozorenje' means Warning in Croatian, not the time-of-day Morning. Corrected to 'Jutro'.	high
+T03	Afternoon	Poslije podne		high
+T04	Dusk	Sumrak		high
+T05	First Watch	Prva smjena		high
+T06	Second Watch	Druga smjena		high
+G01	Campaign		not found in .po files	low
+G02	Scenario	Testiraj scenarij		high
+G03	Side		not found in .po files	low
+G04	Village		not found in .po files	low
+G05	Income		not found in .po files	low
+G06	Gold	Zlato		high
+G07	Experience		not found in .po files	low
+G08	Level	razina		high
+G09	Turn		not found in .po files	low
+G10	Hex		not found in .po files	low
+G11	Castle	Dvorac		high
+G12	Keep		not found in .po files	low
+G13	Zone of Control		not found in .po files	low
+G14	Recall		not found in .po files	low
+G15	Recruit		not found in .po files	low
+G16	Leader		not found in .po files	low
+C01	leadership	Vodstvo		high
+C02	healing		not found in .po files	low
+C03	slow	Usporen		high
+C04	poison		not found in .po files	low
+C05	petrify		not found in .po files	low
+C06	berserk		not found in .po files	low
+C07	skirmisher		not found in .po files	low
+C08	marksman		not found in .po files	low
+C09	magical	magičan		high
+C10	steadfast		not found in .po files	low
+C11	regenerates	Regenerirati		high
+C12	ambush		not found in .po files	low
+C13	illumination		not found in .po files	low
+C14	concealment		not found in .po files	low
+TR01	Forest	Šuma		high
+TR02	Hills	Brda		high
+TR03	Mountains	Planine		high
+TR04	Flat		not found in .po files	low
+TR05	Sand	Pijesak		high
+TR06	Frozen	Zamrznuto		high
+TR07	Swamp	Močvara		high
+TR08	Deep Water		not found in .po files	low
+TR09	Shallow Water		not found in .po files	low
+TR10	Ford		not found in .po files	low
+TR11	Cave	Pečina		high

@@ -17,52 +17,62 @@ msgstr ""
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:28
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:22
 msgid "Of Pearls and Pirates"
-msgstr ""
+msgstr "İnciler ve Korsanlar"
+
 
 #. [campaign]: id=Pearls_and_Pirates
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:29
 msgid "PaP"
-msgstr ""
+msgstr "İvK"
+
 
 #. [campaign]: id=Pearls_and_Pirates
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:37
 msgid "1x enemies, 70% XP"
-msgstr ""
+msgstr "1x düşman, %70 XP"
+
 
 #. [campaign]: id=Pearls_and_Pirates
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:37
 msgid "Easy"
-msgstr ""
+msgstr "Kolay"
+
 
 #. [campaign]: id=Pearls_and_Pirates
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:38
 msgid "2x enemies, 90% XP"
-msgstr ""
+msgstr "2x düşman, %90 XP"
+
 
 #. [campaign]: id=Pearls_and_Pirates
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:38
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
+
 
 #. [campaign]: id=Pearls_and_Pirates
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:39
 msgid "3x enemies, 100% XP"
-msgstr ""
+msgstr "3x düşman, %100 XP"
+
 
 #. [campaign]: id=Pearls_and_Pirates
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:39
 msgid "Hard"
-msgstr ""
+msgstr "Zor"
+
 
 #. [campaign]: id=Pearls_and_Pirates
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:40
 msgid "4x enemies, 100% XP"
-msgstr ""
+msgstr "4x düşman, %100 XP"
+
 
 #. [campaign]: id=Pearls_and_Pirates
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:40
 msgid "Deadly"
-msgstr ""
+msgstr "Ölümcül"
+
 
 #. [campaign]: id=Pearls_and_Pirates
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:42
@@ -70,12 +80,14 @@ msgid ""
 "A sleepy fishing village on Wesnoth’s west coast finds itself suddenly beset "
 "by corsairs. With requests for royal aid falling on deaf ears, the villagers "
 "must join forces with the local merfolk and bring the fight to the pirates."
-msgstr ""
+msgstr "Wesnoth’un batı kıyısındaki sakin bir balıkçı köyü, birdenbire korsanların saldırısına uğrar. Kraliyet yardımı talepleri duymazdan gelinince köylüler, yerel susallarla güç birliği yaparak savaşı korsanlara taşımak zorunda kalır."
+
 
 #. [campaign]: id=Pearls_and_Pirates
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:44
 msgid "(Novice level, 5 scenarios.)"
-msgstr ""
+msgstr "(Acemi seviyesi, 5 senaryo.)"
+
 
 #. [campaign]: id=Pearls_and_Pirates
 #. this campaign is not a direct continuation of the story and characters, but is next chronologically and is the recommended next campaign
@@ -83,108 +95,128 @@ msgstr ""
 msgid ""
 "The saga continues in\n"
 "<i>The Deceiver’s Gambit</i>"
-msgstr ""
+msgstr "Destan devam ediyor:
+
 
 #. [about]
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:52
 msgid "Author"
-msgstr ""
+msgstr "Yazar"
+
 
 #. [about]
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:58
 msgid "Art"
-msgstr ""
+msgstr "Sanat"
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:116
 msgid ""
 "I have so much gold! Unless I’m already winning easily, I should make sure "
 "to take full advantage of our treasury."
-msgstr ""
+msgstr "Bu kadar çok altınım var! Zaten kolayca kazanmıyorsam hazineden tam anlamıyla yararlandığımdan emin olmalıyım."
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:120
 msgid ""
 "Many hands make light work, in war as well as peace. Even the most "
 "experienced fighter will fall in the face of numbers."
-msgstr ""
+msgstr "Savaşta da barışta da el ele verilince iş hafifler. En deneyimli savaşçı bile sayı üstünlüğü karşısında düşebilir."
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:135
 msgid "No! Not like this..."
-msgstr ""
+msgstr "Hayır! Böyle değil..."
+
 
 #. [message]: speaker=Rael
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:148
 msgid "What will Thea do without me..."
-msgstr ""
+msgstr "Thea bensiz ne yapacak..."
+
 
 #. [message]: speaker=Elyn
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:161
 msgid "Argh! I’ve breathed my last!"
-msgstr ""
+msgstr "Ah! Son nefesimi verdim!"
+
 
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:174
 msgid "The depths have taken me..."
-msgstr ""
+msgstr "Derinlikler beni aldı..."
+
 
 #. [achievement_group]
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:26
 msgid "Complete <i>Pirates!</i> without losing any units."
-msgstr ""
+msgstr "<i>Korsanlar!</i> senaryosunu hiç birim kaybetmeden tamamlayın."
+
 
 #. [achievement_group]
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:26
 msgid "Scenario 1: Overprotective"
-msgstr ""
+msgstr "Senaryo 1: Aşırı Koruyucu"
+
 
 #. [achievement_group]
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:27
 msgid ""
 "Defeat an enemy leader before your allies arrive in <i>Swimming with "
 "Serpents</i>."
-msgstr ""
+msgstr "<i>Yılanlarla Yüzmek</i> senaryosunda müttefikleriniz gelmeden önce bir düşman lideri yenin."
+
 
 #. [achievement_group]
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:27
 msgid "Scenario 2: The Best Defense..."
-msgstr ""
+msgstr "Senaryo 2: En İyi Savunma..."
+
 
 #. [achievement_group]
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:28
 msgid "Defeat the enemy leader in <i>Desolation</i>."
-msgstr ""
+msgstr "<i>Issızlık</i> senaryosunda düşman lideri yenin."
+
 
 #. [achievement_group]
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:28
 msgid "Scenario 3: Little Red Riding Hood"
-msgstr ""
+msgstr "Senaryo 3: Kırmızı Başlıklı Kız"
+
 
 #. [achievement_group]
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:29
 msgid "Complete <i>Lee Shore</i> without freeing any slaves."
-msgstr ""
+msgstr "<i>Olta Kıyısı</i> senaryosunu hiçbir köleyi kurtarmadan tamamlayın."
+
 
 #. [achievement_group]
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:29
 msgid "Scenario 4: Tunnel Vision"
-msgstr ""
+msgstr "Senaryo 4: Tünel Görüşü"
+
 
 #. [achievement_group]
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:30
 msgid "Scenario 5: Vendetta"
-msgstr ""
+msgstr "Senaryo 5: Kan Davası"
+
 
 #. [achievement_group]
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:30
 msgid "Strike the final blow in <i>Lady Maudie</i> with Thea."
-msgstr ""
+msgstr "<i>Leydi Maudie</i> senaryosunda son darbeyi Thea ile vurun."
+
 
 #. [scenario]: id=01_Pirates
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:9
 msgid "Pirates!"
-msgstr ""
+msgstr "Korsanlar!"
+
 
 #. [part]
 #. S01 intro
@@ -194,7 +226,8 @@ msgid ""
 "lies a place called the Bay of Pearls. The waters of the bay are calm, and "
 "clear, and warm even in winter. But its most notable feature is that for "
 "which it is named — abundant beds of oysters and a vast wealth in pearls."
-msgstr ""
+msgstr "Westin'in çok kuzeyinde, Wesnoth Krallığı'nın batı kıyısında İnci Körfezi adı verilen bir yer bulunur. Körfezin suları sakin, berrak ve kışın bile ılıktır. Ancak bu yerin en dikkat çekici özelliği adını aldığı şeydir: bol miktarda istiridye yatağı ve muazzam bir inci zenginliği."
+
 
 #. [part]
 #. S01 intro
@@ -204,7 +237,8 @@ msgid ""
 "sometimes with swords. But in the end the Crown declared it the domain of "
 "the merfolk, those most suited to care for and harvest the bay’s undersea "
 "resources."
-msgstr ""
+msgstr "Pek çok kişi körfezi kendine mal etmeye çalışmış; kimi zaman sözlerle, kimi zaman kılıçlarla. Ancak sonunda Taç, körfezi su altı kaynaklarını bakıp biçmeye en uygun varlıklar olan susalların toprağı ilan etmiştir."
+
 
 #. [part]
 #. S01 intro
@@ -212,7 +246,8 @@ msgstr ""
 msgid ""
 "Attracted by the temperate climate and easily-accessible wealth, a large and "
 "thriving community of mermen quickly sprang up along the bay’s eastern coast."
-msgstr ""
+msgstr "Ilıman iklimi ve kolayca ulaşılabilir zenginliğiyle cezbedilen denizerkekleri, körfezin doğu kıyısı boyunca hızla büyük ve canlı bir topluluk oluşturdu."
+
 
 #. [part]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:38
@@ -221,7 +256,8 @@ msgid ""
 "human fishers and farmers began to settle. Though not wealthy — at least not "
 "compared with their merfolk neighbors — the human hamlets afforded a simple, "
 "secure life for those disinterested in the wider kingdom’s hustle and bustle."
-msgstr ""
+msgstr "İncilerin daha az bulunduğu batı kıyısında ise dayanıklı insan balıkçı ve çiftçi klanları yerleşmeye başladı. Zengin değillerdi, en azından susal komşularıyla kıyaslandığında. Ama insan köyleri, krallığın gürültülü kalabalığından uzak durmak isteyenler için sade ve güvenli bir yaşam sunuyordu."
+
 
 #. [part]
 #. S01 intro
@@ -229,7 +265,8 @@ msgstr ""
 msgid ""
 "But for every man content with a quiet life, there is another who seeks to "
 "take it from him..."
-msgstr ""
+msgstr "Ama sakin bir yaşamdan memnun her insan için, onu ondan almaya çalışan bir başkası vardır..."
+
 
 #. [side]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:64
@@ -239,13 +276,15 @@ msgstr ""
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:92
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:111
 msgid "Corsairs"
-msgstr ""
+msgstr "Korsanlar"
+
 
 #. [event]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:100
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:101
 msgid "Rochelm"
-msgstr ""
+msgstr "Rochelm"
+
 
 #. [message]: speaker=narrator
 #. notice that appears at the beginning of the scenario if you select Deadly difficulty
@@ -254,23 +293,27 @@ msgid ""
 "NOTE: ‘Deadly’ difficulty is intended to be a moderate challenge even for "
 "experienced players! If you’re new to Wesnoth, I strongly suggest trying a "
 "lower difficulty."
-msgstr ""
+msgstr "NOT: ‘Ölümcül’ zorluk seviyesi, deneyimli oyuncular için bile orta düzeyde bir meydan okuma olarak tasarlanmıştır! Wesnoth'a yeniyseniz daha düşük bir zorluk seviyesini denemenizi şiddetle tavsiye ederim."
+
 
 #. [set_menu_item]: id=tutorial_toggle_on
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:120
 msgid "Tip Dialogue &amp; Popups: On"
-msgstr ""
+msgstr "İpucu Diyalogları ve Açılır Pencereler: Açık"
+
 
 #. [set_menu_item]: id=tutorial_toggle_off
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:132
 msgid "Tip Dialogue &amp; Popups: Off"
-msgstr ""
+msgstr "İpucu Diyalogları ve Açılır Pencereler: Kapalı"
+
 
 #. [message]: role=fisher
 #. a peasant is running towards town, calling out to the village leader
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:178
 msgid "Alderman! Alderman Rael!"
-msgstr ""
+msgstr "Muhtar! Muhtar Rael!"
+
 
 #. [message]: role=fisher
 #. a peasant is running towards town, calling out to the village leader
@@ -278,30 +321,35 @@ msgstr ""
 msgid ""
 "(panting) Pirates! Alderman, it’s pirates! Burned my farm... (pant) Stole my "
 "skiff... (pant) Thought you should know..."
-msgstr ""
+msgstr "(soluyarak) Korsanlar! Muhtar, korsanlar var! Çiftliğimi yaktılar... (nefes nefese) Tekneimi çaldılar... (nefes nefese) Bilmenizi istedim..."
+
 
 #. [message]: speaker=Rael
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:199
 msgid "Pirates? What, here?!"
-msgstr ""
+msgstr "Korsanlar mı? Ne, burada mı?!"
+
 
 #. [event]
 #. this is a fishing boat name, and a pun on the phrase "seize the day"
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:207
 msgid "Seas the Day"
-msgstr ""
+msgstr "Denizi Yakala"
+
 
 #. [event]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:209
 msgid "Boryn"
-msgstr ""
+msgstr "Boryn"
+
 
 #. [message]: speaker=Rael
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:217
 msgid ""
 "Blast! Haven’t seen outlaws in these parts since I were a lad... these ones "
 "even dare to leave their faces uncovered. What do you make of it, Thea?"
-msgstr ""
+msgstr "Kahretsin! Buralarda gençliğimden beri hiç eşkıya görmemiştim... Bunlar yüzlerini bile açık bırakma cüretini gösteriyorlar. Ne düşünüyorsun, Thea?"
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:221
@@ -309,7 +357,8 @@ msgid ""
 "I don’t know, Father. This is a strange thing. These outlaws couldn’t’ve "
 "come from the other villages — the other aldermen won’t stand for "
 "troublemakers."
-msgstr ""
+msgstr "Bilmiyorum, Baba. Bu tuhaf bir şey. Bu eşkıyalar diğer köylerden gelmiş olamaz; diğer muhtarlar baş belasına tahammül etmez."
+
 
 #. [message]: speaker=Rael
 #. "waxed" can be substituted with any other kind of routine bow maintenance
@@ -317,27 +366,31 @@ msgstr ""
 msgid ""
 "Well, it’s a good thing I’ve been keeping my old war-bow waxed. There’s "
 "nothing for it but to drive them off. Constable Elyn, report!"
-msgstr ""
+msgstr "Neyse ki eski savaş yayımı yağlı tutmuşum. Onları kovmaktan başka çare yok. Muhafız Elyn, rapor ver!"
+
 
 #. [message]: speaker=Elyn
 #. Elyn has just been woken up, and is getting ready to help fight a battle
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:241
 msgid "(yawn) It’s too early for this, Pa..."
-msgstr ""
+msgstr "(esneme) Bunun için çok erken, Baba..."
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:245
 msgid ""
 "I’ll get to our keep and rally the farmers too; get a posse together. It’ll "
 "take more than the three of us to win this fight."
-msgstr ""
+msgstr "İçkaleye gidip çiftçileri de toplarım; bir müfreze kurarım. Bu savaşı kazanmak için üçümüzden fazlasına ihtiyaç var."
+
 
 #. [message]: speaker=Rael
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:251
 msgid ""
 "Well done for taking the initiative, Thea. Let’s show these pirates what we "
 "stand for. What do you say, lads?"
-msgstr ""
+msgstr "İnisiyatif aldığın için aferin, Thea. Şu korsanlara ne olduğumuzu gösterelim. Ne dersiniz, dostlar?"
+
 
 #. [message]: role=fisher
 #. [message]: speaker=Lookout
@@ -349,29 +402,34 @@ msgstr ""
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:153
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:491
 msgid "Rah!"
-msgstr ""
+msgstr "Hay aksi!"
+
 
 #. [objective]: condition=win
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:264
 msgid "Defeat the enemy leader"
-msgstr ""
+msgstr "Düşman liderini yen"
+
 
 #. [objective]: condition=lose
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:268
 msgid "Death of Thea, Rael, or Elyn"
-msgstr ""
+msgstr "Thea, Rael veya Elyn'in ölümü"
+
 
 #. [message]: speaker=Rael
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:289
 msgid ""
 "(whistles) There’s more of them than I expected. We’re going to be "
 "outnumbered until we have the time and gold to rally a larger force."
-msgstr ""
+msgstr "(ıslık çalar) Beklenenden fazlalar. Daha büyük bir kuvvet toplamak için zaman ve altın bulana kadar sayıca üstün olacaklar."
+
 
 #. [display_tip]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:292
 msgid "Fighting from a Disadvantage"
-msgstr ""
+msgstr "Dezavantajlı Konumda Savaşmak"
+
 
 #. [display_tip]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:293
@@ -389,18 +447,32 @@ msgid ""
 "use the time of day to your advantage. <i><b>Slowly build up your army\n"
 "while whittling down the opponent’s.</b></i>"
 msgstr ""
+"Bu senaryoda düşmanınız sizden çok daha fazla altınla başlar.\n"
+"Daha da kötüsü, yalnızca Köylü ve Ormancıları işe alabilirsiniz:\n"
+"bastırma silahlarla ucuz ama zayıf savaşçılar, asgari\n"
+"eğitimli. Köylüler ve Ormancılar seviye 0 birimlerdir ve bu nedenle\n"
+"Kontrol Bölgesi oluşturmazlar (düşmanlar etraflarında serbestçe hareket edebilir).\n"
+"\n"
+"Neyse ki siz yapay zekamızdan çok daha zekisiniz (muhtemelen) ve bu\n"
+"senaryonun cömert bir tur sınırı var. Tüm ordunuzu hemen harcamayın.\n"
+"Akıllıca oynayın — altın kazanmak için köyleri kontrol edin ve\n"
+"günün saatini avantajınıza kullanın. <i><b>Ordunuzu yavaş yavaş güçlendirin,\n"
+"düşmanınızınkini azaltın.</b></i>"
+
 
 #. [message]: speaker=Elyn
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:308
 msgid ""
 "We’ll need more experienced fighters, too. You’ve done your best to train me "
 "and Thea, Pa, but most of the farmers are just that... farmers."
-msgstr ""
+msgstr "Daha deneyimli savaşçılara da ihtiyacımız olacak. Beni ve Thea'yı eğitmek için elinden geleni yaptın, Baba, ama çiftçilerin çoğu yalnızca... çiftçi."
+
 
 #. [display_tip]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:311
 msgid "Experience Per Kill"
-msgstr ""
+msgstr "Her Öldürme Başına Deneyim"
+
 
 #. [display_tip]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:312
@@ -417,12 +489,21 @@ msgid ""
 "0 XP for attacking a level 0 opponent, 1 XP for attacking a level 1 "
 "opponent, etc."
 msgstr ""
+"Köylüler ve Ormancılar zayıf olabilir, ama bir sonraki seviyeye ulaşmak için\n"
+"çok az deneyime ihtiyaç duyarlar. Birimler öldürdükleri düşmanın seviyesi başına 8 XP kazanır\n"
+"(örneğin seviye 2 düşman öldürmek 16 XP kazandırır). Seviye 0 düşman\n"
+"öldürmek 4 XP kazandırır.\n"
+"\n"
+"Birimler düşmanlarını öldürmese bile yalnızca saldırarak XP kazanır:\n"
+"Seviye 0 düşmana saldırı için 0 XP, seviye 1 düşmana saldırı için 1 XP, vb."
+
 
 #. [message]: speaker=Elyn
 #. Elyn has just defeated a bandit
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:338
 msgid "Take that! Don’t mess with Rochelm!"
-msgstr ""
+msgstr "Al bakalım! Rochelm ile uğraşma!"
+
 
 #. [message]: speaker=unit
 #. The bandit is dying, and is insulting his killers. "leeches" means that the "pearl-folk" (the people living around the Bay of Pearls) didn't earn the pearls.
@@ -430,33 +511,39 @@ msgstr ""
 msgid ""
 "Pfft. You’re just leeches... All you pearl-folk are. You’ll get... what’s "
 "coming to you..."
-msgstr ""
+msgstr "Püf. Siz sadece sülüksünüz... İnci halkının hepsi öyle. Hak ettiğinizi... alacaksınız..."
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:396
 msgid "Well, that sounded ominous."
-msgstr ""
+msgstr "Pekâlâ, bu uğursuz geldi."
+
 
 #. [event]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:402
 msgid "Crier"
-msgstr ""
+msgstr "Haberci"
+
 
 #. [message]: speaker=Crier
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:406
 msgid "Hear ye! Word from Weldyn! I bring a proclamation from King Garard!"
-msgstr ""
+msgstr "Duyun! Weldyn'den haber! Kral Garard'ın bir bildirgesini getiriyorum!"
+
 
 #. [message]: speaker=Rael
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:410
 msgid "Oh? Fortunate timing. Mayhaps this will explain our bandit attack."
-msgstr ""
+msgstr "Oh? Şanslı bir zamanlama. Belki bu bize eşkıya saldırısını açıklar."
+
 
 #. [message]: speaker=Crier
 #. "goodman" is an archaic term of respect, similar to "good sir".
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:415
 msgid "No news of outlaws, goodman. Ahem..."
-msgstr ""
+msgstr "Eşkıya haberi yok, efendim. Ee..."
+
 
 #. [message]: speaker=narrator
 #. a crier is reading from a scroll
@@ -466,7 +553,8 @@ msgid ""
 "Garard, second of that name, calls forth a force of stout-hearted men to "
 "wage war against the orcs of the north, being those who have long-threatened "
 "our home."
-msgstr ""
+msgstr "Ortak savunma ve yeni toprakların açılması adına, bu adı taşıyan ikinci Majestleri Garard, uzun süredir yurdunuzu tehdit eden kuzey orklarına karşı savaşmaları için cesur yürekli bir kuvveti göreve çağırmaktadır."
+
 
 #. [message]: speaker=narrator
 #. a crier is reading from a scroll
@@ -475,7 +563,8 @@ msgid ""
 "Of-age free men holding in excess of ten acres are obligated to purchase "
 "spear, shield, helmet, and knife, and shall report for muster at the "
 "fortress of Halstead within five weeks time."
-msgstr ""
+msgstr "On dönümden fazla toprağa sahip reşit özgür erkekler mızrak, kalkan, miğfer ve bıçak satın almakla yükümlüdür; beş hafta içinde Halstead kalesindeki toplanma yerine rapor vereceklerdir."
+
 
 #. [message]: speaker=narrator
 #. a crier is reading from a scroll
@@ -485,37 +574,46 @@ msgid ""
 "\n"
 "— His Majesty Garard II, King of Wesnoth"
 msgstr ""
+"Duyun ve itaat edin.\n"
+"\n"
+"— His Majesty Garard II, King of Wesnoth"
+
 
 #. [message]: speaker=Crier
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:442
 msgid "The message is given. Onwards to the next village."
-msgstr ""
+msgstr "Mesaj iletildi. Bir sonraki köye doğru."
+
 
 #. [message]: speaker=Rael
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:451
 msgid "Ten acres... well, that’d be most of us. Blimey. But it is our duty."
-msgstr ""
+msgstr "On dönüm... peki, bu bizim çoğumuzu kapsar. Vay canına. Ama bu bizim görevimiz."
+
 
 #. [message]: speaker=Elyn
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:455
 msgid ""
 "You’re leading the village to war? But you’re our only veteran fighter. What "
 "will we do if the outlaws come back?"
-msgstr ""
+msgstr "Köyü savaşa mı götürüyorsun? Ama sen bizim tek deneyimli savaşçımızsın. Eşkıyalar geri gelirse ne yaparız?"
+
 
 #. [message]: speaker=Rael
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:459
 msgid ""
 "I have faith in you, son. Take good care of your sister. The lads and I will "
 "return before you know it."
-msgstr ""
+msgstr "Sana güveniyorum, oğlum. Kız kardeşine iyi bak. Oğlanlar ve ben dönmeden önce haberin olmaz."
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:477
 msgid ""
 "This battle is dragging on... if we can’t finish off these pirates soon, we "
 "won’t have enough spare hands to bring in the harvest."
-msgstr ""
+msgstr "Bu muharebe uzuyor... Bu korsanları kısa sürede bitiremessek, hasatı kaldırmaya yetecek elimiz olmaz."
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:484
@@ -523,12 +621,14 @@ msgid ""
 "Brr, it’s starting to snow and we’re still stuck fighting. Our crops are all "
 "dead! Even if we win this battle, we’ll be sure to starve during the "
 "winter..."
-msgstr ""
+msgstr "Brr, kar yağmaya başlıyor ve hâlâ savaşmaya devam ediyoruz. Ekinlerimizin hepsi mahvoldu! Bu savaşı kazansak bile kışın açlıktan öleceğiz..."
+
 
 #. [scenario]: id=02_Swimming_with_Serpents
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:9
 msgid "Swimming with Serpents"
-msgstr ""
+msgstr "Yılanlarla Yüzmek"
+
 
 #. [part]
 #. S02 intro. Alderman Rael left the village months ago, and has not returned.
@@ -536,31 +636,36 @@ msgstr ""
 msgid ""
 "But Rael did not return. Autumn turned to winter, winter to spring, and "
 "trouble once again returned to the Peninsula of Pearls."
-msgstr ""
+msgstr "Ama Rael dönmedi. Sonbahar kışa, kış ilkbahara döndü ve İnci Yarımadası'na sıkıntı yeniden geldi."
+
 
 #. [side]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:56
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:71
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:115
 msgid "Naga"
-msgstr ""
+msgstr "Naga"
+
 
 #. [event]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:104
 msgid "Lookout"
-msgstr ""
+msgstr "Gözcü"
+
 
 #. [message]: speaker=Lookout
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:120
 msgid ""
 "Constable Elyn, sir! Ship on the horizon! I don’t recognize the trim... and "
 "it has black sails!"
-msgstr ""
+msgstr "Muhafız Elyn, efendim! Ufukta gemi var! Donanımı tanımıyorum... ve siyah yelkeni var!"
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:124
 msgid "Pirates again? Why has the Crown not dealt with this!"
-msgstr ""
+msgstr "Yine korsanlar mı? Neden Taç bu işe el atmadı!"
+
 
 #. [message]: speaker=Elyn
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:128
@@ -568,7 +673,8 @@ msgid ""
 "I’m sure Pa would’ve told the army about the thieves who attacked us. The "
 "lords must be too busy to pay any mind to free-holds like us. But maybe the "
 "merfolk—"
-msgstr ""
+msgstr "Eminim ki Baba bize saldıran hırsızları orduya bildirmiştir. Beyler bizim gibi özgür çiftliklere önem verecek kadar meşgul değildir. Ama belki susallar—"
+
 
 #. [message]: speaker=Maudie
 #. Maudie is speaking to adults, not children. "Children" is used in a demeaning way here.
@@ -576,105 +682,123 @@ msgstr ""
 msgid ""
 "Hello, children. This is a shakedown. Empty your treasury or we’ll come and "
 "take the pearls ourselves."
-msgstr ""
+msgstr "Merhaba, çocuklar. Bu bir soygun. Hazineyi boşaltın yoksa geliriz ve incileri kendimiz alırız."
+
 
 #. [message]: speaker=Elyn
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:148
 msgid "Pirate filth. Like hell you will. What do you say, lads?"
-msgstr ""
+msgstr "Korsan pisi. Allah'ın belası. Ne dersiniz, dostlar?"
+
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:157
 msgid "Charming. My new allies will make short work of you."
-msgstr ""
+msgstr "Ne sevimli. Yeni müttefiklerim sizi kısa sürede işinizi bitirir."
+
 
 #. [event]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:164
 msgid "Pseail"
-msgstr ""
+msgstr "Pseail"
+
 
 #. [event]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:175
 msgid "Briloss"
-msgstr ""
+msgstr "Briloss"
+
 
 #. [message]: speaker=leader3
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:181
 msgid "Hisss... We are ready, Missstresss."
-msgstr ""
+msgstr "Tısss... Hazırızzzz, Hanımefendiii."
+
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:185
 msgid ""
 "Kill their warriors, then shackle the others and march them north. I’ve more "
 "important places to be. Ta ta!"
-msgstr ""
+msgstr "Savaşçılarını öldürün, sonra diğerlerini zincire vurun ve kuzeye yürütün. Daha önemli yerlerim var. Hoşçakalın!"
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:195
 msgid "Snake monsters! The pirates have brought naga!"
-msgstr ""
+msgstr "Yılan canavarlar! Korsanlar naga getirmiş!"
+
 
 #. [message]: speaker=Elyn
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:199
 msgid ""
 "Curse it all! Thea, rally the farmers and keep yourself safe. I’ve got to "
 "take the old skiff and warn the merfolk that naga are here."
-msgstr ""
+msgstr "Lanet olsun! Thea, çiftçileri topla ve kendini koru. Eski tekneyi alıp susalları nagaların burada olduğu konusunda uyarmam gerekiyor."
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:203
 msgid ""
 "Rally the farmers? What farmers? Most of our fighting-age men are away with "
 "Dad."
-msgstr ""
+msgstr "Çiftçileri topla mı? Hangi çiftçiler? Savaşabilecek yaştaki erkeklerin çoğu Baba ile birlikte gitti."
+
 
 #. [object]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:211
 msgid "Manpower Shortage"
-msgstr ""
+msgstr "İnsan Gücü Kıtlığı"
+
 
 #. [object]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:212
 msgid ""
 "Peasants and Woodsmen cost twice as much to recruit (but not to recall)."
-msgstr ""
+msgstr "Köylü ve Ormancıları işe almak iki kat daha pahalıdır (ancak geri çağırmak değil)."
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:216
 msgid ""
 "Besides, the army hasn’t helped us. What makes you think the merfolk will?"
-msgstr ""
+msgstr "Üstelik ordu bize yardım etmedi. Susalların yardım edeceğini düşünmek ne seni öyle düşündürüyor?"
+
 
 #. [message]: speaker=Elyn
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:220
 msgid ""
 "Merfolk are ancient enemies of the naga, and are part of the kingdom just "
 "the same as us. They’ll help us, but I have to get the word out!"
-msgstr ""
+msgstr "Susallar, naganın kadim düşmanlarıdır ve tıpkı bizim gibi krallığın bir parçasıdır. Bize yardım ederler, ama haberi iletmem gerekiyor!"
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:229
 msgid ""
 "First Dad leaves, then my brother... It was nice while it lasted. I guess "
 "it’s up to me now."
-msgstr ""
+msgstr "Önce Baba gitti, sonra kardeşim... Sürdüğü sürece güzeldi. Sanırım artık her şey bana kalmış."
+
 
 #. [objective]: condition=win
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:237
 msgid ""
 "Survive until reinforcements arrive at the east edge of the map on turn 13"
-msgstr ""
+msgstr "13. turda haritanın doğu kenarına takviye gelene kadar hayatta kalın"
+
 
 #. [objective]: condition=win
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:241
 msgid "Then, defeat the enemy leaders"
-msgstr ""
+msgstr "Ardından düşman liderleri yenin"
+
 
 #. [objective]: condition=lose
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:245
 msgid "Death of Thea"
-msgstr ""
+msgstr "Thea'nın ölümü"
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:266
@@ -682,12 +806,14 @@ msgid ""
 "Careful, everyone. Naga are powerful in water, but clumsier than we are on "
 "land. Don’t fight on the coast. Flee inland if we need to, and then cut them "
 "to pieces!"
-msgstr ""
+msgstr "Dikkatli olun, herkes. Naga suda güçlüdür ama karada bizden daha hantaldır. Kıyıda savaşmayın. Gerekirse iç kısımlara kaçın, sonra parçalara bölün!"
+
 
 #. [display_tip]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:269
 msgid "Mixed Terrain"
-msgstr ""
+msgstr "Karışık Arazi"
+
 
 #. [display_tip]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:270
@@ -701,18 +827,27 @@ msgid ""
 "on a particular hex and want to see exactly what terrains are included,\n"
 "right-click the hex and select <i>Terrain Description</i>."
 msgstr ""
+"Bazı altıgenler <i><b>birden fazla arazi türünün karışımıdır.</b></i> Köprüler, örneğin,\n"
+"hem sığ su hem de düz arazi olarak sayılır; geçen birim için hangisi daha iyiyse.\n"
+"\n"
+"Belirli bir altıgendeki birimin savunması (kaçınma şansı) veya hareketi\n"
+"hakkında kafanız karışıksa ve tam olarak hangi arazilerin dahil olduğunu görmek istiyorsanız,\n"
+"altıgene sağ tıklayın ve <i>Arazi Açıklaması</i>'nı seçin."
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:280
 msgid ""
 "But we can’t afford to give up too many villages either. We’ll have a hard "
 "time recovering if our enemies’ gold reserves get out of hand."
-msgstr ""
+msgstr "Ama çok fazla köy de kaybetmeye gücümüz yetmez. Düşmanlarımızın altın rezervleri kontrolden çıkarsa toparlanmamız çok güç olur."
+
 
 #. [display_tip]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:283
 msgid "Village Control"
-msgstr ""
+msgstr "Köy Kontrolü"
+
 
 #. [display_tip]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:284
@@ -726,6 +861,15 @@ msgid ""
 "so capturing just a small handful of villages from your\n"
 "opponents can make a big difference."
 msgstr ""
+"Hatırlatma olarak her köyün tur başına 1 altın gelir sağladığını\n"
+"ve 1 birimin bakım masrafını karşıladığını unutmayın. Seviye 2 birimler 2\n"
+"bakım masrafı, seviye 3 birimler 3 bakım masrafı öder, vb. Ancak seviye 0 birimler,\n"
+"Köylüler ve Ormancılar gibi, hiç bakım masrafı ödemez.\n"
+"\n"
+"<i><b>Düşmanlar da sizin gibi gelir toplar ve bakım masrafı öder</b></i>,\n"
+"bu nedenle rakiplerinizden yalnızca birkaç köy almak\n"
+"büyük fark yaratabilir."
+
 
 #. [message]: speaker=Thea
 #. Thea is waiting for her brother Elyn to return, bringing merfolk soldiers to help fight
@@ -733,66 +877,76 @@ msgstr ""
 msgid ""
 "I see movement on the horizon! Something is coming closer... it’ll reach us "
 "in barely an hour. Is Elyn finally back?"
-msgstr ""
+msgstr "Ufukta hareket görüyorum! Bir şey yaklaşıyor... Bize ulaşması bir saat bile sürmez. Elyn sonunda döndü mü?"
+
 
 #. [message]: speaker=Diondra
 #. "two-legs" is meant to be a neutral (not insulting) term for humans
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:325
 msgid ""
 "Hail, two-legs! I see you are imperiled! I knew I smelled the stench of naga."
-msgstr ""
+msgstr "Selam, iki bacaklı! Tehlikede olduğunu görüyorum! Naga kokusunu hissedebilirdim zaten."
+
 
 #. [message]: race=human
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:333
 msgid "Hooray! The merfolk have come! Constable Elyn has brought the merfolk!"
-msgstr ""
+msgstr "Yaşasın! Susallar geldi! Muhafız Elyn susalları getirdi!"
+
 
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:337
 msgid ""
 "Elyn? I know no such man. We come hunting a ship with black sails. It has "
 "been the cause of much mischief in our waters."
-msgstr ""
+msgstr "Elyn mi? Böyle birini tanımıyorum. Biz siyah yelkenli bir gemiyi avlamaya geldik. Bu gemi sularımızda büyük yaramazlıkların nedeni oldu."
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:341
 msgid ""
 "That’s the same ship that launched this attack on our village. But you say "
 "my brother isn’t with you? What can have happened to him?"
-msgstr ""
+msgstr "Bu, köyümüze saldıran aynı gemi. Ama kardeşimin sizinle olmadığını söylüyorsunuz? Ona ne olmuş olabilir?"
+
 
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:345
 msgid ""
 "This is a matter for after the battle. First, we must aid you against these "
 "vermin!"
-msgstr ""
+msgstr "Bu, savaştan sonrası için bir mesele. Önce bu zararlılara karşı size yardım etmeliyiz!"
+
 
 #. [object]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:353
 msgid "New Recruits"
-msgstr ""
+msgstr "Yeni Askerler"
+
 
 #. [object]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:354
 msgid ""
 "Merman Fighters and Hunters are level 1 units: proper fighters, unlike your "
 "untrained Peasants and Woodsmen."
-msgstr ""
+msgstr "Deniz Eri Savaşçıları ve Avcıları seviye 1 birimlerdir: eğitimsiz Köylü ve Ormancılarınızın aksine gerçek savaşçılar."
+
 
 #. [object]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:356
 msgid ""
 "Compared with level 1 Spearmen and Bowmen, Merman Fighters and Hunters have "
 "improved defense (chance to evade) and speed, but lower damage."
-msgstr ""
+msgstr "Seviye 1 Mızrakçı ve Okçularla kıyaslandığında, Deniz Eri Savaşçıları ve Avcıları daha iyi savunmaya (kaçınma şansı) ve hıza sahiptir, ancak daha az hasar verir."
+
 
 #. [objective]: condition=win
 #. [objectives]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:368
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:377
 msgid "Defeat the enemy leaders"
-msgstr ""
+msgstr "Düşman liderleri yen"
+
 
 #. [objective]: condition=lose
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:372
@@ -800,17 +954,20 @@ msgstr ""
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:379
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:284
 msgid "Death of Thea or Diondra"
-msgstr ""
+msgstr "Thea veya Diondra'nın ölümü"
+
 
 #. [message]: speaker=unit
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:427
 msgid "Accursssed mermaid! We are lossst... I mussst essscape..."
-msgstr ""
+msgstr "Lanetli denizkızı! Kaybettikkkk... Kaçmalıyımmm..."
+
 
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:444
 msgid "Begone! Flee and cower in your dark caves and silent grottos!"
-msgstr ""
+msgstr "Defol! Kaç ve karanlık mağaralarında, sessiz kovuklarında sinip uzan!"
+
 
 #. [message]: race=human
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:452
@@ -818,43 +975,50 @@ msgid ""
 "Thank you for helping us, mermaid of the bay! But what do we do now? Many of "
 "us are hurt. Our leader is away at war, and our constable is missing — or "
 "dead."
-msgstr ""
+msgstr "Körfezin denizkızı, bize yardım ettiğin için teşekkür ederiz! Ama şimdi ne yapacağız? Çoğumuz yaralı. Liderimiz savaşta, muhafızımız kayıp ya da ölmüş."
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:456
 msgid ""
 "No, my brother couldn’t be... not like that. It’d take more than a few "
 "snakes to kill Constable Elyn Nicolin. I know we’ll see him again."
-msgstr ""
+msgstr "Hayır, kardeşim... böyle olamaz. Muhafız Elyn Nicolin'i öldürmek birkaç yılandan fazlasını gerektirir. Onu yeniden göreceğimizi biliyorum."
+
 
 #. [message]: race=human
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:464
 msgid ""
 "But he’s not here now. What happens the next time the pirates come, "
 "Constable Thea?"
-msgstr ""
+msgstr "Ama şu an burada değil. Korsanlar bir dahaki sefer geldiğinde ne olacak, Muhafız Thea?"
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:468
 msgid "Constable Thea? I’m not— err..."
-msgstr ""
+msgstr "Muhafız Thea mı? Ben değil— aman..."
+
 
 #. [event]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:470
 msgid "Constable Thea"
-msgstr ""
+msgstr "Muhafız Thea"
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:473
 msgid "Alright. Mermaid, are you willing to take the fight to these pirates?"
-msgstr ""
+msgstr "Tamam. Denizkızı, bu korsanlara karşı savaşmaya hazır mısın?"
+
 
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:477
 msgid ""
 "Of course. The fleeing naga follow the coast south and west. I must go in "
 "pursuit!"
-msgstr ""
+msgstr "Tabii ki. Kaçan naga kıyı boyunca güneye ve batıya doğru gidiyor. Takibe girmeliyim!"
+
 
 #. [message]: speaker=Thea
 #. "What do you say, lads?" echoes Rael's and Elyn's words earlier
@@ -864,14 +1028,16 @@ msgid ""
 "attack, or wait for outside aid that may never come. We’re going to get out "
 "there, hunt down that pirate lady and put an end to this! What do you say, "
 "lads?"
-msgstr ""
+msgstr "O zaman biz de oraya gideceğiz. Bir sonraki saldırıya kadar korkuyla sinmeyeceğiz ya da hiç gelmeyebilecek dış yardım beklemeyeceğiz. Dışarı çıkacağız, o korsan hanımı avlayacağız ve bu işe son vereceğiz! Ne dersiniz, dostlar?"
+
 
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:507
 msgid ""
 "We will not fight here forever, villagers. The black ship is our real "
 "quarry! Let us swiftly vanquish these naga and be done with it."
-msgstr ""
+msgstr "Burada sonsuza kadar savaşmayacağız, köylüler. Siyah gemi asıl avımız! Bu nagaları hızla yenelim ve işi bitirelim."
+
 
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:514
@@ -879,12 +1045,14 @@ msgid ""
 "I cannot fight on behalf of your village any longer, humans. I must pursue "
 "the black ship before it escapes us! You will have to finish this battle "
 "yourselves."
-msgstr ""
+msgstr "Artık köyünüz adına savaşamam, insanlar. Siyah gemi bizi kaçırmadan önce takip etmeliyim! Bu savaşı kendiniz bitirmeniz gerekecek."
+
 
 #. [scenario]: id=03_Desolation
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:9
 msgid "Desolation"
-msgstr ""
+msgstr "Issızlık"
+
 
 #. [part]
 #. S03 intro
@@ -893,7 +1061,8 @@ msgid ""
 "Under Thea’s command, the villagers appointed a handful of guards with "
 "instructions to keep a watchful eye on the horizon. Should trouble return — "
 "or Constable Elyn — they were to send a messenger immediately."
-msgstr ""
+msgstr "Thea'nın komutasında köylüler, ufku gözetlemeleri talimatıyla bir avuç muhafız atadı. Başa bela dönerse ya da Muhafız Elyn gelirse hemen haberci göndereceklerdi."
+
 
 #. [part]
 #. S03 intro
@@ -902,17 +1071,20 @@ msgid ""
 "The rest of the militia provisioned themselves and set off on foot. Guided "
 "by the merfolk, they followed the coast, tracking the fleeing naga around "
 "the Peninsula."
-msgstr ""
+msgstr "Milislerin geri kalanı erzak alarak yaya yola koyuldu. Susalların rehberliğinde kıyıyı izleyerek Yarımada boyunca kaçan nagaları takip ettiler."
+
 
 #. [side]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:68
 msgid "Wild Wolves"
-msgstr ""
+msgstr "Vahşi Kurtlar"
+
 
 #. [event]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:95
 msgid "Stuxton"
-msgstr ""
+msgstr "Stuxton"
+
 
 #. [event]
 #. [event]: id=immobile_derelict
@@ -920,7 +1092,8 @@ msgstr ""
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:302
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:230
 msgid "Great White"
-msgstr ""
+msgstr "Büyük Beyaz"
+
 
 #. [event]
 #. [event]: id=immobile_derelict
@@ -928,7 +1101,8 @@ msgstr ""
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:307
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:231
 msgid "The Garard"
-msgstr ""
+msgstr "Garard"
+
 
 #. [message]: speaker=Diondra
 #. "Your feet are lead" means that Thea is traveling too slowly.
@@ -937,14 +1111,16 @@ msgid ""
 "Your feet are lead, woman of Rochelm. How can we pursue creatures of the "
 "water when you are bound to land? Have you no swift gryphons or sleek boats "
 "to carry you hence?"
-msgstr ""
+msgstr "Ayakların kurşun gibi ağır, Rochelm'li kadın. Sen karaya bağlıyken su yaratıklarını nasıl takip edebiliriz? Seni buradan taşıyacak çevik grifonların ya da şık teknelerin yok mu?"
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:175
 msgid ""
 "Good mermaid, most of us are farmers, not fishers. Elyn took our best "
 "seaworthy boat, and— well, you know that story..."
-msgstr ""
+msgstr "Güzel denizkızı, çoğumuz balıkçı değil, çiftçiyiz. Elyn en iyi denize elverişli teknemizi aldı ve— bilirsin işte o hikayeyi..."
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:179
@@ -952,12 +1128,14 @@ msgid ""
 "But we’re almost upon the fishing village of Stuxton. Mayhaps they’ve had "
 "trouble with pirates too. Even if they aren’t willing to join us, I’m sure "
 "they’ll let us borrow of their fishing fleet."
-msgstr ""
+msgstr "Ama Stuxton balıkçı köyüne neredeyse ulaştık. Belki onlar da korsanlardan belaya girmiştir. Bize katılmak istemeseler bile balık teknelerinden birini ödünç vermelerine eminim."
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:203
 msgid "What?! Stuxton lies in ruins! Wolves feast on corpses in the streets!"
-msgstr ""
+msgstr "Ne?! Stuxton harabeye dönmüş! Sokakta kurtlar cesetlerin üzerinde ziyafet çekiyor!"
+
 
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:207
@@ -965,46 +1143,54 @@ msgid ""
 "There was clearly a battle here, one which has left several bodies. But most "
 "of the village humans are unaccounted for. They are certainly not still "
 "living here."
-msgstr ""
+msgstr "Burada açıkça bir savaş yaşanmış ve birçok ceset bırakmış. Ama köy insanlarının çoğu hesap edilemiyor. Kesinlikle hâlâ burada yaşamıyorlar."
+
 
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:211
 msgid "Still here, however, are their boats. Get them, Thea."
-msgstr ""
+msgstr "Ancak tekneleri hâlâ burada. Onları al, Thea."
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:244
 msgid ""
 "I can do that. The two boats still afloat are damaged and taking on water. "
 "We may have to split our forces if we want to claim both before they sink."
-msgstr ""
+msgstr "Bunu yapabilirim. Hâlâ yüzen iki tekne hasarlı ve su alıyor. Her ikisini batmadan almak istiyorsak kuvvetlerimizi ayırmak zorunda kalabiliriz."
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:248
 msgid ""
 "This will be a quick expedition, but that doesn’t mean we should let down "
 "our guard. The forest echoes with the howls of wolves..."
-msgstr ""
+msgstr "Bu kısa bir sefer olacak, ama bu muhafızlığımızı bırakmamız gerektiği anlamına gelmez. Orman kurt ulumalarıyla yankılanıyor..."
+
 
 #. [objective]: condition=win
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:256
 msgid "Move any unit adjacent to both fishing skiffs"
-msgstr ""
+msgstr "Herhangi bir birimi her iki balıkçı teknesine bitişik taşıyın"
+
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:285
 msgid "What’s this? There’s a living man inside this wolf’s belly!"
-msgstr ""
+msgstr "Bu ne? Bu kurdun karnında canlı bir adam var!"
+
 
 #. [event]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:287
 msgid "Red"
-msgstr ""
+msgstr "Kırmızı"
+
 
 #. [message]: speaker=Red
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:290
 msgid "By Haldric, I’m free!"
-msgstr ""
+msgstr "Haldric adına, özgürüm!"
+
 
 #. [message]: speaker=Red
 #. This is a reference to the "Little Red Riding Hood" fairy tale
@@ -1013,7 +1199,8 @@ msgid ""
 "I was supposed to be delivering tea to my poor sick grandmother. “<i>My, "
 "what big teeth you have</i>”, I told her... and then my “grandmother” leapt "
 "out of bed and swallowed me whole!"
-msgstr ""
+msgstr "Zavallı hasta büyükannem için çay götürüyor olmalıydım. Ona \"<i>Vay, ne büyük dişlerin var</i>\" dedim... ve ardından \"büyükannem\" yataktan fırlayıp beni bir hamlede yuttu!"
+
 
 #. [message]: speaker=Red
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:299
@@ -1021,7 +1208,8 @@ msgid ""
 "Tricked by a wolf, hrmph. I suppose I’ve nothing better to do now than to "
 "join you. Perhaps someday I’ll write a popular children’s fable about my "
 "harrowing experience..."
-msgstr ""
+msgstr "Bir kurt tarafından kandırıldım, hımm. Sanırım şu an sizinle katılmaktan daha iyi bir şeyim yok. Belki bir gün korkunç deneyimim hakkında popüler bir çocuk masalı yazarım..."
+
 
 #. [message]: speaker=Thea
 #. The player has defeated the wolf leader, but there may still be wolves on the map, and the scenario has not ended.
@@ -1029,7 +1217,8 @@ msgstr ""
 msgid ""
 "The worst of the wolves are dealt with, but we must still reach the last "
 "boats before they sink."
-msgstr ""
+msgstr "En kötü kurtların üstesinden gelindi, ama hâlâ batmadan son teknelere ulaşmamız gerekiyor."
+
 
 #. [message]: speaker=$unit.id
 #. The player is trying to reach two damaged skiffs before they sink. The player has reached the first one.
@@ -1037,12 +1226,14 @@ msgstr ""
 msgid ""
 "I’ve reached the first skiff! The damage doesn’t look bad. I think I can get "
 "it seaworthy again."
-msgstr ""
+msgstr "İlk tekneye ulaştım! Hasar kötü görünmüyor. Sanırım onu tekrar denize elverişli hale getirebilirim."
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:348
 msgid "Halfway done, everyone. We’ll need both skiffs to carry us all."
-msgstr ""
+msgstr "Yarı yolda, herkes. Hepimizi taşımak için her iki tekneye de ihtiyacımız olacak."
+
 
 #. [message]: speaker=$unit.id
 #. The player is trying to reach two damaged skiffs before they sink. The player has reached the second one.
@@ -1050,52 +1241,60 @@ msgstr ""
 msgid ""
 "I’m repairing the second skiff! There’s more bodies inside. It looks like a "
 "family tried to hide here."
-msgstr ""
+msgstr "İkinci tekneyi tamir ediyorum! İçeride daha fazla ceset var. Görünüşe göre bir aile burada saklanmaya çalışmış."
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:385
 msgid ""
 "Pa used to take me here for festivals, back when. I knew some of these "
 "dead... Was there anything we could have done?"
-msgstr ""
+msgstr "Baba eskiden beni buradaki festivallere getirirdi. Bu ölülerden bazılarını tanıyordum... Yapabildiğimiz bir şey var mıydı?"
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:390
 msgid "Forget it. Come on, everyone. Let’s get away from this dead place."
-msgstr ""
+msgstr "Unut bunu. Hadi, herkes. Bu ölü yerden uzaklaşalım."
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:413
 msgid ""
 "The boats are taking on too much water. We have to hurry and reach them "
 "before they sink!"
-msgstr ""
+msgstr "Tekneler çok fazla su alıyor. Batmadan onlara ulaşmak için acele etmeliyiz!"
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:419
 msgid ""
 "The last boat is taking on too much water. We have to hurry and reach it "
 "before it sinks!"
-msgstr ""
+msgstr "Son tekne çok fazla su alıyor. Batmadan ona ulaşmak için acele etmeliyiz!"
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:435
 msgid ""
 "The last boats have sunk! Without boats we can’t keep up with the merfolk. "
 "You’ll have to go ahead without us, Diondra..."
-msgstr ""
+msgstr "Son tekneler battı! Teknesiz susallarla aynı hızda gidemeyiz. Biz olmadan ilerlemek zorunda kalacaksın, Diondra..."
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:441
 msgid ""
 "The last boat has sunk! Without both boats we can’t keep up with the "
 "merfolk. You’ll have to go ahead without us, Diondra..."
-msgstr ""
+msgstr "Son tekne battı! Her iki tekne olmadan susallarla aynı hızda gidemeyiz. Biz olmadan ilerlemek zorunda kalacaksın, Diondra..."
+
 
 #. [scenario]: id=04_Lee_Shore
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:9
 msgid "Lee Shore"
-msgstr ""
+msgstr "Olta Kıyısı"
+
 
 #. [part]
 #. S04 intro
@@ -1104,7 +1303,8 @@ msgid ""
 "The villagers boarded their new ships and set sail. The skill of their "
 "merfolk escorts more than compensated for the inexperience of the sailors, "
 "and the makeshift flotilla made good time around the cape."
-msgstr ""
+msgstr "Köylüler yeni gemilerine bindiler ve yelken açtılar. Susal refakatçilerinin ustalığı, denizcilerin deneyimsizliğini fazlasıyla telafi etti ve doğaçlama filo burnun etrafında iyi bir zaman yaptı."
+
 
 #. [part]
 #. S04 intro
@@ -1113,17 +1313,20 @@ msgid ""
 "They passed several other small hamlets. Like Stuxton, all were empty, and "
 "marred by signs of weeks-old battle. Finally, five days after leaving home, "
 "the villagers and merfolk sighted signs of activity on the coast."
-msgstr ""
+msgstr "Birkaç küçük köyden daha geçtiler. Stuxton gibi hepsi boştu ve haftalık savaşın izlerini taşıyordu. Sonunda, evden beş gün sonra, köylüler ve susallar kıyıda faaliyet işaretleri gördüler."
+
 
 #. [leader]: type=Outlaw, id=leader2
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:58
 msgid "Havan"
-msgstr ""
+msgstr "Havan"
+
 
 #. [leader]: type=Huntsman, id=leader3
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:83
 msgid "Rhaddin"
-msgstr ""
+msgstr "Rhaddin"
+
 
 #. [message]: speaker=leader4
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:280
@@ -1131,7 +1334,8 @@ msgid ""
 "Sssmall boatsss are coming! I sssussspect these are sssurvivors from that "
 "last hovel; the onesss who hurt me. I am sssure they are here to caussse "
 "problemsss."
-msgstr ""
+msgstr "Küçükkk teknelerrr geliyor! Bunların son kulübeden hayatta kalanlar olduğundan şüpheleniyorumm; beni yaralayanlardannn. Buraya sorun çıkarmaya geldiğinden eminimm."
+
 
 #. [message]: speaker=leader3
 #. "The Lady" refers to Lady Maudie, the main villain of this campaign.
@@ -1139,40 +1343,46 @@ msgstr ""
 msgid ""
 "The Lady won’t be happy if any of our trainees escape, especially not with "
 "the invasion so near."
-msgstr ""
+msgstr "Eğer gerçekten işgal bu kadar yakınsa, herhangi bir acemi kaçarsa Hanım mutlu olmaz."
+
 
 #. [message]: speaker=leader3
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:289
 msgid ""
 "Call off the dive! Chattel, back to your quarters. Corsairs, get ready to "
 "fight!"
-msgstr ""
+msgstr "Dalışı iptal edin! Hayvanlar, odalarınıza dönün. Korsanlar, savaşa hazırlanın!"
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:324
 msgid ""
 "Here are the missing villagers — in chains! Would this have been our fate if "
 "not for your intervention, Diondra?"
-msgstr ""
+msgstr "Kayıp köylüler işte burada — zincirle bağlı! Senin müdahalen olmasaydı, Diondra, bu bizim kaderimiz mi olurdu?"
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:328
 msgid ""
 "I think the prisoners are being forced to... dive for pearls? But there "
 "aren’t any pearls on this part of the coast."
-msgstr ""
+msgstr "Bence mahkumlar... inci için dalmaya zorlanıyor? Ama kıyının bu kısmında inci yok."
+
 
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:332
 msgid ""
 "Perhaps this is not the slaves’ final home. A grim omen. It sounds almost as "
 "if they mean to conquer the Bay of Pearls itself."
-msgstr ""
+msgstr "Belki bu kölelerin son yurdu değildir. Kötü bir alâmet. Neredeyse İnci Körfezi'nin kendisini fethetmeyi kastettiklerini söyler gibi."
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:336
 msgid "Is that possible?!"
-msgstr ""
+msgstr "Bu mümkün mü?!"
+
 
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:340
@@ -1181,44 +1391,52 @@ msgid ""
 "yet most of us are not warriors. With Wesnoth’s army away at war in the "
 "east, I think it unlikely but not impossible for a coordinated group of "
 "corsairs to take control."
-msgstr ""
+msgstr "Şehrim kıtanın en büyük ve en zengin susal nüfusuna ev sahipliği yapar, ancak çoğumuz savaşçı değiliz. Wesnoth'un ordusu doğuda savaştayken, koordineli bir korsan grubunun kontrolü ele geçirmesinin olası olmadığını ama imkânsız da olmadığını düşünüyorum."
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:344
 msgid "An invading army. And our neighbors enslaved! We can’t abide this."
-msgstr ""
+msgstr "İstilacı bir ordu. Ve komşularımız köleleştirilmiş! Buna katlanamayız."
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:348
 msgid ""
 "Grab your weapons, everyone. Free every prisoner... but take none ourselves."
-msgstr ""
+msgstr "Silahlarınızı alın, herkes. Her mahkumu özgür bırakın... ama kendimize hiç almayalım."
+
 
 #. [objective]: condition=win
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:374
 msgid "($cages.length remaining)"
-msgstr ""
+msgstr "($cages.length kalmış)"
+
 
 #. [objective]: condition=win
 #. $cages.length will be between 1 and 20
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:374
 msgid "Free the imprisoned slaves"
-msgstr ""
+msgstr "Hapsedilen köleleri serbest bırakın"
+
 
 #. [note]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:388
 msgid "Attack and break a cage to free the slave inside."
-msgstr ""
+msgstr "İçindeki köleyi serbest bırakmak için kafese saldırın ve kırın."
+
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:406
 msgid "Hah! You missed me!"
-msgstr ""
+msgstr "Ha! Iskaladın!"
+
 
 #. [display_tip]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:409
 msgid "Elusive Enemies"
-msgstr ""
+msgstr "Ele Avuca Sığmaz Düşmanlar"
+
 
 #. [display_tip]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:410
@@ -1237,25 +1455,35 @@ msgid ""
 "<b><i>right-click on it and select \n"
 "“Unit Type Description.”</i></b>"
 msgstr ""
+"Tüm birimler eşit yaratılmamıştır. Bildiğiniz gibi, naga veya susal gibi savaşçıların suda yüksek savunması (kaçınma şansı) vardır, ama bu güç için karada düşük savunmayla bedel öderler.\n"
+"\n"
+"Diğer birimler, az önce saldırdığınız Serserim gibi, <b><i>her yerde</i></b> anormal derecede yüksek savunmaya sahiptir. Bu büyük bir güçtür, ama düşük hasar çıkışı ve çoğu hasar türüne karşı savunmasızlık pahasına gelir.\n"
+"\n"
+"Bir birimin arazi savunmasını ve hasar dirençlerini/savunmasızlıklarını görmek için <b><i>üzerine sağ tıklayın ve \n"
+"\"Birim Türü Açıklaması\"nı seçin.</i></b>"
+
 
 #. [message]: speaker=unit
 #. The player has just freed a slave from his cage.
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:429
 msgid "What’s happening? Is that... Thea? Alderman Rael’s daughter?"
-msgstr ""
+msgstr "Ne oluyor? Bu mu... Thea? Muhtar Rael'in kızı mı?"
+
 
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:433
 msgid ""
 "We come to free you from your bonds, human. These pirates took you from your "
 "home. Now take from them their lives."
-msgstr ""
+msgstr "Seni bağlarından kurtarmaya geldik, insan. Bu korsanlar seni evinden aldı. Şimdi onlardan hayatlarını al."
+
 
 #. [message]: speaker=unit
 #. The player has just freed a slave from his cage.
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:440
 msgid "They burned my whole village! I want revenge!"
-msgstr ""
+msgstr "Tüm köyümü yaktılar! İntikam istiyorum!"
+
 
 #. [message]: speaker=unit
 #. The player has just freed a slave from his cage.
@@ -1263,63 +1491,74 @@ msgstr ""
 msgid ""
 "Thank you! These pirates lock us up whenever they aren’t forcing us to "
 "dive..."
-msgstr ""
+msgstr "Teşekkür ederim! Bu korsanlar, bizi dalmaya zorlamadıkları zamanlarda hapsediyorlar..."
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:467
 msgid "We’re almost finished. There’s only a few more prisoners left to free."
-msgstr ""
+msgstr "Neredeyse bittik. Serbest bırakılacak yalnızca birkaç mahkum kaldı."
+
 
 #. [message]: speaker=unit
 #. An enemy leader is dying.
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:485
 msgid "No!"
-msgstr ""
+msgstr "Hayır!"
+
 
 #. [message]: speaker=unit
 #. An enemy leader is dying.
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:500
 msgid "Urgh..."
-msgstr ""
+msgstr "Ugh..."
+
 
 #. [message]: speaker=unit
 #. An enemy naga leader is dying.
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:515
 msgid "Hisss..."
-msgstr ""
+msgstr "Tısss..."
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:540
 msgid ""
 "The outlaw leaders are dead! Time to release the rest of their prisoners."
-msgstr ""
+msgstr "Eşkıya liderleri öldü! Kalan mahkumlarını serbest bırakma zamanı."
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:563
 msgid "Well done, everyone! We’ve freed all of the pirates’ prisoners."
-msgstr ""
+msgstr "Aferin herkese! Korsanların tüm mahkumlarını serbest bıraktık."
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:570
 msgid ""
 "With so many new farmers and fishers swelling our ranks, we finally have the "
 "numbers we need to field more human fighters."
-msgstr ""
+msgstr "Bu kadar çok yeni çiftçi ve balıkçı saflarımızı şişirince, nihayet daha fazla insan savaşçı çıkarmak için ihtiyacımız olan sayıya ulaştık."
+
 
 #. [object]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:579
 msgid "Additional Manpower"
-msgstr ""
+msgstr "Ek İnsan Gücü"
+
 
 #. [object]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:580
 msgid "Peasants and Woodsmen no longer cost twice as much to recruit."
-msgstr ""
+msgstr "Köylü ve Ormancıları işe almak artık iki kat daha pahalı değil."
+
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:596
 msgid "What’s this? An unruly mob in place of my orderly divers?"
-msgstr ""
+msgstr "Bu ne? Düzenli dalgıçlarımın yerinde asi bir kalabalık mı?"
+
 
 #. [message]: speaker=Maudie
 #. "trainees" refers to new slaves. "dispose of them" means to kill them.
@@ -1328,40 +1567,47 @@ msgid ""
 "My, my. How unlucky. I had meant to introduce some new trainees I’d "
 "acquired... but given the present state of affairs, I suppose I’ll have to "
 "dispose of them instead."
-msgstr ""
+msgstr "Aman, aman. Ne şanssızlık. Edindiğim bazı yeni acimiş tutsakları tanıştırmak istiyordum... ama mevcut durumu göz önünde bulundurarak, sanırım onları bunun yerine ortadan kaldırmak zorunda kalacağım."
+
 
 #. [message]: role=prisoner1
 #. A prisoner is being made to walk the plank (which will kill them).
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:611
 msgid "No, wait—"
-msgstr ""
+msgstr "Hayır, dur—"
+
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:615
 msgid "Walk the plank!"
-msgstr ""
+msgstr "Tahtaya yürü!"
+
 
 #. [message]: role=prisoner2
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:624
 msgid "I can’t swim, please—"
-msgstr ""
+msgstr "Yüzme bilmiyorum, lütfen—"
+
 
 #. [message]: race=human
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:665
 msgid "Look! That’s the constable!"
-msgstr ""
+msgstr "Bak! O muhafız!"
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:670
 msgid "Elyn! My brother!"
-msgstr ""
+msgstr "Elyn! Kardeşim!"
+
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:683
 msgid ""
 "Ta ta, dears. This was unfortunate, but really, I had no choice. There’s no "
 "room for freeloaders on my ship."
-msgstr ""
+msgstr "Hoşçakalın, sevgililer. Bu talihsizdi, ama gerçekten başka seçeneğim yoktu. Gemimde bedavacılara yer yok."
+
 
 #. [message]: speaker=Maudie
 #. "fish-tailed sweethearts" refers to the merfolk. Maudie doesn't acknowledge the human villagers as a meaningful adversary.
@@ -1370,45 +1616,52 @@ msgid ""
 "You see, there’s a new power growing in these parts: me. It’s time for Lady "
 "Maudie to take back what she’s owed. I’ll see you fish-tailed sweethearts "
 "again real soon."
-msgstr ""
+msgstr "Görüyorsunuz, bu bölgelerde yeni bir güç büyüyor: ben. Leydi Maudie'nin hak ettiğini geri almasının zamanı geldi. Balık kuyruklu sevgililer, sizi yakında yeniden göreceğim."
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:698
 msgid ""
 "Elyn!! My brother can swim, but not for long in this surf! Diondra, you have "
 "to rescue him! Rescue them all!"
-msgstr ""
+msgstr "Elyn!! Kardeşim yüzebilir, ama bu dalgalar altında uzun süre değil! Diondra, onu kurtarman gerekiyor! Hepsini kurtar!"
+
 
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:786
 msgid ""
 "I am sorry, Thea. His arms and legs were bound... I’ve retrieved only a "
 "corpse. The pirates must’ve captured him while he sailed in search of help."
-msgstr ""
+msgstr "Özür dilerim, Thea. Kolları ve bacakları bağlıydı... Yalnızca bir ceset çıkarabildim. Korsanlar onu yardım arayışında yelken açarken yakalamış olmalı."
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:790
 msgid "..."
-msgstr ""
+msgstr "..."
+
 
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:794
 msgid ""
 "Do not let his death be in vain. We must catch this “Maudie” and bring her "
 "to justice. Follow the black ship!"
-msgstr ""
+msgstr "Ölümünü boşa çıkarmayalım. Bu \"Maudie\"yi yakalayıp adalete teslim etmeliyiz. Siyah gemiyi takip edin!"
+
 
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:812
 msgid ""
 "Do not delay, Thea. These pirates are planning something. If we cannot "
 "finish our battle here, I fear they will be reinforced, and us overwhelmed."
-msgstr ""
+msgstr "Gecikme, Thea. Bu korsanlar bir şeyler planlıyor. Savaşımızı burada bitiremessek, takviye alacaklar ve bizi ezecekler diye korkuyorum."
+
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:826
 msgid "What’s this? An unruly mob harassing my divers?"
-msgstr ""
+msgstr "Bu ne? Dalgıçlarıma taciz eden asi bir kalabalık mı?"
+
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:830
@@ -1416,20 +1669,23 @@ msgid ""
 "Now now, we can’t be having that. Luckily for me, you’ve given me enough "
 "time to prepare a whole fleet of warships, all filled to the brim with angry "
 "outlaws."
-msgstr ""
+msgstr "Hayır hayır, buna izin veremeyiz. Benim için şanslı ki, bana kızgın eşkıyalarla dolu bir savaş gemisi filosu hazırlamak için yeterli zaman verdiniz."
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:838
 msgid ""
 "The merfolk aren’t prepared to battle such a large fleet! We have to flee "
 "before we’re destroyed..."
-msgstr ""
+msgstr "Susallar bu kadar büyük bir filoyla savaşmaya hazır değil! Yok edilmeden önce kaçmamız gerekiyor..."
+
 
 #. [scenario]: id=05_Lady_Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:6
 #: data/campaigns/Of_Pearls_and_Pirates/utils/characters.cfg:91
 msgid "Lady Maudie"
-msgstr ""
+msgstr "Leydi Maudie"
+
 
 #. [part]
 #. S05 intro
@@ -1438,7 +1694,8 @@ msgid ""
 "The villagers held a sombre shipboard funeral for Constable Elyn, and a "
 "burial at sea. The alderman’s son had always been there for them... until "
 "suddenly he wasn’t."
-msgstr ""
+msgstr "Köylüler, Muhafız Elyn için gemide kasvetli bir cenaze töreni düzenledi ve denize defnetti. Muhtarın oğlu onlar için hep orada olmuştu... ta ki birdenbire olmayıncaya kadar."
+
 
 #. [part]
 #. S05 intro. Thea's father left many months ago, along with other villagers.
@@ -1447,14 +1704,16 @@ msgid ""
 "Not for the first time, Thea worried about her father; about all those who’d "
 "gone to war. She’d heard stories, of course — but experiencing battle and "
 "loss herself was something else entirely."
-msgstr ""
+msgstr "İlk kez değil, Thea babasını merak etti; savaşa gidenler hakkında. Tabii ki hikayeler duymuştu ama savaşı ve kaybı bizzat yaşamak bambaşka bir şeydi."
+
 
 #. [part]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:30
 msgid ""
 "She wondered how her father could so readily return to something so grim. "
 "She wondered what drives “Lady Maudie” to inflict it upon others."
-msgstr ""
+msgstr "Babasının bu kadar karanlık bir şeye bu denli kolaylıkla nasıl dönüp gidebildiğini merak etti. \"Leydi Maudie\"yi bunu başkalarına yapmaya neyin ittiğini merak etti."
+
 
 #. [part]
 #. S05 intro
@@ -1464,17 +1723,20 @@ msgid ""
 "Maudie’s ship; too slow to catch her, but fast enough to stay in sight. "
 "Maudie’s destination soon became apparent: the wild, unsettled islands known "
 "as the Three Sisters."
-msgstr ""
+msgstr "Susalların rehberliğinde filo, Maudie'nin gemisinin birkaç düzine mil gerisinde pozisyon aldı; onu yakalamak için çok yavaş ama görüş mesafesinde kalmak için yeterince hızlı. Maudie'nin hedefi kısa sürede belli oldu: Üç Kız Kardeş olarak bilinen vahşi, yerleşilmemiş adalar."
+
 
 #. [leader]: type=Assassin, id=leader2, gender=female
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:55
 msgid "Analla"
-msgstr ""
+msgstr "Analla"
+
 
 #. [leader]: type=Ranger, id=leader3
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:81
 msgid "Shipmaster Derryn"
-msgstr ""
+msgstr "Gemi Kaptanı Derryn"
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:182
@@ -1482,19 +1744,22 @@ msgid ""
 "This island is covered in villages. Even if we don’t need the gold "
 "ourselves, we should still make sure Maudie doesn’t take so many that we "
 "become overwhelmed."
-msgstr ""
+msgstr "Bu ada köylerle dolu. Altına kendimiz ihtiyaç duymassak bile, Maudie'nin o kadar çok almasına izin vermemeliyiz ki bizi ezip geçeriz."
+
 
 #. [message]: speaker=narrator
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:187
 msgid ""
 "To see how much gold and income your enemies have, press <i>Alt+S</i>, or "
 "open the Menu and select “Status Table”."
-msgstr ""
+msgstr "Düşmanlarınızın ne kadar altın ve gelire sahip olduğunu görmek için <i>Alt+S</i>'ye basın veya Menüyü açıp \"Durum Tablosu\"nu seçin."
+
 
 #. [event]: id=immobile_derelict
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:198
 msgid "Makeshift Shipyard"
-msgstr ""
+msgstr "Geçici Tersane"
+
 
 #. [message]: speaker=Maudie
 #. "fish" is meant to be an insulting way to refer to merfolk
@@ -1502,24 +1767,28 @@ msgstr ""
 msgid ""
 "Tut-tut, the mermaid followed me all this way? Show some deference, fish. "
 "Soon you’ll be calling me your lord."
-msgstr ""
+msgstr "Tüh tüh, denizkızı beni bu kadar uzağa kadar takip etti? Biraz saygı göster, balık. Yakında beni lordunuz diye çağıracaksınız."
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:252
 msgid ""
 "It’s not just merfolk who followed you here. I’m here to avenge my brother, "
 "you soulless murderer!"
-msgstr ""
+msgstr "Seni buraya kadar takip eden yalnızca susallar değil. Kardeşimin intikamını almak için buradayım, ruhsuz katil!"
+
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:256
 msgid "My, such language. Who in the world are you talking about?"
-msgstr ""
+msgstr "Aman, ne dil bu. Dünya üzerinde kimin hakkında konuşuyorsunuz?"
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:260
 msgid "My brother! The mustached javelineer you drowned not two days ago?"
-msgstr ""
+msgstr "Kardeşim! İki gün önce boğduğunuz bıyıklı mızrakçı!"
+
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:264
@@ -1527,14 +1796,16 @@ msgid ""
 "I’m sorry, sweetie, you smallfolk all look the same to me. But if you’re so "
 "beaten up about his death, I’d be happy to help you join him. Shipmaster, is "
 "my fleet ready?"
-msgstr ""
+msgstr "Özür dilerim, tatlım, küçük halk hepiniz bana aynı görünüyorsunuz. Ama ölümüyle bu kadar üzülüyorsanız, ona katılmanıza yardım etmekten mutluluk duyarım. Gemi Kaptanı, filom hazır mı?"
+
 
 #. [message]: speaker=leader3
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:268
 msgid ""
 "Not yet, milady. As we’ve discussed, repairing derelicts takes quite some "
 "time. It might still be weeks—"
-msgstr ""
+msgstr "Henüz değil, miladım. Konuştuğumuz gibi, harabeye dönmüş gemileri onarmak oldukça zaman alır. Hâlâ haftalar sürebilir—"
+
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:272
@@ -1542,48 +1813,56 @@ msgid ""
 "Yes, yes, I remember now. Just... deal with these peasants, will you? That "
 "business with the freed prisoners has given me a terrible headache. I’m "
 "really not in the mood to entertain riff-raff."
-msgstr ""
+msgstr "Evet, evet, şimdi hatırladım. Sadece... bu köylülerle ilgilenir misin? Özgürlüğü kazanan mahkumlar işi bana korkunç bir baş ağrısı verdi. Gerçekten ayak takımıyla ilgilenecek ruh halinde değilim."
+
 
 #. [objective]: condition=win
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:280
 msgid "Defeat Lady Maudie"
-msgstr ""
+msgstr "Leydi Maudie'yi yen"
+
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:316
 msgid ""
 "They’re getting closer. Shipmaster, how long until the fleet is finished?!"
-msgstr ""
+msgstr "Yaklaşıyorlar. Gemi Kaptanı, filonun bitmesine ne kadar var?!"
+
 
 #. [message]: speaker=leader3
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:320
 msgid "Madam, I’ve told you, it might still be weeks—"
-msgstr ""
+msgstr "Hanımefendi, size söyledim, hâlâ haftalar sürebilir—"
+
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:326
 msgid ""
 "They’re getting closer. And my shipmaster got himself killed... Do I have to "
 "do everything myself?"
-msgstr ""
+msgstr "Yaklaşıyorlar. Ve gemi kaptanım kendini öldürttü... Her şeyi ben mi yapmak zorundayım?"
+
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:332
 msgid ""
 "Fine! Since these ships cannot serve me in any useful capacity, set them "
 "ablaze and send them to run down anything in the water!"
-msgstr ""
+msgstr "Tamam! Bu gemiler bana yararlı hiçbir kapasitede hizmet edemediğine göre, ateşe verin ve sudaki her şeyin üzerine sürun!"
+
 
 #. [display_tip]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:348
 msgid "Know Thy Enemy"
-msgstr ""
+msgstr "Düşmanını Tanı"
+
 
 #. [display_tip]
 #. knowing about the Fireship specifically isn't that important (although it does make it clear that this isn't a bug). But the Fireship is a good example about how knowing an enemy's weaknesses can make them much easier to fight. This also makes exploiting the Fireships feel less like a mistake ("oh, the AI is dumb"), and makes it clear that making them exploitable like this is a deliberate design choice
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:350
 msgid "A unit’s statistics determine the best strategy for fighting them."
-msgstr ""
+msgstr "Bir birimin istatistikleri onlarla savaşmak için en iyi stratejiyi belirler."
+
 
 #. [display_tip]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:352
@@ -1591,7 +1870,8 @@ msgid ""
 "Maudie’s new fireships, for example, can deal massive damage in\n"
 "melee combat. But their <i>deteriorate</i> ability drains their health\n"
 "every turn, and being ships they cannot chase you onto land."
-msgstr ""
+msgstr "Maudie'nin yeni yangın gemileri, örneğin, yakın dövüşte büyük hasar verebilir. Ama <i>çürüme</i> yetenekleri her tur sağlıklarını eritir ve gemi oldukları için sizi karaya kadar takip edemezler."
+
 
 #. [display_tip]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:356
@@ -1600,13 +1880,15 @@ msgid ""
 "have clear strengths and weaknesses. If you haven’t been doing so\n"
 "already, consider checking new units’ stats to identify any\n"
 "weaknesses they may have."
-msgstr ""
+msgstr "Birçok birim çok amaçlı olsa da diğerleri — Yangın Gemisi gibi — açık güçlü ve zayıf yanları vardır. Henüz yapmıyorsanız, sahip olabilecekleri zayıf yönleri belirlemek için yeni birimlerin istatistiklerini kontrol etmeyi düşünün."
+
 
 #. [message]: speaker=Thea
 #. Princess Bride movie reference
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:377
 msgid "My name is Thea Nicolin. You killed my brother! Prepare to die!!"
-msgstr ""
+msgstr "Benim adım Thea Nicolin. Kardeşimi öldürdün! Ölüme hazırlan!!"
+
 
 #. [message]: speaker=Maudie
 #. "you're all leeches" echoes the S01 leader's dying words
@@ -1614,7 +1896,8 @@ msgstr ""
 msgid ""
 "Get away from my ship, you low-born churl! You’re all just leeches! The Bay "
 "should be <i>mine</i>, not yours!"
-msgstr ""
+msgstr "Gemimden uzaklaş, aşağı doğumlu köylü! Hepiniz sadece sülüksünüz! Körfez sizin değil, <i>benim</i> olmalıydı!"
+
 
 #. [message]: speaker=Maudie
 #. "you're all leeches" echoes the S01 leader's dying words
@@ -1622,7 +1905,8 @@ msgstr ""
 msgid ""
 "Get away from my ship, you filthy fish! You’re all just leeches! The Bay "
 "should be <i>mine</i>, not yours!"
-msgstr ""
+msgstr "Gemimden uzaklaş, pis balık! Hepiniz sadece sülüksünüz! Körfez sizin değil, <i>benim</i> olmalıydı!"
+
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:408
@@ -1630,21 +1914,24 @@ msgid ""
 "It belongs to me and my blood by right! My noble ancestors fought our way to "
 "the top, and we would have stayed there if those idiot kings hadn’t stolen "
 "it from us and given it to the merfolk instead."
-msgstr ""
+msgstr "Hak olarak bana ve soyuma aittir! Asil atalarım zirveye giden yolu savaşarak açtı ve o aptal krallar bunu bizden çalıp susallara vermeseydi orada kalmaya devam ederdik."
+
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:412
 msgid ""
 "You’re talking about when the Bay was first awarded to the merfolk? But that "
 "was over three hundred years ago!"
-msgstr ""
+msgstr "Körfezin ilk kez susallara verildiğinden mi bahsediyorsunuz? Ama bu üç yüz yıldan önce oldu!"
+
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:416
 msgid ""
 "And my line <i>has not forgotten</i>! It should have been <i>me</i> who "
 "inherited the pearls!"
-msgstr ""
+msgstr "Ve soyum <i>unutmadı</i>! İnciyi miras alan <i>ben</i> olmalıydım!"
+
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:418
@@ -1652,30 +1939,35 @@ msgid ""
 "Eating caviar instead of hardtack, served by slaves instead of outlaws, "
 "living in a villa instead of a smelly, grungy, fish-smelling pirate ship... "
 "oh, I’m going to be seasick again..."
-msgstr ""
+msgstr "Deniz bisküvisi yerine havyar yemek, eşkıyalar yerine köleler tarafından hizmet görmek, pis kokulu, kirli, balık kokan bir korsan gemisi yerine bir villada yaşamak... ah, yeniden deniz tutacak beni..."
+
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:428
 msgid ""
 "But you’re just a bunch of fish and smallfolk! It’s my right to rule! How— I "
 "mean... well, surely you can’t fault a girl for having ambition?"
-msgstr ""
+msgstr "Ama siz sadece bir sürü balık ve küçük halksınız! Yönetmek benim hakkım! Nasıl— yani... peki, kesinlikle bir kızı hırs sahibi olmak için suçlayamazsınız?"
+
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:452
 msgid "We’re sinking. Someone, stop the sinking! No. No! I can’t swim!!"
-msgstr ""
+msgstr "Batıyoruz. Biri, batışı durdursun! Hayır. Hayır! Yüzme bilmiyorum!!"
+
 
 #. [message]: speaker=Thea
 #. Echoing Maudie's lines from S04 and S02.
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:459
 msgid "(grim) Ta ta."
-msgstr ""
+msgstr "(kasvetli) Hoşçakalın."
+
 
 #. [scenario]: id=06_Epilogue
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/06_Epilogue.cfg:6
 msgid "Epilogue"
-msgstr ""
+msgstr "Sonsöz"
+
 
 #. [part]
 #. epilogue intro
@@ -1685,7 +1977,8 @@ msgid ""
 "Diondra and her merfolk. The villagers worked to dismantle and loot the "
 "pirate shipyard, then set sail once more for their home, where they were "
 "greeted with a resounding cheer."
-msgstr ""
+msgstr "Maudie yenilince hayatta kalan destekçileri dağıldı; Diondra ve susalları tarafından yakından kovalandı. Köylüler, korsan tersanesini söküp yağmalamak için çalıştı, ardından tekrar evlerine doğru yelken açtılar ve orada büyük bir tezahüratla karşılandılar."
+
 
 #. [part]
 #. epilogue intro
@@ -1697,7 +1990,8 @@ msgid ""
 "plunder. Constable Thea took it upon herself to distribute food and "
 "supplies, and soon became the de-facto leader of the Peninsula’s human "
 "community."
-msgstr ""
+msgstr "Kısa süreliğine yağmalanan ve boşalan komşu köyler, özgürlüğüne kavuşan sakinleriyle yeniden dolmaya başladı. Korsan baskınlarında pek çoğu ölmüştü, ama daha çoğu hayatta kalmıştı; Leydi Maudie'nin filosunun geri kalanı ise artık zengin bir ganimet oluşturuyordu. Muhafız Thea yiyecek ve erzak dağıtmayı üstlendi ve kısa sürede Yarımada'nın insan topluluğunun fiilen lideri haline geldi."
+
 
 #. [part]
 #. epilogue intro. The "next serious threat" is Asheviere's orcs' takeover, as seen in HttT
@@ -1705,7 +1999,8 @@ msgstr ""
 msgid ""
 "Untouched by the fighting, the merfolk city at the Bay of Pearls continued "
 "to prosper. It would be many decades until the next serious threat."
-msgstr ""
+msgstr "Savaştan etkilenmeyen İnci Körfezi'ndeki susal şehri gelişmeye devam etti. Bir sonraki ciddi tehdide kadar onlarca yıl geçecekti."
+
 
 #. [part]
 #. epilogue intro
@@ -1715,45 +2010,54 @@ msgid ""
 "made a weary return to Rochelm, their tour of duty complete. Thea’s father "
 "spoke grimly; of orc and lizard, siege and ambush. But that story — King "
 "Garard’s war — is a tale for another hero..."
-msgstr ""
+msgstr "Sonunda, uzun yıllar sonra, Muhtar Rael ve büyük ölçüde azalmış savaş grubu yorgun argın Rochelm'e döndü, görev süreleri tamamdı. Thea'nın babası sertçe konuştu; ork ve kertenkele, kuşatma ve pusudan. Ama o hikaye — Kral Garard'ın savaşı — başka bir kahraman için bir masaldır..."
+
 
 #. [unit_type]: id=Cage, race=mechanical
 #: data/campaigns/Of_Pearls_and_Pirates/units/Cage.cfg:5
 msgid "Caged Slave"
-msgstr ""
+msgstr "Kafesli Köle"
+
 
 #. [unit_type]: id=Fishing Boat
 #: data/campaigns/Of_Pearls_and_Pirates/units/Variations.cfg:9
 msgid "Fishing Boat"
-msgstr ""
+msgstr "Balıkçı Teknesi"
+
 
 #. [side]
 #: data/campaigns/Of_Pearls_and_Pirates/utils/characters.cfg:21
 msgid "Villagers"
-msgstr ""
+msgstr "Köylüler"
+
 
 #: data/campaigns/Of_Pearls_and_Pirates/utils/characters.cfg:38
 msgid "Thea"
-msgstr ""
+msgstr "Thea"
+
 
 #. [trait]: id=loyal_dummy
 #: data/campaigns/Of_Pearls_and_Pirates/utils/characters.cfg:47
 msgid "loyal"
-msgstr ""
+msgstr "sadık"
+
 
 #. [trait]: id=loyal_dummy
 #: data/campaigns/Of_Pearls_and_Pirates/utils/characters.cfg:48
 msgid "Zero upkeep"
-msgstr ""
+msgstr "Sıfır bakım masrafı"
+
 
 #: data/campaigns/Of_Pearls_and_Pirates/utils/characters.cfg:58
 msgid "Alderman Rael"
-msgstr ""
+msgstr "Muhtar Rael"
+
 
 #: data/campaigns/Of_Pearls_and_Pirates/utils/characters.cfg:69
 msgid "Constable Elyn"
-msgstr ""
+msgstr "Muhafız Elyn"
+
 
 #: data/campaigns/Of_Pearls_and_Pirates/utils/characters.cfg:80
 msgid "Diondra"
-msgstr ""
+msgstr "Diondra"

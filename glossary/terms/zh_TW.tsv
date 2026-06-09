@@ -1,0 +1,67 @@
+term_id	term	canonical_translation	notes	confidence
+F01	Loyalists	保皇黨		high
+F02	Rebels	反抗軍		high
+F03	Undead	不死族		high
+F04	Northerners	北方民族		high
+F05	Drakes	龍族		high
+F06	Knalgan Alliance	納爾迦聯盟		high
+F07	Dunefolk	沙丘之民		high
+R01	Elvish		not found in .po files	low
+R02	Orcish		not found in .po files	low
+R03	Dwarven		not found in .po files	low
+R04	Drake	龍族		high
+R05	Naga	納迦		high
+R06	Merman/Mermaid		not found in .po files	low
+R07	Troll	巨魔		high
+R08	Wose	樹人		high
+A01	Lawful	守序		high
+A02	Neutral	中立		high
+A03	Chaotic	渾沌		high
+A04	Liminal	邊緣		high
+T01	Dawn	黎明		high
+T02	Morning	上午	ISSUE: extracted string '警告' means Warning in Traditional Chinese, not the time-of-day Morning. Corrected to '上午' (to match Simplified Chinese convention for this time slot).	high
+T03	Afternoon	下午		high
+T04	Dusk	黄昏		high
+T05	First Watch	夜晚		high
+T06	Second Watch	凌晨		high
+G01	Campaign	戰役		high
+G02	Scenario	章節		high
+G03	Side	陣營		high
+G04	Village	村莊		high
+G05	Income	收入		high
+G06	Gold	金幣		high
+G07	Experience		not found in .po files	low
+G08	Level	等級		high
+G09	Turn	回合		high
+G10	Hex		not found in .po files	low
+G11	Castle	城堡		high
+G12	Keep	主堡		high
+G13	Zone of Control	控制區域		high
+G14	Recall	招回		high
+G15	Recruit	招募		high
+G16	Leader	首領		high
+C01	leadership	領導		high
+C02	healing		not found in .po files	low
+C03	slow	緩慢		high
+C04	poison	毒素		high
+C05	petrify		not found in .po files	low
+C06	berserk	狂暴		high
+C07	skirmisher	游撃		high
+C08	marksman	精準		high
+C09	magical	魔法		high
+C10	steadfast	堅守		high
+C11	regenerates	恢復		high
+C12	ambush	埋伏		high
+C13	illumination		not found in .po files	low
+C14	concealment	隱藏		high
+TR01	Forest	森林		high
+TR02	Hills	丘陵		high
+TR03	Mountains	山嶺		high
+TR04	Flat	平原		high
+TR05	Sand	沙地		high
+TR06	Frozen	冰雪		high
+TR07	Swamp	沼澤		high
+TR08	Deep Water	深水		high
+TR09	Shallow Water	淺水		high
+TR10	Ford	淺灘		high
+TR11	Cave	洞穴		high

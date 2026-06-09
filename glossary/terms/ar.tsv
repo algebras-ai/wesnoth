@@ -1,0 +1,67 @@
+term_id	term	canonical_translation	notes	confidence
+F01	Loyalists	الموالون		high
+F02	Rebels	المتمردون		high
+F03	Undead	الموتى الأحياء		high
+F04	Northerners	الشماليون		high
+F05	Drakes	درايك		high
+F06	Knalgan Alliance	تحالف كنالجان		high
+F07	Dunefolk	قوم الواحات		high
+R01	Elvish		not found in .po files	low
+R02	Orcish		not found in .po files	low
+R03	Dwarven		not found in .po files	low
+R04	Drake	جثة سائرة درايك		high
+R05	Naga	أفعواني		high
+R06	Merman/Mermaid		not found in .po files	low
+R07	Troll	ترول		high
+R08	Wose	ووز		high
+A01	Lawful	نهاري		high
+A02	Neutral	محايد		high
+A03	Chaotic	ظلامي		high
+A04	Liminal	حدي		high
+T01	Dawn	غسق		high
+T02	Morning	الصباح		high
+T03	Afternoon	الظهر		high
+T04	Dusk	شفق		high
+T05	First Watch	نصف الليلة الأول		high
+T06	Second Watch	نصف الليلة الثاني		high
+G01	Campaign	حملة		high
+G02	Scenario	سيناريو		high
+G03	Side	الجانب		high
+G04	Village	مدينة		high
+G05	Income	الدّخل		high
+G06	Gold	الذهب		high
+G07	Experience		not found in .po files	low
+G08	Level	المستوى		high
+G09	Turn	دور		high
+G10	Hex		not found in .po files	low
+G11	Castle	قصر		high
+G12	Keep	قلعة		high
+G13	Zone of Control	منطقة السيطرة		high
+G14	Recall	استدعاء		high
+G15	Recruit	تجنيد		high
+G16	Leader	قائد		high
+C01	leadership	قيادي		high
+C02	healing		not found in .po files	low
+C03	slow	مبطئ		high
+C04	poison	سم		high
+C05	petrify		not found in .po files	low
+C06	berserk	هيجان		high
+C07	skirmisher	مناوش		high
+C08	marksman	قانص		high
+C09	magical	مسحور		high
+C10	steadfast	صامد		high
+C11	regenerates	تجديد		high
+C12	ambush	كمين		high
+C13	illumination		not found in .po files	low
+C14	concealment	تخفي		high
+TR01	Forest	غابة		high
+TR02	Hills	هضاب		high
+TR03	Mountains	جبال		high
+TR04	Flat	مسطح		high
+TR05	Sand	رمال		high
+TR06	Frozen	متجمد		high
+TR07	Swamp	مستنقع		high
+TR08	Deep Water	مياه عميقة		high
+TR09	Shallow Water	مياه ضحلة		high
+TR10	Ford	مخاضة		high
+TR11	Cave	كهف		high

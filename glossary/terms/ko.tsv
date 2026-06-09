@@ -1,0 +1,67 @@
+term_id	term	canonical_translation	notes	confidence
+F01	Loyalists	심복		high
+F02	Rebels	저항군		high
+F03	Undead	언데드		high
+F04	Northerners	Northerners		high
+F05	Drakes	반룡족		high
+F06	Knalgan Alliance	나르간 연합		high
+F07	Dunefolk	언데드	ISSUE: '언데드' means Undead in Korean — same as F03. Dunefolk is the desert faction, not Undead. Extraction collision. Confidence lowered.	low
+R01	Elvish		not found in .po files	low
+R02	Orcish		not found in .po files	low
+R03	Dwarven		not found in .po files	low
+R04	Drake	반룡		high
+R05	Naga	나가 ♂		high
+R06	Merman/Mermaid		not found in .po files	low
+R07	Troll	트롤		high
+R08	Wose	나모		high
+A01	Lawful	주행성		high
+A02	Neutral	중립		high
+A03	Chaotic	야행성		high
+A04	Liminal	여명		high
+T01	Dawn	새벽		high
+T02	Morning	아침	ISSUE: extracted string '경고' means Warning in Korean, not the time-of-day Morning. Corrected to '아침'.	high
+T03	Afternoon	오후		high
+T04	Dusk	황혼		high
+T05	First Watch	초경		high
+T06	Second Watch	삼경		high
+G01	Campaign	캠페인		high
+G02	Scenario	시나리오	FLAG: '시나리오 마치기' means End Scenario — a button label. The concept name is '시나리오'. Confidence lowered.	medium
+G03	Side	진영	FLAG: '다음 진영' means Next Side/Faction — a button label. The concept name would be '진영' (faction/side). Confidence lowered.	medium
+G04	Village	마을		high
+G05	Income		not found in .po files	low
+G06	Gold	자금		high
+G07	Experience		not found in .po files	low
+G08	Level	레벨		high
+G09	Turn	턴 수		high
+G10	Hex		not found in .po files	low
+G11	Castle	성채		high
+G12	Keep	아성		high
+G13	Zone of Control		not found in .po files	low
+G14	Recall	재소집		high
+G15	Recruit	소집		high
+G16	Leader	리더		high
+C01	leadership	통솔		high
+C02	healing		not found in .po files	low
+C03	slow	둔한		high
+C04	poison	중독		high
+C05	petrify		not found in .po files	low
+C06	berserk	광전사		high
+C07	skirmisher	척후		high
+C08	marksman	저격		high
+C09	magical	마법		high
+C10	steadfast	철벽		high
+C11	regenerates	재생		high
+C12	ambush	기습		high
+C13	illumination		not found in .po files	low
+C14	concealment	은폐		high
+TR01	Forest	숲		high
+TR02	Hills	언덕		high
+TR03	Mountains	산		high
+TR04	Flat	평지		high
+TR05	Sand	모래 지대		high
+TR06	Frozen	얼음		high
+TR07	Swamp	늪		high
+TR08	Deep Water	깊은 물		high
+TR09	Shallow Water	얕은 물		high
+TR10	Ford	냇가		high
+TR11	Cave	동굴		high

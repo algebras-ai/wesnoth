@@ -1,0 +1,67 @@
+term_id	term	canonical_translation	notes	confidence
+F01	Loyalists	Lojalisti		high
+F02	Rebels	Pobunjenici		high
+F03	Undead	Nemrtvi		high
+F04	Northerners	Sjevernjaci		high
+F05	Drakes	Zmagovi		high
+F06	Knalgan Alliance	Knalganski savez		high
+F07	Dunefolk	nemrtvi	ISSUE: 'nemrtvi' means Undead — same as F03. Dunefolk is the desert-dwelling faction. Extraction collision. Confidence lowered.	low
+R01	Elvish		not found in .po files	low
+R02	Orcish		not found in .po files	low
+R03	Dwarven		not found in .po files	low
+R04	Drake	zmag		high
+R05	Naga	nagajac		high
+R06	Merman/Mermaid		not found in .po files	low
+R07	Troll	trol		high
+R08	Wose	iver		high
+A01	Lawful	zakonita		high
+A02	Neutral	neutralan		high
+A03	Chaotic	haotičan		high
+A04	Liminal	dvojstven		high
+T01	Dawn	zora		high
+T02	Morning	Jutro	ISSUE: extracted string 'Upozorenje' means Warning in Serbian (ijekavian Latin), not the time-of-day Morning. Corrected to 'Jutro'.	high
+T03	Afternoon	popodne		high
+T04	Dusk	sumrak		high
+T05	First Watch	prva straža		high
+T06	Second Watch	druga straža		high
+G01	Campaign	Pohod		high
+G02	Scenario	Kraj	FLAG: 'Kraj' means End — extraction from 'End Scenario' button. Confidence lowered.	low
+G03	Side	Strana		high
+G04	Village	selo		high
+G05	Income	Dobro došli	ISSUE: 'Dobro došli' means Welcome, not Income. Extraction collision. Confidence lowered.	low
+G06	Gold	zlato		high
+G07	Experience		not found in .po files	low
+G08	Level	nivo		high
+G09	Turn	potez		high
+G10	Hex		not found in .po files	low
+G11	Castle	zamak		high
+G12	Keep	kula		high
+G13	Zone of Control		not found in .po files	low
+G14	Recall	Sazovi		high
+G15	Recruit	Unajmi		high
+G16	Leader	Vođ		high
+C01	leadership	vođstvo		high
+C02	healing		not found in .po files	low
+C03	slow	tromost		high
+C04	poison	otrov		high
+C05	petrify		not found in .po files	low
+C06	berserk	bezglavost		high
+C07	skirmisher	čarkanje		high
+C08	marksman	oštrookost		high
+C09	magical	magičnost		high
+C10	steadfast	postojanost		high
+C11	regenerates	obnavljanje		high
+C12	ambush	zasjeda		high
+C13	illumination		not found in .po files	low
+C14	concealment	skrivanje		high
+TR01	Forest	šuma		high
+TR02	Hills	Brežuljci	ISSUE: extracted 'pobjede' means Victories (ijekavian) in Serbian — not a terrain type. Extraction collision. Confidence lowered.	low
+TR03	Mountains	planine		high
+TR04	Flat	ravnica		high
+TR05	Sand	pijesak		high
+TR06	Frozen	klizavica		high
+TR07	Swamp	močvara		high
+TR08	Deep Water	duboka voda		high
+TR09	Shallow Water	plitka voda		high
+TR10	Ford	gaz		high
+TR11	Cave	pećina		high

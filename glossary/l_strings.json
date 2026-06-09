@@ -1,0 +1,418 @@
+{
+  "domain": "wesnoth-l",
+  "file": "po/wesnoth-l/tr.po",
+  "empty": [
+    {
+      "row": 3,
+      "src": "1x enemies",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [campaign]: id=Liberty",
+        "#: data/campaigns/Liberty/_main.cfg:20"
+      ]
+    },
+    {
+      "row": 5,
+      "src": "2x enemies",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [campaign]: id=Liberty",
+        "#: data/campaigns/Liberty/_main.cfg:21"
+      ]
+    },
+    {
+      "row": 7,
+      "src": "3x enemies",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [campaign]: id=Liberty",
+        "#: data/campaigns/Liberty/_main.cfg:22"
+      ]
+    },
+    {
+      "row": 8,
+      "src": "Hard",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [campaign]: id=Liberty",
+        "#: data/campaigns/Liberty/_main.cfg:22"
+      ]
+    },
+    {
+      "row": 11,
+      "src": "The saga continues in\n<i>Heir to the Throne</i>",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [campaign]: id=Liberty",
+        "#. this campaign is not a direct continuation of the story and characters, but is next chronologically and is the recommended next campaign",
+        "#: data/campaigns/Liberty/_main.cfg:32"
+      ]
+    },
+    {
+      "row": 29,
+      "src": "Gruk",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [event]",
+        "#: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:173"
+      ]
+    },
+    {
+      "row": 43,
+      "src": "Your footpad has gained +1 ranged damage!",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [message]: speaker=narrator",
+        "#: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:435"
+      ]
+    },
+    {
+      "row": 80,
+      "src": "Your units — formerly <i>neutral</i> — are now <i>chaotic</i>!",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [message]: speaker=narrator",
+        "#: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:528"
+      ]
+    },
+    {
+      "row": 112,
+      "src": "Your unit has gained +1 maximum hitpoints!",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [message]: speaker=narrator",
+        "#: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:445"
+      ]
+    },
+    {
+      "row": 127,
+      "src": "The Daneth",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [event]",
+        "#. \"Daneth\" is the name of Lord Maddock's late son. This ship also appears in HttT's S10, with the same name.",
+        "#: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:256"
+      ]
+    },
+    {
+      "row": 128,
+      "src": "Mary's Minnow",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [event]",
+        "#. [unit]: type=Skiff, id=Skiff",
+        "#: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:257",
+        "#: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:330"
+      ]
+    },
+    {
+      "row": 136,
+      "src": "Officially, one of his captains committed the crime. Unofficially, it is rumored that Queen Asheviere and her son Eldred were involved. Either way, Prince Eldred fell in battle not long after, upon which Asheviere claimed the throne.",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [message]: speaker=Lord Maddock",
+        "#: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:333"
+      ]
+    },
+    {
+      "row": 148,
+      "src": "They will not come. I do not intend to pick a side in Wesnoth’s conflict, and the Queen knows better than to try to force my hand. It is true that she maintains a large garrison south at the great fortress of Halstead, but even should they mobilize all their troops, I doubt they could take Elensefar.",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [message]: speaker=Lord Maddock",
+        "#: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:353"
+      ]
+    },
+    {
+      "row": 150,
+      "src": "Yes, I am aware of Queen Asheviere’s propensity for hiring orcs to supplement her forces. I have begun expanding my army as well, although I think hostilities are unlikely. But the population of Elensefar is small, and we are not in the habit of maintaining a large standing army. It will take time to assemble mercenaries of the right caliber.",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [message]: speaker=Lord Maddock",
+        "#: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:361"
+      ]
+    },
+    {
+      "row": 151,
+      "src": "The treaty between Elensefar and Wesnoth is ancient, and I do not think Her Majesty means to break it. But I cannot afford to make enemies of Weldyn, as you can surely understand. Asheviere looks to be winning her civil war. The wizard and his rebels have suffered several defeats. I have some concessions that I shall have to make...",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [message]: speaker=Lord Maddock",
+        "#: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:365"
+      ]
+    },
+    {
+      "row": 154,
+      "src": "Do not put words in my mouth. I am more than willing to act should the need arise. I am already in covert communication with— ...listen, there is a bigger picture here, Baldras.",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [message]: speaker=Lord Maddock",
+        "#: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:373"
+      ]
+    },
+    {
+      "row": 168,
+      "src": "The Queen sent us away... sent us west. Now, our mortal bodies pass... into another plane of hellish existence...",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [message]: speaker=Kestrel",
+        "#: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:902"
+      ]
+    },
+    {
+      "row": 209,
+      "src": "The grand city-state of Elensefar is the wealthiest human settlement on the Great Continent, commanding a reputation and power that belies its relatively small population. Unlike the more war-minded inland nobles, Elensefar’s governors master the art of commerce and the skill of sailing, and are known to be particularly agreeable. Yet behind that merchant charm lies a fierce independence, a trait that sometimes puts them at odds with the aristocrats of other regions.",
+      "tgt": "",
+      "is_plural": false,
+      "is_fuzzy": false,
+      "comments": [
+        "#. [unit_type]: id=Lord of Elensefar, race=human",
+        "#: data/campaigns/Liberty/units/Maddock.cfg:7"
+      ]
+    }
+  ],
+  "fuzzy": [
+    {
+      "row": 14,
+      "src": "Complete <i>Civil Disobedience</i> with at least 3 peasants remaining.",
+      "tgt": "En az 3 köylü kalarak Sivil İtaatsizliği tamamlayın.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [achievement]: id=liberty_or_death",
+        "#: data/campaigns/Liberty/achievements.cfg:8",
+        "#, fuzzy",
+        "#| msgid \"Complete Civil Disobedience with at least 3 peasants remaining.\""
+      ]
+    },
+    {
+      "row": 15,
+      "src": "The Nameless Guard",
+      "tgt": "Adsız General",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [achievement]: id=liberty_nameless",
+        "#: data/campaigns/Liberty/achievements.cfg:14",
+        "#, fuzzy",
+        "#| msgid \"The Nameless General\""
+      ]
+    },
+    {
+      "row": 16,
+      "src": "Discover the name of the royal guard in <i>Unlawful Orders</i>.",
+      "tgt": "Hukuksuz Emirler senaryosundaki generalin adını öğren.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [achievement]: id=liberty_nameless",
+        "#: data/campaigns/Liberty/achievements.cfg:15",
+        "#, fuzzy",
+        "#| msgid \"Find out the name of the general in Unlawful Orders.\""
+      ]
+    },
+    {
+      "row": 18,
+      "src": "Defeat an Iron Mauler with Harper in <i>Hide and Seek</i>.",
+      "tgt": "Saklambaç senaryosunda Harper ile bir Demir Balyozu yen.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [achievement]: id=liberty_iron",
+        "#: data/campaigns/Liberty/achievements.cfg:22",
+        "#, fuzzy",
+        "#| msgid \"Defeat an Iron Mauler with Harper in Hide and Seek.\""
+      ]
+    },
+    {
+      "row": 20,
+      "src": "Complete <i>The Hunters</i> with no losses.",
+      "tgt": "Avcılar seneryosunu hiç kayıp vermeden tamamla",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [achievement]: id=liberty_hunter",
+        "#: data/campaigns/Liberty/achievements.cfg:30",
+        "#, fuzzy",
+        "#| msgid \"Complete The Hunters with no losses\""
+      ]
+    },
+    {
+      "row": 22,
+      "src": "On Challenging difficulty, defeat Dommel in <i>Glory</i>.",
+      "tgt": "Zorlu zorluk seviyesinde, Zafer senaryosunda Dommel'i yen.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [achievement]: id=liberty_army",
+        "#: data/campaigns/Liberty/achievements.cfg:37",
+        "#, fuzzy",
+        "#| msgid \"On Challenging difficulty, defeat Dommel in Glory.\""
+      ]
+    },
+    {
+      "row": 42,
+      "src": "Hey, someone left their pack here. I could use it to carry some heavier rocks.",
+      "tgt": "Hey, biri buraya bir paket bırakmış. Biraz daha taş taşımak için bunu kullanabilirim.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [message]: speaker=unit",
+        "#: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:408",
+        "#, fuzzy",
+        "#| msgid \"Hey, someone left their pack here. I could use it to carry some more rocks.\""
+      ]
+    },
+    {
+      "row": 123,
+      "src": "Defeat the enemy leader",
+      "tgt": "İki düşman liderini de öldür",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [objective]: condition=win",
+        "#: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:195",
+        "#, fuzzy",
+        "#| msgid \"Defeat both enemy leaders\""
+      ]
+    },
+    {
+      "row": 132,
+      "src": "That was partially my fault, since I was not able to send a messenger to you in time. I shall have to inform you now. Five weeks ago, at the Ford of Abez, King Garard II of Wesnoth was murdered.",
+      "tgt": "Bu kısmen benim hatamıydı, çünkü size zamanında bir haberci gönderemedim. Hemen size haber vermem gerekirdi. Beş hafta önce, Kraliçe Aşivye'nin adamları Abez Geçidi'nde kuzey orklarla ittifak yaptılar ve Kral 2. Garard'a ihanet ettiler.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [message]: speaker=Lord Maddock",
+        "#: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:329",
+        "#, fuzzy",
+        "#| msgid \"That was partially my fault, since I was not able to send a messenger to you in time. I shall have to inform you now. Five weeks ago, at the Ford of Abez, Queen Asheviere's men allied themselves with the northern orcs and betrayed King Garard II.\""
+      ]
+    },
+    {
+      "row": 138,
+      "src": "The Queen is not popular. She is at war with supporters of the old king, and searches far and wide for new conscripts. Part of that has been taking elders from the local villages, forcing them to swear allegiance to her. That was the purpose of that patrol.",
+      "tgt": "Prens Eldred savaşta ölünce Kraliçe tahta geçti, şimdi de gücünü pekiştiriyor. Yerel köylerden yaşlıları buraya getirerek onları ona biat etmeye zorluyor. O devriyelerin amacı buydu.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [message]: speaker=Lord Maddock",
+        "#: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:337",
+        "#, fuzzy",
+        "#| msgid \"Since Prince Eldred died in the battle, the Queen took the throne and has been consolidating her power. Part of that has been bringing the elders from the local villages here, forcing them to swear allegiance to her. That was the purpose of that patrol.\""
+      ]
+    },
+    {
+      "row": 159,
+      "src": "It says, “Here lies Daneth, child of the Light, loyal defender of Lord and Land.”",
+      "tgt": "\"Burada Işığın çocuğu Danet yatıyor, Lord ve topraklarının sadık koruyucusu\" diyor. Kimdiyse.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [message]: speaker=Baldras",
+        "#: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:441",
+        "#, fuzzy",
+        "#| msgid \"It says, “Here lies Daneth, child of the Light, loyal defender of Lord and Land.” Whoever that was.\""
+      ]
+    },
+    {
+      "row": 165,
+      "src": "Kestrel",
+      "tgt": "General Kestrel",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [modify_unit]",
+        "#: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:887",
+        "#, fuzzy",
+        "#| msgid \"General Kestrel\""
+      ]
+    },
+    {
+      "row": 166,
+      "src": "We... are accursed. We were the soldiers of Prince Eldred, the King’s son and betrayer... when the Prince stooped to black magic, we were damned... those of us who bore witness were warped into these twisted forms.",
+      "tgt": "Biz... lanetlendik. Evvelce kralın hain oğlu Prens Eldred'in emrindeydik... Prens, büyücü Delfador'ın ellerinde öldürüldüğünde, buna tanık olan bizler, bu çarpık biçimlere dönüştük. Şimdi, ölümlü bedenlerimiz... cehennemi varlığın başka bir boyutuna geçiyor...",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [message]: speaker=Kestrel",
+        "#: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:898",
+        "#, fuzzy",
+        "#| msgid \"We... are accursed. We were the soldiers of Prince Eldred, the King's son and betrayer... when the Prince was slain at the hands of the mage Delfador, those of us who bore witness to it were warped into these twisted forms. Now, our mortal bodies pass... into another plane of hellish existence...\""
+      ]
+    },
+    {
+      "row": 196,
+      "src": "Lo, Knights of Elensefar, the battle hath begun ere our arrival. Ready thy lances! Let us trample the armies of Weldyn beneath our steeds!",
+      "tgt": "Mızraklarınızı hazırlayın kardeşlerim. Veldin ordularını atlarımızın altında çiğneyelim!",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [message]: speaker=Sir Gwydion",
+        "#: data/campaigns/Liberty/scenarios/07_Glory.cfg:395",
+        "#, fuzzy",
+        "#| msgid \"Ready thy lances! Let us trample the armies of Weldyn beneath our steeds!\""
+      ]
+    },
+    {
+      "row": 212,
+      "src": "I'm sure them Wesnothians will come back in time. Maddock sounded like he had a plan... we'll see. But that don't be my problem anymore. I has me a village to worry about. I need to get back, consult myself with Relana and figure out what to do next. We gots some more time now, but we can't wait forever.",
+      "tgt": "Eminim o Vesnotlular zamanında geri dönecekler ve Madok aptal kulesinde kapana kısılmışken sonunda Elensefar'ı kuşatacaklar... ama bu artık benim sorunum değil. Endişelenmem gereken bir köy var. Geri dönmem, Relana'ya danışmam ve sonra ne yapacağıma karar vermem gerekiyor. Şimdi biraz daha zamanımız var ama sonsuza kadar bekleyemeyiz.",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [part]",
+        "#: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:22",
+        "#, fuzzy",
+        "#| msgid \"I'm sure them Wesnothians will come back in time and with Maddock holed up in his stupid tower, they'll eventually siege Elensefar and take the city... but that don't be my problem anymore. I has me a village to worry about. I need to get back, consult myself with Relana and figure out what to do next. We gots some more time now, but we can't wait forever.\""
+      ]
+    },
+    {
+      "row": 216,
+      "src": "Lord of Elensefar",
+      "tgt": "Elensefar Limanı",
+      "is_plural": false,
+      "is_fuzzy": true,
+      "comments": [
+        "#. [unit_type]: id=Lord of Elensefar, race=human",
+        "#: data/campaigns/Liberty/units/Maddock.cfg:4",
+        "#, fuzzy",
+        "#| msgid \"Port of Elensefar\""
+      ]
+    }
+  ]
+}
