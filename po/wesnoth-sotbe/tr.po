@@ -83,13 +83,13 @@ msgstr "Seferberlik Tasarımı"
 #: data/campaigns/Son_Of_The_Black_Eye/_main.cfg:41
 #| msgid "Campaign Maintenance"
 msgid "Current Campaign Maintainer"
-msgstr "Mevcut Kampanya Sorumlusu"
+msgstr "Mevcut Seferberlik Sorumlusu"
 
 #. [about]
 #: data/campaigns/Son_Of_The_Black_Eye/_main.cfg:47
 #| msgid "Campaign Maintenance"
 msgid "Campaign Maintainers (former)"
-msgstr "Kampanya Sorumluları (eski)"
+msgstr "Seferberlik Sorumluları (eski)"
 
 #. [about]
 #: data/campaigns/Son_Of_The_Black_Eye/_main.cfg:56
@@ -2500,7 +2500,7 @@ msgstr "İnariks’in 4. elde güneyden  gelmesini bekleyin"
 #| "In order to recruit saurians later on, bring Inarix and at least four "
 #| "saurians to safety"
 msgid "Escort Inarix and at least four saurians to Prestim."
-msgstr "Inarix'e ve en az dört saurian'a Prestim'e kadar eşlik edin."
+msgstr "Inarix'e ve en az dört sürüngen'a Prestim'e kadar eşlik edin."
 
 #. [note]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:75
@@ -2516,7 +2516,7 @@ msgid ""
 "In order to recruit saurians later on, bring Inarix and at least four "
 "saurians to safety."
 msgstr ""
-"Daha sonra saurianları işe almak için Inarix'i ve en az dört saurian'ı "
+"Daha sonra saurianları işe almak için Inarix'i ve en az dört sürüngen'ı "
 "güvenli bir yere getirin."
 
 #. [side]: type=Elvish Champion, id=Thelarion

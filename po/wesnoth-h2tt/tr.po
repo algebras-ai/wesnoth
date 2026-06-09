@@ -33,7 +33,7 @@ msgid ""
 "Seventeen years ago, the traitor queen Asheviere violently usurped the "
 "throne of Wesnoth. Now she rules tyrannically over her domain."
 msgstr ""
-"On yedi yıl önce, hain kraliçe Asheviere Wesnoth tahtını zorla ele geçirdi. "
+"On yedi yıl önce, hain kraliçe Aşivye Wesnoth tahtını zorla ele geçirdi. "
 "Şimdi topraklarında zalimce hüküm sürüyor."
 
 #. [campaign]: id=Heir 2 The Throne
@@ -248,7 +248,7 @@ msgid ""
 "Defeat the Mother Gryphon in <i>Gryphon Mountain</i> without killing any "
 "other gryphons."
 msgstr ""
-"<i>Grifon Dağı</i>'ndaki Ana Grifonu başka hiçbir grifonu öldürmeden yen."
+"<i>Grifin Dağı</i>'ndaki Ana Grifonu başka hiçbir grifonu öldürmeden yen."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:40
@@ -423,7 +423,7 @@ msgstr "Asker toplamadan <i>Liderlik Krizi</i>'ni tamamla."
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:62
 msgid "Complete <i>Cliffs of Thoria</i> without capturing any drake villages."
 msgstr ""
-"Hiçbir ejderha köyünü ele geçirmeden <i>Thoria Kayalıkları</i>'nı tamamla."
+"Hiçbir ejder köyünü ele geçirmeden <i>Thoria Kayalıkları</i>'nı tamamla."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:62
@@ -433,7 +433,7 @@ msgstr "Pasifist"
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:63
 msgid "Defeat the Saurian leader in <i>Underground Channels</i>."
-msgstr "<i>Yeraltı Kanalları</i>'ndaki Saurian liderini yen."
+msgstr "<i>Yeraltı Kanalları</i>'ndaki Sürüngen liderini yen."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:63
@@ -745,10 +745,10 @@ msgid ""
 "hoped to wait until you were older... Hmph, I remember my own master telling"
 " me that once."
 msgstr ""
-"Çok haklısın, Konrad. Korkarım başka çare yok; Asheviere'e karşı "
-"kampanyamıza planlanandan daha erken başlamak zorunda kalacağız. Senin "
-"büyümeni beklemeyi ummuştum... Hmph, kendi ustamın bana bir zamanlar bunu "
-"söylediğini hatırlıyorum."
+"Çok haklısın, Konrad. Korkarım başka çare yok; Aşivye'e karşı kampanyamıza "
+"planlanandan daha erken başlamak zorunda kalacağız. Senin büyümeni beklemeyi"
+" ummuştum... Hmph, kendi ustamın bana bir zamanlar bunu söylediğini "
+"hatırlıyorum."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:106
@@ -828,8 +828,8 @@ msgid ""
 "The elves have gone into hiding; safely escaped into the southern "
 "Aethenwood! May they prosper again once Asheviere is overthrown."
 msgstr ""
-"Elfler saklandı; güney Aethenwood'a güvenle kaçtılar! Asheviere "
-"devrildiğinde yeniden refah bulsunlar."
+"Elfler saklandı; güney Aethenwood'a güvenle kaçtılar! Aşivye devrildiğinde "
+"yeniden refah bulsunlar."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:272
@@ -937,7 +937,7 @@ msgid ""
 "overran our homes and took us prisoner! Now we slave away all day, pearl "
 "diving for the queen."
 msgstr ""
-"Yardım edin! Asheviere'in ordusu batıya yürüdüğünde, orkları ve naga "
+"Yardım edin! Aşivye'in ordusu batıya yürüdüğünde, orkları ve naga "
 "müttefikleri evlerimizi ele geçirdi ve bizi esir aldı! Şimdi bütün gün "
 "kraliçe için inci dalışı yaparak köle gibi çalışıyoruz."
 
@@ -985,8 +985,8 @@ msgid ""
 "Asheviere is an evil queen, woodsman. This is a time for action — join me "
 "and help fight for liberty and justice!"
 msgstr ""
-"Asheviere kötü bir kraliçe, oduncu. Bu, harekete geçme zamanı — bana katıl "
-"ve özgürlük ve adalet için savaşmaya yardım et!"
+"Aşivye kötü bir kraliçe, oduncu. Bu, harekete geçme zamanı — bana katıl ve "
+"özgürlük ve adalet için savaşmaya yardım et!"
 
 #. [message]: speaker=aldril_woodsman
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:563
@@ -1034,9 +1034,9 @@ msgid ""
 "make life better for everyone. But most just keep quietly to themselves... I"
 " guess I can’t blame them."
 msgstr ""
-"Eğer insanlar bir araya gelseydi, Asheviere'i kolayca tahttan indirebilir ve"
-" herkes için hayatı daha iyi hale getirebilirlerdi. Ama çoğu sadece sessizce"
-" kendi hallerinde duruyor... Sanırım onları suçlayamam."
+"Eğer insanlar bir araya gelseydi, Aşivye'i kolayca tahttan indirebilir ve "
+"herkes için hayatı daha iyi hale getirebilirlerdi. Ama çoğu sadece sessizce "
+"kendi hallerinde duruyor... Sanırım onları suçlayamam."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:600
@@ -1086,7 +1086,7 @@ msgid ""
 "The queen will be the judge of that. Asheviere doesn’t look kindly on "
 "treasonous sentiment. Especially not from apprentices!"
 msgstr ""
-"Buna kraliçe karar verecek. Asheviere hain duygulara iyi gözle bakmaz. "
+"Buna kraliçe karar verecek. Aşivye hain duygulara iyi gözle bakmaz. "
 "Özellikle de çıraklardan gelenlere!"
 
 #. [message]: speaker=Konrad
@@ -1097,9 +1097,9 @@ msgid ""
 "Perhaps we can find allies among the faculty or pupils."
 msgstr ""
 "Delfador bana Alduin hakkında çok şey anlattı; Wesnoth'un büyük büyü "
-"akademisi. Şimdi Asheviere tarafından denetleniyor, ancak ordularının "
-"çoğundan izole edilmiş durumda. Belki öğretim üyeleri veya öğrenciler "
-"arasında müttefikler bulabiliriz."
+"akademisi. Şimdi Aşivye tarafından denetleniyor, ancak ordularının çoğundan "
+"izole edilmiş durumda. Belki öğretim üyeleri veya öğrenciler arasında "
+"müttefikler bulabiliriz."
 
 #. [side]: type=Arch Mage, id=Seimus
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:663
@@ -1122,7 +1122,7 @@ msgid ""
 "Thank you, Konrad! Asheviere won’t forget what happened here today, and "
 "neither will we."
 msgstr ""
-"Teşekkürler, Konrad! Asheviere bugün burada olanları unutmayacak, biz de "
+"Teşekkürler, Konrad! Aşivye bugün burada olanları unutmayacak, biz de "
 "unutmayacağız."
 
 #. [message]: speaker=Elrian
@@ -1143,7 +1143,7 @@ msgid ""
 "afraid. Asheviere targets the families of those who oppose her."
 msgstr ""
 "Sen bir askersin, ama çoğumuz sadece öğrenciyiz. Ve bazılarımız korkuyor. "
-"Asheviere, ona karşı çıkanların ailelerini hedef alıyor."
+"Aşivye, ona karşı çıkanların ailelerini hedef alıyor."
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:732
@@ -1227,7 +1227,7 @@ msgid ""
 "their request would make me little better than Asheviere."
 msgstr ""
 "Buraya bu insanlara yardım etmek için geldim, benim için ölmeye zorlamak "
-"için değil. Onların isteğini reddetmek beni Asheviere'den pek de farklı "
+"için değil. Onların isteğini reddetmek beni Aşivye'den pek de farklı "
 "kılmazdı."
 
 #. [message]: role=alduin_justcompleted_mage
@@ -1248,9 +1248,9 @@ msgid ""
 "But after what Asheviere’s soldiers did to Elrian? We’d be cowards if we "
 "asked you to let us leave now. Let us take revenge against the dark queen."
 msgstr ""
-"Ama Asheviere'in askerlerinin Elrian'a yaptıklarından sonra mı? Şimdi "
-"gitmemize izin vermenizi isteseydik korkak olurduk. Bırakın karanlık "
-"kraliçeden intikam alalım."
+"Ama Aşivye'in askerlerinin Elrian'a yaptıklarından sonra mı? Şimdi gitmemize"
+" izin vermenizi isteseydik korkak olurduk. Bırakın karanlık kraliçeden "
+"intikam alalım."
 
 #. [message]: role=alduin_mage_leader
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:886
@@ -1391,7 +1391,7 @@ msgid ""
 " tough, but fair. These undead be a new thing."
 msgstr ""
 "Yok, her zaman böyle değildi. Üç Kız Kardeşler bize her zaman iyi davrandı —"
-" sert ama adil. Bu ölümsüzler yeni bir şey."
+" sert ama adil. Bu yarı ölüler yeni bir şey."
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1135
@@ -1452,8 +1452,8 @@ msgid ""
 "Well. Listen, if you’re fightin’ Asheviere, then me an’ my hunters are with "
 "you; we want to help. It’s about time someone did somethin’ ’bout her."
 msgstr ""
-"Pekala. Dinle, eğer Asheviere ile savaşıyorsan, ben ve avcılarım seninleyiz;"
-" yardım etmek istiyoruz. Birinin ona bir şeyler yapmasının zamanı geldi."
+"Pekala. Dinle, eğer Aşivye ile savaşıyorsan, ben ve avcılarım seninleyiz; "
+"yardım etmek istiyoruz. Birinin ona bir şeyler yapmasının zamanı geldi."
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1198
 msgid "Konrad can now recruit Poachers!"
@@ -1467,7 +1467,7 @@ msgid ""
 "deserves."
 msgstr ""
 "Konrad, bize ne kadar yardım ettiğin için tekrar teşekkür ederiz! Üç Kız "
-"Kardeşler şimdi ve sonsuza dek sana borçlu. Git ve Asheviere'e hak ettiği "
+"Kardeşler şimdi ve sonsuza dek sana borçlu. Git ve Aşivye'e hak ettiği "
 "dayağı at."
 
 #. [event]
@@ -1608,8 +1608,8 @@ msgid ""
 "an’ hide, an’ now all’s left is memories. Lotsa stories like ours these "
 "days."
 msgstr ""
-"Tabii ki Asheviere geldiğinde her şey dağıldı. Canımızı kurtarmak için kaçıp"
-" saklanmak zorunda kaldık ve şimdi geriye sadece anılar kaldı. Bu günlerde "
+"Tabii ki Aşivye geldiğinde her şey dağıldı. Canımızı kurtarmak için kaçıp "
+"saklanmak zorunda kaldık ve şimdi geriye sadece anılar kaldı. Bu günlerde "
 "bizimki gibi çok hikaye var."
 
 #. [message]: speaker=Harper
@@ -1717,8 +1717,8 @@ msgid ""
 "Leave Elensefar alone, you villains! Rule under Asheviere would have been "
 "bad enough, but orcs?!"
 msgstr ""
-"Elensefar'ı rahat bırakın, siz alçaklar! Asheviere'in yönetimi yeterince "
-"kötü olurdu, ama orklar mı?!"
+"Elensefar'ı rahat bırakın, siz alçaklar! Aşivye'in yönetimi yeterince kötü "
+"olurdu, ama orklar mı?!"
 
 #. [message]: role=elensefar_orc_leader1
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1756
@@ -1789,9 +1789,9 @@ msgid ""
 "treasure to be even touched by one of Asheviere’s villains, much less "
 "pillaged from the ruins of my home! We have to get it back!"
 msgstr ""
-"Bu okçu bir Aethenwood Ay Yayı tutuyor! Böyle bir hazinenin Asheviere'in "
-"kötü adamlarından biri tarafından dokunulması, hele ki evimin "
-"kalıntılarından yağmalanması tam bir rezalet! Onu geri almalıyız!"
+"Bu okçu bir Aethenwood Ay Yayı tutuyor! Böyle bir hazinenin Aşivye'in kötü "
+"adamlarından biri tarafından dokunulması, hele ki evimin kalıntılarından "
+"yağmalanması tam bir rezalet! Onu geri almalıyız!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:70
@@ -1801,8 +1801,7 @@ msgid ""
 "victory over Asheviere."
 msgstr ""
 "Aferin millet! Elflerin güçlü bir yadigârını geri aldık ve Tahn Kalesi'nin "
-"yağmalanmasıyla Asheviere üzerindeki nihai zaferimize bir adım daha "
-"yaklaştık."
+"yağmalanmasıyla Aşivye üzerindeki nihai zaferimize bir adım daha yaklaştık."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:76
@@ -1811,7 +1810,7 @@ msgid ""
 "dealt a small, yet meaningful blow against Asheviere."
 msgstr ""
 "Tahn Kalesi zamanla yeniden inşa edilecek, ancak garnizonu püskürterek "
-"Asheviere'e küçük ama anlamlı bir darbe vurduk."
+"Aşivye'e küçük ama anlamlı bir darbe vurduk."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:89
@@ -1835,7 +1834,7 @@ msgid ""
 "depose the evil queen Asheviere!"
 msgstr ""
 "Ben Konrad, Arand'ın oğlu ve Garard'ın tahtının varisiyim! Kötü kraliçe "
-"Asheviere'i tahttan indirmek için bir görevdeyim!"
+"Aşivye'i tahttan indirmek için bir görevdeyim!"
 
 #. [message]: speaker=Merle
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:133
@@ -1854,8 +1853,8 @@ msgid ""
 " nothin’ but empty mines an’ dusty vaults."
 msgstr ""
 "Bir zamanlar bu tepeler altın ve granit açısından zengindi. Kral Garard "
-"savaşları için çoğunu aldı, gelini Asheviere de geri kalanını. Şimdi "
-"elimizde boş madenler ve tozlu mahzenlerden başka bir şey yok."
+"savaşları için çoğunu aldı, gelini Aşivye de geri kalanını. Şimdi elimizde "
+"boş madenler ve tozlu mahzenlerden başka bir şey yok."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:141
@@ -1876,7 +1875,7 @@ msgid ""
 msgstr ""
 "Değerli eşyaları saklayacak tesisleriniz var ve bazen yürüyüşümüzde "
 "yanımızda taşımak istediğimizden daha fazla altın ve erzağımız oluyor. Eğer "
-"şimdi fazla altınımızı bizim için saklar ve korursanız, Asheviere'i devirip "
+"şimdi fazla altınımızı bizim için saklar ve korursanız, Aşivye'i devirip "
 "tahta geçtiğimde Dulatus'u canlandırmaya seve seve yardım edeceğim."
 
 #. [message]: speaker=Merle
@@ -1895,8 +1894,8 @@ msgid ""
 " squander my earnings, but I would rather take a risk and make a friend than"
 " live my life in distrust."
 msgstr ""
-"Asheviere'e sevgin olmadığını kendin söyledin. Kazancımı çarçur etmeye hazır"
-" bir aptal değilim, ama hayatımı güvensizlik içinde yaşamaktansa risk alıp "
+"Aşivye'e sevgin olmadığını kendin söyledin. Kazancımı çarçur etmeye hazır "
+"bir aptal değilim, ama hayatımı güvensizlik içinde yaşamaktansa risk alıp "
 "bir arkadaş edinmeyi tercih ederim."
 
 #. [message]: speaker=Merle
@@ -1917,7 +1916,7 @@ msgid ""
 "Asheviere. I don’ want no queen. Don’ much want no prince or king neither, "
 "though."
 msgstr ""
-"Demek herkesin çok heyecanlandığı, Asheviere ile savaşmaya giden o prens "
+"Demek herkesin çok heyecanlandığı, Aşivye ile savaşmaya giden o prens "
 "sensin. Kraliçe istemem. Prens veya kral da pek istemem gerçi."
 
 #. [message]: speaker=Lisar
@@ -2018,7 +2017,7 @@ msgstr "10 altın çek"
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:309
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:314
 msgid "Gryphon Mountain"
-msgstr "Grifon Dağı"
+msgstr "Grifin Dağı"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:335
@@ -2026,7 +2025,7 @@ msgid ""
 "I’ve heard stories about the fabled Gryphon Mountain! I would much like a "
 "chance to gaze upon the majestic creatures."
 msgstr ""
-"Efsanevi Grifon Dağı hakkında hikayeler duydum! O görkemli yaratıkları görme"
+"Efsanevi Grifin Dağı hakkında hikayeler duydum! O görkemli yaratıkları görme"
 " şansım olmasını çok isterim."
 
 #. [event]
@@ -2052,9 +2051,9 @@ msgid ""
 "nobles, the army, the orcs... and it’s why peasants starve to death, their "
 "harvest all taken for taxes."
 msgstr ""
-"Asheviere'in altını o kadar çok insanı kör etti ki. Soyluları, orduyu, "
-"orkları böyle kontrol ediyor... ve köylülerin açlıktan ölmesinin, "
-"hasatlarının vergiler için alınmasının nedeni de bu."
+"Aşivye'in altını o kadar çok insanı kör etti ki. Soyluları, orduyu, orkları "
+"böyle kontrol ediyor... ve köylülerin açlıktan ölmesinin, hasatlarının "
+"vergiler için alınmasının nedeni de bu."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:373
@@ -2071,7 +2070,7 @@ msgid ""
 "Gryphon Mountain is at peace once again. I’m glad to see that the matriarch "
 "survived, and that her flock is recovering from the fighting..."
 msgstr ""
-"Grifon Dağı yeniden huzura kavuştu. Anaçın hayatta kaldığını ve sürüsünün "
+"Grifin Dağı yeniden huzura kavuştu. Anaçın hayatta kaldığını ve sürüsünün "
 "savaştan sonra iyileştiğini görmek beni sevindirdi..."
 
 #. [message]: speaker=Konrad
@@ -2080,13 +2079,13 @@ msgid ""
 "Gryphon Mountain is at peace once again. If only our fighting hadn’t killed "
 "the matriarch and driven away her flock..."
 msgstr ""
-"Grifon Dağı yeniden huzura kavuştu. Keşke savaşımız anaçı öldürmeseydi ve "
+"Grifin Dağı yeniden huzura kavuştu. Keşke savaşımız anaçı öldürmeseydi ve "
 "sürüsünü dağıtmasaydı..."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:399
 msgid "Gryphon Mountain stands silent and empty. We got what we needed."
-msgstr "Grifon Dağı sessiz ve boş duruyor. İhtiyacımız olanı aldık."
+msgstr "Grifin Dağı sessiz ve boş duruyor. İhtiyacımız olanı aldık."
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:416
 msgid "Valley of Death"
@@ -2097,7 +2096,7 @@ msgid ""
 "Item for Konrad: <span color='#EFBF04'><b>Regenerate 1 HP each turn. This value doubles\n"
 "(2, 4, 8, etc) for each other magic item that Konrad wields.</b></span>"
 msgstr ""
-"Konrad için Eşya: <span color='#EFBF04'><b>Her tur 1 Can yeniler. Bu değer, Konrad'ın kuşandığı diğer her büyülü eşya için ikiye katlanır\n"
+"Konrad için Eşya: <span color='#EFBF04'><b>Her tur 1 Can yeniler. Bu değer, Konrad'ın kuşandığı diğer her sihirli eşya için ikiye katlanır\n"
 "(2, 4, 8, vb).</b></span>"
 
 #. [side]: type=Shock Trooper, id=Kaelor
@@ -2156,8 +2155,8 @@ msgid ""
 "And may he return soon. The sacred seal continues to weaken, and undead are "
 "starting to slip through..."
 msgstr ""
-"Ve umarım yakında döner. Kutsal mühür zayıflamaya devam ediyor ve ölümsüzler"
-" sızmaya başlıyor..."
+"Ve umarım yakında döner. Kutsal mühür zayıflamaya devam ediyor ve yarı "
+"ölüler sızmaya başlıyor..."
 
 #. [message]: speaker=Gwatharry
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:526
@@ -2285,7 +2284,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:680
 msgid ""
 "Hey now, it ain’t as bad as all that. Asheviere is the evil one, not Konrad!"
-msgstr "Hey şimdi, o kadar da kötü değil. Kötü olan Asheviere, Konrad değil!"
+msgstr "Hey şimdi, o kadar da kötü değil. Kötü olan Aşivye, Konrad değil!"
 
 #. [message]: speaker=Mya
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:684
@@ -2312,9 +2311,9 @@ msgid ""
 "of the crown’s agents interfere with whatever your business is in the Grey "
 "Woods. Provided that business causes nobody any harm."
 msgstr ""
-"Şimdi Asheviere'i devirmeme yardım et, ben kral olduğumda tacın hiçbir "
-"ajanının Gri Ormanlar'daki işine karışmamasını sağlayacağım. Tabii ki bu iş "
-"kimseye zarar vermediği sürece."
+"Şimdi Aşivye'i devirmeme yardım et, ben kral olduğumda tacın hiçbir ajanının"
+" Gri Ormanlar'daki işine karışmamasını sağlayacağım. Tabii ki bu iş kimseye "
+"zarar vermediği sürece."
 
 #. [message]: speaker=Mya
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:694
@@ -2554,8 +2553,8 @@ msgid ""
 "But even if the tunnel still exists, and has not been deliberately collapsed"
 " by Asheviere, it is surely too well-guarded for us to attempt to use it."
 msgstr ""
-"Tünel hala var olsa ve Asheviere tarafından bilerek çökertilmemiş olsa bile,"
-" onu kullanmaya çalışmamız için kesinlikle çok iyi korunuyor."
+"Tünel hala var olsa ve Aşivye tarafından bilerek çökertilmemiş olsa bile, "
+"onu kullanmaya çalışmamız için kesinlikle çok iyi korunuyor."
 
 #. [message]: speaker=Konrad
 #. referencing the "discipline" scenario of Asheviere's Dogs
@@ -2566,8 +2565,8 @@ msgid ""
 "Asheviere’s rise to power."
 msgstr ""
 "Tath güzel bir kasaba, ancak uğruna savaşmaya değecek kadar stratejik öneme "
-"sahip değil. Asheviere'in iktidara yükselişi sırasında aldığı hasardan asla "
-"tam olarak kurtulamadı."
+"sahip değil. Aşivye'in iktidara yükselişi sırasında aldığı hasardan asla tam"
+" olarak kurtulamadı."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1068
@@ -2582,7 +2581,7 @@ msgid ""
 "Dan’Tonk. Delfador says this is the largest city in Wesnoth, and the source "
 "of most of Asheviere’s footmen."
 msgstr ""
-"Dan’Tonk. Delfador, buranın Wesnoth'taki en büyük şehir ve Asheviere'in "
+"Dan’Tonk. Delfador, buranın Wesnoth'taki en büyük şehir ve Aşivye'in "
 "piyadelerinin çoğunun kaynağı olduğunu söylüyor."
 
 #. [message]: speaker=Konrad
@@ -2592,7 +2591,7 @@ msgid ""
 " we’ve helped Maddock repel her attack, they’ve begun transporting soldiers "
 "and weapons from the front back towards Dan’Tonk."
 msgstr ""
-"Aynı zamanda Asheviere'in Elensefar'ı işgali için bir toplanma alanıydı. "
+"Aynı zamanda Aşivye'in Elensefar'ı işgali için bir toplanma alanıydı. "
 "Maddock'un saldırısını püskürtmesine yardım ettiğimize göre, cepheden "
 "Dan’Tonk'a asker ve silah taşımaya başladılar."
 
@@ -2603,8 +2602,8 @@ msgid ""
 " she’s taken the city, they’ve begun transporting soldiers and weapons from "
 "the front back towards Dan’Tonk."
 msgstr ""
-"Aynı zamanda Asheviere'in Elensefar'ı işgali için bir toplanma alanıydı. "
-"Şehri ele geçirdiğine göre, cepheden Dan’Tonk'a asker ve silah taşımaya "
+"Aynı zamanda Aşivye'in Elensefar'ı işgali için bir toplanma alanıydı. Şehri "
+"ele geçirdiğine göre, cepheden Dan’Tonk'a asker ve silah taşımaya "
 "başladılar."
 
 #. [message]: speaker=Konrad
@@ -2614,9 +2613,8 @@ msgid ""
 "attacks draw to a close, they’ve begun transporting soldiers and weapons "
 "from the front back towards Dan’Tonk."
 msgstr ""
-"Aynı zamanda Asheviere'in batıyı işgali için de bir toplanma alanı. "
-"Saldırıları sona ererken, cepheden Dan’Tonk'a asker ve silah taşımaya "
-"başladılar."
+"Aynı zamanda Aşivye'in batıyı işgali için de bir toplanma alanı. Saldırıları"
+" sona ererken, cepheden Dan’Tonk'a asker ve silah taşımaya başladılar."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1116
@@ -2945,7 +2943,7 @@ msgid ""
 "Perhaps most importantly, we defeated the orcs’ shaman and took her magical "
 "horn! I shall wear it myself, and blow it whenever its magic is in need."
 msgstr ""
-"Belki de en önemlisi, orkların şamanını yendik ve onun büyülü boynuzunu "
+"Belki de en önemlisi, orkların şamanını yendik ve onun sihirli boynuzunu "
 "aldık! Onu kendim takacağım ve büyüsüne ihtiyaç duyulduğunda üfleyeceğim."
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:183
@@ -2969,7 +2967,8 @@ msgstr ""
 msgid ""
 "If only we had been able to defeat the orcs’ shaman and claim her magical "
 "horn..."
-msgstr "Keşke orkların şamanını yenip büyülü boynuzunu ele geçirebilseydik..."
+msgstr ""
+"Keşke orkların şamanını yenip sihirli boynuzunu ele geçirebilseydik..."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:205
@@ -3090,7 +3089,7 @@ msgid ""
 "Welcome to the rebellion against Asheviere, friend merman. I am glad to have"
 " you on our side."
 msgstr ""
-"Asheviere'ye karşı isyana hoş geldin, dost deniz adamı. Seni yanımızda "
+"Aşivye'ye karşı isyana hoş geldin, dost deniz adamı. Seni yanımızda "
 "görmekten mutluluk duyuyorum."
 
 #. [event]
@@ -3320,8 +3319,8 @@ msgid ""
 "answer for. Asheviere will rue the day she made an enemy of the elves."
 msgstr ""
 "Size yardım edebildiğimiz için mutluyum, Konrad, çünkü karanlık kraliçenin "
-"sorumlu olduğu birçok ölüm var. Asheviere, elfleri düşman edindiği güne "
-"pişman olacak."
+"sorumlu olduğu birçok ölüm var. Aşivye, elfleri düşman edindiği güne pişman "
+"olacak."
 
 #. [command]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:632
@@ -3341,8 +3340,8 @@ msgid ""
 "elves."
 msgstr ""
 "Karanlık kraliçenin sorumlu olduğu birçok ölüm var, Konrad, görevinde sana "
-"katılmaktan memnuniyet duyarım. Asheviere elflerin düşmanı olduğu güne "
-"pişman olacak."
+"katılmaktan memnuniyet duyarım. Aşivye elflerin düşmanı olduğu güne pişman "
+"olacak."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:669
@@ -3365,7 +3364,7 @@ msgstr ""
 #. [object]: id=saurian_training, description={DESC}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:706
 msgid "Saurian Footwork"
-msgstr "Saurian Ayak Oyunu"
+msgstr "Sürüngen Ayak Oyunu"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:720
@@ -3433,7 +3432,7 @@ msgstr ""
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:787
 msgid "100 gold; magical training: <b>Konrad gains +2MP</b>"
-msgstr "100 altın; büyülü eğitim: <b>Konrad +2MP kazanır</b>"
+msgstr "100 altın; sihirli eğitim: <b>Konrad +2MP kazanır</b>"
 
 #. [command]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:790
@@ -3441,7 +3440,7 @@ msgid ""
 "After rigorous physical and magical training with the saurians of the Swamp "
 "of Dread, Konrad has gained <b>+2MP</b>."
 msgstr ""
-"Dehşet Bataklığı'nın saurianları ile yoğun fiziksel ve büyülü antrenmandan "
+"Dehşet Bataklığı'nın saurianları ile yoğun fiziksel ve sihirli antrenmandan "
 "sonra, Konrad <b>+2MP</b> kazandı."
 
 #. [option]
@@ -3458,7 +3457,7 @@ msgid ""
 "of Dread, Konrad has gained <b>+2MP</b> and the <b><i>skirmisher</i></b> "
 "ability."
 msgstr ""
-"Dehşet Bataklığı'nın saurianları ile yoğun fiziksel ve büyülü antrenmandan "
+"Dehşet Bataklığı'nın saurianları ile yoğun fiziksel ve sihirli antrenmandan "
 "sonra, Konrad <b>+2MP</b> ve <b><i>çatışmacı</i></b> yeteneğini kazandı."
 
 #. [message]: speaker=Tirix
@@ -3821,7 +3820,7 @@ msgid ""
 "Ah, let ’em in, Geldar. They ain’t orcs, trolls, or undead, an’ that’s good "
 "enough for now."
 msgstr ""
-"Ah, içeri al onları, Geldar. Onlar ork, trol ya da ölümsüz değil, şimdilik "
+"Ah, içeri al onları, Geldar. Onlar ork, trol ya da yarı ölü değil, şimdilik "
 "bu yeterli."
 
 #. [message]: speaker=Relgorn
@@ -3831,7 +3830,7 @@ msgid ""
 "Ah, let ’em in, Geldar. They ain’t orcs, trolls, or undead, an’ that’s good "
 "enough for me."
 msgstr ""
-"Ah, içeri al onları, Geldar. Onlar ork, trol ya da ölümsüz değil, bu bana "
+"Ah, içeri al onları, Geldar. Onlar ork, trol ya da yarı ölü değil, bu bana "
 "yeter."
 
 #. [message]: role=doors_vouch_peasant
@@ -3904,7 +3903,7 @@ msgid ""
 "Orc attacks, troll attacks, undead attacks. ’an now down in th’ mines—"
 msgstr ""
 "Korkarım Geldar haklı. Ama sorunlar — evet, sorunlarımız çok. Ork "
-"saldırıları, trol saldırıları, ölümsüz saldırıları. Ve şimdi de madenlerde—"
+"saldırıları, trol saldırıları, yarı ölü saldırıları. Ve şimdi de madenlerde—"
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1385
@@ -4012,7 +4011,7 @@ msgstr ""
 "ve onu ilerlemeye zorlayan zamanlı olayları devre dışı bırakacaktır.\n"
 "\n"
 "Normal sayının üzerinde oynadığınız her ek senaryo için,\n"
-"Asheviere son senaryoda +$s50_extra_income_per_scenario bonus gelir elde edecektir.\n"
+"Aşivye son senaryoda +$s50_extra_income_per_scenario bonus gelir elde edecektir.\n"
 "\n"
 "Girdabı kullanmak muhtemelen dengeli değildir ve\n"
 "tüm başarımları (<i>“Direksiyon Başında Uyumak”</i> hariç) devre dışı bırakacaktır. Emin misiniz?"
@@ -4023,8 +4022,8 @@ msgid ""
 "There is a strange whirlpool here, clearly magical in nature... I wonder "
 "what would happen if we allowed ourselves to be pulled in?"
 msgstr ""
-"Burada garip bir girdap var, doğası gereği açıkça büyülü... Kendimizi içine "
-"çekilmeye bıraksak ne olurdu acaba?"
+"Burada garip bir girdap var, doğası gereği açıkça sihirli... Kendimizi içine"
+" çekilmeye bıraksak ne olurdu acaba?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1543
@@ -4417,8 +4416,8 @@ msgid ""
 "Your max-level units require <span color='#00FF00'>75% less XP</span> to advance.\n"
 "Your other units require <span color='red'>75% more XP</span> to advance."
 msgstr ""
-"Maksimum seviye birimleriniz ilerlemek için <span color='#00FF00'>%75 daha az XP</span> gerektirir.\n"
-"Diğer birimleriniz ilerlemek için <span color='red'>%75 daha fazla XP</span> gerektirir."
+"Maksimum seviye birimleriniz ilerlemek için <span color='#00FF00'>%75 daha az TP</span> gerektirir.\n"
+"Diğer birimleriniz ilerlemek için <span color='red'>%75 daha fazla TP</span> gerektirir."
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:409
 msgid ""
@@ -4476,7 +4475,7 @@ msgid ""
 msgstr ""
 "Hayır, önce onun müttefiklerini dağıtarak başlamalıyız. Dan’Tonk, At "
 "Klanları, ork kabileleri — bunların hepsi Weldyn'in ordularını "
-"güçlendiriyor. Ne kadar çok yenersek, Asheviere o kadar zayıflayacak."
+"güçlendiriyor. Ne kadar çok yenersek, Aşivye o kadar zayıflayacak."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:524
@@ -4487,7 +4486,7 @@ msgid ""
 msgstr ""
 "Ya da başka türlü, kendi müttefiklerimizi edinmeliyiz! Lintanir elfleri "
 "arasında arkadaşlar bulabiliriz — daha önce orada zaman geçirdim. Doğuda "
-"woslar ve ejderhalar da var; kim bilir bizi başka neler bekliyor!"
+"woslar ve ejderler da var; kim bilir bizi başka neler bekliyor!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:537
@@ -4559,8 +4558,8 @@ msgid ""
 "It sounds as though she stands on the verge of freedom. But if we strike "
 "now, we can prevent her from ever rejoining Asheviere."
 msgstr ""
-"Özgürlüğün eşiğinde duruyor gibi görünüyor. Ama şimdi saldırırsak, "
-"Asheviere'e bir daha katılmasını engelleyebiliriz."
+"Özgürlüğün eşiğinde duruyor gibi görünüyor. Ama şimdi saldırırsak, Aşivye'e "
+"bir daha katılmasını engelleyebiliriz."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:84
@@ -4574,7 +4573,7 @@ msgid ""
 " the past. It is good that we stopped her before she could bring this one "
 "into their fold too."
 msgstr ""
-"Li’sar'ın bana anlattığına göre, Mirya geçmişte Asheviere için ork klanları "
+"Li’sar'ın bana anlattığına göre, Mirya geçmişte Aşivye için ork klanları "
 "toplamış. Onu bu klanı da kendi saflarına katmadan durdurduğumuz iyi oldu."
 
 #. [message]: speaker=urag_tifer
@@ -4607,8 +4606,8 @@ msgid ""
 "enemies of ours."
 msgstr ""
 "Dikkatli ol, Konrad. Aynı adı taşıyan büyük bir ork kabilesine ev sahipliği "
-"yapan Beyazdiş dağlarına yaklaşıyoruz. Onlar Asheviere'in müttefikleri ve "
-"bizim güçlü düşmanlarımız."
+"yapan Beyazdiş dağlarına yaklaşıyoruz. Onlar Aşivye'in müttefikleri ve bizim"
+" güçlü düşmanlarımız."
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:162
@@ -4646,8 +4645,8 @@ msgid ""
 "it’s all lies."
 msgstr ""
 "Ben Fagh-mok Onurlu, şefin muhafızlarının dürüst savaşçısıyım. Kötü kraliçe "
-"Asheviere bize sizin hakkınızda her türlü şeyi anlattı, prens. Ama eminim "
-"hepsi yalan."
+"Aşivye bize sizin hakkınızda her türlü şeyi anlattı, prens. Ama eminim hepsi"
+" yalan."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:181
@@ -4724,9 +4723,8 @@ msgid ""
 "Or, once we’re separated from our army you will capture us and turn us over "
 "to Asheviere. Why should I take such a great risk on the word of a stranger?"
 msgstr ""
-"Ya da, ordumuzdan ayrıldığımızda bizi yakalayıp Asheviere'e teslim "
-"edeceksin. Neden bir yabancının sözüne güvenerek bu kadar büyük bir risk "
-"alayım?"
+"Ya da, ordumuzdan ayrıldığımızda bizi yakalayıp Aşivye'e teslim edeceksin. "
+"Neden bir yabancının sözüne güvenerek bu kadar büyük bir risk alayım?"
 
 #. [message]: speaker=Faghmok
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:215
@@ -4764,7 +4762,7 @@ msgid ""
 "With the Whitefangs embroiled in civil war, Asheviere is more vulnerable "
 "than ever! I wonder who the eventual victor will be..."
 msgstr ""
-"Beyazdişler iç savaşa sürüklenmişken, Asheviere her zamankinden daha "
+"Beyazdişler iç savaşa sürüklenmişken, Aşivye her zamankinden daha "
 "savunmasız! Acaba nihai galip kim olacak..."
 
 #. [message]: speaker=Konrad
@@ -4773,7 +4771,7 @@ msgid ""
 "With the Whitefangs embroiled in civil war, Asheviere is more vulnerable "
 "than ever."
 msgstr ""
-"Beyazdişler iç savaşa sürüklenmişken, Asheviere her zamankinden daha "
+"Beyazdişler iç savaşa sürüklenmişken, Aşivye her zamankinden daha "
 "savunmasız."
 
 #. [event]
@@ -4866,8 +4864,8 @@ msgid ""
 "There are still some drakes here, but there’s no longer any reason to fight."
 " We did a good thing by rescuing Warven and his allies."
 msgstr ""
-"Burada hala bazı ejderhalar var, ama artık savaşmak için bir neden yok. "
-"Warven ve müttefiklerini kurtararak iyi bir iş yaptık."
+"Burada hala bazı ejderler var, ama artık savaşmak için bir neden yok. Warven"
+" ve müttefiklerini kurtararak iyi bir iş yaptık."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:387
@@ -4897,7 +4895,7 @@ msgid ""
 "decay. Has some undead creature taken up residence inside?"
 msgstr ""
 "Nehir burada yer altından akıyor ve korkunç bir çürük ve kokuşmuşluk kokusu "
-"var. İçeride bir ölümsüz yaratık mı yerleşti acaba?"
+"var. İçeride bir yarı ölü yaratık mı yerleşti acaba?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:431
@@ -5018,7 +5016,7 @@ msgid ""
 " rampaging across Wesnoth, Parandra helped me rescue you from the royal "
 "palace."
 msgstr ""
-"Konrad, bu Parandra. Asheviere ilk iktidara geldiğinde ve orkları Wesnoth'u "
+"Konrad, bu Parandra. Aşivye ilk iktidara geldiğinde ve orkları Wesnoth'u "
 "kasıp kavurmaya başladığında, Parandra seni kraliyet sarayından kurtarmama "
 "yardım etti."
 
@@ -5075,7 +5073,7 @@ msgid ""
 "Though you have the Sceptre, my lady, it is not your place to rule. Your "
 "line was tainted when Asheviere orchestrated her husband’s downfall."
 msgstr ""
-"Asa sende olsa da, leydim, hükmetmek senin yerin değil. Asheviere kocasının "
+"Asa sende olsa da, leydim, hükmetmek senin yerin değil. Aşivye kocasının "
 "düşüşünü planladığında soyun lekelendi."
 
 #. [message]: speaker=Lisar
@@ -5096,7 +5094,7 @@ msgid ""
 "Your line was tainted when Asheviere orchestrated her husband’s downfall."
 msgstr ""
 "Leydim, içinizde biraz iyilik var, ama taht sizin hak iddia edeceğiniz bir "
-"yer değil. Asheviere kocasının düşüşünü planladığında soyunuz lekelendi."
+"yer değil. Aşivye kocasının düşüşünü planladığında soyunuz lekelendi."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:594
@@ -5175,7 +5173,7 @@ msgid ""
 " the elves. The Lintanir has magic to offer you and your companions; aid on "
 "your quest against the dark queen."
 msgstr ""
-"... Konrad, Asheviere'in düşmanı ve elflerin dostu olduğunu kanıtladın. "
+"... Konrad, Aşivye'in düşmanı ve elflerin dostu olduğunu kanıtladın. "
 "Lintanir sana ve yoldaşlarına sihir sunuyor; karanlık kraliçeye karşı "
 "görevinizde yardım."
 
@@ -5269,8 +5267,8 @@ msgid ""
 "eldest of the Green Isle."
 msgstr ""
 "Ormanın yolları; ağaçlar arasında hızlı ve görünmeden hareket etme sanatı. "
-"Bu büyülü bir kitap; Yeşil Ada'nın en yaşlısı Elilmaldur-Rithrandil'in yaşam"
-" özünün bir kaydı."
+"Bu sihirli bir kitap; Yeşil Ada'nın en yaşlısı Elilmaldur-Rithrandil'in "
+"yaşam özünün bir kaydı."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:711
@@ -5311,8 +5309,8 @@ msgid ""
 "This is a wizard’s sword, Konrad; I sense its power. With such an enchanted "
 "weapon, even one as old as me would make a capable swordsman."
 msgstr ""
-"Bu bir büyücü kılıcı, Konrad; gücünü hissediyorum. Böyle büyülü bir silahla,"
-" benim kadar yaşlı biri bile yetenekli bir kılıç ustası olurdu."
+"Bu bir büyücü kılıcı, Konrad; gücünü hissediyorum. Böyle sihirli bir "
+"silahla, benim kadar yaşlı biri bile yetenekli bir kılıç ustası olurdu."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:742
@@ -5365,8 +5363,8 @@ msgid ""
 "clove our steel blades as if they were saplings, and its enchanted armor "
 "deflected our strongest magics and hottest fires."
 msgstr ""
-"Yıllar önce, büyük güce sahip bir ölümsüz lord tarafından rahatsız edildik. "
-"Baltası çelik kılıçlarımızı fidan gibi yarıyordu ve büyülü zırhı en güçlü "
+"Yıllar önce, büyük güce sahip bir yarı ölü lord tarafından rahatsız edildik."
+" Baltası çelik kılıçlarımızı fidan gibi yarıyordu ve sihirli zırhı en güçlü "
 "büyülerimizi ve en sıcak ateşlerimizi saptırıyordu."
 
 #. [message]: speaker=Kalenz
@@ -5427,7 +5425,7 @@ msgid ""
 "forgemasters, who imbued the bluish steel with an inner magical fire. "
 "Delfador gains a new melee attack, dealing 7-4 fire damage."
 msgstr ""
-"Bu devasa kılıç, yüzyıllar önce, mavimsi çeliğe içsel büyülü bir ateş "
+"Bu devasa kılıç, yüzyıllar önce, mavimsi çeliğe içsel sihirli bir ateş "
 "aşılayan, uzun zaman önce unutulmuş elf demircileri tarafından yaratıldı. "
 "Delfador, 7-4 ateş hasarı veren yeni bir yakın dövüş saldırısı kazanır."
 
@@ -5538,7 +5536,7 @@ msgid ""
 " just general. And now I hold the Sceptre, not my mother. Stand aside or "
 "die, soldier."
 msgstr ""
-"Asheviere'in kötü bir yönetici olduğunu biliyorsun. Benim adil bir general "
+"Aşivye'in kötü bir yönetici olduğunu biliyorsun. Benim adil bir general "
 "olduğumu biliyorsun. Ve şimdi Asayı ben tutuyorum, annem değil. Çekil kenara"
 " ya da öl, asker."
 
@@ -5558,9 +5556,9 @@ msgid ""
 "land is suffering. I know it, you know it, even Li’sar knows it; Asheviere’s"
 " own daughter driven to revolt."
 msgstr ""
-"Asheviere'den savaşım hakkında yalanlar duydun — şimdi gerçeği dinle. Bu "
+"Aşivye'den savaşım hakkında yalanlar duydun — şimdi gerçeği dinle. Bu "
 "topraklar acı çekiyor. Ben biliyorum, sen biliyorsun, hatta Li’sar bile "
-"biliyor; Asheviere'in kendi kızı isyana sürüklenmiş durumda."
+"biliyor; Aşivye'in kendi kızı isyana sürüklenmiş durumda."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1026
@@ -5572,8 +5570,8 @@ msgid ""
 msgstr ""
 "Prenses ve ben birlikte Ateş Asası'nı, kralların asasını ele geçirdik. "
 "Haldric'in ellerinde, Hortlak Lordları'ndan kurtuluşumuzdu. Benim elimde "
-"ise, hem seni hem de beni Asheviere'in teröründen kurtaracak. Geçmemize izin"
-" vereceksin."
+"ise, hem seni hem de beni Aşivye'in teröründen kurtaracak. Geçmemize izin "
+"vereceksin."
 
 #. [message]: role=soradoc_guard
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1036
@@ -5590,8 +5588,7 @@ msgstr "Git. Hiç burada olmadın."
 msgid ""
 "... and if you do win against Asheviere, please remember our actions today."
 msgstr ""
-"... ve eğer Asheviere'e karşı kazanırsan, lütfen bugünkü eylemlerimizi "
-"hatırla."
+"... ve eğer Aşivye'e karşı kazanırsan, lütfen bugünkü eylemlerimizi hatırla."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1068
@@ -5686,7 +5683,7 @@ msgid ""
 "Do not forget your pledge, lords of the clans. When Asheviere calls you for "
 "aid, let her pleas fall upon deaf ears."
 msgstr ""
-"Yeminlerinizi unutmayın, klanların lordları. Asheviere sizden yardım "
+"Yeminlerinizi unutmayın, klanların lordları. Aşivye sizden yardım "
 "istediğinde, yakarışları sağır kulaklara düşsün."
 
 #. [message]: id=Alric,Daryn,Bayar,Ruga
@@ -5716,9 +5713,9 @@ msgid ""
 "tried again to seize their eggs, but thanks to our help the gryphons have "
 "become strong enough to fight back!"
 msgstr ""
-"Şunlar... şehir surlarının üzerinde süzülen grifonlar mı? Asheviere "
+"Şunlar... şehir surlarının üzerinde süzülen grifinler mı? Aşivye "
 "yumurtalarını ele geçirmeye tekrar çalışmış olmalı, ama bizim yardımımız "
-"sayesinde grifonlar karşı koyacak kadar güçlenmişler!"
+"sayesinde grifinler karşı koyacak kadar güçlenmişler!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1273
@@ -5738,9 +5735,9 @@ msgid ""
 "Dan’Tonk’s footmen to flank us. If we strike now, we can do enough damage to"
 " prevent them from marching against us later."
 msgstr ""
-"Bir gün Weldyn'i kuşattığımızda, Asheviere kesinlikle Dan’Tonk'un "
-"piyadelerini bizi kuşatmak için çağıracaktır. Eğer şimdi saldırırsak, daha "
-"sonra bize karşı yürümelerini engelleyecek kadar hasar verebiliriz."
+"Bir gün Weldyn'i kuşattığımızda, Aşivye kesinlikle Dan’Tonk'un piyadelerini "
+"bizi kuşatmak için çağıracaktır. Eğer şimdi saldırırsak, daha sonra bize "
+"karşı yürümelerini engelleyecek kadar hasar verebiliriz."
 
 #. [message]: role=dantonk_contain_guard
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1324
@@ -5757,8 +5754,8 @@ msgid ""
 "Well done, everyone — our flank is secure. Asheviere’s position in Weldyn "
 "grows weaker each day."
 msgstr ""
-"Aferin herkese — kanadımız güvende. Asheviere'in Weldyn'deki konumu her "
-"geçen gün zayıflıyor."
+"Aferin herkese — kanadımız güvende. Aşivye'in Weldyn'deki konumu her geçen "
+"gün zayıflıyor."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1334
@@ -5806,7 +5803,7 @@ msgid ""
 msgstr ""
 "Kimseyi askere almayı veya öldürmeyi önermiyorum — bunlar masum insanlar. "
 "Ama zengin bir çiftçi birkaç sürüyü veya tek bir yılın hasadını kaybetmeye "
-"dayanabilir. Eğer Asheviere sonunda bizi yenerse, biz dayanamayız."
+"dayanabilir. Eğer Aşivye sonunda bizi yenerse, biz dayanamayız."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1418
@@ -5851,7 +5848,7 @@ msgid ""
 "we choose, but it may be wiser to first fight elsewhere and cut off her "
 "allies."
 msgstr ""
-"Wesnoth'un başkenti önümüzde duruyor. İstersek Asheviere'e şimdi meydan "
+"Wesnoth'un başkenti önümüzde duruyor. İstersek Aşivye'e şimdi meydan "
 "okuyabiliriz, ancak önce başka yerlerde savaşmak ve müttefiklerini kesmek "
 "daha akıllıca olabilir."
 
@@ -5926,13 +5923,13 @@ msgid ""
 "Prepare to fight Asheviere ($( $bm_milestone_finale - $bm_turns ) battles "
 "remaining)"
 msgstr ""
-"Asheviere ile savaşmaya hazırlan ($( $bm_milestone_finale - $bm_turns ) "
-"savaş kaldı)"
+"Aşivye ile savaşmaya hazırlan ($( $bm_milestone_finale - $bm_turns ) savaş "
+"kaldı)"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:568
 msgid "Prepare to fight Asheviere (1 battle remaining)"
-msgstr "Asheviere ile savaşmaya hazırlanın (1 savaş kaldı)"
+msgstr "Aşivye ile savaşmaya hazırlanın (1 savaş kaldı)"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:575
@@ -6061,8 +6058,8 @@ msgid ""
 "the Elense city-state."
 msgstr ""
 "Bu da ne? Kara Kanat kötü haberler getiriyor — Kraliyet askerleri "
-"Elensefar'ı kuşatıyor! Asheviere, Wesnoth ile Elense şehir devleti "
-"arasındaki yüzyıllık antlaşmayı bozdu."
+"Elensefar'ı kuşatıyor! Aşivye, Wesnoth ile Elense şehir devleti arasındaki "
+"yüzyıllık antlaşmayı bozdu."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:753
@@ -6074,7 +6071,7 @@ msgid ""
 msgstr ""
 "Lord Maddock en güvenilir müttefik olmayabilir, ancak o ve parası batı "
 "bölgelerinin göreceli özgürlüğünü sürdürmede etkili olmuştur. Elensefar "
-"düşerse, Asheviere'e karşı mücadelemizde büyük bir müttefiki kaybederiz."
+"düşerse, Aşivye'e karşı mücadelemizde büyük bir müttefiki kaybederiz."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:757
@@ -6167,8 +6164,8 @@ msgid ""
 "century-old treaty between Wesnoth and the Elense city-state."
 msgstr ""
 "Korkarım öyle, genç prens. Kara Kanat kötü haberler getiriyor, çünkü "
-"şüphelerim doğrulandı — Asheviere, Wesnoth ile Elense şehir devleti "
-"arasındaki yüzyıllık antlaşmayı bozarak Elensefar'ı kuşatıyor."
+"şüphelerim doğrulandı — Aşivye, Wesnoth ile Elense şehir devleti arasındaki "
+"yüzyıllık antlaşmayı bozarak Elensefar'ı kuşatıyor."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:875
@@ -6180,7 +6177,7 @@ msgid ""
 msgstr ""
 "Lord Maddock en güvenilir müttefik olmayabilir, ancak o ve parası batı "
 "bölgelerinin göreceli özgürlüğünü sürdürmede etkili olmuştur. Elensefar "
-"düşerse, Asheviere'e karşı mücadelemizde büyük bir müttefiki kaybederiz. "
+"düşerse, Aşivye'e karşı mücadelemizde büyük bir müttefiki kaybederiz. "
 "Savunmaya yardım etmek için hemen yola çıkmalıyım!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
@@ -6382,7 +6379,7 @@ msgid ""
 "strength to challenge her in her domain. Even if we did, such a war would "
 "kill untold numbers."
 msgstr ""
-"Elensefar'daki zaferimiz Asheviere'ye büyük bir darbe oldu, ancak onun eli "
+"Elensefar'daki zaferimiz Aşivye'ye büyük bir darbe oldu, ancak onun eli "
 "Wesnoth'un merkez şehirleri üzerinde sıkıca duruyor. Onun bölgesinde ona "
 "meydan okuyacak gücümüz yok. Olsa bile, böyle bir savaş sayısız insanı "
 "öldürürdü."
@@ -6619,7 +6616,7 @@ msgid ""
 "the kings of Wesnoth, surely Asheviere can no longer hope to oppose us."
 msgstr ""
 "Hemen gitmeliyiz! Babalarımın asasını; Wesnoth krallarının sembolünü "
-"elimizde tuttuğumuzda, Asheviere bize karşı koymayı artık umut edemez."
+"elimizde tuttuğumuzda, Aşivye bize karşı koymayı artık umut edemez."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1349
@@ -6657,7 +6654,7 @@ msgid ""
 "the king of Wesnoth, surely Asheviere can no longer hope to oppose us."
 msgstr ""
 "Hemen gitmeliyiz! Babalarımın asasını; Wesnoth kralının sembolünü elimizde "
-"tuttuğumuzda, Asheviere bize karşı koymayı artık umut edemez."
+"tuttuğumuzda, Aşivye bize karşı koymayı artık umut edemez."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1378
@@ -6826,7 +6823,7 @@ msgid ""
 " other, and when no men remain, outsiders will claim Wesnoth as their home."
 msgstr ""
 "Annenin Wesnoth'a döktüğü acı kadehini biliyorum, çocuk. Topraklar "
-"parçalandı. Elfler bunu biliyor. Orklar bunu biliyor. Ölümsüzler bunu "
+"parçalandı. Elfler bunu biliyor. Orklar bunu biliyor. Yarı Ölüler bunu "
 "hissedebiliyor. Büyük insan orduları birbirlerini avlamak için ovalarda "
 "yürüyor ve hiç insan kalmadığında, yabancılar Wesnoth'u kendi evleri olarak "
 "sahiplenecek."
@@ -6841,8 +6838,8 @@ msgid ""
 msgstr ""
 "Yeter! Daha fazla dinleyemem. Li’sar, annenin saltanatına son vermek "
 "isteyebilirsin ama ben onun hayatına, babamın ve kardeşlerimin hayatına son "
-"verdiği gibi son vereceğim. Asheviere'in ihanet şaheseri sona erecek ve "
-"benim kılıcımla sona erecek!"
+"verdiği gibi son vereceğim. Aşivye'in ihanet şaheseri sona erecek ve benim "
+"kılıcımla sona erecek!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1613
@@ -6864,8 +6861,8 @@ msgid ""
 "A message from Asheviere? I wonder what new trickery this is. Speak what you"
 " have come to say, courier."
 msgstr ""
-"Asheviere'den bir mesaj mı? Bu ne yeni bir hile acaba. Söyleyeceklerini "
-"söyle, kurye."
+"Aşivye'den bir mesaj mı? Bu ne yeni bir hile acaba. Söyleyeceklerini söyle, "
+"kurye."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1644
@@ -6975,7 +6972,7 @@ msgid ""
 "... but what did Asheviere hope to gain by telling us? Could she mean to "
 "catch us in some trap?"
 msgstr ""
-"... ama Asheviere bize söyleyerek ne kazanmayı umuyordu? Bizi bir tuzağa "
+"... ama Aşivye bize söyleyerek ne kazanmayı umuyordu? Bizi bir tuzağa "
 "düşürmek mi istiyor olabilir?"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
@@ -7023,8 +7020,8 @@ msgid ""
 "If we are to rule Wesnoth, we must prove ourselves better than Asheviere, "
 "not equal. We must defeat her before she can carry out her executions."
 msgstr ""
-"Wesnoth'u yöneteceksek, Asheviere'den daha iyi olduğumuzu kanıtlamalıyız, "
-"eşit değil. İnfazlarını gerçekleştirmeden önce onu yenmeliyiz."
+"Wesnoth'u yöneteceksek, Aşivye'den daha iyi olduğumuzu kanıtlamalıyız, eşit "
+"değil. İnfazlarını gerçekleştirmeden önce onu yenmeliyiz."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1713
@@ -7046,8 +7043,8 @@ msgid ""
 "Asheviere has left us no time to stop and fight. We must reach Weldyn before"
 " she can carry out her executions."
 msgstr ""
-"Asheviere bize durup savaşacak zaman bırakmadı. İnfazlarını "
-"gerçekleştirmeden önce Weldyn'e ulaşmalıyız."
+"Aşivye bize durup savaşacak zaman bırakmadı. İnfazlarını gerçekleştirmeden "
+"önce Weldyn'e ulaşmalıyız."
 
 #. [scenario]: id=01_The_Elves_Besieged
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:10
@@ -7121,8 +7118,8 @@ msgid ""
 "her son’s treachery. The rule of Eldred would surely satisfy her lust for "
 "power far better than her husband’s had."
 msgstr ""
-"Garard'ın kraliçesi Asheviere, oğlunun ihanetinin çoğunu düzenlemiş olmaktan"
-" keyif alarak izledi. Eldred'in yönetimi, kocasınınkinden çok daha iyi bir "
+"Garard'ın kraliçesi Aşivye, oğlunun ihanetinin çoğunu düzenlemiş olmaktan "
+"keyif alarak izledi. Eldred'in yönetimi, kocasınınkinden çok daha iyi bir "
 "şekilde onun güç arzusunu tatmin edecekti."
 
 #. [part]
@@ -7166,8 +7163,8 @@ msgid ""
 "In the end Delfador’s men were defeated and routed, but Asheviere found her "
 "son’s lifeless body, fixed to the ground by the great mage’s staff."
 msgstr ""
-"Sonunda Delfador'un adamları yenildi ve dağıldı, ancak Asheviere oğlunun "
-"cansız bedenini, büyük büyücünün asasıyla yere sabitlenmiş halde buldu."
+"Sonunda Delfador'un adamları yenildi ve dağıldı, ancak Aşivye oğlunun cansız"
+" bedenini, büyük büyücünün asasıyla yere sabitlenmiş halde buldu."
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:76
@@ -7177,7 +7174,7 @@ msgid ""
 "ordered them all killed and declared herself Queen of Wesnoth, striking down"
 " any lord bold enough to oppose her."
 msgstr ""
-"Asheviere daha sonra ordunun komutasını bizzat ele aldı ve Weldyn'e geri "
+"Aşivye daha sonra ordunun komutasını bizzat ele aldı ve Weldyn'e geri "
 "götürdü. Kral'ın genç yeğenlerinin tahtın bir sonraki varisleri olduğunu "
 "bilerek, hepsinin öldürülmesini emretti ve kendisine karşı çıkmaya cesaret "
 "eden her lordu devirerek Wesnoth Kraliçesi ilan etti."
@@ -7189,7 +7186,7 @@ msgid ""
 "the palace and stole away Konrad, the youngest of Garard’s nephews, thereby "
 "saving him from death."
 msgstr ""
-"Asheviere'in emirlerinin haberi Delfador'a ulaştıktan kısa bir süre sonra, "
+"Aşivye'in emirlerinin haberi Delfador'a ulaştıktan kısa bir süre sonra, "
 "gizlice saraya girdi ve Garard'ın yeğenlerinin en küçüğü olan Konrad'ı "
 "kaçırarak onu ölümden kurtardı."
 
@@ -7201,7 +7198,7 @@ msgid ""
 " sadly as Asheviere’s reign of terror over the land began..."
 msgstr ""
 "Wesnoth'un güneybatı sınırının ötesindeki Aethenwood'a kaçan Delfador, çocuk"
-" Konrad'ı elflerin koruması altında büyüttü ve Asheviere'in topraklar "
+" Konrad'ı elflerin koruması altında büyüttü ve Aşivye'in topraklar "
 "üzerindeki terör saltanatının başlamasını üzüntüyle izledi..."
 
 #. [event]
@@ -7214,7 +7211,7 @@ msgstr "10 altın"
 msgid ""
 "A little gold for use in magical experiments. I’m sure it won’t be missed."
 msgstr ""
-"Büyülü deneylerde kullanmak için biraz altın. Eminim kimse fark etmez."
+"Sihirli deneylerde kullanmak için biraz altın. Eminim kimse fark etmez."
 
 #. [message]: speaker=narrator
 #. this is Delfador trying to wake up a sleeping Konrad, as heard from
@@ -7239,8 +7236,8 @@ msgid ""
 "<i>(yawn)</i> What a vivid dream. Asheviere and Eldred, Delfador and Garard,"
 " just like in the histories..."
 msgstr ""
-"<i>(esneme)</i> Ne canlı bir rüyaydı. Asheviere ve Eldred, Delfador ve "
-"Garard, tıpkı tarihlerdeki gibi..."
+"<i>(esneme)</i> Ne canlı bir rüyaydı. Aşivye ve Eldred, Delfador ve Garard, "
+"tıpkı tarihlerdeki gibi..."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:228
@@ -7338,7 +7335,7 @@ msgstr ""
 #. Konrad is attacking a quintain
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:411
 msgid "Hi-ya! Take that Eldred! Take that Asheviere!"
-msgstr "Haydi! Al sana Eldred! Al sana Asheviere!"
+msgstr "Haydi! Al sana Eldred! Al sana Aşivye!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:424
@@ -7426,7 +7423,7 @@ msgid ""
 "throughout your youth. Now she comes bearing fiery retribution, and the dawn"
 " of a dark age for the Aethenwood."
 msgstr ""
-"Kraliçen Asheviere'den başın dertte, çocuk! Gençliğin boyunca sana sığınak "
+"Kraliçen Aşivye'den başın dertte, çocuk! Gençliğin boyunca sana sığınak "
 "olduğumuzu biliyor. Şimdi ateşli bir intikam ve Aethenwood için karanlık bir"
 " çağın şafağını getiriyor."
 
@@ -7457,7 +7454,7 @@ msgid ""
 "escape, Konrad. Lord Kalenz has commanded your safety. It is imperative that"
 " you escape!"
 msgstr ""
-"Asheviere hepimizin düşmanı. İşgalcilerle savaşacağız ama sen kaçmalısın, "
+"Aşivye hepimizin düşmanı. İşgalcilerle savaşacağız ama sen kaçmalısın, "
 "Konrad. Lord Kalenz senin güvenliğini emretti. Kaçman şart!"
 
 #. [message]: speaker=Delfador
@@ -7522,7 +7519,7 @@ msgid ""
 msgstr ""
 "Kendi halkının arasında büyüyemediğin için <i><b>üzgünüm</b></i>. Bizim "
 "türümüz biraz kaba olabilir ama genellikle o kadar kötü değiliz — tüm bu "
-"yaramazlığı karıştıran Asheviere."
+"yaramazlığı karıştıran Aşivye."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1243
@@ -8292,7 +8289,7 @@ msgid ""
 "So many foul humans riding on horses! Asheviere isn’t paying me nearly "
 "enough for this. Let’s get out of here!"
 msgstr ""
-"At sırtında ne kadar da çok iğrenç insan var! Asheviere bunun için bana "
+"At sırtında ne kadar da çok iğrenç insan var! Aşivye bunun için bana "
 "yeterince ödeme yapmıyor. Hadi buradan gidelim!"
 
 #. [message]: speaker=enemy1
@@ -8329,7 +8326,7 @@ msgid ""
 "pierced by Asheviere’s spears. It is thanks to his sacrifice that Blackwater"
 " Port still stands free."
 msgstr ""
-"Kaylan Amca— <b>Sör</b> Kaylan cesurca savaştı... ama sonunda Asheviere'in "
+"Kaylan Amca— <b>Sör</b> Kaylan cesurca savaştı... ama sonunda Aşivye'in "
 "mızraklarıyla delinerek düştü. Blackwater Limanı'nın hala özgür kalması onun"
 " fedakarlığı sayesindedir."
 
@@ -8353,7 +8350,7 @@ msgid ""
 " behind to guard the port, we can still partially fufill Sir Kaylan’s last "
 "wish, Sir Simyr."
 msgstr ""
-"Ancak Asheviere'in orduları bugün yenilmişken, kesinlikle birkaç adamımızı "
+"Ancak Aşivye'in orduları bugün yenilmişken, kesinlikle birkaç adamımızı "
 "ayırabiliriz, değil mi? Güçlerimizin çoğunun limanı korumak için geride "
 "kalması gerektiği doğru olsa da, Sör Kaylan'ın son arzusunu kısmen yerine "
 "getirebiliriz, Sör Simyr."
@@ -9031,7 +9028,7 @@ msgid ""
 " would oppose her!"
 msgstr ""
 "Ben kimim? Ben Konrad, Prens Arand'ın oğlu ve Wesnoth tahtının varisiyim! "
-"Ben Asheviere'in yeminli düşmanıyım ve ona karşı çıkan herkesi davama davet "
+"Ben Aşivye'in yeminli düşmanıyım ve ona karşı çıkan herkesi davama davet "
 "ederim!"
 
 #. [message]: speaker=Alyra
@@ -9205,7 +9202,7 @@ msgid ""
 "And, if you can clear Asheviere’s soldiers off the Isle entirely, I promise "
 "to personally join your army!"
 msgstr ""
-"Ve eğer Asheviere'in askerlerini Adadan tamamen temizleyebilirsen, orduna "
+"Ve eğer Aşivye'in askerlerini Adadan tamamen temizleyebilirsen, orduna "
 "şahsen katılacağıma söz veriyorum!"
 
 #. [message]: speaker=leader2lieutenant
@@ -9279,8 +9276,8 @@ msgid ""
 "I’m a friend. We have to go — there’s no time to cut loose your shackles. "
 "Are you willing to help us fight Asheviere?"
 msgstr ""
-"Ben bir dostum. Gitmeliyiz — kelepçelerini çözmek için zaman yok. Asheviere "
-"ile savaşmamıza yardım etmeye istekli misin?"
+"Ben bir dostum. Gitmeliyiz — kelepçelerini çözmek için zaman yok. Aşivye ile"
+" savaşmamıza yardım etmeye istekli misin?"
 
 #. [message]: type=Shackled Mage
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:488
@@ -9294,8 +9291,8 @@ msgid ""
 "I’m a friend. Come — let us cut loose your shackles. Are you willing to help"
 " us fight Asheviere?"
 msgstr ""
-"Ben bir dostum. Gel — kelepçelerini çözelim. Asheviere ile savaşmamıza "
-"yardım etmeye istekli misin?"
+"Ben bir dostum. Gel — kelepçelerini çözelim. Aşivye ile savaşmamıza yardım "
+"etmeye istekli misin?"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:540
@@ -9338,7 +9335,7 @@ msgstr ""
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:625
 msgid "Asheviere’s armies are defeated! We’ve won!"
-msgstr "Asheviere'in orduları yenildi! Kazandık!"
+msgstr "Aşivye'in orduları yenildi! Kazandık!"
 
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:633
@@ -9364,8 +9361,8 @@ msgid ""
 "We’ve done well to defeat Asheviere’s leaders on the isle, but we still need"
 " to rescue the prisoners and escape before reinforcements arrive."
 msgstr ""
-"Adadaki Asheviere liderlerini yenmekle iyi iş çıkardık, ama takviye gelmeden"
-" önce hala mahkumları kurtarmamız ve kaçmamız gerekiyor."
+"Adadaki Aşivye liderlerini yenmekle iyi iş çıkardık, ama takviye gelmeden "
+"önce hala mahkumları kurtarmamız ve kaçmamız gerekiyor."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:672
@@ -9376,7 +9373,7 @@ msgid ""
 msgstr ""
 "Hayat kurtarmak için yola çıktık, ama yardım ettiklerimizden çok daha "
 "fazlasını kaybettik. Daha iyisini yapamadığımız için üzgünüm, ama en azından"
-" buradaki insanlara Asheviere'in yenilebileceğini gösterdik."
+" buradaki insanlara Aşivye'in yenilebileceğini gösterdik."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:678
@@ -9398,7 +9395,7 @@ msgid ""
 "Live not in fear, Alduin, for today proves that Asheviere can be beaten! "
 "Once I’m king I will return here to set things right."
 msgstr ""
-"Korku içinde yaşama, Alduin, çünkü bugün Asheviere'in yenilebileceğini "
+"Korku içinde yaşama, Alduin, çünkü bugün Aşivye'in yenilebileceğini "
 "kanıtlıyor! Kral olduğumda her şeyi yoluna koymak için buraya döneceğim."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
@@ -9416,9 +9413,9 @@ msgid ""
 "mages away. If we take too long to finish our work here, that ship will "
 "surely arrive with reinforcements and defeat us."
 msgstr ""
-"Asheviere'in askerleri, hapsedilmiş büyücüleri götürmek için gelen bir "
-"kraliyet gemisinden bahsetti. Buradaki işimizi bitirmek için çok uzun "
-"sürersek, o gemi kesinlikle takviyelerle gelecek ve bizi yenecek."
+"Aşivye'in askerleri, hapsedilmiş büyücüleri götürmek için gelen bir kraliyet"
+" gemisinden bahsetti. Buradaki işimizi bitirmek için çok uzun sürersek, o "
+"gemi kesinlikle takviyelerle gelecek ve bizi yenecek."
 
 #. [message]: role=ship
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:735
@@ -9436,7 +9433,7 @@ msgid ""
 " ship controls the waters, and we cannot afford the time to stop and "
 "fight..."
 msgstr ""
-"Eyvah! Asheviere'in askerleri takviye aldı! Gemileri suları kontrol ederken "
+"Eyvah! Aşivye'in askerleri takviye aldı! Gemileri suları kontrol ederken "
 "kaçamayız ve durup savaşacak zamanımız yok..."
 
 #. [scenario]
@@ -9500,9 +9497,9 @@ msgid ""
 "power in him, but one man alone will not prevail against the hordes of "
 "undead that roam this peninsula."
 msgstr ""
-"O savaşçıyı kurtarmak istiyorsak acele etmeliyiz, Konrad! Onda büyülü bir "
-"güç hissediyorum, ama tek bir adam bu yarımadada dolaşan ölümsüz ordularına "
-"karşı gelemeyecektir."
+"O savaşçıyı kurtarmak istiyorsak acele etmeliyiz, Konrad! Onda sihirli bir "
+"güç hissediyorum, ama tek bir adam bu yarımadada dolaşan yarı ölü ordularına"
+" karşı gelemeyecektir."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:266
@@ -9521,7 +9518,7 @@ msgid ""
 " undead that roam this peninsula."
 msgstr ""
 "O savaşçıyı kurtarmak istiyorsak hızla sürmeliyiz, Konrad! Yetenekli bir "
-"savaşçıya benziyor, ama tek bir adam bu yarımadada dolaşan ölümsüz "
+"savaşçıya benziyor, ama tek bir adam bu yarımadada dolaşan yarı ölü "
 "ordularına karşı gelemeyecektir."
 
 #. [companion_message]
@@ -9531,9 +9528,9 @@ msgid ""
 "magical power in him, but one man alone will not prevail against the hordes "
 "of undead that roam this peninsula."
 msgstr ""
-"O savaşçıyı kurtarmayı umuyorsak acele etmeliyiz, Konrad! Onda büyülü bir "
-"güç hissediyorum, ama tek bir adam bu yarımadada dolaşan ölümsüz ordularına "
-"karşı gelemeyecektir."
+"O savaşçıyı kurtarmayı umuyorsak acele etmeliyiz, Konrad! Onda sihirli bir "
+"güç hissediyorum, ama tek bir adam bu yarımadada dolaşan yarı ölü ordularına"
+" karşı gelemeyecektir."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:270
@@ -9553,8 +9550,8 @@ msgid ""
 " that’s also a lot, really quite many undead surrounding him. We’d better "
 "hurry if we want to save him."
 msgstr ""
-"Aman Tanrım. O büyülü savaşçı oldukça, eee, güçlü görünüyor, değil mi? Ama "
-"etrafını saran çok, gerçekten de çok sayıda ölümsüz var. Onu kurtarmak "
+"Aman Tanrım. O sihirli savaşçı oldukça, eee, güçlü görünüyor, değil mi? Ama "
+"etrafını saran çok, gerçekten de çok sayıda yarı ölü var. Onu kurtarmak "
 "istiyorsak acele etsek iyi olur."
 
 #. [companion_message]
@@ -9564,7 +9561,7 @@ msgid ""
 " o’ dem undead e’en for him. We’d better be helpin’ him out, Konrad."
 msgstr ""
 "Şu kutsal adam pek bir güçlü görünüyor, ama Dosh onun için bile çok fazla "
-"ölümsüz olduğunu düşünüyor. Ona yardım etsek iyi olur, Konrad."
+"yarı ölü olduğunu düşünüyor. Ona yardım etsek iyi olur, Konrad."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:273
@@ -9616,7 +9613,7 @@ msgid ""
 "directly."
 msgstr ""
 "Korkarım ki bu da onun siyaset oyunlarından biri. Krallığın batı "
-"bölgelerinde nekromansinin gelişmesine izin vererek, Asheviere bizi kasaba "
+"bölgelerinde nekromansinin gelişmesine izin vererek, Aşivye bizi kasaba "
 "halkını korumak için zaman ve kaynak ayırmaya zorluyor — artık onunla "
 "doğrudan savaşmak için harcayamayacağımız bir zaman."
 
@@ -9628,8 +9625,8 @@ msgid ""
 "destroyed. She’ll work with anyone she finds useful."
 msgstr ""
 "Alduin'de sadece 'nekromansi' kelimesini söyledikleri için öğrencilerin "
-"atıldığını gördüm. Ve burada Asheviere, koca bir kasaba yok edildiğinde bile"
-" harekete geçmiyor. İşine yarayan herkesle çalışır."
+"atıldığını gördüm. Ve burada Aşivye, koca bir kasaba yok edildiğinde bile "
+"harekete geçmiyor. İşine yarayan herkesle çalışır."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:321
@@ -9639,7 +9636,7 @@ msgid ""
 "destroyed. She’ll work with anyone she finds useful."
 msgstr ""
 "Hmph. Alduin'de sadece 'nekromansi' kelimesini söyledikleri için öğrencileri"
-" okuldan attık. Ve burada Asheviere, koca bir kasaba yok edildiğinde bile "
+" okuldan attık. Ve burada Aşivye, koca bir kasaba yok edildiğinde bile "
 "harekete geçmiyor. İşine yarayan herkesle çalışır."
 
 #. [companion_message]
@@ -9688,8 +9685,8 @@ msgid ""
 "I am Konrad, heir to the throne of Wesnoth, and seeking to reclaim my seat "
 "from the evil queen Asheviere! Who are you?"
 msgstr ""
-"Ben Konrad, Wesnoth tahtının varisiyim ve koltuğumu kötü kraliçe "
-"Asheviere'den geri almaya çalışıyorum! Siz kimsiniz?"
+"Ben Konrad, Wesnoth tahtının varisiyim ve koltuğumu kötü kraliçe Aşivye'den "
+"geri almaya çalışıyorum! Siz kimsiniz?"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:352
@@ -9805,7 +9802,7 @@ msgstr "senaryo adı^Lanetliler Adası"
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:51
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:50
 msgid "Undead"
-msgstr "Ölümsüzler"
+msgstr "Yarı Ölüler"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:141
@@ -9846,9 +9843,9 @@ msgid ""
 "Asheviere’s. It’s been a long time since we ’ad to put down any of her "
 "goons."
 msgstr ""
-"Bilmiyorum, Delurin. Kötü bir grup, ama Asheviere'inkilere pek "
-"benzemiyorlar. Onun adamlarından herhangi birini alt etmek zorunda kalmayalı"
-" uzun zaman oldu."
+"Bilmiyorum, Delurin. Kötü bir grup, ama Aşivye'inkilere pek benzemiyorlar. "
+"Onun adamlarından herhangi birini alt etmek zorunda kalmayalı uzun zaman "
+"oldu."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:197
@@ -9857,9 +9854,9 @@ msgid ""
 "name is Konrad. I’m a prince, nephew of Garard, son of Arand and rightful "
 "heir to Wesnoth!"
 msgstr ""
-"Barış, dostlar! Size zarar vermek niyetinde değilim ve Asheviere'in "
-"hizmetkarı da değilim! Adım Konrad. Ben bir prensim, Garard'ın yeğeni, "
-"Arand'ın oğlu ve Wesnoth'un meşru varisiyim!"
+"Barış, dostlar! Size zarar vermek niyetinde değilim ve Aşivye'in hizmetkarı "
+"da değilim! Adım Konrad. Ben bir prensim, Garard'ın yeğeni, Arand'ın oğlu ve"
+" Wesnoth'un meşru varisiyim!"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:201
@@ -9911,7 +9908,7 @@ msgstr "Delurin'in Ölümü"
 msgid ""
 "Undead in th’ heart o’ town! I’m glad Baldras didn’t live to see this..."
 msgstr ""
-"Kasabanın göbeğinde ölümsüzler! Baldras'ın bunu görmeye yaşamadığına "
+"Kasabanın göbeğinde yarı ölüler! Baldras'ın bunu görmeye yaşamadığına "
 "sevindim..."
 
 #. [message]: speaker=unit
@@ -9940,7 +9937,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:370
 msgid "Gah, undead!"
-msgstr "Kah, ölümsüzler!"
+msgstr "Kah, yarı ölüler!"
 
 #. [message]: speaker=Delurin
 #. hint to the player that one crypt contains gold, but another contains
@@ -9950,7 +9947,7 @@ msgid ""
 "Watch out around those crypts, Konrad. This whole undead problem only "
 "started after our leader went down into one of them looking for treasure."
 msgstr ""
-"O mahzenlerin etrafına dikkat et, Konrad. Bu ölümsüz sorunu, liderimiz "
+"O mahzenlerin etrafına dikkat et, Konrad. Bu yarı ölü sorunu, liderimiz "
 "hazine aramak için onlardan birine indikten sonra başladı."
 
 #. [message]: speaker=Delurin
@@ -9998,7 +9995,7 @@ msgid ""
 "that stinker Asheviere warned us to swear fealty or die. We ain’t no friends"
 " of hers, and we’d be honored to join you on the rest of yer journey."
 msgstr ""
-"Doğru söze ne denir. Evlerimizden kaçtığımızdan, o pislik Asheviere bize "
+"Doğru söze ne denir. Evlerimizden kaçtığımızdan, o pislik Aşivye bize "
 "bağlılık yemini etmemizi ya da ölmemizi söylediğinden beri neredeyse 20 yıl "
 "oldu. Biz onun dostu değiliz ve yolculuğunuzun geri kalanında size "
 "katılmaktan onur duyarız."
@@ -10015,8 +10012,8 @@ msgid ""
 "Hurry it up, “Prince Konrad”! There’s friends of mine in trouble, and we "
 "can’t do naught about it until these undead are finished!"
 msgstr ""
-"Acele et, “Prens Konrad”! Benim başı dertte arkadaşlarım var ve bu "
-"ölümsüzler bitene kadar hiçbir şey yapamayız!"
+"Acele et, “Prens Konrad”! Benim başı dertte arkadaşlarım var ve bu yarı "
+"ölüler bitene kadar hiçbir şey yapamayız!"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:507
@@ -10150,7 +10147,7 @@ msgid ""
 "we will find no undead this way."
 msgstr ""
 "Temiz, taze hava ve tuzlu bir esinti kokusu alıyorum! Yakında okyanus var; "
-"bu yoldan ölümsüz bulamayız."
+"bu yoldan yarı ölü bulamayız."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #. tell the player that they don't need to fight the giant spiders to win
@@ -10161,7 +10158,7 @@ msgid ""
 "perhaps if we keep our distance they will leave us alone."
 msgstr ""
 "Dev örümcek yuvası! Bu yaratıkların korkunç tehlikeleri hakkında dehşet "
-"verici hikayeler duydum. Yuvalarının içinde kesinlikle hiçbir ölümsüz yok; "
+"verici hikayeler duydum. Yuvalarının içinde kesinlikle hiçbir yarı ölü yok; "
 "belki mesafemizi korursak bizi yalnız bırakırlar."
 
 #. [message]: speaker=Konrad
@@ -10173,7 +10170,7 @@ msgid ""
 msgstr ""
 "Bir hortlak! O şey yetenekli bir savaşçı, ama böyle akılsız bir yaratık, "
 "yoldaşlarını diriltmek için gereken büyüleri yapamazdı. Bu mağaraların başka"
-" bir yerinde bir nekromanser veya lich olmalı."
+" bir yerinde bir nekromanser veya umacı olmalı."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:376
@@ -10227,7 +10224,7 @@ msgid ""
 " had learned to walk! You will learn to show proper respect!"
 msgstr ""
 "Küstahtan insanlar! Sizin türünüz yürümeyi öğrenmeden önce ben bu adanın "
-"ölümsüz kraliçesiydim! Uygun saygıyı göstermeyi öğreneceksiniz!"
+"yarı ölü kraliçesiydim! Uygun saygıyı göstermeyi öğreneceksiniz!"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:457
@@ -10240,7 +10237,7 @@ msgid ""
 "You’re the leader of the outlaws? Err, we came to rescue you, and to put an "
 "end to the undead threat on the isle. What happened in this place?!"
 msgstr ""
-"Haydutların lideri siz misiniz? Şey, sizi kurtarmaya ve adadaki ölümsüz "
+"Haydutların lideri siz misiniz? Şey, sizi kurtarmaya ve adadaki yarı ölü "
 "tehdidine son vermeye geldik. Bu yerde ne oldu?!"
 
 #. [message]: speaker=Harper
@@ -10250,8 +10247,8 @@ msgid ""
 "treasure, anythin’ that could help really make a difference ’gainst that "
 "stinker Queen Asheviere. Really thought I’d found somethin’ too."
 msgstr ""
-"Şey... birkaç hafta önce, o pislik Kraliçe Asheviere'ye karşı gerçekten fark"
-" yaratabilecek sihir, hazine, herhangi bir şey aramak için buraya birkaç "
+"Şey... birkaç hafta önce, o pislik Kraliçe Aşivye'ye karşı gerçekten fark "
+"yaratabilecek sihir, hazine, herhangi bir şey aramak için buraya birkaç "
 "avcıyı getirmiştim. Gerçekten bir şeyler bulduğumu sanmıştım."
 
 #. [message]: speaker=Harper
@@ -10438,8 +10435,8 @@ msgid ""
 "repelled, but that lieutenant of theirs is right about one thing — we can’t "
 "keep it up forever."
 msgstr ""
-"Gördüğünüz gibi zor durumdayız, çünkü Asheviere'in sadıkları güney köprüsünü"
-" kuşatırken orklar kuzeyden bastırıyor. Her saldırı püskürtüldü, ancak o "
+"Gördüğünüz gibi zor durumdayız, çünkü Aşivye'in sadıkları güney köprüsünü "
+"kuşatırken orklar kuzeyden bastırıyor. Her saldırı püskürtüldü, ancak o "
 "teğmenleri bir konuda haklı — buna sonsuza dek dayanamayız."
 
 #. [companion_message]
@@ -10484,7 +10481,7 @@ msgid ""
 "We’re here to help, Lord Maddock. Elensefar has long been a bastion of "
 "freedom against Asheviere’s tyranny. We can’t let it fall!"
 msgstr ""
-"Yardım etmek için buradayız, Lord Maddock. Elensefar, Asheviere'in zulmüne "
+"Yardım etmek için buradayız, Lord Maddock. Elensefar, Aşivye'in zulmüne "
 "karşı uzun zamandır bir özgürlük kalesi olmuştur. Düşmesine izin veremeyiz!"
 
 #. [message]: speaker=Delfador
@@ -10929,8 +10926,8 @@ msgid ""
 "If Asheviere has truly given Elensefar to the orcs like they claim, it can "
 "only be because she expects them to ravage it."
 msgstr ""
-"Eğer Asheviere gerçekten Elensefar'ı orklara verdiyse, iddia ettikleri gibi,"
-" bu ancak onları yağmalamalarını beklediği içindir."
+"Eğer Aşivye gerçekten Elensefar'ı orklara verdiyse, iddia ettikleri gibi, bu"
+" ancak onları yağmalamalarını beklediği içindir."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:321
@@ -11326,7 +11323,7 @@ msgid ""
 "dry, despite the water all around."
 msgstr ""
 "Bak — o orkun kesesinde, muhtemelen zengin bir tüccardan veya gemi "
-"kaptanından yağmalanmış, garip, büyülü görünümlü sandaletler vardı. "
+"kaptanından yağmalanmış, garip, sihirli görünümlü sandaletler vardı. "
 "Etraftaki suya rağmen tuhaf bir şekilde kuru görünüyorlar."
 
 #. [event]
@@ -11340,7 +11337,7 @@ msgid ""
 "This enchanted footwear repels nearby water, allowing\n"
 "its wearer to walk on water, swamp, or snow as if standing on solid ground."
 msgstr ""
-"Bu büyülü ayakkabı, yakındaki suyu iter ve giyenin suyun, bataklığın veya "
+"Bu sihirli ayakkabı, yakındaki suyu iter ve giyenin suyun, bataklığın veya "
 "karın üzerinde katı zeminde duruyormuş gibi yürümesini sağlar."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
@@ -11404,9 +11401,9 @@ msgid ""
 " once Asheviere is defeated and I am king. Prove yourself a better lord than"
 " the orcs."
 msgstr ""
-"Çok iyi anlıyorum. Akıllıca hükmet, hırslı Reglok, çünkü Asheviere "
-"yenildiğinde ve ben kral olduğumda Elensefar'a geri döneceğim. Kendini "
-"orklardan daha iyi bir lord olarak kanıtla."
+"Çok iyi anlıyorum. Akıllıca hükmet, hırslı Reglok, çünkü Aşivye yenildiğinde"
+" ve ben kral olduğumda Elensefar'a geri döneceğim. Kendini orklardan daha "
+"iyi bir lord olarak kanıtla."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:718
@@ -11481,7 +11478,7 @@ msgid ""
 " my heart. Asheviere has much to pay for..."
 msgstr ""
 "Tüm bu çalınmış altınları ve kırık hazineleri görmek kalbimde büyük bir "
-"soğukluk uyandırıyor. Asheviere'nin ödeyecek çok şeyi var..."
+"soğukluk uyandırıyor. Aşivye'nin ödeyecek çok şeyi var..."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:239
@@ -11533,9 +11530,9 @@ msgid ""
 " heir, and an elf-lover besides, then I suppose our pillage does most "
 "rightfully belong to you. Here, take it, and leave the rest of us alive!"
 msgstr ""
-"Ama Asheviere beni öldürecek! ...Sanırım sen de öldüreceksin. Eğer gerçekten"
-" varis isen ve ayrıca bir elf-seversen, o zaman sanırım yağmaladıklarımız en"
-" haklı şekilde sana aittir. Al, bunu al ve geri kalanımızı sağ bırak!"
+"Ama Aşivye beni öldürecek! ...Sanırım sen de öldüreceksin. Eğer gerçekten "
+"varis isen ve ayrıca bir elf-seversen, o zaman sanırım yağmaladıklarımız en "
+"haklı şekilde sana aittir. Al, bunu al ve geri kalanımızı sağ bırak!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:328
@@ -11655,7 +11652,7 @@ msgid ""
 "This magical weapon adds 3 strikes, the <i>slows</i> special, and the "
 "<i>arcane</i> special to Konrad’s bow attacks."
 msgstr ""
-"Bu büyülü silah, Konrad'ın yay saldırılarına 3 vuruş, <i>yavaşlatma</i> "
+"Bu sihirli silah, Konrad'ın yay saldırılarına 3 vuruş, <i>yavaşlatma</i> "
 "özelliği ve <i>gizemli</i> özelliği ekler."
 
 #. [message]: speaker=leader2
@@ -11690,7 +11687,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:8
 msgid "scenario name^Gryphon Mountain"
-msgstr "senaryo adı^Grifon Dağı"
+msgstr "senaryo adı^Grifin Dağı"
 
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:37
@@ -11700,14 +11697,14 @@ msgstr "Burlin'in Ekibi"
 #. [side]: type=Gryphon, id=Mother Gryphon
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:65
 msgid "Mother Gryphon"
-msgstr "Ana Grifon"
+msgstr "Ana Grifin"
 
 #. [side]: type=Gryphon, id=Mother Gryphon
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:72
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:109
 msgid "Gryphons"
-msgstr "Grifonlar"
+msgstr "Grifinler"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:167
@@ -11717,8 +11714,8 @@ msgid ""
 "beautiful gryphons who come here to nest. It’s nice to take a break from all"
 " our fighting and experience nature."
 msgstr ""
-"Efsanevi Grifon Dağı! Wesnoth'taki en yüksek dağ değil, en genişi de değil, "
-"ancak buraya yuva yapmaya gelen güzel grifonlar sayesinde şairler ve "
+"Efsanevi Grifin Dağı! Wesnoth'taki en yüksek dağ değil, en genişi de değil, "
+"ancak buraya yuva yapmaya gelen güzel grifinler sayesinde şairler ve "
 "bilginler tarafından saygı görüyor. Tüm bu dövüşlerden bir mola verip doğayı"
 " deneyimlemek güzel."
 
@@ -11748,7 +11745,7 @@ msgid ""
 "collect fifty gryphon eggs, see? But I ain’t excited to risk my crew’s lives"
 " on the job."
 msgstr ""
-"<b><i>En iyi</i></b> iş türü: iyi para kazandıran! Elli grifon yumurtası "
+"<b><i>En iyi</i></b> iş türü: iyi para kazandıran! Elli grifin yumurtası "
 "toplamak için bir sözleşmem var, anladın mı? Ama ekibimin hayatını bu işte "
 "riske atmaya hevesli değilim."
 
@@ -11767,8 +11764,8 @@ msgid ""
 "The queen? You’re working for Asheviere?! I’d never ally myself with such a "
 "villain!"
 msgstr ""
-"Kraliçe mi? Asheviere için mi çalışıyorsun?! Böyle bir kötü adamla asla "
-"ittifak kurmam!"
+"Kraliçe mi? Aşivye için mi çalışıyorsun?! Böyle bir kötü adamla asla ittifak"
+" kurmam!"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:197
@@ -11798,7 +11795,7 @@ msgid ""
 "of Asheviere’s! No amount of money will turn my blade. Raise your axe and "
 "make ready for battle, villain!"
 msgstr ""
-"Ben Wesnoth tahtının varisi Konrad'ım ve Asheviere'in yeminli düşmanıyım! "
+"Ben Wesnoth tahtının varisi Konrad'ım ve Aşivye'in yeminli düşmanıyım! "
 "Hiçbir para kılıcımı döndüremez. Baltanı kaldır ve savaşa hazırlan, kötü "
 "adam!"
 
@@ -11808,8 +11805,8 @@ msgid ""
 "Err... look, Your Highness, this is just business. I’ve got nothin’ ’gainst "
 "neither you nor Asheviere, but I do want to keep my word an’ do my job."
 msgstr ""
-"Şey... bakın, Majesteleri, bu sadece iş. Ne size ne de Asheviere'e karşı bir"
-" şeyim yok, ama sözümü tutup işimi yapmak istiyorum."
+"Şey... bakın, Majesteleri, bu sadece iş. Ne size ne de Aşivye'e karşı bir "
+"şeyim yok, ama sözümü tutup işimi yapmak istiyorum."
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:216
@@ -11819,7 +11816,7 @@ msgid ""
 "ye ken?"
 msgstr ""
 "Şimdi benimle birlikte çalışın ve yuvaları temizledikten sonra yumurtalardan"
-" istediğinizi seçmenize izin vereceğim. Grifonlar bir kavgada çok değerli, "
+" istediğinizi seçmenize izin vereceğim. Grifinler bir kavgada çok değerli, "
 "biliyor musun?"
 
 #. [message]: speaker=Burlin
@@ -11846,7 +11843,7 @@ msgid ""
 "Agree to Burlin’s deal: Konrad learns to recruit Gryphon Riders and Dwarvish"
 " Scouts"
 msgstr ""
-"Burlin'in anlaşmasını kabul et: Konrad Grifon Süvarileri ve Cüce İzci "
+"Burlin'in anlaşmasını kabul et: Konrad Grifin Süvarileri ve Cüce İzci "
 "yetiştirmeyi öğrenir"
 
 #. [option]
@@ -11855,8 +11852,8 @@ msgid ""
 "Fight Burlin: Asheviere loses $s50_burlin_income_penalty income and cannot "
 "recruit Gryphon Riders in the final scenario"
 msgstr ""
-"Burlin ile savaş: Asheviere $s50_burlin_income_penalty gelir kaybeder ve son"
-" senaryoda Grifon Süvarileri yetiştiremez"
+"Burlin ile savaş: Aşivye $s50_burlin_income_penalty gelir kaybeder ve son "
+"senaryoda Grifin Süvarileri yetiştiremez"
 
 #. [message]: type=Young Ogre
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:263
@@ -11880,13 +11877,13 @@ msgid ""
 "Great! I knew ye’d come round. Tha’ big gryphon in the middle is the "
 "matriarch — kill her off an’ we’ll have no trouble gettin’ the eggs we need."
 msgstr ""
-"Harika! Geleceğini biliyordum. Ortadaki o büyük grifon anaç — onu öldür ve "
+"Harika! Geleceğini biliyordum. Ortadaki o büyük grifin anaç — onu öldür ve "
 "ihtiyacımız olan yumurtaları almakta hiç sorun yaşamayız."
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:314
 msgid "Defeat the gryphon leader"
-msgstr "Grifon liderini yen"
+msgstr "Grifin liderini yen"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:320
@@ -11929,7 +11926,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:365
 msgid "Konrad can now recruit Gryphon Riders and Dwarvish Scouts!"
-msgstr "Konrad artık Grifon Süvarileri ve Cüce İzci yetiştirebilir!"
+msgstr "Konrad artık Grifin Süvarileri ve Cüce İzci yetiştirebilir!"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:381
@@ -11959,7 +11956,7 @@ msgstr ""
 msgid ""
 "I said raise your axe, villain! Any friend of Asheviere’s is a foe of mine!"
 msgstr ""
-"Baltanı kaldır dedim, kötü adam! Asheviere'in herhangi bir arkadaşı benim "
+"Baltanı kaldır dedim, kötü adam! Aşivye'in herhangi bir arkadaşı benim "
 "düşmanımdır!"
 
 #. [message]: speaker=Burlin
@@ -12010,8 +12007,8 @@ msgid ""
 "That’s why we have to fight her. Not for my sake, but for all the people "
 "suffering under Asheviere’s lash."
 msgstr ""
-"Bu yüzden onunla savaşmalıyız. Benim için değil, Asheviere'in kırbacı "
-"altında acı çeken tüm insanlar için."
+"Bu yüzden onunla savaşmalıyız. Benim için değil, Aşivye'in kırbacı altında "
+"acı çeken tüm insanlar için."
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:517
@@ -12071,14 +12068,14 @@ msgid ""
 " glad to join you."
 msgstr ""
 "Doğru olabilir mi? Neşeli haber! Sana en derin şükranlarımı sunuyorum, genç "
-"olan. Bu ölümsüz serserilere karşı savaşta bize yardım et, ben ve "
+"olan. Bu yarı ölü serserilere karşı savaşta bize yardım et, ben ve "
 "savaşçılarım sana katılmaktan mutluluk duyacağız."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:243
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:277
 msgid "Hail, strangers! How have these undead come to trouble you?"
-msgstr "Selamlar, yabancılar! Bu ölümsüzler size nasıl musallat oldu?"
+msgstr "Selamlar, yabancılar! Bu yarı ölüler size nasıl musallat oldu?"
 
 #. [message]: speaker=Moremirmu
 #. "brother" is not literal, instead referring to fellow warrior monks (heavy
@@ -12090,8 +12087,8 @@ msgid ""
 " so near to our hallowed home?"
 msgstr ""
 "Yabancılar mı? Hayır, Konrad, bunlar benim kardeşlerim! Kaelor, bir kez daha"
-" inançtan bir kardeşimi görmek güzel. Ama ölümsüzler kutsal evimize bu kadar"
-" yakın ne yapıyor?"
+" inançtan bir kardeşimi görmek güzel. Ama yarı ölüler kutsal evimize bu "
+"kadar yakın ne yapıyor?"
 
 #. [message]: speaker=Kaelor
 #. "brother" is not literal, instead referring to fellow warrior monks (heavy
@@ -12132,7 +12129,7 @@ msgid ""
 msgstr ""
 "Bunlar ışığın hizmetkarları, Konrad. Evimden adamlar — kuzeye birkaç günlük "
 "mesafede bir manastır. Evimi koruyan güçlü bir büyü var, ancak Kaelor bunun "
-"zayıfladığını bildiriyor. Ölümsüzler sızmaya başladı."
+"zayıfladığını bildiriyor. Yarı Ölüler sızmaya başladı."
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:271
@@ -12196,7 +12193,7 @@ msgstr "Kaelor'u koru: Ağır Piyade Askerleri topla"
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:345
 msgid "Kaelor, who are you people? How did all these undead come to be here?"
-msgstr "Kaelor, siz kimsiniz? Tüm bu ölümsüzler buraya nasıl geldi?"
+msgstr "Kaelor, siz kimsiniz? Tüm bu yarı ölüler buraya nasıl geldi?"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:349
@@ -12217,9 +12214,9 @@ msgid ""
 "used the ruby to seal them underground with powerful magic."
 msgstr ""
 "Kötülüğün nereden geldiğini bilmiyoruz. Bazıları nekromanserlerin batıdan "
-"gelen istilalarının hayatta kalanları olan lich-lordlar olduğunu düşünüyor; "
-"diğerleri Ras-Tabahn'ın serserileri olduğuna inanıyor. Sadece yüzyıllar önce"
-" tacın, onları güçlü bir büyüyle yeraltına mühürlemek için yakutu "
+"gelen istilalarının hayatta kalanları olan umacı-lordlar olduğunu düşünüyor;"
+" diğerleri Ras-Tabahn'ın serserileri olduğuna inanıyor. Sadece yüzyıllar "
+"önce tacın, onları güçlü bir büyüyle yeraltına mühürlemek için yakutu "
 "kullandığını biliyoruz."
 
 #. [message]: speaker=$speaker
@@ -12262,7 +12259,7 @@ msgid ""
 "This ruined skeleton bears a curious amulet. Magical, perhaps? There is an "
 "inscription explaining its function..."
 msgstr ""
-"Bu harap iskelet ilginç bir muska taşıyor. Büyülü mi, belki? İşlevini "
+"Bu harap iskelet ilginç bir muska taşıyor. Sihirli mi, belki? İşlevini "
 "açıklayan bir yazıt var..."
 
 #. [message]: speaker=Konrad
@@ -12323,7 +12320,7 @@ msgid ""
 "slain, we have lost the opportunity to gain a new ally in our fight for the "
 "crown."
 msgstr ""
-"Ölümsüzler yenildi! Ancak savaşçı keşişlerin lideri öldürüldüğü için, taç "
+"Yarı Ölüler yenildi! Ancak savaşçı keşişlerin lideri öldürüldüğü için, taç "
 "için verdiğimiz savaşta yeni bir müttefik kazanma fırsatını kaybettik."
 
 #. [message]: speaker=Kaelor
@@ -12380,8 +12377,8 @@ msgid ""
 "Lo and behold, Konrad: my home! At last I return... but we are too late! "
 "Undead! The seal has already broken!"
 msgstr ""
-"İşte ve görün, Konrad: evim! Sonunda dönüyorum... ama çok geç kaldık! "
-"Ölümsüzler! Mühür çoktan kırılmış!"
+"İşte ve görün, Konrad: evim! Sonunda dönüyorum... ama çok geç kaldık! Yarı "
+"Ölüler! Mühür çoktan kırılmış!"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:180
@@ -12394,7 +12391,7 @@ msgstr ""
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:184
 msgid "... but what calamity is this? Undead! The sacred seal has broken!"
-msgstr "... ama bu ne felaket? Ölümsüzler! Kutsal mühür kırılmış!"
+msgstr "... ama bu ne felaket? Yarı Ölüler! Kutsal mühür kırılmış!"
 
 #. [message]: speaker=Myrilell
 #. "Brother" is not literal. Rather, the speaker and the "brother" are both
@@ -12425,9 +12422,9 @@ msgid ""
 " that once sealed them below, the undead emerge to destroy us all!"
 msgstr ""
 "Karanlık büyü alt seviyelerden akıyor, insanlığın en derin kabuslarından "
-"fışkıran şeylere korkunç bir ölümsüz yaşam bahşediyor. Bir zamanlar onları "
-"aşağıda mühürleyen büyü bozulunca, ölümsüzler hepimizi yok etmek için ortaya"
-" çıkıyor!"
+"fışkıran şeylere korkunç bir yarı ölü yaşam bahşediyor. Bir zamanlar onları "
+"aşağıda mühürleyen büyü bozulunca, yarı ölüler hepimizi yok etmek için "
+"ortaya çıkıyor!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:225
@@ -12437,7 +12434,7 @@ msgid ""
 "to help you stop them."
 msgstr ""
 "Umutsuzluğa kapılma! Kaelor'u yardım bulması için gönderdin ve o beni buldu "
-"— Wesnoth tahtının varisi Konrad. Eğer burada ölümsüzler varsa, onları "
+"— Wesnoth tahtının varisi Konrad. Eğer burada yarı ölüler varsa, onları "
 "durdurmana yardım etmek benim görevimdir."
 
 #. [message]: speaker=Konrad
@@ -12456,7 +12453,7 @@ msgid ""
 " are undead here then it is my duty to help you stop them."
 msgstr ""
 "Umutsuzluğa kapılma! Ben Konrad, Wesnoth tahtının varisiyim ve eğer burada "
-"ölümsüzler varsa, onları durdurmana yardım etmek benim görevimdir."
+"yarı ölüler varsa, onları durdurmana yardım etmek benim görevimdir."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:238
@@ -12840,8 +12837,8 @@ msgid ""
 "With the seal restored, the undead have once more been banished underground."
 " We are in your debt, Your Highness."
 msgstr ""
-"Mühür restore edildiğinde, ölümsüzler bir kez daha yer altına sürüldü. Size "
-"borçluyuz, Majesteleri."
+"Mühür restore edildiğinde, yarı ölüler bir kez daha yer altına sürüldü. Size"
+" borçluyuz, Majesteleri."
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:697
@@ -12867,7 +12864,7 @@ msgstr "Hayır! Onun yardımı olmadan mührü restore etme umudum yok."
 msgid ""
 "The undead will continue to pour forth and pour forth, until we are all "
 "overwhelmed..."
-msgstr "Ölümsüzler akmaya ve akmaya devam edecek, hepimiz bunalana kadar..."
+msgstr "Yarı Ölüler akmaya ve akmaya devam edecek, hepimiz bunalana kadar..."
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:14
@@ -13818,8 +13815,8 @@ msgid ""
 "answer for."
 msgstr ""
 "Son ihanetin gerçekleştiği yer burasıydı. Eldred'in Garard'ı ve "
-"müttefiklerini öldürerek Asheviere'in egemenliğine yol açtığı yer. Verecek "
-"çok hesabı var."
+"müttefiklerini öldürerek Aşivye'in egemenliğine yol açtığı yer. Verecek çok "
+"hesabı var."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:177
@@ -14219,8 +14216,8 @@ msgid ""
 "A foul odor. A blight upon the wind. Konrad, this is a gateway created by "
 "the lich-lords of ages past, during their genocidal hunt for the Ruby."
 msgstr ""
-"Kötü bir koku. Rüzgarda bir veba. Konrad, bu, geçmiş çağların lich-lordları "
-"tarafından, Yakut'u soykırım avları sırasında yaratılmış bir geçit."
+"Kötü bir koku. Rüzgarda bir veba. Konrad, bu, geçmiş çağların umacı-lordları"
+" tarafından, Yakut'u soykırım avları sırasında yaratılmış bir geçit."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:616
@@ -14231,7 +14228,7 @@ msgid ""
 "for the Ruby."
 msgstr ""
 "Büyük bir ork kapısı! Bir tanesini şahsen görmek... tüyler ürpertici. "
-"Konrad, bu, geçmiş çağların lich-lordları tarafından, Yakut'u soykırım "
+"Konrad, bu, geçmiş çağların umacı-lordları tarafından, Yakut'u soykırım "
 "avları sırasında yaratılmış bir geçit."
 
 #. [companion_message]
@@ -14325,7 +14322,7 @@ msgid ""
 "very long time ago, and the gates have long-since gone quiet — hopefully for"
 " good."
 msgstr ""
-"Tarihimi doğru hatırlıyorsam, lich-lordların orkları Yeşil Ada'yı ilk kez "
+"Tarihimi doğru hatırlıyorsam, umacı-lordların orkları Yeşil Ada'yı ilk kez "
 "böyle bir kapıdan işgal etti. Neyse ki bizim için, bu çok uzun zaman önceydi"
 " ve kapılar uzun zamandır sessizliğe büründü — umarım sonsuza dek."
 
@@ -14449,7 +14446,7 @@ msgid ""
 "will take it and examine it when I have time — for now we must continue to "
 "fight."
 msgstr ""
-"Bu ne? O ork üzerinde büyülü işaretler olan tuhaf bir boru taşıyordu. "
+"Bu ne? O ork üzerinde sihirli işaretler olan tuhaf bir boru taşıyordu. "
 "Zamanım olduğunda onu alıp inceleyeceğim — şimdilik savaşmaya devam "
 "etmeliyiz."
 
@@ -14459,7 +14456,7 @@ msgid ""
 "The shaman is dead, and we’ve claimed her magical horn for ourselves! There "
 "will be time to examine it later — for now we must continue to fight."
 msgstr ""
-"Şaman öldü ve büyülü borusunu kendimize aldık! Daha sonra incelemek için "
+"Şaman öldü ve sihirli borusunu kendimize aldık! Daha sonra incelemek için "
 "zamanımız olacak — şimdilik savaşmaya devam etmeliyiz."
 
 #. [message]: speaker=Konrad
@@ -14611,8 +14608,8 @@ msgid ""
 "You’re a mage? That explains why you’re not carrying any weapons. Are you "
 "conducting some sort of magical experiment?"
 msgstr ""
-"Bir büyücü müsün? Bu, neden hiç silah taşımadığını açıklıyor. Bir tür büyülü"
-" deney mi yapıyorsun?"
+"Bir büyücü müsün? Bu, neden hiç silah taşımadığını açıklıyor. Bir tür "
+"sihirli deney mi yapıyorsun?"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:200
@@ -14665,10 +14662,10 @@ msgid ""
 "trouble, but I’m not sure my army and I can spare the time to stop and help "
 "you collect ingredients."
 msgstr ""
-"Ben Konrad, Wesnoth tahtının varisiyim ve karanlık kraliçe Asheviere'i "
-"tahttan indirme görevindeyim. Başın dertteyse sana yiyecek veya altın "
-"bırakmaktan mutluluk duyarım, ancak ordumla birlikte durup sana malzeme "
-"toplaman için yardım edecek zamanımız olup olmadığından emin değilim."
+"Ben Konrad, Wesnoth tahtının varisiyim ve kara kraliçe Aşivye'i tahttan "
+"indirme görevindeyim. Başın dertteyse sana yiyecek veya altın bırakmaktan "
+"mutluluk duyarım, ancak ordumla birlikte durup sana malzeme toplaman için "
+"yardım edecek zamanımız olup olmadığından emin değilim."
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:222
@@ -14700,9 +14697,8 @@ msgid ""
 "... and if we can collect all three of these, you’ll come with us to help us"
 " fight against Asheviere? I suppose that sounds like a fair trade."
 msgstr ""
-"... ve eğer bu üçünü de toplayabilirsek, Asheviere'e karşı savaşmamıza "
-"yardım etmek için bizimle mi geleceksin? Sanırım bu adil bir takas gibi "
-"geliyor."
+"... ve eğer bu üçünü de toplayabilirsek, Aşivye'e karşı savaşmamıza yardım "
+"etmek için bizimle mi geleceksin? Sanırım bu adil bir takas gibi geliyor."
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:234
@@ -15171,7 +15167,7 @@ msgid ""
 "unchecked."
 msgstr ""
 "Jeniver'e yardım etmek için çok uzun süre oyalanmamalıyız. Hava buz gibi ve "
-"her dakika daha da kötüleşiyor; bu arada Asheviere kontrolsüz bir şekilde "
+"her dakika daha da kötüleşiyor; bu arada Aşivye kontrolsüz bir şekilde "
 "güçlenmeye devam ediyor."
 
 #. [message]: speaker=Konrad
@@ -15192,7 +15188,7 @@ msgid ""
 "more time to help you."
 msgstr ""
 "Jeniver, simya malzemelerini toplamana yardım etmeye söz verdiğimizi "
-"biliyorum, ancak soğuk ve Asheviere tehdidi arasında sana yardım etmek için "
+"biliyorum, ancak soğuk ve Aşivye tehdidi arasında sana yardım etmek için "
 "daha fazla zaman ayıramayız."
 
 #. [message]: speaker=Jeniver
@@ -15249,8 +15245,8 @@ msgid ""
 "You have led us to a dark part of the jungle, great-granddaughter. And "
 "undead? What are undead doing in Wesmere?!"
 msgstr ""
-"Bizi ormanın karanlık bir kısmına getirdin, büyük torunum. Ve ölümsüzler mi?"
-" Ölümsüzler Wesmere'de ne arıyor?!"
+"Bizi ormanın karanlık bir kısmına getirdin, büyük torunum. Ve yarı ölüler "
+"mi? Yarı Ölüler Wesmere'de ne arıyor?!"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:145
@@ -15259,7 +15255,7 @@ msgid ""
 "after Eldred so cruelly struck him down. He remembers nothing but echoes. It"
 " is terrible, Kalenz!"
 msgstr ""
-"Herhangi bir ölümsüz değil. O karanlık süvari, Eldred onu acımasızca yere "
+"Herhangi bir yarı ölü değil. O karanlık süvari, Eldred onu acımasızca yere "
 "serdikten sonra bir hortlak olarak yeniden dirilen dostumuz Deoran. "
 "Yankılardan başka hiçbir şey hatırlamıyor. Bu korkunç, Kalenz!"
 
@@ -15275,7 +15271,7 @@ msgid ""
 "Asheviere’s or by the dark magic of Eldred’s fall, but now he has come here "
 "to Wesmere. He has sought me out..."
 msgstr ""
-"Deoran'ın Asheviere'in bir hakareti olarak mı yoksa Eldred'in düşüşünün "
+"Deoran'ın Aşivye'in bir hakareti olarak mı yoksa Eldred'in düşüşünün "
 "karanlık büyüsüyle mi ölümsüzlüğe dönüştüğünü bilmiyorum, ama şimdi buraya, "
 "Wesmere'e geldi. Beni bulmaya çalıştı..."
 
@@ -15336,7 +15332,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:184
 msgid ""
 "Lure undead Deoran into the burial chamber, and leave him alone inside."
-msgstr "Ölümsüz Deoran'ı mezar odasına çek ve onu içeride yalnız bırak."
+msgstr "Yarı Ölü Deoran'ı mezar odasına çek ve onu içeride yalnız bırak."
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:188
@@ -15456,7 +15452,7 @@ msgid ""
 " we cannot complete our task, I fear he shall soon flee into the river, and "
 "vanish to bring harm to some other land."
 msgstr ""
-"Ölümsüz Deoran başını çılgınca bir o yana bir bu yana çevirmeye başlıyor. "
+"Yarı Ölü Deoran başını çılgınca bir o yana bir bu yana çevirmeye başlıyor. "
 "Eğer görevimizi tamamlayamazsak, korkarım ki yakında nehre kaçacak ve başka "
 "bir diyara zarar vermek için ortadan kaybolacak."
 
@@ -15911,7 +15907,7 @@ msgid ""
 msgstr ""
 "Vadinin güney çıkışına ulaştık ve bu orklara büyük bir darbe vurduk! Keşke "
 "burayı gerçekten özgürleştirebilseydik... ama biliyorum ki çok daha fazla "
-"insan Asheviere'in zulmü altında acı çekiyor."
+"insan Aşivye'in zulmü altında acı çekiyor."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #. [message]: speaker=Konrad
@@ -15935,7 +15931,7 @@ msgid ""
 msgstr ""
 "Cüce tünellerinin girişine ulaştık ve bu orklara büyük bir darbe indirdik! "
 "Keşke burayı gerçekten özgürleştirebilseydik... ama biliyorum ki çok daha "
-"fazla insan Asheviere'in zulmü altında acı çekiyor."
+"fazla insan Aşivye'in zulmü altında acı çekiyor."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:587
@@ -16286,7 +16282,7 @@ msgid ""
 "of Wesnoth! And in their names, I end your undead suffering."
 msgstr ""
 "Ben Konrad, Garard'ın yeğeni, Arand'ın oğlu ve Wesnoth tahtının meşru "
-"varisiyim! Ve onların adlarına, ölümsüz acına son veriyorum."
+"varisiyim! Ve onların adlarına, yarı ölü acına son veriyorum."
 
 #. [message]: speaker=Lionel
 #. Lionel foreshadows the reveal that Konrad is not in fact the heir
@@ -16663,7 +16659,7 @@ msgid ""
 " send aid to Knalga. I understand you have little to give, but right now it "
 "is in both of our best interests to work together!"
 msgstr ""
-"Asheviere'i yenip tahtımı geri aldığımda, Knalga'ya yardım göndermekten çok "
+"Aşivye'i yenip tahtımı geri aldığımda, Knalga'ya yardım göndermekten çok "
 "mutlu olurum. Verecek az şeyiniz olduğunu anlıyorum, ama şu anda birlikte "
 "çalışmak ikimizin de çıkarına!"
 
@@ -16854,7 +16850,7 @@ msgid ""
 "Delfador?"
 msgstr ""
 "Nihayet Garard'ın fermanı yerine getirilecek. Asa'yı ele geçireceksin, "
-"Konrad, ve Asheviere'in birçok yanlışını düzelteceksin. Nereye gitmeliyiz, "
+"Konrad, ve Aşivye'in birçok yanlışını düzelteceksin. Nereye gitmeliyiz, "
 "Delfador?"
 
 #. [companion_message]
@@ -16921,8 +16917,8 @@ msgid ""
 "deny my claim to the throne."
 msgstr ""
 "Delfador, bana Ateş Asası'nın önemini anlattın. Ve sana inanıyorum! Güçlü "
-"bir büyülü eser ve Wesnoth krallarının efsanevi sembolü. Asa elimde olursa "
-"Asheviere bile taht iddiamı reddetmekte zorlanırdı."
+"bir sihirli eser ve Wesnoth krallarının efsanevi sembolü. Asa elimde olursa "
+"Aşivye bile taht iddiamı reddetmekte zorlanırdı."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:355
@@ -17027,7 +17023,7 @@ msgid ""
 " provided a small reprieve from the thick blackness. Volcanic fumes drifted "
 "up from cracks in the floor."
 msgstr ""
-"Yarık yakınında, hava neredeyse büyülü enerjiyle çatırdıyordu. Ayrıca "
+"Yarık yakınında, hava neredeyse sihirli enerjiyle çatırdıyordu. Ayrıca "
 "giderek ısınıyordu. Zemin bazı yerlerde pürüzsüz ve camsıydı ve hafif bir "
 "parıltı, yoğun karanlıktan küçük bir rahatlama sağlıyordu. Volkanik dumanlar"
 " zemindeki çatlaklardan yükseliyordu."
@@ -17070,8 +17066,8 @@ msgid ""
 "Aye, tha’s nice... except there’s nothin’ here, ye cloud-headed flapdragon! "
 "It’s an empty cave!"
 msgstr ""
-"Evet, bu güzel... ama burada hiçbir şey yok, ey bulut kafalı kanatlı "
-"ejderha! Burası boş bir mağara!"
+"Evet, bu güzel... ama burada hiçbir şey yok, ey bulut kafalı kanatlı ejder! "
+"Burası boş bir mağara!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:624
@@ -17155,7 +17151,7 @@ msgid ""
 "risk her last child this far from Wesnoth, deep under the northern "
 "mountains."
 msgstr ""
-"Prenses Li’sar! Hain! Asheviere'in açgözlülüğü, son çocuğunu Wesnoth'tan bu "
+"Prenses Li’sar! Hain! Aşivye'in açgözlülüğü, son çocuğunu Wesnoth'tan bu "
 "kadar uzağa, kuzey dağlarının derinliklerine riske atacak kadar ileri gitmiş"
 " olmalı."
 
@@ -17216,7 +17212,7 @@ msgstr "İnci Koyu'ndaki isyanlar"
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:750
 msgid "undead amok in the hills"
-msgstr "tepelerde azgın ölümsüzler"
+msgstr "tepelerde azgın yarı ölüler"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:751
@@ -17236,7 +17232,7 @@ msgstr "geçidi tıkayan cesetler"
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:754
 msgid "blood-stained slopes on Gryphon Mountain"
-msgstr "Grifon Dağı'nda kan lekeli yamaçlar"
+msgstr "Grifin Dağı'nda kan lekeli yamaçlar"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:756
@@ -17405,8 +17401,8 @@ msgid ""
 "every part of her reign. All she knows is blood! And all she cares about is "
 "power."
 msgstr ""
-"Asheviere Wesnoth'u şiddetle ele geçirdi ve şiddet onun saltanatının her "
-"yerini doldurdu. Tek bildiği kan! Ve tek önemsediği güç."
+"Aşivye Wesnoth'u şiddetle ele geçirdi ve şiddet onun saltanatının her yerini"
+" doldurdu. Tek bildiği kan! Ve tek önemsediği güç."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:926
@@ -17431,8 +17427,8 @@ msgid ""
 msgstr ""
 "Belki de gerçekten en iyisi için hareket ettiğini düşünüyorsun. Ama şunu "
 "bil: bugün benimle birlikte Wesnoth'un her köşesinden özgür halklar, "
-"Asheviere'in tiranlığına karşı tek vücut olarak duruyor. Seni şimdi yensek "
-"de yenmesek de, Wesnoth doğru olan için savaşmaktan asla vazgeçmeyecek!"
+"Aşivye'in tiranlığına karşı tek vücut olarak duruyor. Seni şimdi yensek de "
+"yenmesek de, Wesnoth doğru olan için savaşmaktan asla vazgeçmeyecek!"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:935
@@ -17625,7 +17621,7 @@ msgid ""
 msgstr ""
 "Asa bizim! Bu sadece harika bir silah değil, aynı zamanda bir sembol; halkı "
 "gerçekten kral olarak ait olduğuma ikna etmenin bir yolu. Şimdi nihayet "
-"Asheviere'e karşı üstünlüğümüz var."
+"Aşivye'e karşı üstünlüğümüz var."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1219
@@ -17680,7 +17676,7 @@ msgstr "Zaman yok! Koş, Konrad, koş!"
 msgid ""
 "You are beaten, villain! With your defeat, we have severed the right hand of"
 " Asheviere!"
-msgstr "Yenildin, alçak! Senin yenilginle, Asheviere'in sağ kolunu kestik!"
+msgstr "Yenildin, alçak! Senin yenilginle, Aşivye'in sağ kolunu kestik!"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION defeat}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1276
@@ -17740,9 +17736,9 @@ msgid ""
 "will exist only for a year and a day, but that will be more than enough time"
 " to overthrow Asheviere."
 msgstr ""
-"Konrad için bazı iyileştirmeler ve detaylarla ayarlanmış büyülü bir kopya! "
-"Sadece bir yıl bir gün var olacak, ama bu Asheviere'i devirmek için "
-"fazlasıyla yeterli bir zaman olacak."
+"Konrad için bazı iyileştirmeler ve detaylarla ayarlanmış sihirli bir kopya! "
+"Sadece bir yıl bir gün var olacak, ama bu Aşivye'i devirmek için fazlasıyla "
+"yeterli bir zaman olacak."
 
 #. [message]: speaker=Konrad # no variation, so we can see him with both the
 #. sceptre and the chainmail
@@ -18037,7 +18033,7 @@ msgid ""
 "Undead! What are such things doing down here? They will surely try to stop "
 "us — and with no regard for their own safety!"
 msgstr ""
-"Ölümsüzler! Böyle şeyler burada ne arıyor? Bizi durdurmaya çalışacakları "
+"Yarı Ölüler! Böyle şeyler burada ne arıyor? Bizi durdurmaya çalışacakları "
 "kesin — ve kendi güvenliklerini hiç umursamadan!"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION defeat}
@@ -18083,7 +18079,7 @@ msgid ""
 msgstr ""
 "Buradaki mağara keskin bir şekilde yukarı doğru eğimli ve arkadaki lav "
 "yavaşlıyor! Başardık, Delfador; kaçtık — ve Li’sar tutsağımız olarak "
-"yanımızda! Asheviere'in o büyücüsünün taktiği başarısız oldu."
+"yanımızda! Aşivye'in o büyücüsünün taktiği başarısız oldu."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:679
@@ -18093,7 +18089,7 @@ msgid ""
 "has failed."
 msgstr ""
 "Buradaki mağara keskin bir şekilde yukarı doğru eğimli ve arkadaki lav "
-"yavaşlıyor! Başardık, Delfador; kaçtık! Asheviere'in o büyücüsünün taktiği "
+"yavaşlıyor! Başardık, Delfador; kaçtık! Aşivye'in o büyücüsünün taktiği "
 "başarısız oldu."
 
 #. [message]: speaker=Delfador
@@ -18115,8 +18111,8 @@ msgid ""
 "Training more veterans may prove difficult."
 msgstr ""
 "Kısmen başarısız olduk, tamamen değil. Zihnim garip bir şekilde keskin "
-"hissediyor, ama ya eğitimdekilerimiz? Üzerlerinde zekalarını tüketen büyülü "
-"bir hastalık hissediyorum. Daha fazla gazi eğitmek zor olabilir."
+"hissediyor, ama ya eğitimdekilerimiz? Üzerlerinde zekalarını tüketen sihirli"
+" bir hastalık hissediyorum. Daha fazla gazi eğitmek zor olabilir."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:705
@@ -18303,8 +18299,9 @@ msgid ""
 "among their numbers already."
 msgstr ""
 "Öte yandan... haklısınız, biz de uzun süren açlık ve yolculuk günlerinden "
-"zayıfladık ve bu ölümsüzler, kraliyet askerlerinin cesetlerinin eklenmesiyle"
-" daha da güçlenecekler — aralarında şimdiden birçok taze ceset görüyorum."
+"zayıfladık ve bu yarı ölüler, kraliyet askerlerinin cesetlerinin "
+"eklenmesiyle daha da güçlenecekler — aralarında şimdiden birçok taze ceset "
+"görüyorum."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:385
@@ -18315,7 +18312,7 @@ msgid ""
 "think it best that we ensure their defeat first, and only afterwards give "
 "thought to our escape."
 msgstr ""
-"Asheviere'in soyunun tehlikelerini ilk elden gördüm, Konrad, ve onların "
+"Aşivye'in soyunun tehlikelerini ilk elden gördüm, Konrad, ve onların "
 "yalanlarına kulak vermekten doğan zararı öğrendim. Bu askerleri yenmek ve "
 "tutsağımızı hala elimizde tutmak için tek şansımız bu olabilir! Bence önce "
 "onların yenilgisini sağlamalı, sonra kaçışımızı düşünmeliyiz."
@@ -18336,7 +18333,7 @@ msgid ""
 "kind”</i>?"
 msgstr ""
 "Hayatımı almaya çalışan kötü adamlara karşı sevgim yok, ama sırf onlara inat"
-" olsun diye yoldaşlarımı da mahvetmeye niyetli değilim. Asheviere böyle "
+" olsun diye yoldaşlarımı da mahvetmeye niyetli değilim. Aşivye böyle "
 "savaşır; düşmanların ölümüne, dostların — veya kızlarının — hayatından daha "
 "çok yatırım yapar. Bana kendin <i>“affedici ol, bilge ol, nazik ol”</i> "
 "demedin mi?"
@@ -18349,7 +18346,7 @@ msgid ""
 "laugh."
 msgstr ""
 "Tüm yaşayanlar ölülere karşı birlikte durmadıkça, korkarım hepimiz için "
-"işler kötü bitecek — ve Weldyn'deki güvenli sarayından Asheviere gülecek."
+"işler kötü bitecek — ve Weldyn'deki güvenli sarayından Aşivye gülecek."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:405
@@ -18412,7 +18409,7 @@ msgid ""
 "Prisoner or not, this battlefield still has loyalists ready to fight for "
 "their queen — and you and I have a score to settle."
 msgstr ""
-"Ama bu ölümsüzler bittiğinde, barışçıl bir ayrılış olmayacak. Tutsak olsun "
+"Ama bu yarı ölüler bittiğinde, barışçıl bir ayrılış olmayacak. Tutsak olsun "
 "ya da olmasın, bu savaş alanında kraliçeleri için savaşmaya hazır sadıklar "
 "hala var — ve seninle benim halletmemiz gereken bir hesabımız var."
 
@@ -18433,8 +18430,8 @@ msgid ""
 "distance she may not notice us, and will surely perish at the hands of the "
 "zombies!"
 msgstr ""
-"Dahası, büyük bir ölümsüz ordusuyla savaşıyor! Mesafemizi korursak bizi fark"
-" etmeyebilir ve kesinlikle zombilerin elinde yok olacak!"
+"Dahası, büyük bir yarı ölü ordusuyla savaşıyor! Mesafemizi korursak bizi "
+"fark etmeyebilir ve kesinlikle zombilerin elinde yok olacak!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:450
@@ -18454,7 +18451,7 @@ msgid ""
 "already."
 msgstr ""
 "Öte yandan... biz de uzun süren açlık ve yolculuk günlerinden zayıfladık ve "
-"bu ölümsüzler, Li’sar'ın adamlarının cesetlerinin eklenmesiyle daha da "
+"bu yarı ölüler, Li’sar'ın adamlarının cesetlerinin eklenmesiyle daha da "
 "güçlenecekler — aralarında şimdiden birçok taze ceset görüyorum."
 
 #. [message]: speaker=Delfador
@@ -18465,8 +18462,8 @@ msgid ""
 "escaped us once! I think it best that we ensure her defeat first, and only "
 "afterwards give thought to our escape."
 msgstr ""
-"Asheviere'in soyunun tehlikelerini ilk elden gördüm, Konrad, ve onlara karşı"
-" hızlı hareket etmenin değerini öğrendim. Li’sar bizden bir kez kaçtı bile! "
+"Aşivye'in soyunun tehlikelerini ilk elden gördüm, Konrad, ve onlara karşı "
+"hızlı hareket etmenin değerini öğrendim. Li’sar bizden bir kez kaçtı bile! "
 "Bence önce onun yenilgisini sağlamalı, sonra kaçışımızı düşünmeliyiz."
 
 #. [message]: speaker=Delfador
@@ -18477,8 +18474,8 @@ msgid ""
 "chance to vanquish Li’sar! I think it best that we ensure her defeat first, "
 "and only afterwards give thought to our escape."
 msgstr ""
-"Asheviere'in soyunun tehlikelerini ilk elden gördüm, Konrad, ve onlara karşı"
-" hızlı hareket etmenin değerini öğrendim. Bu, Li’sar'ı yenmek için tek "
+"Aşivye'in soyunun tehlikelerini ilk elden gördüm, Konrad, ve onlara karşı "
+"hızlı hareket etmenin değerini öğrendim. Bu, Li’sar'ı yenmek için tek "
 "şansımız olabilir! Bence önce onun yenilgisini sağlamalı, sonra kaçışımızı "
 "düşünmeliyiz."
 
@@ -18492,7 +18489,7 @@ msgid ""
 "kind”</i>?"
 msgstr ""
 "Hayatımı almaya çalışan kötü adama karşı sevgim yok, ama sırf ona inat olsun"
-" diye yoldaşlarımı da mahvetmeye niyetli değilim. Asheviere böyle savaşır; "
+" diye yoldaşlarımı da mahvetmeye niyetli değilim. Aşivye böyle savaşır; "
 "düşmanların ölümüne, dostların — veya kızlarının — hayatından daha çok "
 "yatırım yapar. Bana kendin <i>“affedici ol, bilge ol, nazik ol”</i> demedin "
 "mi?"
@@ -18506,8 +18503,8 @@ msgid ""
 "until these undead are defeated."
 msgstr ""
 "Tüm yaşayanlar ölülere karşı birlikte durmadıkça, korkarım hepimiz için "
-"işler kötü bitecek — ve Weldyn'deki güvenli sarayından Asheviere gülecek. "
-"Hayır, Li’sar'a yaklaşmalı ve en azından bu ölümsüzler yenilene kadar kısa "
+"işler kötü bitecek — ve Weldyn'deki güvenli sarayından Aşivye gülecek. "
+"Hayır, Li’sar'a yaklaşmalı ve en azından bu yarı ölüler yenilene kadar kısa "
 "bir ittifak teklif etmeliyiz."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
@@ -18606,8 +18603,8 @@ msgid ""
 "you are to work together with Konrad against the dead."
 msgstr ""
 "Hayır, yüzbaşı, buna gerek kalmayacak. Ben bir esirim, ama geçici bir "
-"ateşkes üzerinde anlaştık — geçici kelimesine vurgu yapıyorum. Bu ölümsüzler"
-" yenilene kadar, Konrad ile birlikte ölülere karşı çalışacaksınız."
+"ateşkes üzerinde anlaştık — geçici kelimesine vurgu yapıyorum. Bu yarı "
+"ölüler yenilene kadar, Konrad ile birlikte ölülere karşı çalışacaksınız."
 
 #. [message]: role=leader7
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:686
@@ -18627,7 +18624,7 @@ msgid ""
 " weakness!"
 msgstr ""
 "Konrad, Li’sar'ın tehditleri hakkında endişelenmemeli miyiz? Esir olsun ya "
-"da olmasın, bu ölümsüzler yenildikten sonra müttefiklerini bize karşı "
+"da olmasın, bu yarı ölüler yenildikten sonra müttefiklerini bize karşı "
 "çevirme niyetini çok açık bir şekilde belirtti. Ve belki de daha erken, eğer"
 " bizde bir zayıflık hissederse!"
 
@@ -18676,7 +18673,7 @@ msgid ""
 " I propose a truce."
 msgstr ""
 "Seninle savaşmak için burada değilim, Li’sar — en azından şu an değil. Sen "
-"savunmasızsın, biz de öyleyiz, ve eğer savaşırsak tek kazanan ölümsüzler "
+"savunmasızsın, biz de öyleyiz, ve eğer savaşırsak tek kazanan yarı ölüler "
 "olur. Bir ateşkes öneriyorum."
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
@@ -18713,7 +18710,7 @@ msgid ""
 "Very well, we shall work together for now. But do not forget that once these"
 " undead are defeated, you and I have a score to settle."
 msgstr ""
-"Pekala, şimdilik birlikte çalışacağız. Ama unutma ki bu ölümsüzler "
+"Pekala, şimdilik birlikte çalışacağız. Ama unutma ki bu yarı ölüler "
 "yenildikten sonra, seninle benim aramda görülecek bir hesap var."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
@@ -18781,8 +18778,8 @@ msgid ""
 " to ensure that Wesnoth survives, even if I don’t. I cannot fault her for "
 "that."
 msgstr ""
-"Asheviere, Mirya'ya senin kaçmanı engellemek için gerekli olduğunu düşündüğü"
-" emirleri verdi. Bu emirlerin akıllıca olup olmadığı önemsiz; Wesnoth'un "
+"Aşivye, Mirya'ya senin kaçmanı engellemek için gerekli olduğunu düşündüğü "
+"emirleri verdi. Bu emirlerin akıllıca olup olmadığı önemsiz; Wesnoth'un "
 "hayatta kalmasını sağlamak için hareket etti, ben kalmasam bile. Onu bu "
 "konuda suçlayamam."
 
@@ -18852,7 +18849,7 @@ msgid ""
 "A lich! So here is the source of the undead. Something about this magic "
 "feels familiar... very familiar..."
 msgstr ""
-"Bir lich! Demek ölümsüzlerin kaynağı burada. Bu büyüde tanıdık bir şeyler "
+"Bir umacı! Demek ölümsüzlerin kaynağı burada. Bu büyüde tanıdık bir şeyler "
 "var... çok tanıdık..."
 
 #. [message]: speaker=Iliah-Malal
@@ -18898,8 +18895,8 @@ msgid ""
 "I know my own mother, lich, and she would never be complicit in the "
 "resurrection of an abomination like yourself."
 msgstr ""
-"Kendi annemi tanıyorum, lich, ve senin gibi bir iğrençliğin dirilişine asla "
-"ortak olmazdı."
+"Kendi annemi tanıyorum, umacı, ve senin gibi bir iğrençliğin dirilişine asla"
+" ortak olmazdı."
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -18935,10 +18932,10 @@ msgid ""
 "me the story: had they not fought back and fled and hid, they would all be "
 "dead now."
 msgstr ""
-"İnkar edemezsin, kuzen, Asheviere'in Delwyn ve Dallben'deki küçük halkı "
-"sadece bağlılık yemini etmeyi reddettikleri için katletmeye hazır olduğunu. "
-"Bana hikayeyi anlattılar: eğer karşı koyup kaçıp saklanmasalardı, şimdi "
-"hepsi ölmüş olacaktı."
+"İnkar edemezsin, kuzen, Aşivye'in Delwyn ve Dallben'deki küçük halkı sadece "
+"bağlılık yemini etmeyi reddettikleri için katletmeye hazır olduğunu. Bana "
+"hikayeyi anlattılar: eğer karşı koyup kaçıp saklanmasalardı, şimdi hepsi "
+"ölmüş olacaktı."
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -18948,9 +18945,9 @@ msgid ""
 "orcish hordes when she found she could not bend the populace to her will. I "
 "was there — it is only by my sword that the entire city was not enslaved!"
 msgstr ""
-"İnkar edemezsin, kuzen, Asheviere'in halkı kendi iradesine boyun "
-"eğdiremediğini görünce Elensefar'ın kontrolünü ork sürülerine devrettiğini. "
-"Oradaydım — tüm şehrin köleleştirilmemesi sadece benim kılıcım sayesindeydi!"
+"İnkar edemezsin, kuzen, Aşivye'in halkı kendi iradesine boyun eğdiremediğini"
+" görünce Elensefar'ın kontrolünü ork sürülerine devrettiğini. Oradaydım — "
+"tüm şehrin köleleştirilmemesi sadece benim kılıcım sayesindeydi!"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -18970,7 +18967,7 @@ msgid ""
 " she found she could not bend the populace to her will? Without my "
 "intervention the entire city would have been enslaved!"
 msgstr ""
-"Ya da Asheviere'in halkı kendi iradesine boyun eğdiremediğini görünce "
+"Ya da Aşivye'in halkı kendi iradesine boyun eğdiremediğini görünce "
 "Elensefar'ın kontrolünü ork sürülerine vermesine ne demeli? Benim müdahalem "
 "olmasaydı tüm şehir köleleştirilmiş olurdu!"
 
@@ -18982,7 +18979,7 @@ msgid ""
 "on the Peninsula of Pearls, to weaken and create chaos in the west. I was "
 "there — it is only by my sword that Muff Malal was killed!"
 msgstr ""
-"İnkar edemezsin, kuzen, Asheviere'in İnci Yarımadası'nda bir nekromansın "
+"İnkar edemezsin, kuzen, Aşivye'in İnci Yarımadası'nda bir nekromansın "
 "serbestçe dolaşmasına, batıda zayıflık ve kaos yaratmasına izin verdiğini. "
 "Oradaydım — Muff Malal'ı öldüren sadece benim kılıcımdı!"
 
@@ -19006,9 +19003,9 @@ msgid ""
 " of Pearls, to weaken and create chaos in the west? Without my intervention "
 "the entire coast might have been overrun!"
 msgstr ""
-"Ya da Asheviere'in İnci Yarımadası'nda bir nekromansın serbestçe "
-"dolaşmasına, batıda zayıflık ve kaos yaratmasına izin vermesi ne olacak? "
-"Benim müdahalem olmasaydı tüm kıyı ele geçirilmiş olabilirdi!"
+"Ya da Aşivye'in İnci Yarımadası'nda bir nekromansın serbestçe dolaşmasına, "
+"batıda zayıflık ve kaos yaratmasına izin vermesi ne olacak? Benim müdahalem "
+"olmasaydı tüm kıyı ele geçirilmiş olabilirdi!"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -19018,7 +19015,7 @@ msgid ""
 "of Pearls, to enslave the peaceful merfolk and force them to dive for her "
 "enrichment. I was there — it is only by my sword that they were freed!"
 msgstr ""
-"İnkar edemezsin, kuzen, Asheviere'in orklarının İnci Körfezi'ni ele "
+"İnkar edemezsin, kuzen, Aşivye'in orklarının İnci Körfezi'ni ele "
 "geçirmesine, barışçıl deniz halkını köleleştirmesine ve onları kendi "
 "zenginliği için dalmaya zorlamasına izin verdiğini. Oradaydım — onları "
 "özgürleştiren sadece benim kılıcımdı!"
@@ -19041,10 +19038,9 @@ msgid ""
 "enslave the peaceful merfolk and force them to dive for her enrichment? "
 "Without my intervention they might never have been freed!"
 msgstr ""
-"Ya da Asheviere'in orklarının İnci Körfezi'ni ele geçirmesine, barışçıl "
-"deniz halkını köleleştirmesine ve onları kendi zenginliği için dalmaya "
-"zorlamasına izin vermesi ne olacak? Benim müdahalem olmasaydı asla "
-"özgürleşemezlerdi!"
+"Ya da Aşivye'in orklarının İnci Körfezi'ni ele geçirmesine, barışçıl deniz "
+"halkını köleleştirmesine ve onları kendi zenginliği için dalmaya zorlamasına"
+" izin vermesi ne olacak? Benim müdahalem olmasaydı asla özgürleşemezlerdi!"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -19054,9 +19050,9 @@ msgid ""
 "couple o’ insults — an’ high-quality ones too, proper fit fer a queen! Ye "
 "even helped keep me an’ my boys from escapin’!"
 msgstr ""
-"Li’sar, senin o boşboğaz Asheviere'in beni sadece birkaç hakaret yüzünden "
-"hapse atması ne olacak — hem de kraliçeye yakışır, kaliteli hakaretlerdi! "
-"Hatta beni ve adamlarımı kaçmaktan alıkoymaya yardım ettin!"
+"Li’sar, senin o boşboğaz Aşivye'in beni sadece birkaç hakaret yüzünden hapse"
+" atması ne olacak — hem de kraliçeye yakışır, kaliteli hakaretlerdi! Hatta "
+"beni ve adamlarımı kaçmaktan alıkoymaya yardım ettin!"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -19076,9 +19072,9 @@ msgid ""
 "couple o’ insults — an’ high-quality ones too, proper fit fer a queen! Ye "
 "even helped keep me an’ my boys from escapin’!"
 msgstr ""
-"Ah, peki ya senin o boşboğaz Asheviere'in beni sadece birkaç hakaret "
-"yüzünden hapse atması ne olacak — hem de kraliçeye yakışır, kaliteli "
-"hakaretlerdi! Hatta beni ve adamlarımı kaçmaktan alıkoymaya yardım ettin!"
+"Ah, peki ya senin o boşboğaz Aşivye'in beni sadece birkaç hakaret yüzünden "
+"hapse atması ne olacak — hem de kraliçeye yakışır, kaliteli hakaretlerdi! "
+"Hatta beni ve adamlarımı kaçmaktan alıkoymaya yardım ettin!"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -19088,9 +19084,9 @@ msgid ""
 " no crime but daring to criticise her! You even tried to stop me from "
 "freeing them!"
 msgstr ""
-"İnkar edemezsin, kuzen, Asheviere'in Ulfdain'i ve madencilerini onu "
-"eleştirmeye cüret etmekten başka bir suçları olmadığı halde hapse attığını! "
-"Hatta onları serbest bırakmamı engellemeye çalıştın!"
+"İnkar edemezsin, kuzen, Aşivye'in Ulfdain'i ve madencilerini onu eleştirmeye"
+" cüret etmekten başka bir suçları olmadığı halde hapse attığını! Hatta "
+"onları serbest bırakmamı engellemeye çalıştın!"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -19110,8 +19106,8 @@ msgid ""
 "daring to criticise her! You even tried to stop me from intervening to free "
 "them!"
 msgstr ""
-"Ya da Asheviere'in Ulfdain'i ve madencilerini onu eleştirmeye cüret etmekten"
-" başka bir suçları olmadığı halde hapse atması ne olacak! Hatta onları "
+"Ya da Aşivye'in Ulfdain'i ve madencilerini onu eleştirmeye cüret etmekten "
+"başka bir suçları olmadığı halde hapse atması ne olacak! Hatta onları "
 "serbest bırakmak için müdahale etmemi engellemeye çalıştın!"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
@@ -19123,7 +19119,7 @@ msgid ""
 "slaves. It is only thanks to Konrad they escaped!"
 msgstr ""
 "Zorlukla inkar edebilirsin, Li’sar, halkımın Aethenwood'daki yenilgisinden "
-"sonra Asheviere'in ordularını kaçan sivillerimizi köle olarak almak için "
+"sonra Aşivye'in ordularını kaçan sivillerimizi köle olarak almak için "
 "gönderdiğini. Sadece Konrad sayesinde kaçabildiler!"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
@@ -19146,7 +19142,7 @@ msgid ""
 " armies to take our fleeing civilians as slaves? Without Konrad’s "
 "intervention they would be in chains in the mines!"
 msgstr ""
-"Ya da elflerin Aethenwood'daki yenilgisinden sonra Asheviere'in ordularını "
+"Ya da elflerin Aethenwood'daki yenilgisinden sonra Aşivye'in ordularını "
 "kaçan sivillerimizi köle olarak almak için göndermesi ne olacak? Konrad'ın "
 "müdahalesi olmasaydı madenlerde zincirlere vurulmuş olurlardı!"
 
@@ -19159,8 +19155,8 @@ msgid ""
 "there — it is only by my sword that they escaped!"
 msgstr ""
 "İnkar edemezsin, kuzen, elflerin Aethenwood'daki yenilgisinden sonra "
-"Asheviere'in ordularını kaçan sivilleri köle olarak almak için gönderdiğini."
-" Oradaydım — sadece benim kılıcımla kaçabildiler!"
+"Aşivye'in ordularını kaçan sivilleri köle olarak almak için gönderdiğini. "
+"Oradaydım — sadece benim kılıcımla kaçabildiler!"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -19182,7 +19178,7 @@ msgid ""
 " armies to take the fleeing civilians as slaves? Without my intervention "
 "they would be in chains in the mines!"
 msgstr ""
-"Ya da elflerin Aethenwood'daki yenilgisinden sonra Asheviere'in ordularını "
+"Ya da elflerin Aethenwood'daki yenilgisinden sonra Aşivye'in ordularını "
 "kaçan sivilleri köle olarak almak için göndermesi ne olacak? Benim müdahalem"
 " olmasaydı madenlerde zincirlere vurulmuş olurlardı!"
 
@@ -19194,9 +19190,9 @@ msgid ""
 "Wesnoth’s wild gryphons and steal their eggs! I was there — it is only by my"
 " sword that Gryphon Mountain was not entirely ruined!"
 msgstr ""
-"İnkar edemezsin, kuzen, Asheviere'in cüce uşaklarını Wesnoth'un vahşi "
+"İnkar edemezsin, kuzen, Aşivye'in cüce uşaklarını Wesnoth'un vahşi "
 "grifonlarını öldürmeleri ve yumurtalarını çalmaları için gönderdiğini! "
-"Oradaydım — Grifon Dağı'nın tamamen mahvolmamasını sağlayan sadece benim "
+"Oradaydım — Grifin Dağı'nın tamamen mahvolmamasını sağlayan sadece benim "
 "kılıcımdı!"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
@@ -19219,9 +19215,9 @@ msgid ""
 "gryphons and steal their eggs? Without my intervention Gryphon Mountain "
 "might have been entirely ruined!"
 msgstr ""
-"Ya da Asheviere'in cüce uşaklarını Wesnoth'un vahşi grifonlarını öldürmeleri"
-" ve yumurtalarını çalmaları için göndermesi ne olacak? Benim müdahalem "
-"olmasaydı Grifon Dağı tamamen mahvolmuş olabilirdi!"
+"Ya da Aşivye'in cüce uşaklarını Wesnoth'un vahşi grifonlarını öldürmeleri ve"
+" yumurtalarını çalmaları için göndermesi ne olacak? Benim müdahalem "
+"olmasaydı Grifin Dağı tamamen mahvolmuş olabilirdi!"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -19231,9 +19227,9 @@ msgid ""
 "Wesnoth’s wild gryphons and steal their eggs! I may have benefitted from the"
 " act, but that does not change Asheviere’s decision to do it."
 msgstr ""
-"İnkar edemezsin, kuzen, Asheviere'in cüce uşaklarını Wesnoth'un vahşi "
+"İnkar edemezsin, kuzen, Aşivye'in cüce uşaklarını Wesnoth'un vahşi "
 "grifonlarını öldürmeleri ve yumurtalarını çalmaları için gönderdiğini! Bu "
-"eylemden faydalanmış olabilirim, ama bu Asheviere'in bunu yapma kararını "
+"eylemden faydalanmış olabilirim, ama bu Aşivye'in bunu yapma kararını "
 "değiştirmez."
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
@@ -19244,9 +19240,9 @@ msgid ""
 "gryphons and steal their eggs? I may have benefitted from the act, but that "
 "does not change Asheviere’s decision to do it."
 msgstr ""
-"Ya da Asheviere'in cüce uşaklarını Wesnoth'un vahşi grifonlarını öldürmeleri"
-" ve yumurtalarını çalmaları için göndermesi ne olacak? Bu eylemden "
-"faydalanmış olabilirim, ama bu Asheviere'in bunu yapma kararını değiştirmez."
+"Ya da Aşivye'in cüce uşaklarını Wesnoth'un vahşi grifonlarını öldürmeleri ve"
+" yumurtalarını çalmaları için göndermesi ne olacak? Bu eylemden faydalanmış "
+"olabilirim, ama bu Aşivye'in bunu yapma kararını değiştirmez."
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -19279,9 +19275,9 @@ msgid ""
 " many of our number to die at the hands of undead? Without Konrad’s "
 "intervention our seal would never have been restored!"
 msgstr ""
-"Bakın! Ya da Asheviere'in evimden yardımı kasten esirgeyerek sayımızın "
-"çoğunun ölümsüzlerin elinde ölmesine neden olması ne olacak? Konrad'ın "
-"müdahalesi olmasaydı mührümüz asla restore edilemezdi!"
+"Bakın! Ya da Aşivye'in evimden yardımı kasten esirgeyerek sayımızın çoğunun "
+"ölümsüzlerin elinde ölmesine neden olması ne olacak? Konrad'ın müdahalesi "
+"olmasaydı mührümüz asla restore edilemezdi!"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -19292,8 +19288,8 @@ msgid ""
 " of undead. It is only by my sword that their seal was restored and calamity"
 " averted!"
 msgstr ""
-"İnkar edemezsin, kuzen, Asheviere'in Grifon Dağı manastırından yardımı "
-"kasten esirgediğini, sayılarının çoğunun ölümsüzlerin elinde ölmesine neden "
+"İnkar edemezsin, kuzen, Aşivye'in Grifin Dağı manastırından yardımı kasten "
+"esirgediğini, sayılarının çoğunun ölümsüzlerin elinde ölmesine neden "
 "olduğunu. Mühürlerinin restore edilmesi ve felaketin önlenmesi sadece benim "
 "kılıcımla oldu!"
 
@@ -19315,7 +19311,7 @@ msgid ""
 " monastery, leaving many of their number to die at the hands of undead? "
 "Without my intervention their seal would never have been restored!"
 msgstr ""
-"Ya da Asheviere'in Grifon Dağı manastırından yardımı kasten esirgeyerek "
+"Ya da Aşivye'in Grifin Dağı manastırından yardımı kasten esirgeyerek "
 "sayılarının çoğunun ölümsüzlerin elinde ölmesine neden olması ne olacak? "
 "Benim müdahalem olmasaydı mühürleri asla restore edilemezdi!"
 
@@ -19327,9 +19323,9 @@ msgid ""
 "was more than just a quest to capture Konrad and Delfador. Asheviere has a "
 "lust for control, and anyone who resists must be destroyed."
 msgstr ""
-"Zorlukla inkar edebilirsin, Li’sar, Asheviere'in Aethenwood ile olan "
-"kavgasının sadece Konrad ve Delfador'u yakalama arayışından daha fazlası "
-"olduğunu. Asheviere'in kontrol tutkusu var ve direnen herkes yok edilmeli."
+"Zorlukla inkar edebilirsin, Li’sar, Aşivye'in Aethenwood ile olan kavgasının"
+" sadece Konrad ve Delfador'u yakalama arayışından daha fazlası olduğunu. "
+"Aşivye'in kontrol tutkusu var ve direnen herkes yok edilmeli."
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -19339,9 +19335,9 @@ msgid ""
 "quest to capture Konrad and Delfador. Asheviere has a lust for control, and "
 "anyone who resists must be destroyed."
 msgstr ""
-"Ya da Asheviere'in Aethenwood'a saldırısı ne olacak? Bu, sadece Konrad ve "
-"Delfador'u yakalama arayışından daha fazlasıydı. Asheviere'in kontrol "
-"tutkusu var ve direnen herkes yok edilmeli."
+"Ya da Aşivye'in Aethenwood'a saldırısı ne olacak? Bu, sadece Konrad ve "
+"Delfador'u yakalama arayışından daha fazlasıydı. Aşivye'in kontrol tutkusu "
+"var ve direnen herkes yok edilmeli."
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -19351,9 +19347,9 @@ msgid ""
 "more than just a quest to capture me and Delfador. Asheviere has a lust for "
 "control, and anyone who resists must be destroyed."
 msgstr ""
-"İnkar edemezsin, kuzen, Asheviere'in Aethenwood ile olan kavgasının sadece "
-"beni ve Delfador'u yakalama arayışından daha fazlası olduğunu. Asheviere'in "
-"kontrol tutkusu var ve direnen herkes yok edilmeli."
+"İnkar edemezsin, kuzen, Aşivye'in Aethenwood ile olan kavgasının sadece beni"
+" ve Delfador'u yakalama arayışından daha fazlası olduğunu. Aşivye'in kontrol"
+" tutkusu var ve direnen herkes yok edilmeli."
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -19363,9 +19359,9 @@ msgid ""
 "quest to capture me and Delfador. Asheviere has a lust for control, and "
 "anyone who resists must be destroyed."
 msgstr ""
-"Ya da Asheviere'in Aethenwood'a saldırısı ne olacak? Bu, sadece beni ve "
-"Delfador'u yakalama arayışından daha fazlasıydı. Asheviere'in kontrol "
-"tutkusu var ve direnen herkes yok edilmeli."
+"Ya da Aşivye'in Aethenwood'a saldırısı ne olacak? Bu, sadece beni ve "
+"Delfador'u yakalama arayışından daha fazlasıydı. Aşivye'in kontrol tutkusu "
+"var ve direnen herkes yok edilmeli."
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:1143
@@ -19379,7 +19375,7 @@ msgid ""
 "your soldiers and I are to battle, know that even weakened from the caves "
 "they shall still find me a formidable foe."
 msgstr ""
-"Li’sar, lich yenildi ve üzerinde anlaştığımız ateşkes sona eriyor. Eğer "
+"Li’sar, umacı yenildi ve üzerinde anlaştığımız ateşkes sona eriyor. Eğer "
 "askerlerin ve ben savaşacaksak, mağaralardan zayıflamış olsalar bile beni "
 "hala zorlu bir düşman olarak bulacaklarını bil."
 
@@ -19390,7 +19386,7 @@ msgid ""
 "we are to battle, know that even weakened from the caves you shall still "
 "find me a formidable foe."
 msgstr ""
-"Li’sar, lich yenildi ve üzerinde anlaştığımız ateşkes sona eriyor. Eğer "
+"Li’sar, umacı yenildi ve üzerinde anlaştığımız ateşkes sona eriyor. Eğer "
 "savaşacaksak, mağaralardan zayıflamış olsan bile beni hala zorlu bir düşman "
 "olarak bulacağını bil."
 
@@ -19402,9 +19398,9 @@ msgid ""
 "we do not stop her. If you are willing, I would welcome your aid in my fight"
 " to make Wesnoth a better place."
 msgstr ""
-"Ama Asheviere hakkındaki gerçeklerimi — ve Malal'ınkileri — duydun. Karanlık"
-" kraliçe zaten sayısız hayata zarar verdi ve onu durdurmazsak sevdiğimiz her"
-" şeyi mahvedecek. Eğer istersen, Wesnoth'u daha iyi bir yer yapmak için "
+"Ama Aşivye hakkındaki gerçeklerimi — ve Malal'ınkileri — duydun. Karanlık "
+"kraliçe zaten sayısız hayata zarar verdi ve onu durdurmazsak sevdiğimiz her "
+"şeyi mahvedecek. Eğer istersen, Wesnoth'u daha iyi bir yer yapmak için "
 "verdiğim mücadelede yardımını memnuniyetle karşılarım."
 
 #. [message]: speaker=Lisar
@@ -19429,7 +19425,7 @@ msgstr ""
 "Ama işaretler olduğunu inkar edemem. Annemin en güvendiği yaverlerinden biri"
 " oldum. Çeşitli isyanların en kötülerini bastırmak için gönderildim. Elbette"
 " karşı koydular. Bu insanların çoğunun kim olduğu veya annemle neden "
-"savaştıkları bana asla söylenmedi. Şimdi yanardağ, ve şimdi bu lich..."
+"savaştıkları bana asla söylenmedi. Şimdi yanardağ, ve şimdi bu umacı..."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:1203
@@ -19668,7 +19664,7 @@ msgid ""
 "from us and back to Asheviere."
 msgstr ""
 "Bu orkları yenmek ve onu yakalamak için çok uzun sürersek, bizden kaçıp "
-"Asheviere'e geri dönebilir."
+"Aşivye'e geri dönebilir."
 
 #. [message]: speaker=Mirya
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:378
@@ -20134,7 +20130,7 @@ msgid ""
 "Asheviere’s!"
 msgstr ""
 "O günler karanlık günlerdi. Bugün senin saltanatına son veriyorum, tıpkı bir"
-" gün Asheviere'inkine son vereceğim gibi!"
+" gün Aşivye'inkine son vereceğim gibi!"
 
 #. [message]: speaker=Khargol
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1071
@@ -20363,7 +20359,7 @@ msgid ""
 msgstr ""
 "Tam olarak değil, hayır. Ama en azından o kendi payına düşeni yaptı, biz de "
 "öyle. Şef Khargol öldü ve Beyazdişler veraset krizlerini çözene kadar "
-"Asheviere'e hiçbir yardımları dokunmayacak."
+"Aşivye'e hiçbir yardımları dokunmayacak."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1336
@@ -20379,7 +20375,7 @@ msgstr "senaryo adı^Thoria Kayalıkları"
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:49
 msgid "Drakes"
-msgstr "Drakeler"
+msgstr "Ejderler"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:124
@@ -20410,7 +20406,7 @@ msgid ""
 "among the river islands! I shall send my familiar to investigate."
 msgstr ""
 "Ve sonuç bir sır değil — nehir adaları arasında parçalanmış küçük bir tekne "
-"filosu var! Araştırması için büyülü yoldaşımı göndereceğim."
+"filosu var! Araştırması için sihirli yoldaşımı göndereceğim."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:244
@@ -20464,7 +20460,7 @@ msgid ""
 "A drake! So the winged figures we saw fighting were drakes. You are the ones"
 " who destroyed this flotilla?"
 msgstr ""
-"Bir drake! Demek savaştığını gördüğümüz kanatlı figürler drakelermiş. Bu "
+"Bir ejder! Demek savaştığını gördüğümüz kanatlı figürler drakelermiş. Bu "
 "filoyu yok edenler siz misiniz?"
 
 #. [message]: speaker=Keh Ohn
@@ -20497,7 +20493,7 @@ msgid ""
 "enough to do such a thing, unless unknowingly or in extreme starvation. I "
 "fear this has been a terrible misunderstanding."
 msgstr ""
-"Askerler drake yumurtası mı tüketti? Bilmeden veya aşırı açlık dışında "
+"Askerler ejder yumurtası mı tüketti? Bilmeden veya aşırı açlık dışında "
 "kimsenin böyle bir aptallık yapacağını hayal edemiyorum. Korkarım bu korkunç"
 " bir yanlış anlaşılma oldu."
 
@@ -20509,7 +20505,7 @@ msgid ""
 "prisoners and allow us to search the river for survivors."
 msgstr ""
 "Eğittiğim adamlar yetenekli ve azimli. Eğer hayatta kalmak mümkün olsaydı, "
-"kalmışlardır. Gideceğiz, drake, ama önce tüm mahkumları teslim edecek ve "
+"kalmışlardır. Gideceğiz, ejder, ama önce tüm mahkumları teslim edecek ve "
 "nehirde kurtulanları aramıza izin vereceksin."
 
 #. [message]: speaker=Keh Ohn
@@ -20532,7 +20528,7 @@ msgid ""
 "Wesnoth has survived then I am coming to his rescue. Stand in my way only if"
 " you seek to do battle."
 msgstr ""
-"Pis ejderha, karar vermek asla sana düşmedi! Eğer Wesnoth'tan tek bir asker "
+"Pis ejder, karar vermek asla sana düşmedi! Eğer Wesnoth'tan tek bir asker "
 "bile hayatta kaldıysa, onu kurtarmaya geliyorum. Sadece savaşmak istiyorsan "
 "yoluma çık."
 
@@ -20583,7 +20579,7 @@ msgid ""
 "more fighters."
 msgstr ""
 "Nehirde düşman kalesi görmüyorum, ama ilkel meskenlerle dolu. Daha fazla "
-"savaşçı toplamalarını engellemek için drake köylerini yıkmalıyız."
+"savaşçı toplamalarını engellemek için ejder köylerini yıkmalıyız."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:403
@@ -20632,7 +20628,7 @@ msgid ""
 " I’m sure their fire could show me how to improve my flashpowder."
 msgstr ""
 "Daha fazla örnekle, pratik bir şeyler öğrenebileceğimden eminim. Eğer, "
-"diyelim ki, otuz drake öldürebilirseniz — bu hariç tabii — o zaman eminim ki"
+"diyelim ki, otuz ejder öldürebilirseniz — bu hariç tabii — o zaman eminim ki"
 " ateşleri bana flaş tozumu nasıl geliştireceğimi gösterebilir."
 
 #. [message]: speaker=Jeniver
@@ -20642,7 +20638,7 @@ msgid ""
 "dissecting the corpses! Fifteen more and I’m sure I’ll learn something "
 "practical."
 msgstr ""
-"On beş drake yendiniz. Cesetleri inceleyerek şimdiden çok şey öğreniyorum! "
+"On beş ejder yendiniz. Cesetleri inceleyerek şimdiden çok şey öğreniyorum! "
 "On beş tane daha ve eminim pratik bir şeyler öğreneceğim."
 
 #. [message]: speaker=Jeniver
@@ -20671,7 +20667,7 @@ msgid ""
 "Good, we’ve destroyed one drake beacon. Each one we raze will make it more "
 "difficult for them to rally their fighters."
 msgstr ""
-"Güzel, bir drake fenerini yok ettik. Yıktığımız her biri, savaşçılarını "
+"Güzel, bir ejder fenerini yok ettik. Yıktığımız her biri, savaşçılarını "
 "toplamalarını daha da zorlaştıracak."
 
 #. [message]: speaker=Konrad
@@ -20691,7 +20687,7 @@ msgid ""
 "there are not any drakes in that area."
 msgstr ""
 "Drakelerin onu şimdiye kadar neden bitirmediğini merak ediyorum? O bölgede "
-"hiç drake olmaması garip."
+"hiç ejder olmaması garip."
 
 #. [message]: type=Water Serpent,Kraken
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:627
@@ -20723,7 +20719,7 @@ msgid ""
 msgstr ""
 "Size, yeraltında bizimle savaşan diğer herkes gibi, bir zamanlar bizi "
 "öldürmek için elinden geleni yaptığını hatırlatmam mı gerekiyor? Sizi takip "
-"edecek mi, yoksa bizi Asheviere'e ihanet etmeyi mi seçecek?"
+"edecek mi, yoksa bizi Aşivye'e ihanet etmeyi mi seçecek?"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:642
@@ -20733,8 +20729,8 @@ msgid ""
 " to betray us to the dark queen?"
 msgstr ""
 "Yargınızı sorgulamak istemem ama çok da uzun zaman önce bizi öldürmeye "
-"çalışmıyor muydu? O Asheviere'in adamlarından biri! Sizi takip edecek mi, "
-"yoksa bizi karanlık kraliçeye ihanet etmeyi mi seçecek?"
+"çalışmıyor muydu? O Aşivye'in adamlarından biri! Sizi takip edecek mi, yoksa"
+" bizi karanlık kraliçeye ihanet etmeyi mi seçecek?"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:643
@@ -20743,7 +20739,7 @@ msgid ""
 "pursued us underground and fought to kill us? Will he follow you, or will he"
 " choose to betray us to the dark queen?"
 msgstr ""
-"Asheviere'e hizmet etmiş, bizi yeraltında takip etmiş ve bizi öldürmek için "
+"Aşivye'e hizmet etmiş, bizi yeraltında takip etmiş ve bizi öldürmek için "
 "savaşmış bir adamın kalbinde ne onur olabilir ki? Sizi takip edecek mi, "
 "yoksa bizi karanlık kraliçeye ihanet etmeyi mi seçecek?"
 
@@ -20767,7 +20763,7 @@ msgid ""
 msgstr ""
 "Unutmayın ki o da, yeraltında bizimle savaşan diğerleri gibi, Konrad'ı "
 "öldürmek için sizinle kuzeye geldi. Kurtarılırsa ittifakımıza katılacak mı, "
-"yoksa bizi Asheviere'e ihanet mi edecek?"
+"yoksa bizi Aşivye'e ihanet mi edecek?"
 
 #. [companion_message]
 #. reference to this fable:
@@ -20781,7 +20777,7 @@ msgid ""
 msgstr ""
 "Evet, akrep kurbağaya öyle dedi! Unutmayın, o aptal herif çok da uzun zaman "
 "önce Konrad'ı öldürmeye çalıştı, tıpkı yeraltında bizimle savaşan diğer tüm "
-"o aptallar gibi! Bizi göz açıp kapayıncaya kadar Asheviere'e ihanet eder."
+"o aptallar gibi! Bizi göz açıp kapayıncaya kadar Aşivye'e ihanet eder."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:648
@@ -20792,7 +20788,7 @@ msgid ""
 msgstr ""
 "Bir hayat kurtarmak iyi bir şey tabii ki. Ama, ee, şey, biliyorsunuz, çok da"
 " uzun zaman önce yeraltında Konrad'ı öldürmeye çalışmıyor muydu? "
-"İttifakımıza katılacak mı? Ya bizi Asheviere'e ihanet ederse?"
+"İttifakımıza katılacak mı? Ya bizi Aşivye'e ihanet ederse?"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:649
@@ -20815,7 +20811,7 @@ msgid ""
 msgstr ""
 "Unutmayın ki o da, yeraltında bizimle savaşan diğer herkes gibi, bir "
 "zamanlar beni öldürmek için elinden geleni yaptı. Sizi takip edecek mi, "
-"yoksa bizi Asheviere'e ihanet etmeyi mi seçecek?"
+"yoksa bizi Aşivye'e ihanet etmeyi mi seçecek?"
 
 #. [message]: speaker=Lisar
 #. "you people" refers to the last speaker - one of Konrad's many possible
@@ -20959,7 +20955,7 @@ msgstr "senaryo adı^Yeraltı Kanalları"
 #. [side]: id=leader3, type=Saurian Javelineer
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:93
 msgid "Saurians"
-msgstr "Saurianlar"
+msgstr "Sürüngenler"
 
 #. [side]: id=Haralamdum, type=Ancient Wose
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:130
@@ -21054,7 +21050,7 @@ msgid ""
 "hum ... now these undead ... harum ... very troubling."
 msgstr ""
 "Hmm... evet... alam... alam dum... çok kullanışlı... dil... evet... hum... "
-"şimdi bu ölümsüzler... harum... çok rahatsız edici."
+"şimdi bu yarı ölüler... harum... çok rahatsız edici."
 
 #. [message]: speaker=Haralamdum
 #. I am sure you could help rid us of these infernal undead. Afterwards, we
@@ -21072,7 +21068,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:263
 msgid "Defeat the undead leader"
-msgstr "Ölümsüz lideri yen"
+msgstr "Yarı Ölü lideri yen"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:268
@@ -21170,7 +21166,7 @@ msgstr ""
 msgid ""
 "The river is clean and fresh in this direction. There are no undead to hunt "
 "this way."
-msgstr "Bu yönde nehir temiz ve taze. Bu yolda avlanacak ölümsüz yok."
+msgstr "Bu yönde nehir temiz ve taze. Bu yolda avlanacak yarı ölü yok."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:416
@@ -21193,7 +21189,7 @@ msgid ""
 "The aggressive saurians are vanquished, but the undead are the greater evil "
 "here. We must not waver!"
 msgstr ""
-"Agresif sauriyanlar yenildi, ama buradaki daha büyük kötülük ölümsüzler. "
+"Agresif sauriyanlar yenildi, ama buradaki daha büyük kötülük yarı ölüler. "
 "Tereddüt etmemeliyiz!"
 
 #. [message]: speaker=unit
@@ -21206,7 +21202,7 @@ msgstr "Efendi. Uzakta. Ben korurum. Savaşacağım. Iliah. Malal dönene kadar.
 msgid ""
 "Your master Malal is gone, you undead fool! Go back to your eternal rest."
 msgstr ""
-"Efendin Malal gitti, seni ölümsüz aptal! Sonsuz istirahatine geri dön."
+"Efendin Malal gitti, seni yarı ölü aptal! Sonsuz istirahatine geri dön."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:459
@@ -21269,8 +21265,8 @@ msgid ""
 "Those undead will bother you no more, Sir Wose. Will you join us? We march "
 "towards Weldyn, to depose the dark queen Asheviere."
 msgstr ""
-"O ölümsüzler sizi artık rahatsız etmeyecek, Sör Wose. Bize katılır mısınız? "
-"Karanlık kraliçe Asheviere'i tahttan indirmek için Weldyn'e yürüyoruz."
+"O yarı ölüler sizi artık rahatsız etmeyecek, Sör Wose. Bize katılır mısınız?"
+" Karanlık kraliçe Aşivye'i tahttan indirmek için Weldyn'e yürüyoruz."
 
 #. [message]: speaker=Haralamdum
 #. March? So hasty. No, we are not soldiers, not at all. And we are not many.
@@ -21301,7 +21297,7 @@ msgid ""
 "Dust carried ... har alam dum ... by a skeleton. Something magical. I put it"
 " ... harum ... where did I put it..."
 msgstr ""
-"Toz taşınmış ... har alam dum ... bir iskelet tarafından. Büyülü bir şey. "
+"Toz taşınmış ... har alam dum ... bir iskelet tarafından. Sihirli bir şey. "
 "Onu koydum ... harum ... nereye koydum..."
 
 #. [message]: speaker=Delfador
@@ -21337,7 +21333,7 @@ msgstr "Harum ... hıh ..."
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:576
 msgid "The woses have been defeated! The undead have won."
-msgstr "Wose'lar yenildi! Ölümsüzler kazandı."
+msgstr "Wose'lar yenildi! Yarı Ölüler kazandı."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:591
@@ -21357,9 +21353,9 @@ msgid ""
 "survive underwater, but I can’t. Even the merfolk must surface often for "
 "air! We’ll have to break off the attack."
 msgstr ""
-"Yağmur yağmaya başlıyor ve bu mağaralar sular altında kalmak üzere! "
-"Ölümsüzler su altında hayatta kalabilir, ama ben kalamam. Deniz halkı bile "
-"sık sık hava almak için yüzeye çıkmak zorunda! Saldırıyı kesmek zorunda "
+"Yağmur yağmaya başlıyor ve bu mağaralar sular altında kalmak üzere! Yarı "
+"Ölüler su altında hayatta kalabilir, ama ben kalamam. Deniz halkı bile sık "
+"sık hava almak için yüzeye çıkmak zorunda! Saldırıyı kesmek zorunda "
 "kalacağız."
 
 #. [message]: speaker=Konrad
@@ -21368,8 +21364,8 @@ msgid ""
 "It’s starting to rain, and these caves are about to flood! The undead can "
 "survive underwater, but I can’t. We’ll have to break off the attack."
 msgstr ""
-"Yağmur yağmaya başlıyor ve bu mağaralar sular altında kalmak üzere! "
-"Ölümsüzler su altında hayatta kalabilir, ama ben kalamam. Saldırıyı kesmek "
+"Yağmur yağmaya başlıyor ve bu mağaralar sular altında kalmak üzere! Yarı "
+"Ölüler su altında hayatta kalabilir, ama ben kalamam. Saldırıyı kesmek "
 "zorunda kalacağız."
 
 #. [scenario]
@@ -21423,8 +21419,8 @@ msgid ""
 msgstr ""
 "Bilirsiniz ki merhum amcam Kral Garard II, klanların dostuydu. "
 "Şövalyeleriniz ordusunun en seçkin kısmını oluşturuyordu ve hizmetleri için "
-"saygı görüyorlardı. Şehirlerin kraliçesi ve orkların işvereni Asheviere "
-"altında siz ovalılar ne kadar prestije sahipsiniz?"
+"saygı görüyorlardı. Şehirlerin kraliçesi ve orkların işvereni Aşivye altında"
+" siz ovalılar ne kadar prestije sahipsiniz?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:269
@@ -21452,7 +21448,7 @@ msgid ""
 "He will confront Asheviere, as he claims. Then he will die. And if we have "
 "lent our support it will be all the worse for us."
 msgstr ""
-"Dediği gibi Asheviere ile yüzleşecek. Sonra ölecek. Ve eğer desteğimizi "
+"Dediği gibi Aşivye ile yüzleşecek. Sonra ölecek. Ve eğer desteğimizi "
 "verdiysek, bu bizim için daha da kötü olacak."
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
@@ -21738,7 +21734,7 @@ msgstr "Durun! Durun! Ordularımız buna daha fazla dayanamaz."
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:668
 msgid "So you admit defeat! You assent to my claim and repudiate Asheviere?"
 msgstr ""
-"Yani yenilgiyi kabul ediyorsun! İddiamı kabul edip Asheviere'yi reddediyor "
+"Yani yenilgiyi kabul ediyorsun! İddiamı kabul edip Aşivye'yi reddediyor "
 "musun?"
 
 #. [message]: role=clanboss
@@ -21759,7 +21755,7 @@ msgid ""
 "have proven yourself — neither shall we join Asheviere in opposition."
 msgstr ""
 "Klanlar, Weldyn'e saldırınızda size katılarak her şeyi riske atamaz, ancak "
-"kendinizi kanıtladınız — Asheviere'ye karşı da katılmayacağız."
+"kendinizi kanıtladınız — Aşivye'ye karşı da katılmayacağız."
 
 #. [message]: role=clanboss
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:678
@@ -21859,7 +21855,7 @@ msgid ""
 " aren’t your allies, but will prefer to attack Isolde’s soldiers when given "
 "the choice."
 msgstr ""
-"Haritanın kuzeybatı köşesine periyodik olarak grifonlar belirecek. "
+"Haritanın kuzeybatı köşesine periyodik olarak grifinler belirecek. "
 "Müttefikleriniz değiller ama seçim şansı verildiğinde Isolde'nin askerlerine"
 " saldırmayı tercih edecekler."
 
@@ -21871,7 +21867,7 @@ msgstr "Kraww!!"
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:348
 msgid "Look, gryphons are attacking soldiers inside the city walls!"
-msgstr "Bakın, grifonlar şehir surlarının içindeki askerlere saldırıyor!"
+msgstr "Bakın, grifinler şehir surlarının içindeki askerlere saldırıyor!"
 
 #. [message]: speaker=Isolde
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:352
@@ -21935,7 +21931,7 @@ msgid ""
 " able to leave Dan’Tonk again without risking its revolt."
 msgstr ""
 "Belki de buna gerek yok, Delfador. Güç kırılgan bir şeydir ve bu şehre — bir"
-" zamanlar Asheviere'e karşı savaşmış bir şehre — kraliçenin bir zamanlar "
+" zamanlar Aşivye'e karşı savaşmış bir şehre — kraliçenin bir zamanlar "
 "göründüğü kadar yenilmez olmadığını gösterdik. Isolde'nin Dan'Tonk'tan bir "
 "daha isyan riskini göze almadan ayrılabileceğini sanmıyorum."
 
@@ -22332,7 +22328,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1677
 msgid "Defeat Asheviere"
-msgstr "Asheviere'i Yen"
+msgstr "Aşivye'i Yen"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1696
@@ -22340,7 +22336,7 @@ msgid ""
 "It’s you! The dwarf from Gryphon Mountain! I thought you were merely "
 "delivering eggs to Asheviere, not fighting for her."
 msgstr ""
-"Sensin! Gryphon Dağı'ndan gelen cüce! Asheviere'e sadece yumurta taşıdığını "
+"Sensin! Grifin Dağı'ndan gelen cüce! Aşivye'e sadece yumurta taşıdığını "
 "sanmıştım, onun için savaştığını değil."
 
 #. [message]: speaker=Burlin
@@ -22354,8 +22350,8 @@ msgid ""
 "Their initial attack will be especially powerful, but they will continue "
 "reinforcing Asheviere every day or two until she is defeated — or we are."
 msgstr ""
-"İlk saldırıları özellikle güçlü olacak, ancak Asheviere'i yenilene kadar — "
-"ya da biz yenilene kadar — her bir iki günde bir takviye etmeye devam "
+"İlk saldırıları özellikle güçlü olacak, ancak Aşivye'i yenilene kadar — ya "
+"da biz yenilene kadar — her bir iki günde bir takviye etmeye devam "
 "edecekler."
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
@@ -22376,7 +22372,7 @@ msgid ""
 "not especially powerful, but I suspect that each subsequent follow-up will "
 "be more deadly than the last."
 msgstr ""
-"Konrad, Asheviere'in müttefikleri bir takip saldırısı hazırladı! Bu dalga "
+"Konrad, Aşivye'in müttefikleri bir takip saldırısı hazırladı! Bu dalga "
 "özellikle güçlü değil, ancak her sonraki takip saldırısının bir öncekinden "
 "daha ölümcül olacağından şüpheleniyorum."
 
@@ -22388,7 +22384,7 @@ msgid ""
 "with her orcish allies and mage followers."
 msgstr ""
 "Konrad, kuzey yolu boyunca yaklaşan bir büyü akımı hissediyorum. Sanırım "
-"yakında Asheviere'in o ışınlanan büyücüsüyle, ork müttefikleri ve büyücü "
+"yakında Aşivye'in o ışınlanan büyücüsüyle, ork müttefikleri ve büyücü "
 "takipçileriyle karşılaşacağız."
 
 #. [message]: speaker=Mirya
@@ -22522,7 +22518,7 @@ msgid ""
 "Hail, good Asheviere! We have taken the long road and come around by the "
 "south to surprise the rebels!"
 msgstr ""
-"Selam, iyi Asheviere! Uzun yolu kat edip güneyden dolaşarak isyancıları "
+"Selam, iyi Aşivye! Uzun yolu kat edip güneyden dolaşarak isyancıları "
 "şaşırtmaya geldik!"
 
 #. [message]: speaker=Asheviere
@@ -22670,7 +22666,7 @@ msgid ""
 "For too long has your darkness troubled the world, Asheviere. Your time has "
 "come!"
 msgstr ""
-"Çok uzun zamandır karanlığın dünyayı rahatsız etti, Asheviere. Vaktin geldi!"
+"Çok uzun zamandır karanlığın dünyayı rahatsız etti, Aşivye. Vaktin geldi!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2375
@@ -22742,7 +22738,7 @@ msgstr ""
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2397
 msgid "And so passes Asheviere, queen of Wesnoth."
-msgstr "Ve böylece Wesnoth kraliçesi Asheviere vefat eder."
+msgstr "Ve böylece Wesnoth kraliçesi Aşivye vefat eder."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2401
@@ -22786,7 +22782,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2511
 msgid "And so the Dark Queen’s reign was ended."
-msgstr "Ve böylece Karanlık Kraliçe'nin saltanatı sona erdi."
+msgstr "Ve böylece Kara Kraliçe'nin saltanatı sona erdi."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2515
@@ -22987,9 +22983,9 @@ msgid ""
 "Asheviere’s demise. He was laid to rest at the Royal Library, in a glass "
 "ossuary ornamented with all manner of trinkets and baubles."
 msgstr ""
-"Zaten yaşlı olan karga Blackwing, Asheviere'in ölümünden kısa süre sonra "
-"vefat etti. Kraliyet Kütüphanesi'nde, her türlü biblo ve süs eşyasıyla "
-"süslenmiş cam bir kemiklikte defnedildi."
+"Zaten yaşlı olan karga Blackwing, Aşivye'in ölümünden kısa süre sonra vefat "
+"etti. Kraliyet Kütüphanesi'nde, her türlü biblo ve süs eşyasıyla süslenmiş "
+"cam bir kemiklikte defnedildi."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2558
@@ -22998,7 +22994,7 @@ msgid ""
 "for their ordeal. Most returned to their homes, singing the new Queen’s "
 "praises."
 msgstr ""
-"Asheviere'in tehdit ettiği mahkumlar bulundu ve serbest bırakıldı, hiçbiri "
+"Aşivye'in tehdit ettiği mahkumlar bulundu ve serbest bırakıldı, hiçbiri "
 "yaşadıkları çileden kötü etkilenmemişti. Çoğu evlerine döndü, yeni "
 "Kraliçe'nin övgülerini söylüyordu."
 
@@ -23208,7 +23204,7 @@ msgid ""
 "You could not defeat Asheviere, I know. But you rescued me. That was no "
 "failure."
 msgstr ""
-"Asheviere'i yenemediğini biliyorum. Ama beni kurtardın. Bu bir başarısızlık "
+"Aşivye'i yenemediğini biliyorum. Ama beni kurtardın. Bu bir başarısızlık "
 "değildi."
 
 #. [message]: speaker=Delfador
@@ -23224,7 +23220,7 @@ msgid ""
 "be slain."
 msgstr ""
 "Savaş uzun ve çetin geçmişti. Yenilmiştik. Eldred öldürülmüştü, ama "
-"Asheviere'in gazabının büyük olacağını biliyordum. Birçok masumun "
+"Aşivye'in gazabının büyük olacağını biliyordum. Birçok masumun "
 "öldürüleceğini."
 
 #. [message]: speaker=Delfador
@@ -23234,9 +23230,9 @@ msgid ""
 "Weldyn, before the guards of Asheviere could get there, to carry out their "
 "evil orders."
 msgstr ""
-"Monarşiyi kurtarmak zorundaydım. Prensleri kurtarmak zorundaydım. "
-"Asheviere'in muhafızları oraya varmadan, kötü emirlerini yerine getirmeden "
-"önce Weldyn'e acele ettim."
+"Monarşiyi kurtarmak zorundaydım. Prensleri kurtarmak zorundaydım. Aşivye'in "
+"muhafızları oraya varmadan, kötü emirlerini yerine getirmeden önce Weldyn'e "
+"acele ettim."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:151
@@ -23253,8 +23249,8 @@ msgid ""
 "All was lost. The heirs were slain. Only Asheviere and her daughter had any "
 "claim to the throne."
 msgstr ""
-"Her şey kaybedilmişti. Varisler öldürülmüştü. Taht üzerinde sadece Asheviere"
-" ve kızı hak iddia edebilirdi."
+"Her şey kaybedilmişti. Varisler öldürülmüştü. Taht üzerinde sadece Aşivye ve"
+" kızı hak iddia edebilirdi."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:157
@@ -23323,8 +23319,8 @@ msgid ""
 " this Li’sar is fit for the throne."
 msgstr ""
 "Bir gün seni kral yapabileceğimizi düşünmüştüm, Konrad. Ama şimdi görüyorum "
-"ki kader farklı bir seçim yapmış. Asheviere'in tüm kötülüğüne rağmen, bu "
-"Li’sar tahta layık."
+"ki kader farklı bir seçim yapmış. Aşivye'in tüm kötülüğüne rağmen, bu Li’sar"
+" tahta layık."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:188
@@ -23514,7 +23510,7 @@ msgstr "kadın^Elf Sivili"
 #. [unit_type]: id=Dark Queen, gender=female, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Dark_Queen.cfg:4
 msgid "female^Dark Queen"
-msgstr "kadın^Karanlık Kraliçe"
+msgstr "kadın^Kara Kraliçe"
 
 #. [unit_type]: id=Dark Queen, gender=female, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Dark_Queen.cfg:27
@@ -23523,8 +23519,8 @@ msgid ""
 "knowledge of magic makes her a worthy foe in combat, although her power is "
 "mostly derived from those she commands."
 msgstr ""
-"Kötü Kraliçe Asheviere, Wesnoth'u uzun yıllardır terörize etti. Büyü bilgisi"
-" onu savaşta değerli bir düşman yapar, ancak gücü çoğunlukla komuta "
+"Kötü Kraliçe Aşivye, Wesnoth'u uzun yıllardır terörize etti. Büyü bilgisi "
+"onu savaşta değerli bir düşman yapar, ancak gücü çoğunlukla komuta "
 "ettiklerinden gelir."
 
 #. [attack]: type=impact
@@ -23650,7 +23646,7 @@ msgstr ""
 #. [dummy]: id=smoke
 #: data/campaigns/Heir_To_The_Throne/units/Human_Jeniver.cfg:248
 msgid "<i>Magical</i> attacks are unaffected by smoke."
-msgstr "<i>Büyülü</i> saldırılar dumandan etkilenmez."
+msgstr "<i>Sihirli</i> saldırılar dumandan etkilenmez."
 
 #. [dummy]: id=smoke
 #: data/campaigns/Heir_To_The_Throne/units/Human_Jeniver.cfg:249
@@ -23674,7 +23670,7 @@ msgid ""
 "of alchemy are concerned with the study of physical matter — especially "
 "herbs, minerals, and the four humors."
 msgstr ""
-"Daha açıkça büyülü bilim alanlarının aksine, simya uygulayıcıları fiziksel "
+"Daha açıkça sihirli bilim alanlarının aksine, simya uygulayıcıları fiziksel "
 "maddenin — özellikle otlar, mineraller ve dört mizacın — incelenmesiyle "
 "ilgilenirler."
 
@@ -23857,7 +23853,7 @@ msgid ""
 "Asheviere’s fearless princess now marches in chains, a prisoner of Konrad "
 "and his rebels."
 msgstr ""
-"Asheviere'nin korkusuz prensesi şimdi zincirler içinde yürüyor, Konrad ve "
+"Aşivye'nin korkusuz prensesi şimdi zincirler içinde yürüyor, Konrad ve "
 "isyancılarının bir tutsağı."
 
 #. [variation]: race=human
@@ -24066,7 +24062,7 @@ msgid ""
 "fly, most have already grown larger than a wolf, and are more than capable "
 "of defending their nests from intruders."
 msgstr ""
-"Genç grifonlar, yetişkin akrabalarınınkinden daha yumuşak ve lüks beyaz ve "
+"Genç grifinler, yetişkin akrabalarınınkinden daha yumuşak ve lüks beyaz ve "
 "gri tüylerle kaplıdır. Uçmayı öğrendiklerinde çoğu zaten bir kurttan daha "
 "büyük hale gelmiş ve yuvalarını davetsiz misafirlerden koruyabilecek "
 "kapasitededir."
@@ -24074,12 +24070,12 @@ msgstr ""
 #. [unit_type]: id=Sleeping Gryphon, race=gryphon
 #: data/campaigns/Heir_To_The_Throne/units/Monster_Sleeping_Gryphon.cfg:4
 msgid "Sleeping Gryphon"
-msgstr "Uyuyan Grifon"
+msgstr "Uyuyan Grifin"
 
 #. [unit_type]: id=Sleeping Gryphon, race=gryphon
 #: data/campaigns/Heir_To_The_Throne/units/Monster_Sleeping_Gryphon.cfg:21
 msgid "Shhhh! The gryphon is sleeping! You’d better not wake it up!"
-msgstr "Şşşt! Grifon uyuyor! Onu uyandırmasan iyi edersin!"
+msgstr "Şşşt! Grifin uyuyor! Onu uyandırmasan iyi edersin!"
 
 #. [unit_type]: id=Barrow Wight, race=undead
 #: data/campaigns/Heir_To_The_Throne/units/Undead_Horse_Barrow_Wight.cfg:4
@@ -24289,9 +24285,8 @@ msgid ""
 "for all elves."
 msgstr ""
 "Ama Lintanir'deki evime doğuya doğru yolumuzu bulursak, tebaam kesinlikle "
-"altın ve erzak sunmaya hazır olacaktır. Özellikle Asheviere'in "
-"Aethenwood'daki suçlarından sonra. Sizin için bir zafer, tüm elfler için bir"
-" zaferdir."
+"altın ve erzak sunmaya hazır olacaktır. Özellikle Aşivye'in Aethenwood'daki "
+"suçlarından sonra. Sizin için bir zafer, tüm elfler için bir zaferdir."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:189
@@ -24526,8 +24521,8 @@ msgid ""
 "Elrian."
 msgstr ""
 "Alduin'de savaştığımız o “Rektör Seimus” güçlü bir büyücü gibi görünüyordu. "
-"Elrian, senin yaptığın gibi bize katılmak yerine Asheviere'in tarafını "
-"seçmesi utanç verici."
+"Elrian, senin yaptığın gibi bize katılmak yerine Aşivye'in tarafını seçmesi "
+"utanç verici."
 
 #. [message]: speaker=Elrian
 #. this is a hint that Konrad can recruit Seimus if he brings Delfador to
@@ -24579,7 +24574,7 @@ msgid ""
 " Light that I was rescued and raised there, high in the Gryphon Mountains. "
 "We ought to visit there someday."
 msgstr ""
-"Mühürün büyük manastırından, iyi Konrad! Işığın lütfuyla orada, Gryphon "
+"Mühürün büyük manastırından, iyi Konrad! Işığın lütfuyla orada, Grifin "
 "Dağları'nın yükseklerinde kurtarıldım ve büyütüldüm. Bir gün orayı ziyaret "
 "etmeliyiz."
 
@@ -24591,7 +24586,7 @@ msgid ""
 "evils of Asheviere."
 msgstr ""
 "Şimdi, kılıcı kuşandım ve kötülüğü yok etmek için yola çıktım. Ve işte! Sen "
-"ve ben birleştik, ve işte! Şimdi Asheviere'in kötülüklerine karşı birlikte "
+"ve ben birleştik, ve işte! Şimdi Aşivye'in kötülüklerine karşı birlikte "
 "savaşıyoruz."
 
 #. [message]: speaker=Moremirmu
@@ -24651,8 +24646,8 @@ msgid ""
 "I need little strength of body, Moremirmu, for I wield the magical flaming "
 "sword of the Lintanir. A mighty boon, and one I am well grateful for."
 msgstr ""
-"Moremirmu, bedensel güce pek ihtiyacım yok, çünkü Lintanir'in büyülü alevli "
-"kılıcını kullanıyorum. Büyük bir lütuf ve bunun için çok minnettarım."
+"Moremirmu, bedensel güce pek ihtiyacım yok, çünkü Lintanir'in sihirli alevli"
+" kılıcını kullanıyorum. Büyük bir lütuf ve bunun için çok minnettarım."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:492
@@ -24693,8 +24688,8 @@ msgid ""
 "fightin’ Asheviere too! I’ve been excited to tell you!"
 msgstr ""
 "Konrad, neden bana Üç Kız Kardeş'te nasıl yaşamaya başladığımızı hiç "
-"sormadın? Bu güçlü bir hikaye ve Asheviere ile nasıl savaştığın için de "
-"önemli! Sana anlatmak için sabırsızlanıyordum!"
+"sormadın? Bu güçlü bir hikaye ve Aşivye ile nasıl savaştığın için de önemli!"
+" Sana anlatmak için sabırsızlanıyordum!"
 
 #. [message]: speaker=Konrad
 #. Harper and Konrad discuss the events of Liberty
@@ -24704,7 +24699,7 @@ msgid ""
 " your homes, destroyed Halstead, and ended up on the islands. Just like "
 "that, right?"
 msgstr ""
-"Ah, diğerleri bana zaten açıklamıştı! Asheviere ele geçirdi, evlerinizden "
+"Ah, diğerleri bana zaten açıklamıştı! Aşivye ele geçirdi, evlerinizden "
 "kaçtınız, Halstead'i yok ettiniz ve adalara sığındınız. Aynen öyle, değil "
 "mi?"
 
@@ -24744,7 +24739,7 @@ msgid ""
 "my life from a lich! That’s gotta be worth somethin’."
 msgstr ""
 "Konrad iyi bir insan. O da herkes için en iyisini istiyor. Ve hayatımı bir "
-"lich'ten kurtardı! Bu bir şeye değmeli."
+"umacı'tyan kurtardı! Bu bir şeye değmeli."
 
 #. [message]: speaker=Ulfdain
 #. stay in your graves, you rotting heaps of bones
@@ -24837,7 +24832,7 @@ msgid ""
 "anytime soon! For now we should focus on surviving and building up our "
 "strength."
 msgstr ""
-"Coşkunu takdir ediyorum ama yakın zamanda Asheviere ile yüzleşecek durumda "
+"Coşkunu takdir ediyorum ama yakın zamanda Aşivye ile yüzleşecek durumda "
 "değiliz! Şimdilik hayatta kalmaya ve gücümüzü toplamaya odaklanmalıyız."
 
 #. [message]: speaker=Delfador
@@ -25092,7 +25087,7 @@ msgid ""
 "with flattery and lies, but it was his hand and his hand alone that slew the"
 " old king. Your brother sealed his own fate that day, Li’sar."
 msgstr ""
-"Ama kardeşine gelince... Asheviere'in Eldred'i dalkavukluk ve yalanlarla "
+"Ama kardeşine gelince... Aşivye'in Eldred'i dalkavukluk ve yalanlarla "
 "şişirdiğine şüphe yok, ama yaşlı kralı öldüren onun eliydi ve sadece onun "
 "eliydi. Kardeşin o gün kendi kaderini mühürledi, Li’sar."
 
@@ -25310,9 +25305,9 @@ msgid ""
 " Konrad for 1 HP each turn. This value doubles (2, 4, 8, etc) for each other"
 " magic item that Konrad wields."
 msgstr ""
-"Bu tuhaf şekilli tılsım, yakındaki büyülü eşyalardan enerji çekerek Konrad'ı"
-" her tur 1 Can puanı iyileştirir. Konrad'ın kuşandığı her ek büyülü eşya "
-"için bu değer ikiye katlanır (2, 4, 8, vb.)."
+"Bu tuhaf şekilli tılsım, yakındaki sihirli eşyalardan enerji çekerek "
+"Konrad'ı her tur 1 Can puanı iyileştirir. Konrad'ın kuşandığı her ek sihirli"
+" eşya için bu değer ikiye katlanır (2, 4, 8, vb.)."
 
 #. [menu]: id=menu-main
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:34

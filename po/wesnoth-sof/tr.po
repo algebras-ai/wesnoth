@@ -329,7 +329,7 @@ msgid ""
 "noticed it with my father. The longer he stayed near the stone, the more "
 "arrogant, almost evil, he became."
 msgstr ""
-"Taşın çevresine saçtığı büyülü ışık tuhaf davranışlara yol açıyor. Bunu "
+"Taşın çevresine saçtığı sihirli ışık tuhaf davranışlara yol açıyor. Bunu "
 "babamda farketmiştim. Taşın yanında daha uzun zaman geçiriyor, giderek daha "
 "kibirli, hatta neredeyse kötü biri haline geldi."
 
@@ -872,7 +872,7 @@ msgid ""
 " of the six glyphs. When all are occupied, the gates wi’ close. Then the "
 "elves will be shut out of the caves forever, at least through this entrance."
 msgstr ""
-"Ahh, bu zor. Bu büyülü bir kapı. Kırılması mümkün değil. Fakat büyülü "
+"Ahh, bu zor. Bu sihirli bir kapı. Kırılması mümkün değil. Fakat sihirli "
 "kapılar da sadece büyüyle kapatılabilir. Altı tane motif var. Her motife bir"
 " savaşçı yerleştireceksin. Hepsi işgal edildiğinde kapılar kapanacak. "
 "Böylece elfler mağaranın dışında kalacak; en azından bu girişten "
@@ -1974,7 +1974,7 @@ msgid ""
 "magical cage!"
 msgstr ""
 "Hayır dur, iyi açıklayamadım! Bu gücü kontrol altına almamız, bir çeşit "
-"büyülü kafes inşa etmemiz gerekiyor!"
+"sihirli kafes inşa etmemiz gerekiyor!"
 
 #. [message]: speaker=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:588
@@ -1982,7 +1982,7 @@ msgid ""
 "The Ruby causes madness, it is said. A magical cage that could protect the "
 "King would help us all."
 msgstr ""
-"Yakutun deliliğe yol açtığı söylenir. Kralı koruyacak büyülü bir kafes "
+"Yakutun deliliğe yol açtığı söylenir. Kralı koruyacak sihirli bir kafes "
 "hepimize yardımcı olur."
 
 #. [message]: speaker=Baglur
@@ -3739,7 +3739,7 @@ msgstr ""
 #. [scenario]: id=8_The_Dragon
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:3
 msgid "The Dragon"
-msgstr "Ejderha"
+msgstr "Ejder"
 
 #. [side]: type=Elvish Marshal, id=Crintil
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:40
@@ -3939,8 +3939,8 @@ msgid ""
 "Hrm, I see what you mean. The dragon’s hoard melted into the rock, we can’t "
 "just grab those gold coins. Too bad."
 msgstr ""
-"Hırm, ne demek istediğini anlıyorum. Ejderhanın hazinesi kayayla "
-"bütünleşmiş, o altın paraları öylece alamayız. Yazık."
+"Hırm, ne demek istediğini anlıyorum. Ejderin hazinesi kayayla bütünleşmiş, o"
+" altın paraları öylece alamayız. Yazık."
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:513
@@ -4021,7 +4021,7 @@ msgid ""
 "Good! Now, let’s get out of this cave, before the elves, dwarves or wyrms "
 "kill us all!"
 msgstr ""
-"Güzel. Haydi, elfler, cüceler ve ejderhalar bizi öldürmeden bu mağaradan "
+"Güzel. Haydi, elfler, cüceler ve ejderler bizi öldürmeden bu mağaradan "
 "çıkalım!"
 
 #. [scenario]: id=9_Caverns_of_Flame
@@ -4097,7 +4097,7 @@ msgstr ""
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:465
 msgid "Nothing!? Even this magical piece of troll dung lets me down!"
 msgstr ""
-"Hiç bir şey!? Bu büyülü trol gübresi bile beni hayal kırıklığına uğrattı!"
+"Hiç bir şey!? Bu sihirli trol gübresi bile beni hayal kırıklığına uğrattı!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:469
@@ -4494,7 +4494,7 @@ msgid ""
 "surmised, Thursagan! It’s plugged up with this... enchanted courtyard?"
 msgstr ""
 "Burası volkanın merkezi olmalı! Tahmin ettiğin gibi lav yolu tıkıyor, "
-"Tursagan. Bu büyülü avluya mı bağlı?"
+"Tursagan. Bu sihirli avluya mı bağlı?"
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1330
@@ -4502,7 +4502,7 @@ msgid ""
 "Aye, it is enchanted; I can tell by those runes. We need to break the "
 "enchantment somehow."
 msgstr ""
-"Evet, büyülü; Bu rünlere bakarak bunu söyleyebiliyorum. Bir şekilde büyüyü "
+"Evet, sihirli; Bu rünlere bakarak bunu söyleyebiliyorum. Bir şekilde büyüyü "
 "bozmamız gerekiyor."
 
 #. [message]: speaker=unit
@@ -4961,9 +4961,9 @@ msgid ""
 "wizard or dragon. Mature Wyrms have excellent control of their fire breath "
 "attack, as if they are themselves miniature dragons."
 msgstr ""
-"Mağara Ejderhaları tuhaf hayvanlardır, temelde kanatları olan ama bacakları "
+"Mağara Ejderleri tuhaf hayvanlardır, temelde kanatları olan ama bacakları "
 "olmayan korkusuz yılanlardır. Nispeten nadirdir ve varlıkları bazı acayip "
-"büyücülere veya ejderhalara atfedilir. Olgun Ejderhalar, sanki kendileri "
+"büyücülere veya ejderlere atfedilir. Olgun Ejderler, sanki kendileri "
 "minyatür ejderhalarmışçasına, ateş nefesi saldırılarını mükemmel bir şekilde"
 " idare eder."
 
@@ -4995,9 +4995,9 @@ msgid ""
 "are relatively rare, and their presence is attributed to some eccentric "
 "wizard or dragon. The young are small, but hungry and aggressive."
 msgstr ""
-"Mağara Ejderhaları tuhaf hayvanlardır, temelde kanatları olan ama bacakları "
+"Mağara Ejderleri tuhaf hayvanlardır, temelde kanatları olan ama bacakları "
 "olmayan korkusuz yılanlardır. Nispeten nadirdirler ve varlıkları bazı acayip"
-" büyücülere veya ejderhalara atfedilir. Genç olanları küçüktür ama aç ve "
+" büyücülere veya ejderlere atfedilir. Genç olanları küçüktür ama aç ve "
 "saldırgandır."
 
 #. [unit_type]: id=SOF Fire Dragon
@@ -5018,7 +5018,7 @@ msgstr "Vesnot Kralı."
 #. [unit_type]: id=Red Wyrm, race=monster
 #: data/campaigns/Sceptre_of_Fire/units/Red_Wyrm.cfg:17
 msgid "Red Wyrm"
-msgstr "Kızıl Ejderha"
+msgstr "Kızıl Ejder"
 
 #. [unit_type]: id=Red Wyrm, race=monster
 #: data/campaigns/Sceptre_of_Fire/units/Red_Wyrm.cfg:32
@@ -5030,13 +5030,12 @@ msgid ""
 " excellent control of their fire breath attack, as if they are themselves "
 "miniature dragons."
 msgstr ""
-"Kızıl Ejderhalar tuhaf hayvanlardır, temelde kanatları olan ama bacakları "
+"Kızıl Ejderler tuhaf hayvanlardır, temelde kanatları olan ama bacakları "
 "olmayan korkusuz yılanlardır. Derileri kırmızı ve kaya gibi, ateşe "
 "dayanıklıdır ama normal pullardan veya diğer kertenkele zırhlarından daha "
 "kırılgandır. Nispeten nadirdirler ve varlıkları bazı acayip büyücülere veya "
-"ejderhalara atfedilir. Olgun Ejderhalar, sanki kendileri minyatür "
-"ejderhalarmış gibi, ateş nefesi saldırılarını mükemmel bir şekilde idare "
-"eder."
+"ejderlere atfedilir. Olgun Ejderler, sanki kendileri minyatür ejderhalarmış "
+"gibi, ateş nefesi saldırılarını mükemmel bir şekilde idare eder."
 
 #. [unit_type]: id=Red Wyrmlet, race=monster
 #: data/campaigns/Sceptre_of_Fire/units/Red_Wyrmlet.cfg:17
@@ -5052,10 +5051,10 @@ msgid ""
 "presence is attributed to some eccentric wizard or dragon. The young are "
 "small, but hungry and aggressive."
 msgstr ""
-"Kızıl Ejderhalar tuhaf hayvanlardır, temelde kanatları olan ama bacakları "
+"Kızıl Ejderler tuhaf hayvanlardır, temelde kanatları olan ama bacakları "
 "olmayan korkusuz yılanlardır. Derileri kaya gibidir ve onları ateşten korur "
 "ama kırılgandır. Nispeten nadirdirler ve varlıkları bazı acayip büyücülere "
-"veya ejderhalara atfedilir. Genç olanları küçüktür ama aç ve saldırgandır."
+"veya ejderlere atfedilir. Genç olanları küçüktür ama aç ve saldırgandır."
 
 #. [unit_type]: id=Snow Golem, race=monster
 #: data/campaigns/Sceptre_of_Fire/units/Snow_Golem.cfg:8
@@ -5187,7 +5186,7 @@ msgstr "Hayır teşekkürler, bir daha sorma."
 #. [option]
 #: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:319
 msgid "Adds 2 MP"
-msgstr "2 HP ekler"
+msgstr "2 YP ekler"
 
 #. [option]
 #: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:319
@@ -5252,7 +5251,7 @@ msgstr "Şimdi değil."
 #. [option]
 #: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:413
 msgid "Adds 1 MP"
-msgstr "1 HP ekler"
+msgstr "1 YP ekler"
 
 #. [option]
 #: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:451
@@ -5337,7 +5336,7 @@ msgid ""
 "The unit will heal itself 8 HP per turn if on a frozen base terrain. If it "
 "is poisoned, it will remove the poison instead of healing."
 msgstr ""
-"Birim, donmuş bir arazi üzerindeyse tur başına 8 HP kendini iyileştirir. "
+"Birim, donmuş bir arazi üzerindeyse tur başına 8 YP kendini iyileştirir. "
 "Zehirlenmiş ise iyileşmek yerine zehiri uzaklaştırır."
 
 #~ msgid ""

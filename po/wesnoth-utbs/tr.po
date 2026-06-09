@@ -6057,7 +6057,7 @@ msgid ""
 "seems quite solid. I wonder who carved that rune and why?"
 msgstr ""
 "Eloh adına bu da nesi? Birileri tünelin sonunda zemine ışık saçan mor bir "
-"motif oymuş. Büyülü olmalı. Üstelik hemen ardında tünel düz bir duvarla "
+"motif oymuş. Sihirli olmalı. Üstelik hemen ardında tünel düz bir duvarla "
 "bitiyor. Bu ikisi birlikte bir şeylere işaret ediyor olabilir mi?"
 
 #. [message]: speaker=unit
@@ -13298,7 +13298,7 @@ msgid ""
 "There’s got to be something here. The saurian and skeleton must have been "
 "guarding some sort of entrance."
 msgstr ""
-"Burada bir şeyler olmalı. Saurian ve iskelet bir tür girişi koruyor olmalı."
+"Burada bir şeyler olmalı. Sürüngen ve iskelet bir tür girişi koruyor olmalı."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/11_Battle_for_Zocthanol_Isle.cfg:1308
@@ -13309,7 +13309,7 @@ msgid ""
 "Are you sure? Search carefully. The saurian and skeleton must have been "
 "guarding some sort of entrance."
 msgstr ""
-"Emin misin? Dikkatlice arayın. Saurian ve iskelet bir tür girişi koruyor "
+"Emin misin? Dikkatlice arayın. Sürüngen ve iskelet bir tür girişi koruyor "
 "olmalı."
 
 #. [message]: speaker=unit
@@ -13332,8 +13332,8 @@ msgid ""
 "Hey, what about the two keys that we found on the bodies of the undead and "
 "saurian leaders?"
 msgstr ""
-"Hey, ölümsüzlerin ve saurian liderlerin cesetlerinde bulduğumuz iki anahtara"
-" ne dersiniz?"
+"Hey, ölümsüzlerin ve sürüngen liderlerin cesetlerinde bulduğumuz iki "
+"anahtara ne dersiniz?"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/11_Battle_for_Zocthanol_Isle.cfg:1335
@@ -13349,9 +13349,9 @@ msgid ""
 "valuable objects."
 msgstr ""
 "Bir fikrim var. Eminim Eloh onları en çok güvendiği kişilere vermiştir. Ve "
-"bir saurian ile bir iskelet kapıyı koruyordu. Anahtarlar her gruptan birinin"
-" elinde olmalıdır. Liderlerin bu kadar değerli nesnelerden sorumlu olacağına"
-" bahse girerim."
+"bir sürüngen ile bir iskelet kapıyı koruyordu. Anahtarlar her gruptan "
+"birinin elinde olmalıdır. Liderlerin bu kadar değerli nesnelerden sorumlu "
+"olacağına bahse girerim."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/11_Battle_for_Zocthanol_Isle.cfg:1365
@@ -15311,7 +15311,7 @@ msgid ""
 msgstr ""
 "Karanlık bir ruhla dolu olan bu Yolsuz Elfler, zorlu rakipler yaratmak için "
 "insan dışı gücü güçlü büyülerle birleştiriyor. Her ne kadar elf bedeni "
-"sıklıkla hızlı bir şekilde çürüyor olsa da, bu iğrenç şeyler ölümsüz "
+"sıklıkla hızlı bir şekilde çürüyor olsa da, bu iğrenç şeyler yarı ölü "
 "lordların güçlü silahlarıdır."
 
 #. [attack]: type=cold
@@ -16251,10 +16251,10 @@ msgid ""
 "sight to behold. Crawling around on huge skeletal legs, and wielding huge "
 "magical staves, these abominations are fearsome undead foes."
 msgstr ""
-"Hiç kimse Örümcek Lich'lerin nasıl yaratıldığından tam olarak emin değil, "
-"ancak görülmesi gereken korkunç bir manzara. Devasa iskelet bacaklar "
-"üzerinde gezinen ve devasa büyülü sopalar kullanan bu iğrenç yaratıklar, "
-"korkunç ölümsüz düşmanlardır."
+"Hiç kimse Örümcek Umacı'lyarnın nasıl yaratıldığından tam olarak emin değil,"
+" ancak görülmesi gereken korkunç bir manzara. Devasa iskelet bacaklar "
+"üzerinde gezinen ve devasa sihirli sopalar kullanan bu iğrenç yaratıklar, "
+"korkunç yarı ölü düşmanlardır."
 
 #. [race]: id=quenoth
 #: data/campaigns/Under_the_Burning_Suns/units/units.cfg:5
@@ -16624,7 +16624,7 @@ msgid ""
 "Magical attacks will still have a 70% chance to hit.\n"
 "Marksman attacks are only affected if the chance to hit is greater than 60%."
 msgstr ""
-"Bu saldırı ile vurulduğunda, bir düşman hem savunmasına hem de isabet şansına %10 ceza alır İsabet şansını etkileyen diğer özellikler (büyülü ve nişancı gibi) bu özellikten etkilenmez.\n"
+"Bu saldırı ile vurulduğunda, bir düşman hem savunmasına hem de isabet şansına %10 ceza alır İsabet şansını etkileyen diğer özellikler (sihirli ve nişancı gibi) bu özellikten etkilenmez.\n"
 "\n"
 "Sihirli saldırılar hala %70 isabet şansına sahiptir.\n"
 "Nişancı saldırıları ise yalnızca isabet şansı %60'tan büyükse etkilenir."

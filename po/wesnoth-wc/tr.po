@@ -1820,7 +1820,7 @@ msgid ""
 "Stand fast, for I bring you the strength of dragons to assist you in your "
 "battle!"
 msgstr ""
-"Sıkı durun, çünkü savaşınızda size yardımcı olacak ejderhaların gücünü "
+"Sıkı durun, çünkü savaşınızda size yardımcı olacak ejderlerin gücünü "
 "getiriyorum!"
 
 #. a Drake Burner joins a player's side
@@ -1829,8 +1829,8 @@ msgid ""
 "Today is a most auspicious day for you, for I deem you worthy of the power "
 "of dragonfire. Show me your foes and I will incinerate them!"
 msgstr ""
-"Bugün senin için çok hayırlı bir gün, çünkü seni ejderha ateşinin gücüne "
-"layık görüyorum. Bana düşmanlarını göster, onları yakacağım!"
+"Bugün senin için çok hayırlı bir gün, çünkü seni ejder ateşinin gücüne layık"
+" görüyorum. Bana düşmanlarını göster, onları yakacağım!"
 
 #. the speaker is another drake, after a Drake Burner joins their side
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:270
@@ -2596,7 +2596,7 @@ msgid ""
 "unit’s melee strikes are doubled in power when attacking, but the same is "
 "true for the retaliation strike of the defender."
 msgstr ""
-"Bu büyülü mızrak, sahibini öfkesine kaptırır. Bu birimin yakın dövüş "
+"Bu sihirli mızrak, sahibini öfkesine kaptırır. Bu birimin yakın dövüş "
 "saldırılarının gücü saldırırken iki katına çıkar, ancak aynısı savunucunun "
 "misilleme saldırısı için de geçerlidir."
 
@@ -2634,7 +2634,7 @@ msgid ""
 "This enchanted longbow enhances the wielder’s ranged attacks with uncanny "
 "precision and increased damage."
 msgstr ""
-"Bu büyülü uzun yay, sahibinin menzilli saldırılarını esrarengiz bir "
+"Bu sihirli uzun yay, sahibinin menzilli saldırılarını esrarengiz bir "
 "hassasiyet ve artırılmış hasar ile güçlendirir."
 
 #. [artifact]
@@ -2788,8 +2788,8 @@ msgid ""
 "Draw this magical bow to summon an ice arrow that will freeze and slow its "
 "target upon hit."
 msgstr ""
-"Bu büyülü yayı gererek, vurulduğunda hedefini donduracak ve yavaşlatacak bir"
-" buz oku çağırın."
+"Bu sihirli yayı gererek, vurulduğunda hedefini donduracak ve yavaşlatacak "
+"bir buz oku çağırın."
 
 #. [effect]: type=cold
 #: data/campaigns/World_Conquest/resources/data/artifacts.cfg:380
@@ -2921,7 +2921,7 @@ msgstr "Runik kılıç"
 #. [artifact]
 #: data/campaigns/World_Conquest/resources/data/artifacts.cfg:545
 msgid "melee: magical"
-msgstr "yakın dövüş: büyülü"
+msgstr "yakın dövüş: sihirli"
 
 #. [artifact]
 #: data/campaigns/World_Conquest/resources/data/artifacts.cfg:546
@@ -2929,8 +2929,8 @@ msgid ""
 "This magic sword empowers the wielder’s melee attacks with the magical "
 "property."
 msgstr ""
-"Bu sihirli kılıç, büyülü özelliği ile kullanıcının yakın dövüş saldırılarını"
-" güçlendirir."
+"Bu sihirli kılıç, sihirli özelliği ile kullanıcının yakın dövüş "
+"saldırılarını güçlendirir."
 
 #. [artifact]
 #: data/campaigns/World_Conquest/resources/data/artifacts.cfg:562
@@ -2940,7 +2940,7 @@ msgstr "Işıltı asası"
 #. [artifact]
 #: data/campaigns/World_Conquest/resources/data/artifacts.cfg:564
 msgid "11-3 ranged-arcane magical"
-msgstr "11-3 menzilli-gizemli büyülü"
+msgstr "11-3 menzilli-gizemli sihirli"
 
 #. [artifact]
 #: data/campaigns/World_Conquest/resources/data/artifacts.cfg:565
@@ -3081,7 +3081,7 @@ msgstr "Anahtar"
 #. [artifact]
 #: data/campaigns/World_Conquest/resources/data/artifacts.cfg:701
 msgid "This magical object opens the gateway between dimensions."
-msgstr "Bu büyülü nesne, boyutlar arasındaki geçidi açar."
+msgstr "Bu sihirli nesne, boyutlar arasındaki geçidi açar."
 
 #. [artifact]
 #: data/campaigns/World_Conquest/resources/data/artifacts.cfg:723
@@ -3106,7 +3106,7 @@ msgstr "Fırtına çatalı"
 #. [artifact]
 #: data/campaigns/World_Conquest/resources/data/artifacts.cfg:736
 msgid "17-2 ranged-fire magical"
-msgstr "17-2 menzilli-ateş büyülü"
+msgstr "17-2 menzilli-ateş sihirli"
 
 #. [artifact]
 #: data/campaigns/World_Conquest/resources/data/artifacts.cfg:737
@@ -3546,7 +3546,7 @@ msgid ""
 "A randomly generated cooperative campaign for 4 players. It has 6 levels of difficulty.\n"
 "(Expert level, 5 scenarios.)"
 msgstr ""
-"4 oyuncu için rastgele oluşturulmuş ortak bir kampanya. 6 zorluk seviyesi vardır.\n"
+"4 oyuncu için rastgele oluşturulmuş ortak bir seferberlik. 6 zorluk seviyesi vardır.\n"
 "(Uzman seviyesi, 5 senaryo.)"
 
 #. [campaign]: id=WC_II_{PLAYERS}p,
@@ -3662,7 +3662,7 @@ msgstr "Seferberlik Bakımı"
 #~ "A randomly generated cooperative campaign for 4 players. It has 6 level of difficulties.\n"
 #~ "(Expert level, 5 scenarios.)"
 #~ msgstr ""
-#~ "4 oyuncu için rastgele oluşturulmuş işbirlikçi bir kampanya. 6 zorluk seviyesi vardır.\n"
+#~ "4 oyuncu için rastgele oluşturulmuş işbirlikçi bir seferberlik. 6 zorluk seviyesi vardır.\n"
 #~ "(Uzman seviyesi, 5 senaryo.)"
 
 #~ msgid "World Conquest version"

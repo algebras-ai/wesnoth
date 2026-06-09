@@ -4038,13 +4038,13 @@ msgstr "Hizalama:"
 #: data/gui/themes/default/dialogs/editor_edit_unit.cfg:381
 #| msgid "HP: "
 msgid "HP:"
-msgstr "HP:"
+msgstr "YP:"
 
 #. [label]
 #: data/gui/themes/default/dialogs/editor_edit_unit.cfg:411
 #| msgid "XP: "
 msgid "XP:"
-msgstr "XP:"
+msgstr "TP:"
 
 #. [label]
 #: data/gui/themes/default/dialogs/editor_edit_unit.cfg:441
@@ -7576,7 +7576,7 @@ msgstr "oyun^Eklentileri Alın"
 #: src/gui/dialogs/campaign_selection.cpp:409
 #| msgid "Campaigns"
 msgid "More campaigns..."
-msgstr "Daha fazla kampanya..."
+msgstr "Daha fazla seferberlik..."
 
 #: src/gui/dialogs/campaign_selection.cpp:424
 msgid "Missing Campaigns"
@@ -8739,7 +8739,7 @@ msgstr "Deneyim değiştiricisi: "
 #: src/gui/widgets/unit_preview_pane.cpp:379
 #: src/gui/widgets/unit_preview_pane.cpp:524
 msgid "MP: "
-msgstr "HP: "
+msgstr "YP: "
 
 #: src/gui/widgets/unit_preview_pane.cpp:406
 #: src/gui/widgets/unit_preview_pane.cpp:545

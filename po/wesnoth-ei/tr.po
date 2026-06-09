@@ -107,7 +107,7 @@ msgstr "Seferberlik Yeniden Tasarımı Oyunu Deneyenler"
 #: data/campaigns/Eastern_Invasion/_main.cfg:141
 #| msgid "Previous Campaign Maintenance"
 msgid "Campaign Maintenance"
-msgstr "Kampanya Bakımı"
+msgstr "Seferberlik Bakımı"
 
 #. [about]
 #: data/campaigns/Eastern_Invasion/_main.cfg:150
@@ -139,7 +139,7 @@ msgstr "Senaryo 1: Taktiksel Geri Çekilme"
 #: data/campaigns/Eastern_Invasion/achievements.cfg:35
 #| msgid "Complete ‘<i>The Escape Tunnel</i>’ before the undead arrive."
 msgid "Complete <i>The Escape Tunnel</i> before the undead arrive."
-msgstr "Ölümsüzler gelmeden önce <i>Kaçış Tüneli</i>'ni tamamlayın."
+msgstr "Yarı Ölüler gelmeden önce <i>Kaçış Tüneli</i>'ni tamamlayın."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:35
@@ -215,7 +215,7 @@ msgstr "Senaryo 5: Halk Kahramanı"
 #| "Dolburras."
 msgid ""
 "Defeat the necromancer in <i>Undead Crossing</i> before rescuing Dolburras."
-msgstr "Dolburras'ı kurtarmadan önce <i>Ölümsüz Geçiş</i>'te büyücüyü yen."
+msgstr "Dolburras'ı kurtarmadan önce <i>Yarı Ölü Geçiş</i>'te büyücüyü yen."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:47
@@ -2702,7 +2702,7 @@ msgid ""
 "undead hordes now march toward the River Weldyn. They must seek to overrun "
 "Wesnoth before the king can muster his armies."
 msgstr ""
-"Başka bir şey mi bekliyordunuz? Owaec ya kaçtı ya da yok oldu ve undead "
+"Başka bir şey mi bekliyordunuz? Owaec ya kaçtı ya da yok oldu ve yarı ölü "
 "orduları şimdi Weldyn Nehri'ne doğru ilerliyor. Kral ordularını toplayamadan"
 " Wesnoth'u ele geçirmeye çalışmalılar."
 
@@ -2727,8 +2727,8 @@ msgid ""
 "Hail, Owaec! I am stunned and relieved to see that you are still well. How "
 "did you escape the undead?"
 msgstr ""
-"Selam, Owaec! Hala iyi olduğunu görmek beni şaşırttı ve rahatlattı. "
-"Undead'lerden nasıl kaçtın?"
+"Selam, Owaec! Hala iyi olduğunu görmek beni şaşırttı ve rahatlattı. Yarı "
+"Ölü'lerden nasıl kaçtın?"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:529
@@ -2739,7 +2739,7 @@ msgid ""
 "westward, and yet..."
 msgstr ""
 "Bu çiftçilerin çoğu, bir mağara ağına bağlı derin mahzenler kazmıştı. "
-"Keşifçilerimiz undead'leri fark ettiğinde olabildiğince çok köylüyü "
+"Keşifçilerimiz yarı ölü'leri fark ettiğinde olabildiğince çok köylüyü "
 "sakladım. Köyleri terk edilmiş sandılar, çünkü hızla batıya doğru "
 "ilerlediler, yine de..."
 
@@ -2757,8 +2757,8 @@ msgid ""
 " compared to the havoc these undead seek to unleash on all Wesnoth, the "
 "deaths of a few peasants are hardly worth mourning."
 msgstr ""
-"Kendini bile kurtarmana şaşırdım, başkalarını kurtarmayı bırak. Ama bu "
-"undead'lerin tüm Wesnoth'a salmaya çalıştığı yıkımla karşılaştırıldığında, "
+"Kendini bile kurtarmana şaşırdım, başkalarını kurtarmayı bırak. Ama bu yarı "
+"ölü'lerin tüm Wesnoth'a salmaya çalıştığı yıkımla karşılaştırıldığında, "
 "birkaç köylünün ölümü yas tutmaya değmez."
 
 #. [message]: speaker=Owaec
@@ -2772,7 +2772,7 @@ msgid ""
 "For now, I must study and consider how these undead can be defeated, and "
 "then we should leave before more arrive. Will you join us?"
 msgstr ""
-"Şimdilik, bu undead'lerin nasıl yenilebileceğini araştırmalı ve "
+"Şimdilik, bu yarı ölü'lerin nasıl yenilebileceğini araştırmalı ve "
 "düşünmeliyim, sonra daha fazlası gelmeden gitmeliyiz. Bize katılır mısın?"
 
 #. [message]: speaker=Owaec
@@ -2797,7 +2797,7 @@ msgid ""
 "what Dacyn tells me, Wesnoth will need all of its soldiers if it is to "
 "survive what has come."
 msgstr ""
-"Korkarım ki ölümsüzler yenilene kadar bu köylüler asla gerçekten güvende "
+"Korkarım ki yarı ölüler yenilene kadar bu köylüler asla gerçekten güvende "
 "olmayacaklar. Ama bu haydutları kovabilirsek, bize katılır mısın? Dacyn'in "
 "bana söylediğine göre, Wesnoth gelen şeyden sağ çıkacaksa tüm askerlerine "
 "ihtiyaç duyacak."
@@ -2989,7 +2989,7 @@ msgid ""
 "Once again, undead threaten these villagers! In the name of the Clans, I "
 "will strike you down!"
 msgstr ""
-"Bir kez daha, ölümsüzler bu köylüleri tehdit ediyor! Klanlar adına, seni "
+"Bir kez daha, yarı ölüler bu köylüleri tehdit ediyor! Klanlar adına, seni "
 "yere sereceğim!"
 
 #. [message]: speaker=Rilaka
@@ -3051,8 +3051,8 @@ msgid ""
 "Back at the undead capital, the lich Mal-Ravanal referred to you as an old "
 "friend. What history is there between you?"
 msgstr ""
-"Ölümsüz başkentinde, lich Mal-Ravanal senden eski bir dost olarak bahsetti. "
-"Aranızda nasıl bir geçmiş var?"
+"Yarı Ölü başkentinde, umacı Mal-Ravanal senden eski bir dost olarak "
+"bahsetti. Aranızda nasıl bir geçmiş var?"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1109
@@ -3060,7 +3060,7 @@ msgid ""
 "What do you know of the dread lich they called Mal-Ravanal? Back at the "
 "southern outpost, you purposely hid yourself to avoid being seen."
 msgstr ""
-"Mal-Ravanal dedikleri o korkunç lich hakkında ne biliyorsun? Güney "
+"Mal-Ravanal dedikleri o korkunç umacı hakkında ne biliyorsun? Güney "
 "karakolunda, görülmemek için kendini kasten sakladın."
 
 #. [message]: speaker=Dacyn
@@ -3234,7 +3234,7 @@ msgid ""
 msgstr ""
 "Mal-Ravanal'ı yenemezsek, hiçbir çabamız ölülerin sonsuz ordularına karşı "
 "koymaya yetmeyecektir. Kanımız sınırlıdır ve ne kadar çok dökülürse, güçleri"
-" o kadar artar. Sadece sığınaktan gelen gücü kullanarak Lich'i yok "
+" o kadar artar. Sadece sığınaktan gelen gücü kullanarak Umacı'yı yok "
 "edebilirsek kurtuluşu bulabiliriz."
 
 #. [message]: speaker=Gweddry
@@ -3263,8 +3263,8 @@ msgid ""
 " taken the city itself. We should avoid that battle and cross the Great "
 "River further east, behind the undead lines."
 msgstr ""
-"Tüm ölümsüz ordu bizimle Soradoc arasında. Hatta şehri bile ele geçirmiş "
-"olabilirler. O savaştan kaçınmalı ve Büyük Nehir'i daha doğudan, ölümsüz "
+"Tüm yarı ölü ordu bizimle Soradoc arasında. Hatta şehri bile ele geçirmiş "
+"olabilirler. O savaştan kaçınmalı ve Büyük Nehir'i daha doğudan, yarı ölü "
 "hatlarının arkasından geçmeliyiz."
 
 #. [message]: speaker=Owaec
@@ -3274,7 +3274,7 @@ msgid ""
 " I will not stand by and let my comrades die while I cravenly flee the "
 "battle."
 msgstr ""
-"Eğer ölümsüzler Soradoc'a saldırıyorsa, batıya gitmek için daha da fazla "
+"Eğer yarı ölüler Soradoc'a saldırıyorsa, batıya gitmek için daha da fazla "
 "neden var! Ben korkakça savaştan kaçarken yoldaşlarımın ölmesine seyirci "
 "kalmayacağım."
 
@@ -3448,7 +3448,7 @@ msgid ""
 "Wait, look, a small force of undead have already fortified this ford. We "
 "will have to fight them to cross the Great River."
 msgstr ""
-"Bekle, bak, küçük bir ölümsüz birliği bu geçidi çoktan tahkim etmiş. Büyük "
+"Bekle, bak, küçük bir yarı ölü birliği bu geçidi çoktan tahkim etmiş. Büyük "
 "Nehri geçmek için onlarla savaşmak zorunda kalacağız."
 
 #. [message]: speaker=Dolburras
@@ -3476,7 +3476,7 @@ msgid ""
 "The undead are torturing that dwarf for sport! This shall not stand; we must"
 " rescue him before he drowns!"
 msgstr ""
-"Ölümsüzler o cüceye eğlence olsun diye işkence ediyorlar! Buna izin "
+"Yarı Ölüler o cüceye eğlence olsun diye işkence ediyorlar! Buna izin "
 "verilemez; boğulmadan önce onu kurtarmalıyız!"
 
 #. [message]: speaker=Hahid al-Ali
@@ -3597,7 +3597,7 @@ msgstr "Çok teşekkürler size! Nihayet düzgün nefes almak iyi hissettiriyor.
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:563
 msgid "How did you come to be captured by these undead?"
-msgstr "Bu ölümsüzler tarafından nasıl yakalandın?"
+msgstr "Bu yarı ölüler tarafından nasıl yakalandın?"
 
 #. [message]: speaker=Dolburras
 #. "Ran into a whole blasted army of them marching from the Swamp of Dread. I
@@ -3614,7 +3614,7 @@ msgstr ""
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:572
 msgid "By the Clans! Do these undead mean to conquer all the world?"
-msgstr "Klanlar adına! Bu ölümsüzler tüm dünyayı mı fethetmek istiyor?"
+msgstr "Klanlar adına! Bu yarı ölüler tüm dünyayı mı fethetmek istiyor?"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:576
@@ -3633,7 +3633,7 @@ msgid ""
 "Kinna hardly go back ta Knalga with all them undead about! Aye, I’ll join "
 "ye."
 msgstr ""
-"O kadar ölümsüz varken Knalga'ya geri dönmek pek mümkün değil! Evet, size "
+"O kadar yarı ölü varken Knalga'ya geri dönmek pek mümkün değil! Evet, size "
 "katılırım."
 
 #. [message]: speaker=Dacyn
@@ -3792,7 +3792,7 @@ msgid ""
 "but if we lose the western quarter as well, I fear that no one will escape."
 msgstr ""
 "Siz mi takviye kuvvetlerimizsiniz? Weldyn bize günler önce yardım sözü "
-"vermişti! Ölümsüzler şehrin çoğunu zaten kontrol ediyor. Yaralılarımızı "
+"vermişti! Yarı Ölüler şehrin çoğunu zaten kontrol ediyor. Yaralılarımızı "
 "tapınakta saklıyoruz, ama batı çeyreğini de kaybedersek, kimsenin "
 "kaçamayacağından korkuyorum."
 
@@ -3804,7 +3804,7 @@ msgid ""
 " time to evacuate."
 msgstr ""
 "Klanlar adına, bazıları hala yaşıyor! Garnizonu kurtaracaksak hızlı hareket "
-"etmeliyiz! Bu ölümsüz dalgasını yenebilirsek, tahliye için hala zamanları "
+"etmeliyiz! Bu yarı ölü dalgasını yenebilirsek, tahliye için hala zamanları "
 "olabilir."
 
 #. [message]: speaker=Gweddry
@@ -3813,8 +3813,8 @@ msgid ""
 "I agree, but... there are many powerful undead besieging the city. Do we "
 "have the strength to defeat them all?"
 msgstr ""
-"Katılıyorum, ama... şehri kuşatan birçok güçlü ölümsüz var. Hepsini yenecek "
-"gücümüz var mı?"
+"Katılıyorum, ama... şehri kuşatan birçok güçlü yarı ölü var. Hepsini yenecek"
+" gücümüz var mı?"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:589
@@ -3894,14 +3894,14 @@ msgid ""
 "That’s almost all the undead leaders defeated! If time remains, we should "
 "introduce Owaec to the city garrison before we continue north."
 msgstr ""
-"Neredeyse tüm ölümsüz liderler yenildi! Zaman kalırsa, kuzeye devam etmeden "
-"önce Owaec'i şehir garnizonuna tanıtmalıyız."
+"Neredeyse tüm yarı ölü liderler yenildi! Zaman kalırsa, kuzeye devam etmeden"
+" önce Owaec'i şehir garnizonuna tanıtmalıyız."
 
 #. [message]: speaker=Gweddry
 #. there were originally 4 of them, and 3 are now defeated
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:773
 msgid "That’s almost all the undead leaders defeated!"
-msgstr "Neredeyse tüm ölümsüz liderler yenildi!"
+msgstr "Neredeyse tüm yarı ölü liderler yenildi!"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:783
@@ -3978,7 +3978,7 @@ msgstr ""
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:842
 msgid ""
 "I’ve broken through the undead lines. Follow me before we are overwhelmed!"
-msgstr "Ölümsüz hatlarını yardım. Ben ezilmeden önce beni takip edin!"
+msgstr "Yarı Ölü hatlarını yardım. Ben ezilmeden önce beni takip edin!"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:843
@@ -4036,7 +4036,7 @@ msgid ""
 "It galls me to flee before vanquishing the final undead leader, but enemy "
 "reinforcements will doubtlessly soon arrive."
 msgstr ""
-"Son ölümsüz lideri yenmeden kaçmak beni rahatsız ediyor, ancak düşman "
+"Son yarı ölü lideri yenmeden kaçmak beni rahatsız ediyor, ancak düşman "
 "takviyeleri şüphesiz yakında gelecek."
 
 #. [message]: speaker=Yannic
@@ -4102,7 +4102,7 @@ msgid ""
 "Several undead leaders yet remain, and they are sure to attack us while we "
 "attempt to cross the river."
 msgstr ""
-"Birkaç ölümsüz lider hala duruyor ve nehri geçmeye çalışırken bize "
+"Birkaç yarı ölü lider hala duruyor ve nehri geçmeye çalışırken bize "
 "saldıracaklarından eminler."
 
 #. [message]: speaker=Dacyn
@@ -4323,8 +4323,8 @@ msgid ""
 msgstr ""
 "Her iki yönde de millerce en iyi nehir geçişi ve birçok eski ork baskınının "
 "yeri olan Parthyn Geçidi, kötü şöhretiyle Abez'den sonra ikinci sıradadır. "
-"Gweddry ve adamlarının Wesnoth ve Mal-Ravanal'ın ölümsüz ordularından vahşi "
-"kuzeye kaçmaya çalıştıkları yer burasıdır."
+"Gweddry ve adamlarının Wesnoth ve Mal-Ravanal'ın yarı ölü ordularından vahşi"
+" kuzeye kaçmaya çalıştıkları yer burasıdır."
 
 #. [side]: type=Ogre, id=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:40
@@ -4339,7 +4339,7 @@ msgstr "Izziasch"
 #. [side]: type=Saurian Ambusher, id=Izziasch
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:109
 msgid "Saurians"
-msgstr "Saurianlar"
+msgstr "Sürüngenler"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:186
@@ -4373,7 +4373,7 @@ msgid ""
 "to harry us."
 msgstr ""
 "Ve böylece Wesnoth'un kuzey sınırı olan Büyük Nehir'e geldik. Adamlarımızın "
-"geçmesi biraz zaman alacak; ölümsüzler şüphesiz bizi taciz etmek için "
+"geçmesi biraz zaman alacak; yarı ölüler şüphesiz bizi taciz etmek için "
 "güçlerini gönderecekler."
 
 #. [message]: speaker=Gweddry
@@ -4510,7 +4510,7 @@ msgid ""
 "The first of our pursuers have arrived! We must make haste to cross before "
 "more dangerous undead arrive."
 msgstr ""
-"Takipçilerimizin ilkleri geldi! Daha tehlikeli ölümsüzler gelmeden önce "
+"Takipçilerimizin ilkleri geldi! Daha tehlikeli yarı ölüler gelmeden önce "
 "aceleyle geçmeliyiz."
 
 #. [message]: speaker=Gweddry
@@ -4519,7 +4519,7 @@ msgid ""
 "Our undead pursuers have arrived! Fortunately, their other leaders have been"
 " defeated. This is all we will have to face."
 msgstr ""
-"Ölümsüz takipçilerimiz geldi! Neyse ki, diğer liderleri yenildi. "
+"Yarı Ölü takipçilerimiz geldi! Neyse ki, diğer liderleri yenildi. "
 "Karşılaşacağımız tek şey bu."
 
 #. [message]: speaker=Naken-alvak
@@ -4849,7 +4849,7 @@ msgid ""
 "Infuriating. We may find scant supplies in the coming winter, but we cannot "
 "risk starving in the wilds while undead ravage Wesnoth."
 msgstr ""
-"Sinir bozucu. Gelecek kış kıt kaynaklar bulabiliriz, ancak ölümsüzler "
+"Sinir bozucu. Gelecek kış kıt kaynaklar bulabiliriz, ancak yarı ölüler "
 "Wesnoth'u kasıp kavururken vahşi doğada aç kalma riskini göze alamayız."
 
 #. [message]: speaker=Dacyn
@@ -5244,9 +5244,9 @@ msgid ""
 "invasion force since it overran us at the outposts. I wish we knew how "
 "Weldyn’s armies fare..."
 msgstr ""
-"Umarım çok geç kalmamışızdır! Karakollarda bizi ele geçirdiğinden beri "
-"ölümsüz istila gücünden hiçbir haber almadık. Keşke Weldyn'in ordularının "
-"nasıl olduğunu bilseydik..."
+"Umarım çok geç kalmamışızdır! Karakollarda bizi ele geçirdiğinden beri yarı "
+"ölü istila gücünden hiçbir haber almadık. Keşke Weldyn'in ordularının nasıl "
+"olduğunu bilseydik..."
 
 #. [scenario]: id=09_Castle_in_the_Ice
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:4
@@ -5370,7 +5370,7 @@ msgid ""
 "This area was deserted whence last I came, but I have heard rumors that a "
 "flight of drakes has taken up residence."
 msgstr ""
-"En son geldiğimde bu bölge ıssızdı, ama bir ejderha sürüsünün buraya "
+"En son geldiğimde bu bölge ıssızdı, ama bir ejder sürüsünün buraya "
 "yerleştiğine dair söylentiler duydum."
 
 #. [message]: speaker=Terraent
@@ -5387,7 +5387,7 @@ msgstr ""
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:511
 msgid "Wolves and drakes, bah! I fear no mindless beasts!"
-msgstr "Kurtlar ve ejderhalar, bah! Akılsız canavarlardan korkmam!"
+msgstr "Kurtlar ve ejderler, bah! Akılsız canavarlardan korkmam!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:515
@@ -5396,9 +5396,9 @@ msgid ""
 "against our mages’ fire and their flight will serve them better than our "
 "feet amidst these snow-covered mountains."
 msgstr ""
-"Kendinin aksine, ejderhalar oldukça zekidir. İçlerindeki alev, "
-"büyücülerimizin ateşine karşı korur ve uçuşları, bu karla kaplı dağlarda "
-"ayaklarımızdan daha iyi işlerine yarayacaktır."
+"Kendinin aksine, ejderler oldukça zekidir. İçlerindeki alev, büyücülerimizin"
+" ateşine karşı korur ve uçuşları, bu karla kaplı dağlarda ayaklarımızdan "
+"daha iyi işlerine yarayacaktır."
 
 #. [message]: speaker=Dolburras
 #. "Yes, and don't understimate wild beasts! I've known wolves to take a
@@ -5614,7 +5614,7 @@ msgstr ""
 #. [message]: speaker=Ogho
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1040
 msgid "C’mon wyrms, get moving!"
-msgstr "Hadi ejderhalar, hareket edin!"
+msgstr "Hadi ejderler, hareket edin!"
 
 #. [message]: speaker=Tapok
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1047
@@ -5645,7 +5645,7 @@ msgid ""
 "We are men, of Wesnoth! We come in peace, seeking magic to help in our war "
 "against an undead horde."
 msgstr ""
-"Biz Wesnoth'un insanlarıyız! Barış içinde geliyoruz, ölümsüz bir orduya "
+"Biz Wesnoth'un insanlarıyız! Barış içinde geliyoruz, yarı ölü bir orduya "
 "karşı savaşımızda yardımcı olacak büyü arıyoruz."
 
 #. [message]: speaker=$their_unit_id
@@ -5869,7 +5869,7 @@ msgid ""
 "This drake only had $gold gold pieces in his camp. Not much of a dragon "
 "hoard..."
 msgstr ""
-"Bu ejderhanın kampında sadece $gold altın parçası vardı. Pek de bir ejderha "
+"Bu ejderin kampında sadece $gold altın parçası vardı. Pek de bir ejder "
 "hazinesi sayılmaz..."
 
 #. [event]
@@ -5881,7 +5881,7 @@ msgid ""
 "Meh, this drake got just $gold gold. Woulda expect more from a bunch o’ "
 "walkin’ furnaces."
 msgstr ""
-"Meh, bu ejderhanın sadece $gold altını var. Yürüyen fırınlardan oluşan bir "
+"Meh, bu ejderin sadece $gold altını var. Yürüyen fırınlardan oluşan bir "
 "gruptan daha fazlasını beklerdim."
 
 #. [event]
@@ -5896,7 +5896,7 @@ msgstr "Sıcak kertenkelede $gold altın var. Kertenkele kötü. Ben altın alma
 #. circa 15 gold pieces
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1508
 msgid "The zombie finds $gold gold pieces in the drake camp."
-msgstr "Zombi ejderha kampında $gold altın parçası bulur."
+msgstr "Zombi ejder kampında $gold altın parçası bulur."
 
 #. [message]: type=Yeti
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1529
@@ -6486,7 +6486,7 @@ msgid ""
 "What’s this? Looks like a book on necromancy? <i>‘To become a lich, one must"
 " first-</i>"
 msgstr ""
-"Bu ne? Nekromansi üzerine bir kitaba benziyor? <i>‘Bir lich olmak için, "
+"Bu ne? Nekromansi üzerine bir kitaba benziyor? <i>‘Bir umacı olmak için, "
 "önce-</i>"
 
 #. [message]: speaker=Dacyn
@@ -6608,7 +6608,8 @@ msgstr ""
 msgid ""
 "I’ve found a key! It must be magical; it started glowing as soon as I "
 "touched it."
-msgstr "Bir anahtar buldum! Büyülü olmalı; dokunduğum anda parlamaya başladı."
+msgstr ""
+"Bir anahtar buldum! Sihirli olmalı; dokunduğum anda parlamaya başladı."
 
 #. [message]: speaker=Cowardly Goblin
 #. Cowardly Goblin is male, and appears in just two events. This one, and the
@@ -6750,7 +6751,7 @@ msgid ""
 "Unfortunately, this zombie is not intelligent enough to understand the "
 "significance of what it has found, and merely perceives a lifeless room."
 msgstr ""
-"Bu efsanevi büyülü asa, gerçeği istediği gibi yeniden şekillendirme gücüne "
+"Bu efsanevi sihirli asa, gerçeği istediği gibi yeniden şekillendirme gücüne "
 "sahip! Ne yazık ki, bu zombi bulduğu şeyin önemini anlayacak kadar zeki "
 "değil ve sadece cansız bir oda algılıyor."
 
@@ -6761,7 +6762,7 @@ msgid ""
 "will have to find a pair of magical keys to open the door."
 msgstr ""
 "Muska o kapının hemen ötesinde, iç kutsal alanda olmalı. Kapıyı açmak için "
-"bir çift büyülü anahtar bulmamız gerekecek."
+"bir çift sihirli anahtar bulmamız gerekecek."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2356
@@ -6835,7 +6836,7 @@ msgstr "Şef DraNak"
 #. him so they're presumably "here".
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2519
 msgid "What do we have here? This is what those wyrms were groveling about?"
-msgstr "Burada neyimiz var? O ejderhaların yalvardığı şey bu muydu?"
+msgstr "Burada neyimiz var? O ejderlerin yalvardığı şey bu muydu?"
 
 #. [message]: speaker=Chief Dra-Nak
 #. he's a chief from the Whitefangs because he's not the only one, just a
@@ -6997,7 +6998,7 @@ msgid ""
 msgstr ""
 "Hayır, Gweddry, emin değilim. Ama Mal-Ravanal'ı yenmek için başka bir yol "
 "bilmiyorum. Daha önce bir kez denedim. Bir büyücü olarak bile, Ravan'ın "
-"güçleri neredeyse benimkileri aşıyordu. Bir lich olan Mal-Ravanal olarak, "
+"güçleri neredeyse benimkileri aşıyordu. Bir umacı olan Mal-Ravanal olarak, "
 "belki sadece Büyük Delfador'un bir şansı olabilirdi."
 
 #. [message]: speaker=Dacyn
@@ -7288,7 +7289,7 @@ msgid ""
 "didn’t even get across the ford before some orcs captured me. They marched "
 "me and many other slaves east along the river, until we arrived here."
 msgstr ""
-"Ölümsüzler Tath'ı yaktığında... kayboldum. Kuzeyde ailem var, ama bazı "
+"Yarı Ölüler Tath'ı yaktığında... kayboldum. Kuzeyde ailem var, ama bazı "
 "orklar beni yakalamadan önce nehri bile geçemedim. Beni ve diğer birçok "
 "köleyi nehir boyunca doğuya sürdüler, buraya gelene kadar."
 
@@ -7311,7 +7312,7 @@ msgid ""
 "No, please, you don’t understand! The undead are everywhere! I didn’t want "
 "to die like all my friends..."
 msgstr ""
-"Hayır, lütfen, anlamıyorsunuz! Ölümsüzler her yerde! Tüm arkadaşlarım gibi "
+"Hayır, lütfen, anlamıyorsunuz! Yarı Ölüler her yerde! Tüm arkadaşlarım gibi "
 "ölmek istemedim..."
 
 #. [message]: speaker=unit
@@ -7357,7 +7358,7 @@ msgid ""
 "staying in the north? It’s tranquil, and quiet.... and there’s no undead..."
 msgstr ""
 "Komutanlarınızı bulup kaçsak bile, belki kuzeyde kalmayı düşünmeliyiz? Sakin"
-" ve sessiz... ve ölümsüz yok..."
+" ve sessiz... ve yarı ölü yok..."
 
 #. [message]: role=escapee sidekick 0
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:904
@@ -7437,7 +7438,7 @@ msgid ""
 "of you, I’ll still fetch a hefty bounty."
 msgstr ""
 "Yakalaması zor bir ödüldünüz, ama maliyetine değdi! İnsan cesetleri cüce "
-"veya ejderha haraçları kadar iyi satmayabilir, ama bu kadar çok sayıda siz "
+"veya ejder haraçları kadar iyi satmayabilir, ama bu kadar çok sayıda siz "
 "varken, yine de yüklü bir ödül alacağım."
 
 #. [message]: speaker=Gweddry
@@ -7449,7 +7450,7 @@ msgid ""
 "at heart? He is bleeding your numbers to fund his empire while your leader "
 "stands by and does nothing!"
 msgstr ""
-"Ejderhalar, bu orkun sizin çıkarlarınızı düşünmediğini kesinlikle "
+"Ejderler, bu orkun sizin çıkarlarınızı düşünmediğini kesinlikle "
 "görüyorsunuz, değil mi? Lideriniz kenarda durup hiçbir şey yapmazken, "
 "imparatorluğunu finanse etmek için sizin sayılarınızı tüketiyor!"
 
@@ -7472,7 +7473,7 @@ msgid ""
 " scraps and bleeding in the snow."
 msgstr ""
 "Siz Wesnothlular hala anlamadınız mı? Bu zayıfların bana <i>ihtiyacı "
-"var</i>! Ben gelmeden önce burası bir çorak araziydi; ejderha, cüce ve naga "
+"var</i>! Ben gelmeden önce burası bir çorak araziydi; ejder, cüce ve naga "
 "artıkları için savaşıyor, karda kan kaybediyordu."
 
 #. [message]: speaker=Chief Dra-Nak
@@ -8178,7 +8179,7 @@ msgid ""
 "destroyed, the orcs cannot (cough) cross, but what of the drakes?"
 msgstr ""
 "Evet, evet, (öksürük)(öksürük) hepsi iyi ve güzel. Köprü yıkıldığına göre, "
-"orklar (öksürük) geçemez, peki ya ejderhalar?"
+"orklar (öksürük) geçemez, peki ya ejderler?"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:734
@@ -8187,7 +8188,7 @@ msgid ""
 " to pursue us. Now, it is finally time for us to once again travel toward "
 "Weldyn."
 msgstr ""
-"(öksürük) Ve ejderhalar yenildiğine göre, (öksürük)(öksürük) hiçbir düşman "
+"(öksürük) Ve ejderler yenildiğine göre, (öksürük)(öksürük) hiçbir düşman "
 "bizi takip edemeyecek. Şimdi, nihayet Weldyn'e doğru tekrar yolculuk etme "
 "zamanı."
 
@@ -8199,8 +8200,8 @@ msgid ""
 "Useless pathetic ugly weakling wyrms! Fly across and chase after them, or "
 "we’ll sell you <i>all</i> to the necromancers!"
 msgstr ""
-"İşe yaramaz, acınası, çirkin, zayıf ejderhalar! Karşıya uçun ve onları "
-"kovalayın, yoksa hepinizi <i>necromancer'lara</i> satarız!"
+"İşe yaramaz, acınası, çirkin, zayıf ejderler! Karşıya uçun ve onları "
+"kovalayın, yoksa hepinizi <i>kara büyücü'lara</i> satarız!"
 
 #. [message]: speaker=Mortic
 #. to his fellow drakes, and any surviving orcs
@@ -8318,7 +8319,7 @@ msgid ""
 "from orc and drake; we have taught these northerners not to trifle with "
 "Wesnoth!"
 msgstr ""
-"Yaşasın, Klanlar adına şanlı bir zafer! İnsan asla ork ve ejderhadan "
+"Yaşasın, Klanlar adına şanlı bir zafer! İnsan asla ork ve ejderden "
 "kaçmayacak; bu kuzeylilere Wesnoth ile uğraşmamayı öğrettik!"
 
 #. [message]: speaker=Dacyn
@@ -8364,8 +8365,8 @@ msgid ""
 "attempted to give pursuit."
 msgstr ""
 "Gweddry, Owaec ve Dacyn Listra'yı geçerek kaçarken, arkalarından bir çığlık,"
-" bağırma ve kükreme çılgınlığı koptu. Ne orklar ne de ejderhalar takip "
-"etmeye kalkıştı."
+" bağırma ve kükreme çılgınlığı koptu. Ne orklar ne de ejderler takip etmeye "
+"kalkıştı."
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:45
@@ -8472,8 +8473,8 @@ msgid ""
 "Alas, my long days of riding have been for naught. I could not catch the "
 "undead scout before it could report back to its mistress!"
 msgstr ""
-"Eyvah, uzun süren at sürme günlerim boşunaymış. Ölümsüz izci hanımına rapor "
-"vermeden önce onu yakalayamadım!"
+"Eyvah, uzun süren at sürme günlerim boşunaymış. Yarı Ölü izci hanımına rapor"
+" vermeden önce onu yakalayamadım!"
 
 #. [message]: id=Owaec,Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:598
@@ -8672,7 +8673,7 @@ msgstr "Sessizlik. Orklar. İleri."
 msgid ""
 "Cruddy undead think they can chain me up! I’ll grind their bones into dust!"
 msgstr ""
-"Pis ölümsüzler beni zincire vurabileceklerini mi sanıyorlar! Kemiklerinizi "
+"Pis yarı ölüler beni zincire vurabileceklerini mi sanıyorlar! Kemiklerinizi "
 "tuz buz edeceğim!"
 
 #. [event]
@@ -9091,7 +9092,7 @@ msgid ""
 "Gah, undead! This one was mired face-first in the swamp, dormant until I "
 "stumbled upon it. They must be lying everywhere in this muck."
 msgstr ""
-"Kahretsin, ölümsüzler! Bu, bataklığa yüzüstü saplanmış, ben üzerine "
+"Kahretsin, yarı ölüler! Bu, bataklığa yüzüstü saplanmış, ben üzerine "
 "tökezleyene kadar uykudaydı. Bu çamurda her yerde yatıyor olmalılar."
 
 #. [message]: speaker=Gweddry
@@ -9124,7 +9125,7 @@ msgid ""
 "It may be prudent to clear the swamp near the undead leaders before we sight"
 " them."
 msgstr ""
-"Ölümsüz liderleri görmeden önce bataklığı temizlemek akıllıca olabilir."
+"Yarı Ölü liderleri görmeden önce bataklığı temizlemek akıllıca olabilir."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:723
@@ -9236,8 +9237,8 @@ msgid ""
 "be?! How can Mal-Ravanal have already advanced so far into the heartland of "
 "Wesnoth?"
 msgstr ""
-"Hayır, HAYIR! Neden burada bataklıklar var? Neden burada ölümsüzler var? Bu "
-"nasıl olabilir?! Mal-Ravanal Wesnoth'un kalbine nasıl bu kadar ilerlemiş "
+"Hayır, HAYIR! Neden burada bataklıklar var? Neden burada yarı ölüler var? Bu"
+" nasıl olabilir?! Mal-Ravanal Wesnoth'un kalbine nasıl bu kadar ilerlemiş "
 "olabilir?"
 
 #. [message]: speaker=Gweddry
@@ -9247,8 +9248,8 @@ msgid ""
 "dammed the river to drown the plains. They must like the swamp, filled with "
 "death and decay..."
 msgstr ""
-"Üzgünüm Owaec. Ölümsüz orduları Klan üyelerini yenmiş ve ovaları boğmak için"
-" nehri barajlamış olmalı. Ölüm ve çürümeyle dolu bataklığı seviyor "
+"Üzgünüm Owaec. Yarı Ölü orduları Klan üyelerini yenmiş ve ovaları boğmak "
+"için nehri barajlamış olmalı. Ölüm ve çürümeyle dolu bataklığı seviyor "
 "olmalılar..."
 
 #. [message]: speaker=Owaec
@@ -9278,7 +9279,7 @@ msgid ""
 "now my homeland has paid the price for your misdeeds!!"
 msgstr ""
 "Sana güvendik. Sana güvendim! Bunun yerine, bizi savaştan korkaklar gibi "
-"uzaklaştırdın, adamlarımızı orkların ve ejderhaların elinde katliama "
+"uzaklaştırdın, adamlarımızı orkların ve ejderlerin elinde katliama "
 "sürükledin ve Wesnoth'u en çok ihtiyaç duyduğu anda doğu muhafızlarından "
 "mahrum bıraktın. Ve şimdi vatanım senin yanlış işlerinin bedelini ödedi!!"
 
@@ -9408,7 +9409,7 @@ msgid ""
 "brought!!!"
 msgstr ""
 "Ama umutsuzluğa kapılmayacağım! Bu lanetli yıkım Klanların kalıcı mirası "
-"olmayacak!! Bu ölümsüzler getirdikleri ölümün bedelini ödeyecek!!!"
+"olmayacak!! Bu yarı ölüler getirdikleri ölümün bedelini ödeyecek!!!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1279
@@ -9428,7 +9429,7 @@ msgid ""
 "\n"
 "Even if we lack the strength to truly reclaim this place, we should still take the opportunity to gather what supplies remain. When finally we meet the shambling hordes responsible for all this destruction, we must not find our armories wanting."
 msgstr ""
-"Katılıyorum, yine de her yer garip bir şekilde sessiz. Belki de kalan ölümsüzler uykuda yatıyorlardır?\n"
+"Katılıyorum, yine de her yer garip bir şekilde sessiz. Belki de kalan yarı ölüler uykuda yatıyorlardır?\n"
 "\n"
 "Bu yeri gerçekten geri alacak gücümüz olmasa bile, kalan malzemeleri toplama fırsatını değerlendirmeliyiz. Sonunda tüm bu yıkımdan sorumlu yürüyen ordularla karşılaştığımızda, cephaneliklerimizin eksik olduğunu görmemeliyiz."
 
@@ -9513,8 +9514,8 @@ msgid ""
 "I’m sure the undead have burned down his storehouse, but there might still "
 "be a cache or three hidden ’round here."
 msgstr ""
-"Eminim ölümsüzler onun deposunu yakmışlardır, ama buralarda hala bir veya üç"
-" gizli zula olabilir."
+"Eminim yarı ölüler onun deposunu yakmışlardır, ama buralarda hala bir veya "
+"üç gizli zula olabilir."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1416
@@ -9653,7 +9654,7 @@ msgstr "kuyruk"
 #. undead dragon, talking to a memory rather than the unit that triggered him
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1817
 msgid "... Lich, you do not belong here... leave, or I shall... rend you..."
-msgstr "... Lich, buraya ait değilsin... git, yoksa seni... parçalarım..."
+msgstr "... Umacı, buraya ait değilsin... git, yoksa seni... parçalarım..."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1821
@@ -9661,7 +9662,7 @@ msgid ""
 "Is that... an undead dragon? Dear Light! Raising such a powerful thrall must"
 " have been no small feat, even for a necromancer such as Mal-Ravanal."
 msgstr ""
-"Bu... ölümsüz bir ejderha mı? Aziz Işık! Böylesine güçlü bir köleyi "
+"Bu... yarı ölü bir ejder mı? Aziz Işık! Böylesine güçlü bir köleyi "
 "diriltmek, Mal-Ravanal gibi bir nekromanser için bile küçük bir başarı "
 "olmamalıydı."
 
@@ -9671,7 +9672,7 @@ msgid ""
 "Even a living dragon is nothing but flesh. This feeble imitation lacks even "
 "that. Smash it to pieces."
 msgstr ""
-"Canlı bir ejderha bile etten ibarettir. Bu zayıf taklit, o bile değil. Onu "
+"Canlı bir ejder bile etten ibarettir. Bu zayıf taklit, o bile değil. Onu "
 "parçalara ayırın."
 
 #. [message]: speaker=unit
@@ -9717,7 +9718,7 @@ msgid ""
 "All things deserve redemption, but I fear the undead will never find it. May"
 " this place be cleansed in holy fire!"
 msgstr ""
-"Her şey kurtuluşu hak eder, ama korkarım ki ölümsüzler asla bulamayacak. "
+"Her şey kurtuluşu hak eder, ama korkarım ki yarı ölüler asla bulamayacak. "
 "Burası kutsal ateşle temizlensin!"
 
 #. [message]: speaker=Terraent
@@ -9983,7 +9984,7 @@ msgid ""
 "completely surrounding the city! The defenders must be grievously "
 "outnumbered."
 msgstr ""
-"Ama bakın, ölümsüzler kuşatma altında ve şehri tamamen çevreleyen "
+"Ama bakın, yarı ölüler kuşatma altında ve şehri tamamen çevreleyen "
 "tahkimatlar inşa etmişler! Savunmacılar feci şekilde sayıca az olmalı."
 
 #. [message]: speaker=Dacyn
@@ -9993,7 +9994,7 @@ msgid ""
 "Ravanal’s greater host. (cough)(cough) I must meet with the king. Weldyn "
 "will fall if we do not act."
 msgstr ""
-"Bu ölümsüz kuvvet bile (öksürük) Mal-Ravanal'ın daha büyük ordusunun küçük "
+"Bu yarı ölü kuvvet bile (öksürük) Mal-Ravanal'ın daha büyük ordusunun küçük "
 "bir parçası gibi görünüyor. (öksürük)(öksürük) Kral ile görüşmeliyim. "
 "Harekete geçmezsek Weldyn düşecek."
 
@@ -10142,7 +10143,7 @@ msgid ""
 "the lich’s long-tortured soul. This destruction will be permanent."
 msgstr ""
 "İşte bu yüzden yoldaşlarım ve ben, kuzeydoğuya doğru uzaklara seyahat ederek"
-" (öksürük) şimdi sahip olduğum güçlü bir büyülü muska arayarak son bir "
+" (öksürük) şimdi sahip olduğum güçlü bir sihirli muska arayarak son bir "
 "yılımızı geçirdik. Eğer iskelet bedeni yok edebilirsek, liçin uzun süredir "
 "işkence görmüş ruhunu sürgün etme gücüne sahibim. Bu yıkım kalıcı olacaktır."
 
@@ -10164,8 +10165,8 @@ msgid ""
 "we’ve been cut off from Dan’Tonk and barely have enough men to hold the "
 "walls, much less sortie against the undead."
 msgstr ""
-"Bu büyülü voodoo'nun işe yaradığını varsaysak bile, Mal-Ravanal'ın bedenini "
-"nasıl yok etmeyi düşünüyorsunuz? Sahip olduğumuz tek şans, liçin kendi "
+"Bu sihirli voodoo'nun işe yaradığını varsaysak bile, Mal-Ravanal'ın bedenini"
+" nasıl yok etmeyi düşünüyorsunuz? Sahip olduğumuz tek şans, liçin kendi "
 "kibrinden kaynaklanıyordu ve o bile daha iyi koşullarda dört seçkin "
 "büyücümüze mal oldu. Şimdi Dan'Tonk'tan kesildik ve duvarları tutacak kadar "
 "bile adamımız yok, ölümsüzlere karşı bir saldırı düzenlemek bir yana."
@@ -10262,7 +10263,7 @@ msgid ""
 "are massing around the outer villages. I think they mean to storm the moat "
 "at nightfall."
 msgstr ""
-"Efendim, saldırı altındayız! Ölümsüzler çevre toprak setlerini aştı ve dış "
+"Efendim, saldırı altındayız! Yarı Ölüler çevre toprak setlerini aştı ve dış "
 "köylerin etrafında toplanıyorlar. Sanırım gece çökünce hendeklere saldırmayı"
 " planlıyorlar."
 
@@ -10410,8 +10411,8 @@ msgid ""
 "Undead approach at the northern crossings. My forces are in position to "
 "engage the invaders."
 msgstr ""
-"Kuzey geçitlerinde ölümsüzler yaklaşıyor. Kuvvetlerim işgalcilerle çatışmaya"
-" hazır konumda."
+"Kuzey geçitlerinde yarı ölüler yaklaşıyor. Kuvvetlerim işgalcilerle "
+"çatışmaya hazır konumda."
 
 #. [message]: speaker=Halric
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1057
@@ -10589,7 +10590,7 @@ msgstr "Bu ne tür bir kara büyü?"
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1506
 msgid ""
 "I’m nearly blind in this fog, but I think the undead have been reinforced!"
-msgstr "Bu siste neredeyse körüm, ama sanırım ölümsüzler takviye edildi!"
+msgstr "Bu siste neredeyse körüm, ama sanırım yarı ölüler takviye edildi!"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1518
@@ -10691,7 +10692,7 @@ msgstr ""
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1781
 msgid "The undead are falling back! Thank the Light; it’s finally over."
-msgstr "Ölümsüzler geri çekiliyor! Işığa şükürler olsun; sonunda bitti."
+msgstr "Yarı Ölüler geri çekiliyor! Işığa şükürler olsun; sonunda bitti."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1793
@@ -10701,7 +10702,7 @@ msgstr "Gweddry boşuna ölmedi; ölümsüzlerin kararlılığı kırıldı!"
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1799
 msgid "At last, the undead end their assault."
-msgstr "Sonunda, ölümsüzler saldırılarını bitiriyor."
+msgstr "Sonunda, yarı ölüler saldırılarını bitiriyor."
 
 #. [message]: speaker=Konrad
 #. the scenario doesn't let the player move Konrad away from his castle
@@ -10713,7 +10714,7 @@ msgstr "Görevimi terk etmeyeceğim!"
 #. plaque on a statue
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1852
 msgid "<i>Haldric the First, Dragonslayer, first king of Wesnoth.</i>"
-msgstr "<i>Haldric the First, Ejderha Katili, Wesnoth'un ilk kralı.</i>"
+msgstr "<i>Haldric the First, Ejder Katili, Wesnoth'un ilk kralı.</i>"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1857
@@ -10792,7 +10793,7 @@ msgstr "Mal-Ravanal bunun için sana acı çektirecek!"
 #. [message]: speaker=Mal-Analla
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1959
 msgid "No! I was supposed to... become immortal..."
-msgstr "Hayır! Ben... ölümsüz olacaktım..."
+msgstr "Hayır! Ben... yarı ölü olacaktım..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1975
@@ -10820,8 +10821,8 @@ msgid ""
 "Now we must press our advantage! Let us strike the undead while they are in "
 "disarray and banish Mal-Ravanal’s dark soul once and for all!"
 msgstr ""
-"Şimdi avantajımızı kullanmalıyız! Ölümsüzler dağınıkken onlara saldıralım ve"
-" Mal-Ravanal'ın karanlık ruhunu sonsuza dek sürgün edelim!"
+"Şimdi avantajımızı kullanmalıyız! Yarı Ölüler dağınıkken onlara saldıralım "
+"ve Mal-Ravanal'ın karanlık ruhunu sonsuza dek sürgün edelim!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2040
@@ -10904,8 +10905,8 @@ msgid ""
 "banish Mal-Ravanal’s dark soul once and for all!"
 msgstr ""
 "... Eminim ki bize kararlılığımızı toplamamızı ve avantajımızı kullanmak "
-"için yeniden toplanmamızı söylerdi! Ölümsüzler dağınıkken onlara saldıralım "
-"ve Mal-Ravanal'ın karanlık ruhunu sonsuza dek sürgün edelim!"
+"için yeniden toplanmamızı söylerdi! Yarı Ölüler dağınıkken onlara saldıralım"
+" ve Mal-Ravanal'ın karanlık ruhunu sonsuza dek sürgün edelim!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2102
@@ -11402,7 +11403,7 @@ msgid ""
 "The River Weldyn used to be so beautiful, before the undead dammed it and "
 "flooded the shores..."
 msgstr ""
-"Weldyn Nehri, ölümsüzler onu barajla kapatıp kıyıları sular altında "
+"Weldyn Nehri, yarı ölüler onu barajla kapatıp kıyıları sular altında "
 "bırakmadan önce çok güzeldi..."
 
 #. [message]: speaker=Konrad
@@ -11421,7 +11422,7 @@ msgid ""
 "That’s one down! The undead must still be in disarray after their failed "
 "attack during the long night."
 msgstr ""
-"Bir tane eksildi! Ölümsüzler, uzun gece boyunca başarısız saldırılarından "
+"Bir tane eksildi! Yarı Ölüler, uzun gece boyunca başarısız saldırılarından "
 "sonra hala dağınık olmalılar."
 
 #. [message]: speaker=$found_unit.id
@@ -12978,7 +12979,7 @@ msgid ""
 "\n"
 "Invariably in command of a nigh limitless horde of risen warriors and undead monsters, a lich of this order has a mastery of dark sorcery that can bring dread to the most storied magi of human and elven kind. Such a figure usually marks a dark and bloody chapter in history, and in those times of need, it is only through the tireless efforts of the most valiant heroes that the rise of an Dread Lich has not led to the shadows ruling the world for the rest of time."
 msgstr ""
-"Düşmanlarında uyandırdıkları korkunç dehşet nedeniyle bu şekilde adlandırılan sözde İğrenç Umacı, kullandığı kara büyülü güçlerde oldukça ustalaşmıştır.\n"
+"Düşmanlarında uyandırdıkları korkunç dehşet nedeniyle bu şekilde adlandırılan sözde İğrenç Umacı, kullandığı kara sihirli güçlerde oldukça ustalaşmıştır.\n"
 "\n"
 "Yarı ölü savaşçılar ve canavarlardan oluşan neredeyse sınırsız bir ordunun komutanı olan umacı, insan ve elf türünün en ünlü büyücülerine bile korku salabilecek kadar güçlü kara büyülerin ustasıdır. Böyle bir şahsiyet tarihte genellikle karanlık ve kanlı bir bölümü işaretler ve bu ihtiyaç zamanlarında, yalnızca en cesur kahramanların yorulmak bilmez çabaları, böyle bir İğrenç Umacı'nın yükselişini ve geri kalan zaman boyunca karanlık güçlerin dünyayı yönetmesini engellemiştir."
 
@@ -13828,7 +13829,7 @@ msgid ""
 " an undying spirit of mighty power, and do unto this world as you will!"
 msgstr ""
 "Ve şimdi yapabilirsin, sonsuza dek! Ölümlü bedenini geride bırak. Muazzam "
-"bir gücün ölümsüz ruhu olarak yaşamaya devam et ve bu dünyaya istediğini "
+"bir gücün yarı ölü ruhu olarak yaşamaya devam et ve bu dünyaya istediğini "
 "yap!"
 
 #. [message]: speaker=Dacyn
@@ -13957,7 +13958,7 @@ msgid ""
 "<i><b>illuminating</b></i> the surrounding area and making your bow or "
 "crossbow attacks <i><b>arcane</b></i>."
 msgstr ""
-"Bu kristal sadaktaki oklar soluk büyülü bir ışıkla parıldayarak çevreyi "
+"Bu kristal sadaktaki oklar soluk sihirli bir ışıkla parıldayarak çevreyi "
 "aydınlatır ve yay veya tatar yayı saldırıları <i><b>gizemli</b></i> olur."
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:164
@@ -14000,7 +14001,7 @@ msgid ""
 " Whenever an adjacent ally is hit by an attack, <i><b>this shield’s bearer "
 "is hit instead</b></i>."
 msgstr ""
-"Bu kalkanın uzun cüssesinin derinliklerinde, büyülü makineler hafifçe "
+"Bu kalkanın uzun cüssesinin derinliklerinde, sihirli makineler hafifçe "
 "vızıldar. Bitişikteki bir müttefik bir saldırıyla vurulduğunda, <i><b>onun "
 "yerine bu kalkanın taşıyıcısı vurulur</b></i>."
 
@@ -14060,7 +14061,7 @@ msgid ""
 "This incorporeal sword resembles those wielded by undead wraiths. Any mortal brave enough to wield it becomes <i><b>chaotic</b></i> and lashes out at their foes with reckless abandon.\n"
 "<i><b>6x4 arcane</b></i> damage, <i><b>drains</b></i>, <i><b>berserk</b></i>. Always used on defense."
 msgstr ""
-"Bu maddi olmayan kılıç, ölümsüz hayaletlerin kullandığı kılıçlara benziyor. Onu kullanacak kadar cesur olan herhangi bir ölümlü, <i><b>kaotik</b></i> hale gelir ve pervasız bir teslimiyetle düşmanlarına saldırır.\n"
+"Bu maddi olmayan kılıç, yarı ölü hayaletlerin kullandığı kılıçlara benziyor. Onu kullanacak kadar cesur olan herhangi bir ölümlü, <i><b>kaotik</b></i> hale gelir ve pervasız bir teslimiyetle düşmanlarına saldırır.\n"
 "<i><b>6x4 gizemli</b></i> hasarı, <i><b>boşaltmalar</b></i>, <i><b>çılgına</b></i>. Her zaman savunmada kullanılır."
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:685
@@ -14191,7 +14192,7 @@ msgid ""
 "magical artifact."
 msgstr ""
 "Hayır. Ben iyi ve aydınlık olana hizmet ediyorum ve böyle karanlık bir "
-"büyülü eseri kullanmayacağım."
+"sihirli eseri kullanmayacağım."
 
 #. [message]: speaker=unit
 #. said by a dunefolk, when the player tries to give them a necromancer's
@@ -14212,7 +14213,7 @@ msgid ""
 "I will not wield such a dark magical artifact, though I shall not begrudge "
 "its use by my companions."
 msgstr ""
-"Böyle kara büyülü bir nesneyi kullanmayacağım ama arkadaşlarımın bunu "
+"Böyle kara sihirli bir nesneyi kullanmayacağım ama arkadaşlarımın bunu "
 "kullanmasını da kıskanmayacağım."
 
 #. [effect]: type=impact
@@ -14529,7 +14530,7 @@ msgstr ""
 #~ "Alas, I have failed in my mission! The undead scout has already reported "
 #~ "back to its mistress."
 #~ msgstr ""
-#~ "Ne yazık ki, görevimde başarısız oldum! Ölümsüz izci zaten hanımına rapor "
+#~ "Ne yazık ki, görevimde başarısız oldum! Yarı Ölü izci zaten hanımına rapor "
 #~ "verdi."
 
 #~ msgid ""
@@ -14740,7 +14741,7 @@ msgstr ""
 #~ msgstr "Karakolu savun"
 
 #~ msgid "Look. To the east. Undead approach!"
-#~ msgstr "Bak. Doğuya. Ölümsüzler yaklaşıyor!"
+#~ msgstr "Bak. Doğuya. Yarı Ölüler yaklaşıyor!"
 
 #~ msgid "Ah, interesting..."
 #~ msgstr "Ah, ilginç..."
@@ -14806,14 +14807,14 @@ msgstr ""
 #~ "Thank you. Now, I invite you to join us. Undead have followed us into these "
 #~ "caves, and they will kill you if you stay behind."
 #~ msgstr ""
-#~ "Teşekkür ederim. Şimdi, sizi bize katılmaya davet ediyorum. Ölümsüzler bizi "
-#~ "bu mağaralara kadar takip ettiler ve geride kalırsanız sizi öldürecekler."
+#~ "Teşekkür ederim. Şimdi, sizi bize katılmaya davet ediyorum. Yarı Ölüler bizi"
+#~ " bu mağaralara kadar takip ettiler ve geride kalırsanız sizi öldürecekler."
 
 #~ msgid ""
 #~ "Thank you. Now, I invite you to join us. Undead are in these lands, and they"
 #~ " will find these caves."
 #~ msgstr ""
-#~ "Teşekkür ederim. Şimdi, sizi bize katılmaya davet ediyorum. Ölümsüzler bu "
+#~ "Teşekkür ederim. Şimdi, sizi bize katılmaya davet ediyorum. Yarı Ölüler bu "
 #~ "topraklarda ve bu mağaraları bulacaklar."
 
 #~ msgid "We have reached the end of the tunnel. I see daylight above us!"
@@ -14851,8 +14852,8 @@ msgstr ""
 #~ "These undead are toying with us! This adept is weak — we should attack at "
 #~ "once and take his fort."
 #~ msgstr ""
-#~ "Bu ölümsüzler bizimle oynuyor! Bu usta zayıf — hemen saldırmalı ve kalesini "
-#~ "almalıyız."
+#~ "Bu yarı ölüler bizimle oynuyor! Bu usta zayıf — hemen saldırmalı ve kalesini"
+#~ " almalıyız."
 
 #~ msgid ""
 #~ "Indeed, I see no better option. Then, we must kill either of the dark "
@@ -14896,7 +14897,7 @@ msgstr ""
 #~ "pursued by fell undead, although they did not dare follow us into the "
 #~ "forest... yet."
 #~ msgstr ""
-#~ "Topraklarınızda bir süre dinlenmemiz mümkün mü? Kötü ölümsüzler tarafından "
+#~ "Topraklarınızda bir süre dinlenmemiz mümkün mü? Kötü yarı ölüler tarafından "
 #~ "takip edildik, ancak ormana kadar bizi takip etmeye cesaret edemediler... "
 #~ "henüz."
 
@@ -14908,7 +14909,7 @@ msgstr ""
 #~ "you choose to fight, even if you are victorious, few will survive. I invite "
 #~ "you to join us, and head north."
 #~ msgstr ""
-#~ "İyi. Şimdi, uyarılmalısın: bu ölümsüz savaş lordu çok güçlü. Savaşmayı "
+#~ "İyi. Şimdi, uyarılmalısın: bu yarı ölü savaş lordu çok güçlü. Savaşmayı "
 #~ "seçersen, galip gelsen bile, çok az kişi hayatta kalacak. Sizi bize "
 #~ "katılmaya ve kuzeye gitmeye davet ediyorum."
 
@@ -14916,8 +14917,8 @@ msgstr ""
 #~ "I thank you for your offer. But I will not leave my homeland. These undead "
 #~ "cannot be as powerful as you say; I will fight them."
 #~ msgstr ""
-#~ "Teklifiniz için teşekkür ederim. Ama vatanımı terk etmeyeceğim. Bu "
-#~ "ölümsüzler dediğiniz kadar güçlü olamazlar; onlarla savaşacağım."
+#~ "Teklifiniz için teşekkür ederim. Ama vatanımı terk etmeyeceğim. Bu yarı "
+#~ "ölüler dediğiniz kadar güçlü olamazlar; onlarla savaşacağım."
 
 #~ msgid ""
 #~ "This is not a wise choice, but it is yours to make. If you will not join us,"
@@ -14999,7 +15000,7 @@ msgstr ""
 #~ "Pekala. Sizi kuzeye, müttefiklerinize götürmek için rehberler göndereceğim."
 
 #~ msgid "The Undead Border Patrol"
-#~ msgstr "Ölümsüz Sınır Devriyesi"
+#~ msgstr "Yarı Ölü Sınır Devriyesi"
 
 #~ msgid "Mal-Telnarad"
 #~ msgstr "Mal-Telnarad"
@@ -15019,14 +15020,14 @@ msgstr ""
 #~ "able to find the lich who attacked us and destroy him. He must be nearby."
 #~ msgstr ""
 #~ "Bekle. Bunun en iyi seçenek olduğundan emin değilim. Eğer şimdi doğuya "
-#~ "gidersek, bize saldıran lich'i bulup yok edebiliriz. Yakınlarda olmalı."
+#~ "gidersek, bize saldıran umacı'yı bulup yok edebiliriz. Yakınlarda olmalı."
 
 #~ msgid ""
 #~ "This is no ordinary Lich you hunt. Even if you manage to find him, how will "
 #~ "you prevent him from simply teleporting away? We should head north; there is"
 #~ " much I must learn before we confront this menace."
 #~ msgstr ""
-#~ "Bu avladığın sıradan bir Lich değil. Onu bulmayı başarsan bile, basitçe "
+#~ "Bu avladığın sıradan bir Umacı değil. Onu bulmayı başarsan bile, basitçe "
 #~ "ışınlanıp gitmesini nasıl engelleyeceksin? Kuzeye gitmeliyiz; bu tehditle "
 #~ "yüzleşmeden önce öğrenmem gereken çok şey var."
 
@@ -15057,13 +15058,13 @@ msgstr ""
 #~ msgstr "Haklısın. İlerlemek aptallık — geri döneceğiz."
 
 #~ msgid "Good! If I defeat them, I can become a lich!"
-#~ msgstr "Güzel! Onları yenersem, bir lich olabilirim!"
+#~ msgstr "Güzel! Onları yenersem, bir umacı olabilirim!"
 
 #~ msgid ""
 #~ "We failed to defeat either enemy! Now more undead will come and we will be "
 #~ "overwhelmed!"
 #~ msgstr ""
-#~ "Her iki düşmanı da yenemedik! Şimdi daha fazla ölümsüz gelecek ve "
+#~ "Her iki düşmanı da yenemedik! Şimdi daha fazla yarı ölü gelecek ve "
 #~ "bunalacağız!"
 
 #~ msgid ""
@@ -15071,7 +15072,7 @@ msgstr ""
 #~ "not, we must go further into these undead lands."
 #~ msgstr ""
 #~ "Mal-Skraat'ı yenmeye çalışarak daha fazla zaman harcayamayız. İster beğen "
-#~ "ister beğenme, bu ölümsüz toprakların daha derinlerine gitmeliyiz."
+#~ "ister beğenme, bu yarı ölü toprakların daha derinlerine gitmeliyiz."
 
 #~ msgid ""
 #~ "Noo!! He will reach Mal-Ravanal’s capital, and I shall be punished for "
@@ -15088,9 +15089,9 @@ msgstr ""
 #~ "we cannot kill Mal-Ravanal. It was foolish to come this far; we must turn "
 #~ "back!"
 #~ msgstr ""
-#~ "Evet, ama bak! Ölümsüz güçler arkamızdan yaklaşıyor. Daha önce de söylediğim"
-#~ " gibi Mal-Ravanal'ı öldüremeyiz. Buraya kadar gelmek aptallıktı; geri "
-#~ "dönmeliyiz!"
+#~ "Evet, ama bak! Yarı Ölü güçler arkamızdan yaklaşıyor. Daha önce de "
+#~ "söylediğim gibi Mal-Ravanal'ı öldüremeyiz. Buraya kadar gelmek aptallıktı; "
+#~ "geri dönmeliyiz!"
 
 #~ msgid ""
 #~ "Perhaps. To retreat, we must kill one of these dark sorcerers that follow "
@@ -15121,7 +15122,7 @@ msgstr ""
 #~ "guard is playing a sick game — whenever one of their warriors dies, one of "
 #~ "us is let free, but whenever you lose a fighter, they kill one of us."
 #~ msgstr ""
-#~ "Evet. Müttefiklerim ve ben görevdeyken ölümsüzler tarafından pusuya "
+#~ "Evet. Müttefiklerim ve ben görevdeyken yarı ölüler tarafından pusuya "
 #~ "düşürüldük. Muhafız iğrenç bir oyun oynuyor — ne zaman savaşçılarından biri "
 #~ "ölse, bizden biri serbest kalıyor, ama ne zaman bir savaşçı kaybederseniz, "
 #~ "bizden birini öldürüyorlar."
@@ -15148,7 +15149,7 @@ msgstr ""
 #~ "bana getir!"
 
 #~ msgid "You know this lich?"
-#~ msgstr "Bu lich'i tanıyor musun?"
+#~ msgstr "Bu umacı'yı tanıyor musun?"
 
 #~ msgid "Ah, so you’ve decided to fight me."
 #~ msgstr "Ah, demek benimle savaşmaya karar verdin."
@@ -15173,14 +15174,14 @@ msgstr ""
 #~ msgstr "Lanar-Skal"
 
 #~ msgid "Defeat the undead leader"
-#~ msgstr "Ölümsüz lideri yen"
+#~ msgstr "Yarı Ölü lideri yen"
 
 #~ msgid ""
 #~ "Greetings, Owaec! We have been forced from our positions by undead invaders."
 #~ " They follow us even now."
 #~ msgstr ""
-#~ "Selamlar, Owaec! Ölümsüz istilacılar tarafından mevzilerimizden çıkarıldık. "
-#~ "Şu anda bile bizi takip ediyorlar."
+#~ "Selamlar, Owaec! Yarı Ölü istilacılar tarafından mevzilerimizden çıkarıldık."
+#~ " Şu anda bile bizi takip ediyorlar."
 
 #~ msgid ""
 #~ "Indeed, they do. And do not think you will be able to defeat them. They are "
@@ -15220,7 +15221,7 @@ msgstr ""
 #~ "It seems the undead have caught up with us! We will have to kill them too if"
 #~ " we want the villagers to be safe. Well, I will begin casting the spell."
 #~ msgstr ""
-#~ "Görünüşe göre ölümsüzler bize yetişti! Köylülerin güvende olmasını "
+#~ "Görünüşe göre yarı ölüler bize yetişti! Köylülerin güvende olmasını "
 #~ "istiyorsak onları da öldürmek zorunda kalacağız. Pekala, büyüyü yapmaya "
 #~ "başlayacağım."
 
@@ -15295,7 +15296,7 @@ msgstr ""
 #~ "Either way we will have to fight. Look, the orcs and undead block our path "
 #~ "ahead!"
 #~ msgstr ""
-#~ "Her iki durumda da savaşmak zorunda kalacağız. Bak, orklar ve ölümsüzler "
+#~ "Her iki durumda da savaşmak zorunda kalacağız. Bak, orklar ve yarı ölüler "
 #~ "önümüzdeki yolu tıkıyor!"
 
 #~ msgid ""
@@ -15348,7 +15349,7 @@ msgstr ""
 #~ " great for us to defeat. We’ve haven’t faced even a small part of their "
 #~ "force yet. We need to cross the river before the bulk of their army arrives!"
 #~ msgstr ""
-#~ "Buradan geçmeliyiz. Ölümsüzler bizi kovalıyor ve orduları yenemeyeceğimiz "
+#~ "Buradan geçmeliyiz. Yarı Ölüler bizi kovalıyor ve orduları yenemeyeceğimiz "
 #~ "kadar büyük. Henüz güçlerinin küçük bir kısmıyla bile karşılaşmadık. "
 #~ "Ordularının büyük kısmı gelmeden nehri geçmeliyiz!"
 
@@ -15392,10 +15393,10 @@ msgstr ""
 
 #~ msgid ""
 #~ "The undead reinforcements have arrived! We must cross the river immediately!"
-#~ msgstr "Ölümsüz takviyeler geldi! Nehri hemen geçmeliyiz!"
+#~ msgstr "Yarı Ölü takviyeler geldi! Nehri hemen geçmeliyiz!"
 
 #~ msgid "Hurry up. We must get across before these undead slaughter us!"
-#~ msgstr "Acele edin. Bu ölümsüzler bizi katletmeden önce karşıya geçmeliyiz!"
+#~ msgstr "Acele edin. Bu yarı ölüler bizi katletmeden önce karşıya geçmeliyiz!"
 
 #~ msgid ""
 #~ "Good! We have crossed. Now let’s see if we can get the ogres to join us. "
@@ -15426,7 +15427,7 @@ msgstr ""
 #~ "too much time. Undead have positioned themselves in the middle of the ford."
 #~ msgstr ""
 #~ "O zaman bu nehri geçmeliyiz. Acele etmeliyiz, zaten çok zaman kaybettik. "
-#~ "Ölümsüzler geçidin ortasına yerleşmişler."
+#~ "Yarı Ölüler geçidin ortasına yerleşmişler."
 
 #~ msgid ""
 #~ "Across this river lie the Northlands. Ogres live there, as do orcs. We "
@@ -15434,14 +15435,14 @@ msgstr ""
 #~ "more dangerous still."
 #~ msgstr ""
 #~ "Bu nehrin karşısında Kuzey Toprakları yatıyor. Orada devler yaşar, orklar da"
-#~ " öyle. Dikkatli ilerlemeliyiz. Ölümsüzler tehlikeli, ama orklar daha da "
+#~ " öyle. Dikkatli ilerlemeliyiz. Yarı Ölüler tehlikeli, ama orklar daha da "
 #~ "tehlikeli olabilir."
 
 #~ msgid ""
 #~ "I will leave your bodies to rot in the river, then I will raise you up to "
 #~ "serve in my Master’s undead hordes!"
 #~ msgstr ""
-#~ "Cesetlerinizi nehirde çürümeye bırakacağım, sonra sizi Efendimin ölümsüz "
+#~ "Cesetlerinizi nehirde çürümeye bırakacağım, sonra sizi Efendimin yarı ölü "
 #~ "ordularında hizmet etmeniz için dirilteceğim!"
 
 #~ msgid "<i>HISS!</i>"
@@ -15543,9 +15544,9 @@ msgstr ""
 #~ " will have to kill these elves, and these dwarves, before they do the same "
 #~ "to us."
 #~ msgstr ""
-#~ "Doğru. Orklar ve ölümsüzler dışında bir şey öldürmekten ne kadar hoşlanmasam"
-#~ " da, bize aynısını yapmadan önce bu elfleri ve bu cüceleri öldürmek zorunda "
-#~ "kalacağız gibi görünüyor."
+#~ "Doğru. Orklar ve yarı ölüler dışında bir şey öldürmekten ne kadar "
+#~ "hoşlanmasam da, bize aynısını yapmadan önce bu elfleri ve bu cüceleri "
+#~ "öldürmek zorunda kalacağız gibi görünüyor."
 
 #~ msgid "I die? Orcs rule all!"
 #~ msgstr "Ben mi öleceğim? Orklar her şeye hükmeder!"
@@ -15590,7 +15591,7 @@ msgstr ""
 #~ "Few enough remained before the trolls and gryphons took up residence in the "
 #~ "mountains. But now the school is deserted, and has been for decades."
 #~ msgstr ""
-#~ "Troller ve grifonlar dağlara yerleşmeden önce çok az kişi kalmıştı. Ama "
+#~ "Troller ve grifinler dağlara yerleşmeden önce çok az kişi kalmıştı. Ama "
 #~ "şimdi okul terk edilmiş durumda ve onlarca yıldır öyle."
 
 #~ msgid ""
@@ -15622,7 +15623,7 @@ msgstr ""
 
 #~ msgid ""
 #~ "Very well. Let us rally there after the trolls and gryphons are defeated."
-#~ msgstr "Pekala. Troller ve grifonlar yenildikten sonra orada toplanırız."
+#~ msgstr "Pekala. Troller ve grifinler yenildikten sonra orada toplanırız."
 
 #~ msgid "You find 100 gold in the fortress!"
 #~ msgstr "Kalede 100 altın buldun!"
@@ -15735,8 +15736,8 @@ msgstr ""
 #~ "I ain’t charging gold — I wants protecshun! Everywhere I go, I see orcs, "
 #~ "undead. ’T’ain’t safe ’round ’ere!"
 #~ msgstr ""
-#~ "Altın istemiyorum — koruma istiyorum! Gittiğim her yerde orklar, ölümsüzler "
-#~ "görüyorum. Buralar güvenli değil!"
+#~ "Altın istemiyorum — koruma istiyorum! Gittiğim her yerde orklar, yarı ölüler"
+#~ " görüyorum. Buralar güvenli değil!"
 
 #~ msgid ""
 #~ "Very well, we’ll protect you from the undead. But we can’t help you until we"
@@ -15795,7 +15796,7 @@ msgstr ""
 #~ "our homeland. Also, I have advice to give the King: I know Mal-Ravanal’s "
 #~ "weakness."
 #~ msgstr ""
-#~ "Güneye yöneleceğiz. Araştırmalarım, ejderha Khrakrahs'ın bir Boşluk Taşı'na "
+#~ "Güneye yöneleceğiz. Araştırmalarım, ejder Khrakrahs'ın bir Boşluk Taşı'na "
 #~ "sahip olduğunu ortaya çıkardı; onunla Mal-Ravanal'ın ışınlanmasını "
 #~ "engelleyebileceğim. Taşı geri aldıktan sonra Weldyn'e gitmeliyiz. "
 #~ "Hortlaklarla savaşma deneyimimiz vatanımızın savunmasında paha biçilmez "
@@ -15831,9 +15832,9 @@ msgstr ""
 #~ " death, decay, everything that they are themselves. I can sense them lurking"
 #~ " in the swamps, waiting to ambush us."
 #~ msgstr ""
-#~ "Lich-lord vadiyi sular altında bırakmış olmalı. Hortlaklar bataklığı sever. "
-#~ "O, ölüm, çürüme, yani kendileri olan her şeydir. Onları bataklıklarda pusuya"
-#~ " yatmış, bizi beklerken hissedebiliyorum."
+#~ "Umacı-lord vadiyi sular altında bırakmış olmalı. Hortlaklar bataklığı sever."
+#~ " O, ölüm, çürüme, yani kendileri olan her şeydir. Onları bataklıklarda "
+#~ "pusuya yatmış, bizi beklerken hissedebiliyorum."
 
 #~ msgid "I s’ppose we’ll hav’ to wade across it anyway... ugh."
 #~ msgstr "Sanırım yine de içinden geçmek zorunda kalacağız... öf."
@@ -15847,10 +15848,10 @@ msgstr ""
 #~ "these days, and I know not why he has taken up residence this far south. We "
 #~ "must find him, and pray that he still has the Null Stone."
 #~ msgstr ""
-#~ "O, ejderha Khrakrahs'tı. Haldric zamanında Kuzey Dağları'nda yaşayan "
-#~ "gerçekten güçlü bir canavardı. Ama bu günlerde karanlık bir güç yayıyor ve "
-#~ "neden bu kadar güneye yerleştiğini bilmiyorum. Onu bulmalı ve hala Boşluk "
-#~ "Taşı'na sahip olması için dua etmeliyiz."
+#~ "O, ejder Khrakrahs'tı. Haldric zamanında Kuzey Dağları'nda yaşayan gerçekten"
+#~ " güçlü bir canavardı. Ama bu günlerde karanlık bir güç yayıyor ve neden bu "
+#~ "kadar güneye yerleştiğini bilmiyorum. Onu bulmalı ve hala Boşluk Taşı'na "
+#~ "sahip olması için dua etmeliyiz."
 
 #~ msgid ""
 #~ "Ah! It appears that the mighty Khrakrahs is no longer among the living. But "
@@ -15858,7 +15859,7 @@ msgstr ""
 #~ "still have the Null Stone!"
 #~ msgstr ""
 #~ "Ah! Görünüşe göre kudretli Khrakrahs artık yaşayanlar arasında değil. Ama bu"
-#~ " ölümsüz iğrençlik, büyülü güçlerime karşı zayıf görünmüyor... Null Taşı "
+#~ " yarı ölü iğrençlik, sihirli güçlerime karşı zayıf görünmüyor... Null Taşı "
 #~ "hala onda olmalı!"
 
 #~ msgid "The Null Stone! With it we may finally defeat Mal-Ravanal!"
@@ -15874,7 +15875,7 @@ msgstr ""
 #~ "We have finally reached Weldyn, but it seems the undead have it surrounded. "
 #~ "We must break through to reach the King!"
 #~ msgstr ""
-#~ "Sonunda Weldyn'e ulaştık, ama ölümsüzler burayı kuşatmış gibi görünüyor. "
+#~ "Sonunda Weldyn'e ulaştık, ama yarı ölüler burayı kuşatmış gibi görünüyor. "
 #~ "Kral'a ulaşmak için yarmamız gerek!"
 
 #~ msgid ""
@@ -15950,14 +15951,14 @@ msgstr ""
 #~ msgstr "Kaldor"
 
 #~ msgid "This is the lich we are facing: Mal-Ravanal."
-#~ msgstr "Karşılaştığımız lich bu: Mal-Ravanal."
+#~ msgstr "Karşılaştığımız umacı bu: Mal-Ravanal."
 
 #~ msgid ""
 #~ "We must fight, obviously. Surely the might of Wesnoth can triumph over a "
 #~ "mere lich!"
 #~ msgstr ""
-#~ "Savaşmalıyız, açıkçası. Wesnoth'un gücü, basit bir lich'e karşı kesinlikle "
-#~ "galip gelebilir!"
+#~ "Savaşmalıyız, açıkçası. Wesnoth'un gücü, basit bir umacı'ya karşı kesinlikle"
+#~ " galip gelebilir!"
 
 #~ msgid ""
 #~ "We barely escaped the Southern Outpost with our lives; Mal-Ravanal’s army "
@@ -15980,7 +15981,7 @@ msgstr ""
 #~ "his teleportation and finally put his tortured soul to rest."
 #~ msgstr ""
 #~ "Anlamsız bir fedakarlık ve Weldyn'e yürüyen birkaç ceset daha. Zafere giden "
-#~ "tek yolumuzun bu nekromanserlerin başını, lich Mal-Ravanal'ı yok etmek "
+#~ "tek yolumuzun bu nekromanserlerin başını, umacı Mal-Ravanal'ı yok etmek "
 #~ "olduğunu fark ettik. Bu Null Taşı ile onun ışınlanmasını etkisiz hale "
 #~ "getirebilir ve sonunda işkence görmüş ruhunu huzura kavuşturabilirim."
 
@@ -16015,12 +16016,12 @@ msgstr ""
 #~ "pressed for options. Gweddry, you are most familiar with this situation. I "
 #~ "will leave this choice in your hands."
 #~ msgstr ""
-#~ "İki riskli plan. Ama bu ölümsüzler dediğin kadar güçlüyse, seçeneklerimiz "
+#~ "İki riskli plan. Ama bu yarı ölüler dediğin kadar güçlüyse, seçeneklerimiz "
 #~ "kısıtlı. Gweddry, bu duruma en çok sen aşinasın. Bu seçimi senin ellerine "
 #~ "bırakıyorum."
 
 #~ msgid "Sire, the undead armies are attacking!"
-#~ msgstr "Efendim, ölümsüz ordular saldırıyor!"
+#~ msgstr "Efendim, yarı ölü ordular saldırıyor!"
 
 #~ msgid "Well, that will have to be the end of our council. Let us fight!"
 #~ msgstr "Pekala, konseyimizin sonu bu olacak. Savaşalım!"
@@ -16044,14 +16045,14 @@ msgstr ""
 #~ "In any case, the undead are attacking now. Let us show them the might of "
 #~ "Wesnoth!"
 #~ msgstr ""
-#~ "Her halükarda, ölümsüzler şimdi saldırıyor. Onlara Wesnoth'un gücünü "
+#~ "Her halükarda, yarı ölüler şimdi saldırıyor. Onlara Wesnoth'un gücünü "
 #~ "gösterelim!"
 
 #~ msgid "I have died, and with me gone the kingdom is lost."
 #~ msgstr "Öldüm ve ben gittikten sonra krallık da kayboldu."
 
 #~ msgid "Look, the sun has finally risen, and the undead are retreating."
-#~ msgstr "Bakın, güneş nihayet doğdu ve ölümsüzler geri çekiliyor."
+#~ msgstr "Bakın, güneş nihayet doğdu ve yarı ölüler geri çekiliyor."
 
 #~ msgid "Even this infernal darkness cannot dim the spirits of our men!"
 #~ msgstr "Bu cehennemi karanlık bile adamlarımızın ruhlarını karartamaz!"
@@ -16136,7 +16137,7 @@ msgstr ""
 #~ "It is a great victory we have won here today, vanquishing the arch-lich Mal-"
 #~ "Ravanal."
 #~ msgstr ""
-#~ "Bugün burada, baş-lich Mal-Ravanal'ı yenerek büyük bir zafer kazandık."
+#~ "Bugün burada, baş-umacı Mal-Ravanal'ı yenerek büyük bir zafer kazandık."
 
 #~ msgid ""
 #~ "We will be years... perhaps decades... recovering from the ill he has "

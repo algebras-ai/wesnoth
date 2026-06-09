@@ -131,7 +131,7 @@ msgstr "Maskeli Cüce"
 #. [achievement]: id=gryphon_hunter
 #: data/campaigns/The_Hammer_of_Thursagan/achievements.cfg:8
 msgid "Gryphon Hunter"
-msgstr "Grifon Avcısı"
+msgstr "Grifin Avcısı"
 
 #. [achievement]: id=gryphon_hunter
 #: data/campaigns/The_Hammer_of_Thursagan/achievements.cfg:9
@@ -795,7 +795,7 @@ msgid ""
 "It may also prove useful. The dwarves of yesteryear rode armies of gryphons "
 "into battle, but few remain in Knalga today."
 msgstr ""
-"Aynı zamanda işe yarayabilir. Geçmiş dönemin cüceleri grifon orduları "
+"Aynı zamanda işe yarayabilir. Geçmiş dönemin cüceleri grifin orduları "
 "üzerinde savaşa girerdi, ancak bugün Kanalga'da pek azı kalmıştır."
 
 #. [message]: speaker=Angarthing
@@ -804,13 +804,13 @@ msgid ""
 "Gryphons here will be wild; unaccustomed to our kind. But perhaps we can "
 "train them to accept riders, if we capture them first."
 msgstr ""
-"Buradaki grifonlar vahşi olacak; türümüze alışkın değil. Ama belki önce "
+"Buradaki grifinler vahşi olacak; türümüze alışkın değil. Ama belki önce "
 "yakalarsak, binici kabul etmeleri için eğitebiliriz."
 
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:139
 msgid "Capture as many gryphons as you can"
-msgstr "Olabildiğince çok grifon yakala"
+msgstr "Olabildiğince çok grifin yakala"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:144
@@ -822,7 +822,7 @@ msgstr "Aiglondur'un Ölümü, Angarthing"
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:152
 msgid "To capture a gryphon, injure it below 10 hitpoints without killing it."
 msgstr ""
-"Bir grifon yakalamak için, onu öldürmeden 10 can puanının altına indir."
+"Bir grifin yakalamak için, onu öldürmeden 10 can puanının altına indir."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:164
@@ -842,7 +842,7 @@ msgstr ""
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:312
 msgid "Well done! We have captured one gryphon."
-msgstr "Aferin! Bir grifon yakaladık."
+msgstr "Aferin! Bir grifin yakaladık."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:326
@@ -850,7 +850,7 @@ msgid ""
 "This gryphon has perished! I did not mean to draw blood, only to exhaust and"
 " stun it, but I missed my mark."
 msgstr ""
-"Bu grifon öldü! Kan dökmek istememiştim, yalnızca onu yorup sersemletmek "
+"Bu grifin öldü! Kan dökmek istememiştim, yalnızca onu yorup sersemletmek "
 "istedim, ama hedefi ıskaladım."
 
 #. [message]: speaker=Aiglondur
@@ -1880,7 +1880,7 @@ msgid ""
 "An empty skull?! A lich?! No... no... it is horrible! My lord, how did you "
 "come to this?"
 msgstr ""
-"Boş bir kafatası mı? Lich mi? Hayır... hayır... bu korkunç! Hocam nasıl bu "
+"Boş bir kafatası mı? Umacı mi? Hayır... hayır... bu korkunç! Hocam nasıl bu "
 "noktaya geldiniz?"
 
 #. [message]: speaker=Karrag
@@ -2920,7 +2920,7 @@ msgstr ""
 #. [unit_type]: id=Grounded Gryphon, race=gryphon
 #: data/campaigns/The_Hammer_of_Thursagan/units/Sleeping_Gryphon.cfg:4
 msgid "Grounded Gryphon"
-msgstr "Karada Grifon"
+msgstr "Karada Grifin"
 
 #. [leadership]: id=witness
 #: data/campaigns/The_Hammer_of_Thursagan/utils/abilities.cfg:10

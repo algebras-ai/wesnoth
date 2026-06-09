@@ -413,7 +413,7 @@ msgid ""
 msgstr ""
 "En yüksek erdeme sahip şövalyeler olan Paladinler, güçlerine krala ve taca değil, bizzat ideallere yemin etmişlerdir; şövalyelik ve iyi olan her şeyin idaresi. Dünyanın ordularında hizmet edebilirler, ancak ilk bağlılıkları genellikle kendi oluşturdukları gruplara aittir; Siyasi ve kültürel sınırları aşan gizli, manastır tarikatları. Hükümdarlar bazen onlara karşı ihtiyatlı davranırlar çünkü Paladinlerin sadakati yalnızca hükümdarın görünürdeki erdemi kadar güçlüdür. Bu, daha karanlık hırslıların ya bu grupları karalamaya ve dağıtmaya çalışmasına ya da daha nadiren bu sadık birlikleri hizmette tutmak için ayrıntılı aldatmacalar yaratmasına yol açtı.\n"
 "\n"
-"Tam Paladinler genellikle çoğu orduyu savunan 'Büyük Şövalyeler' kadar korkutucu değildir, ancak yine de birinci sınıf savaşçılardır. Ayrıca bilgelikleri ve dindarlıkları bu savaşçı keşişlere bazı ilginç yetenekler kazandırır; Bir Paladin, büyülü veya doğal olmayan şeylerle savaşmada çok güçlüdür ve çoğu, tıp ve iyileştirme konusunda biraz beceriye sahiptir."
+"Tam Paladinler genellikle çoğu orduyu savunan 'Büyük Şövalyeler' kadar korkutucu değildir, ancak yine de birinci sınıf savaşçılardır. Ayrıca bilgelikleri ve dindarlıkları bu savaşçı keşişlere bazı ilginç yetenekler kazandırır; Bir Paladin, sihirli veya doğal olmayan şeylerle savaşmada çok güçlüdür ve çoğu, tıp ve iyileştirme konusunda biraz beceriye sahiptir."
 
 #. [attack]: type=blade
 #: data/campaigns/Eastern_Invasion/units/Ogre_Ancient.cfg:35
@@ -954,8 +954,8 @@ msgstr ""
 "Ejder muhafızlarına cüce kardeşleri tarafından verilen bu ismin nerden "
 "geldiği tam olarak belli değildir. Bazıları bu isim silah tercihlerinden, "
 "yani ateş ve ölüm püskürten şu garip değneklerden gelmiştir, der. Diğer "
-"bazıları sebebin - şayet bilinen dünyada tekrar ejderha diye bir şey "
-"görülebilirse- bu silahların gerçek bir ejderhaya bile gözdağı verebileceği "
+"bazıları sebebin - şayet bilinen dünyada tekrar ejder diye bir şey "
+"görülebilirse- bu silahların gerçek bir ejdere bile gözdağı verebileceği "
 "üzerinde durur. Bunun asıl sebebi ise büyük cüce hisarlarının bu şöhretli ve"
 " korkulu muhafızlarının silahları olup bu silahlar savaşçıların en "
 "lanetlisini bile tek atışta düşürür."
@@ -988,7 +988,7 @@ msgstr "hançer"
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Dragonguard.cfg:33
 #: data/core/units/dwarves/Dragonguard.cfg:47
 msgid "dragonstaff"
-msgstr "ejderha değneği"
+msgstr "ejder değneği"
 
 #. [unit_type]: id=Dwarvish Masked Fighter, race=dwarf
 #. [unit_type]: id=Dwarvish Fighter, race=dwarf
@@ -1878,9 +1878,9 @@ msgid ""
 "towering things, both immune to and possessed of a tremendous fire."
 msgstr ""
 "Bellibaşlı ejderler, en azından insanların bildiği kadarıyla, gerçek "
-"ejderhalardan sadece giydikleri zırhla değil herşeyleriyle farkı "
-"olabilirler. Kıyamet Ejderleri olarak bilinen bu yaratıklar yüksek kulelerde"
-" yaşarlar. Devasa bir ateş gücüne sahiptirler ve ateşe bağışıktırlar."
+"ejderlerden sadece giydikleri zırhla değil herşeyleriyle farkı olabilirler. "
+"Kıyamet Ejderleri olarak bilinen bu yaratıklar yüksek kulelerde yaşarlar. "
+"Devasa bir ateş gücüne sahiptirler ve ateşe bağışıktırlar."
 
 #. [attack]: type=blade
 #: data/core/units/drakes/Armageddon.cfg:37 data/core/units/drakes/Fire.cfg:30
@@ -2209,7 +2209,7 @@ msgstr ""
 "Cehennem Ejderleri, ateş üfleme ustalarıdır, aşiretlerinde adeta ejder "
 "ataları kadar saygı görür ve korkulurlar. Kendi yarattıkları bir ateş "
 "fırtınası sayesinde zarar göremezler, içten alevleri yaygın olarak "
-"kullanmaları, oymalı kırmızı-altın zırhlarını aslında ejderha oldukları "
+"kullanmaları, oymalı kırmızı-altın zırhlarını aslında ejder oldukları "
 "yanılsamasını artıracak şekilde kırmızı tonlara çekerler."
 
 #. [female]: gender=female
@@ -3391,8 +3391,8 @@ msgstr ""
 "Ejder muhafızlarına cüce kardeşleri tarafından verilen bu ismin nerden "
 "geldiği  tam olarak belli değildir. Bazıları bu isim silah tercihlerinden, "
 "yani ateş ve ölüm püskürten şu garip değneklerden gelmiştir, der. Diğer "
-"bazıları sebebin - şayet bilinen dünyada tekrar ejderha diye bir şey "
-"görülebilirse- bu silahların gerçek bir ejderhaya bile gözdağı verebileceği "
+"bazıları sebebin - şayet bilinen dünyada tekrar ejder diye bir şey "
+"görülebilirse- bu silahların gerçek bir ejdere bile gözdağı verebileceği "
 "üzerinde durur. Bunun asıl sebebi ise büyük cüce hisarlarının bu şöhretli ve"
 " korkulu muhafızlarının silahları olup bu silahlar savaşçıların en lanetini "
 "bile bir atışta düşürür."
@@ -5366,7 +5366,7 @@ msgid ""
 msgstr ""
 "Bazı bilgeler, dünyayı ve insanlığın sıklıkla içinde yaşadığı acı ve sefaletin gerçeğini öğrendikçe, kendilerini teorik çalışma yaşamına kapatamayacaklarını fark ederler. Bunun yerine, bu erkekler ve kadınlar becerilerini herkesin iyiliğine adarlar, sihirlerini hayat vermenin bir aracına dönüştürmek için şifa ve arınma üzerinde çalışırlar. Sık sık dünyayı dolaşırken, hasta ve yaralılara hizmet ederken görülüyorlar. Aynı büyülerin tekrar tekrar kullanılması, büyülerinin yavaş yavaş beyaza dönmesine neden olur ve onlara bilindikleri unvanı kazandırır.\n"
 "\n"
-"Savaşmak için eğitim almamış olmalarına rağmen, büyülü veya doğal olmayan şeylere karşı güçlü bir müttefiktirler."
+"Savaşmak için eğitim almamış olmalarına rağmen, sihirli veya doğal olmayan şeylere karşı güçlü bir müttefiktirler."
 
 #. [special_note]
 #: data/core/units/humans/Mage_White.cfg:23
@@ -5398,7 +5398,7 @@ msgid ""
 "\n"
 "Following a strict code of piety and honor, these men and women work tirelessly to bring life and order to the troubled world in which they live."
 msgstr ""
-"Yıllar süren deneyimin ardından beyaz büyücülerin en dindarları, iyileştirme ve arınmayla ilgili muazzam büyülü güçler geliştirir. Bu yola sıkı bir bağlılıkla, gecenin gölgelerini kovmak için de ondan yardım isteyebilirler. İyi ya da 'beyaz' büyü yoluna olan büyük bağlılıkları genellikle vücutlarının etrafında aydınlatıcı bir hale olarak görülebilir; Hayattaki dehşeti ortadan kaldırmak için her şey başarısız olduğunda insanların sıklıkla akın ettiği bir umut sembolü.\n"
+"Yıllar süren deneyimin ardından beyaz büyücülerin en dindarları, iyileştirme ve arınmayla ilgili muazzam sihirli güçler geliştirir. Bu yola sıkı bir bağlılıkla, gecenin gölgelerini kovmak için de ondan yardım isteyebilirler. İyi ya da 'beyaz' büyü yoluna olan büyük bağlılıkları genellikle vücutlarının etrafında aydınlatıcı bir hale olarak görülebilir; Hayattaki dehşeti ortadan kaldırmak için her şey başarısız olduğunda insanların sıklıkla akın ettiği bir umut sembolü.\n"
 "\n"
 "Katı bir dindarlık ve onur kuralını takip eden bu erkekler ve kadınlar, yaşadıkları sorunlu dünyaya hayat ve düzen getirmek için yorulmadan çalışıyorlar."
 
@@ -6074,7 +6074,7 @@ msgid ""
 msgstr ""
 "Susallar arasında gizemcilik genellikle buna daha yatkın olan denizkızlarına"
 " bırakılır. Kendisini dünyaya barış ve yaşam getirme idealine ve bunu mümkün"
-" kılan sanatlara adayan denizkızlarının dindarlığı, susalların büyülü veya "
+" kılan sanatlara adayan denizkızlarının dindarlığı, susalların sihirli veya "
 "doğal olmayan şeylere karşı korunmalarını sağlayan belli güçler verir."
 
 #. [unit_type]: id=Mermaid Siren, race=merman, gender=female
@@ -6749,9 +6749,9 @@ msgid ""
 "\n"
 "Battling a dragon is said to be the pinnacle of danger itself, fit only for fools, or the bravest of knights."
 msgstr ""
-"Bir ejderha, normalde sadece fantastik masallarda görülen efsanevi bir yaratıktır. Çok nadirdirler ve sadece tarihi olaylarda değil, kent  ve şehirleri tek başlarına imha edebilen bu yaratıklar sadece efsanelerde bulunabilir. Efsaneler, ejderhaların tahribatı hakkında çok bigi verir; büyük güçlerini, hızlarını, doğaüstü kurnazlıklarını ve hepsinden önemlisi, içlerinde yanan büyük ateşi anlatırlar.\n"
+"Bir ejder, normalde sadece fantastik masallarda görülen efsanevi bir yaratıktır. Çok nadirdirler ve sadece tarihi olaylarda değil, kent  ve şehirleri tek başlarına imha edebilen bu yaratıklar sadece efsanelerde bulunabilir. Efsaneler, ejderlerin tahribatı hakkında çok bigi verir; büyük güçlerini, hızlarını, doğaüstü kurnazlıklarını ve hepsinden önemlisi, içlerinde yanan büyük ateşi anlatırlar.\n"
 "\n"
-"Bir ejderhayla savaşmanın tehlikenin doruk noktası olduğu, bunun sadece aptallara veya şövalye cesaretine uygun olduğu söylenir."
+"Bir ejderyle savaşmanın tehlikenin doruk noktası olduğu, bunun sadece aptallara veya şövalye cesaretine uygun olduğu söylenir."
 
 #. [unit_type]: id=Fire Guardian, race=monster
 #: data/core/units/monsters/Fire_Guardian.cfg:4
@@ -7469,7 +7469,7 @@ msgstr ""
 #. [unit_type]: id=Skeletal Dragon, race=undead
 #: data/core/units/monsters/Skeletal_Dragon.cfg:4
 msgid "Skeletal Dragon"
-msgstr "İskelet Ejderha"
+msgstr "İskelet Ejder"
 
 #. [unit_type]: id=Skeletal Dragon, race=undead
 #: data/core/units/monsters/Skeletal_Dragon.cfg:26
@@ -7480,10 +7480,10 @@ msgid ""
 " like nothing more than a pile of bones, but few people who thought that way"
 " lived long enough to change their minds."
 msgstr ""
-"Çok zaman önce yaşayan yaratıkların en güçlülerinden biri korkulan Ejderha "
+"Çok zaman önce yaşayan yaratıkların en güçlülerinden biri korkulan Ejder "
 "sadece kemik ve kara kirişli hale geldi. O öldükten çok sonra ölü "
 "büyücülerinin kara güçleri tarafından kaldırıldı ve şimdi onlara hizmet "
-"ediyor. İskelet Ejderha kemik yığınından başka bir şey gibi gözükmeyebilir, "
+"ediyor. İskelet Ejder kemik yığınından başka bir şey gibi gözükmeyebilir, "
 "ama bu şekilde düşünen çok az insan fikrini değiştirebilecek kadar "
 "yaşayabilmiştir."
 
@@ -7543,7 +7543,7 @@ msgid ""
 "\n"
 "Wyverns are social creatures, usually traveling in pairs or small groups. Their hunting patterns and diet are difficult to discern, for they often work with smaller animals that would appear to be potential prey. That odd behavior may be an adaptation to the harsh desert environments they often inhabit."
 msgstr ""
-"Vahşi Kum Ejderleri, ejderhalara benzeyen büyük sürüngenlerdir, ancak akıllı, büyülü yaratıklar değildir. Bununla birlikte, sadece vahşi hayvanlar olmaları, herhangi bir yolcunun tehdidi görmezden gelmesine neden olmamalıdır, çünkü tehdit edildiklerinde veya aç olduklarında hızlı ve şiddetlidirler.\n"
+"Vahşi Kum Ejderleri, ejderlere benzeyen büyük sürüngenlerdir, ancak akıllı, sihirli yaratıklar değildir. Bununla birlikte, sadece vahşi hayvanlar olmaları, herhangi bir yolcunun tehdidi görmezden gelmesine neden olmamalıdır, çünkü tehdit edildiklerinde veya aç olduklarında hızlı ve şiddetlidirler.\n"
 "\n"
 "Vahşi Kum Ejderleri, genellikle çiftler veya küçük gruplar halinde hareket eden sosyal yaratıklardır. Avlanma şekillerini ve ne ile beslendiklerini ayırt etmek zordur, çünkü genellikle potansiyel av gibi görünen daha küçük hayvanlarla çalışırlar. Bu tuhaf davranış, yaşadıkları zorlu çöl ortamlarına bir uyum çabası olabilir."
 
@@ -8491,8 +8491,8 @@ msgid ""
 "are not to be underestimated."
 msgstr ""
 "Yıllar süren savaş pratiğinden sonra, mızrak fırlatma becerisinde en "
-"yetenekli olan saurian savaşçıları Ciritçilerin saflarına ilerleyebilir. "
-"Daha iyi donanıma ve olağanüstü nişan alma gücüne sahip olan Saurian "
+"yetenekli olan sürüngen savaşçıları Ciritçilerin saflarına ilerleyebilir. "
+"Daha iyi donanıma ve olağanüstü nişan alma gücüne sahip olan Sürüngen "
 "Ciritçileri hafife alınmamalıdır."
 
 #. [unit_type]: id=Saurian Oracle, race=lizard
@@ -9001,14 +9001,14 @@ msgid ""
 "that the rise of an Ancient Lich has not led to the shadows ruling the world"
 " for the rest of time."
 msgstr ""
-"Yeni ortaya çıkan ölümsüz yaşam süresi boyunca yeteri kadar güç toplayan bir"
-" Ölü Büyücü, ruhları çaresizlikle lekeleyen ve dünyaya zarar veren bir kişi "
-"haline gelir. Her zaman sınırsız sayıda ayağa kaldırılmış savaşçı ve yarı "
-"ölü canavar ordusuna komuta etmesinin yanı sıra,  insan ve elf büyücüleri "
-"dehşete düşürecek derecede bir kara büyü ustalığına sahiptir. Böyle bir "
-"varoluş genellikle tarihte karanlık ve kanlı bir bölüme işaret eder ve "
-"böylesi zamanlarda eski kahramanların yorulmak bilmez çabaları sayesinde, "
-"Antik Ölü Büyücülerin yükselişleri durdurulabilmiştir."
+"Yeni ortaya çıkan yarı ölü yaşam süresi boyunca yeteri kadar güç toplayan "
+"bir Ölü Büyücü, ruhları çaresizlikle lekeleyen ve dünyaya zarar veren bir "
+"kişi haline gelir. Her zaman sınırsız sayıda ayağa kaldırılmış savaşçı ve "
+"yarı ölü canavar ordusuna komuta etmesinin yanı sıra,  insan ve elf "
+"büyücüleri dehşete düşürecek derecede bir kara büyü ustalığına sahiptir. "
+"Böyle bir varoluş genellikle tarihte karanlık ve kanlı bir bölüme işaret "
+"eder ve böylesi zamanlarda eski kahramanların yorulmak bilmez çabaları "
+"sayesinde, Antik Ölü Büyücülerin yükselişleri durdurulabilmiştir."
 
 #. [unit_type]: id=Dark Adept, gender=male,female, race=human
 #: data/core/units/undead/Necro_Dark_Adept.cfg:4
@@ -9083,7 +9083,7 @@ msgid ""
 "\n"
 "It is not known, save perhaps by the inner circles of necromancy, whether life is prolonged indefinitely or simply extended. The fact that this question can be raised at all is a testament to the magnitude of what their order has achieved."
 msgstr ""
-"Lich, kara büyünün ilk hedefinin fiziksel vücut bulmuş halidir: ölümsüzlüğe ulaşma arayışı. Yeniden doğuşta çok şey feda edilse de, Lich haline gelen kişi ölümü kendisine gerçekten dehşet veren şeyden aldatır. Çünkü beden solup gitse de akıl korunur ve onu takip eden ruhtur.\n"
+"Umacı, kara büyünün ilk hedefinin fiziksel vücut bulmuş halidir: ölümsüzlüğe ulaşma arayışı. Yeniden doğuşta çok şey feda edilse de, Umacı haline gelen kişi ölümü kendisine gerçekten dehşet veren şeyden aldatır. Çünkü beden solup gitse de akıl korunur ve onu takip eden ruhtur.\n"
 "\n"
 "Yaşamın süresiz olarak mı uzatıldığı, yoksa basitçe uzatılıp uzatılmadığı, belki de ruh çağırmanın iç çevreleri dışında bilinmiyor. Bu sorunun gündeme getirilebilmesi, onların tarikatının başardıklarının büyüklüğünün bir kanıtıdır."
 
@@ -9622,7 +9622,7 @@ msgstr ""
 #~ msgstr ""
 #~ "En yüksek erdeme sahip şövalyeler olan Paladinler, güçlerine krala ve taca değil, bizzat ideallere yemin etmişlerdir; şövalyelik ve iyi olan her şeyin idaresi. Dünyanın ordularında hizmet edebilirler, ancak ilk bağlılıkları genellikle kendi oluşturdukları gruplara aittir; Siyasi ve kültürel sınırları aşan gizli, manastır tarikatları. Hükümdarlar bazen onlara karşı ihtiyatlı davranırlar çünkü Paladinlerin sadakati yalnızca hükümdarın görünürdeki erdemi kadar güçlüdür. Bu, daha karanlık hırslıların ya bu grupları karalamaya ve dağıtmaya çalışmasına ya da daha nadiren bu sadık birlikleri hizmette tutmak için ayrıntılı aldatmacalar yaratmasına yol açtı.\n"
 #~ "\n"
-#~ "Tam paladinler genellikle çoğu orduyu savunan 'Büyük Şövalyeler' kadar korkutucu değildir, ancak yine de birinci sınıf savaşçılardır. Ayrıca bilgelikleri ve dindarlıkları bu savaşçı keşişlere bazı ilginç yetenekler kazandırır; Bir Paladin, büyülü veya doğal olmayan şeylerle savaşmada çok güçlüdür ve çoğu, tıp ve iyileştirme konusunda biraz beceriye sahiptir."
+#~ "Tam paladinler genellikle çoğu orduyu savunan 'Büyük Şövalyeler' kadar korkutucu değildir, ancak yine de birinci sınıf savaşçılardır. Ayrıca bilgelikleri ve dindarlıkları bu savaşçı keşişlere bazı ilginç yetenekler kazandırır; Bir Paladin, sihirli veya doğal olmayan şeylerle savaşmada çok güçlüdür ve çoğu, tıp ve iyileştirme konusunda biraz beceriye sahiptir."
 
 #~ msgid ""
 #~ "These woses are able to command forest plants such as vines and creepers to "

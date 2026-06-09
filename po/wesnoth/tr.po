@@ -932,7 +932,7 @@ msgstr "Zehirli Kama (temiz)"
 #. [item]: id=dragonstatue
 #: data/core/editor/items.cfg:372
 msgid "Dragon Statue"
-msgstr "Ejderha Heykeli"
+msgstr "Ejder Heykeli"
 
 #. [item]: id=flame-sword
 #: data/core/editor/items.cfg:379
@@ -4266,7 +4266,7 @@ msgstr "TP"
 #. [label]: id=label-mp
 #: data/themes/default.cfg:181
 msgid "MP"
-msgstr "HP"
+msgstr "YP"
 
 #. [label]: id=label-def
 #: data/themes/default.cfg:189

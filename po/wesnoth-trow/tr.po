@@ -72,7 +72,7 @@ msgid ""
 "\n"
 msgstr ""
 "Prens Haldric'e Yeşil Ada'nın yok edilmesinde ve Okyanusun ötesinde Wesnoth "
-"Krallığı'nın kendisini kurmasında liderlik edin. Lich-Lord Jevyan'la "
+"Krallığı'nın kendisini kurmasında liderlik edin. Umacı-Lord Jevyan'la "
 "yüzleşme bizi bekliyor..."
 
 #. [campaign]: id=The_Rise_of_Wesnoth
@@ -1280,7 +1280,7 @@ msgstr "Ohh! Tekrar kalkmak üzere!"
 #. [message]: speaker=Cleon
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04a_The_Swamp_of_Esten.cfg:517
 msgid "A prayer for life immortal!"
-msgstr "Ölümsüz bir hayat için duacıyım!"
+msgstr "Yarı Ölü bir hayat için duacıyım!"
 
 #. [unit]: type=Knight, id=Sir Ruddry
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04a_The_Swamp_of_Esten.cfg:542
@@ -2309,8 +2309,8 @@ msgid ""
 msgstr ""
 "Ben bir soylu, Batılıların Prensesi Cessika’yım! Umacıların orklarla "
 "yaptıkları karanlık antlaşma ile ihanete uğradım. Sizin aptal Güney Körfezi "
-"Prensinizin onları ölümsüz cansızlıklarının bittiğine ikna etmesinin bundaki"
-" payı az değil!"
+"Prensinizin onları yarı ölü cansızlıklarının bittiğine ikna etmesinin "
+"bundaki payı az değil!"
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/07_Return_to_Oldwood.cfg:299
@@ -4007,8 +4007,8 @@ msgid ""
 "This is the Elder Prince’s island all right. We had a heck of a time "
 "pacifying the drakes who live here. Oh my, it looks like they’ve rearmed!"
 msgstr ""
-"Burası Yaşlı Prensin adası. Burada yaşayan Ejderhaları yatıştırmak için uzun"
-" bir zaman harcadık. Amanın, görünüşe göre tekrar silahlanmışlar!"
+"Burası Yaşlı Prensin adası. Burada yaşayan Ejderleri yatıştırmak için uzun "
+"bir zaman harcadık. Amanın, görünüşe göre tekrar silahlanmışlar!"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/13_Peoples_in_Decline.cfg:212
@@ -4962,7 +4962,7 @@ msgstr ""
 #. [scenario]: id=17a_The_Dragon
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17a_The_Dragon.cfg:4
 msgid "The Dragon"
-msgstr "Ejderha"
+msgstr "Ejder"
 
 #. [side]: type=Saurian Flanker, id=Irix
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17a_The_Dragon.cfg:40
@@ -5085,7 +5085,7 @@ msgstr "Yine de Ejderi öldürmek zornudayız!"
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17a_The_Dragon.cfg:461
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17a_The_Dragon.cfg:528
 msgid "The dragon’s cave has yielded some treasure!"
-msgstr "Ejderhanın mağarasında define varmış!"
+msgstr "Ejderin mağarasında define varmış!"
 
 #. [message]: speaker=Shek'kahan
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17a_The_Dragon.cfg:486
@@ -5118,7 +5118,7 @@ msgid ""
 "We already killed the dragon. We really don’t need to be spending this much "
 "time chasing down the rest of these lizards."
 msgstr ""
-"Ejderhayı zaten öldürdük. Bu kertenkelelerin kalanının peşine düşerek zaman "
+"Ejderi zaten öldürdük. Bu kertenkelelerin kalanının peşine düşerek zaman "
 "harcamamıza hiç gerek yok."
 
 #. [message]: speaker=Prince Haldric
@@ -5878,7 +5878,7 @@ msgid ""
 msgstr ""
 "Bunu göreceğiz. Güney Körfezinin Aptal Prensi bu savaşı başlatarak yanlış "
 "yaptı, ama asıl canavar sensin. Orkları ucuz cesetler olarak kullanmaya "
-"başladın, hatta ölümsüz cansızlığını korumak için kendi halkını bile feda "
+"başladın, hatta yarı ölü cansızlığını korumak için kendi halkını bile feda "
 "ettin!"
 
 #. [message]: speaker=Lich-Lord Jevyan
@@ -7324,7 +7324,7 @@ msgstr "Eski Bir Dost"
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/utils/trow-nlmsg.cfg:13
 msgid "I still think I should be called ‘Dragonbane’."
-msgstr "Hala ‘Ejderha Avcısı’ olarak adlandırılmam gerektiğini düşünüyorum."
+msgstr "Hala ‘Ejder Avcısı’ olarak adlandırılmam gerektiğini düşünüyorum."
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/utils/trow-nlmsg.cfg:17

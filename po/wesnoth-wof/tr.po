@@ -35,7 +35,7 @@ msgid ""
 "journey towards salvation."
 msgstr ""
 "Bir zamanlar Morogor'un bereketli avlanma alanları dalgaların altına "
-"gömülürken, açlığın yoldan çıkardığı ejderhalar ile hala onurlu olanlar "
+"gömülürken, açlığın yoldan çıkardığı ejderler ile hala onurlu olanlar "
 "arasında savaş beliriyor. Ancak kader rüzgarları değişiyor olabilir, zira "
 "uzak diyarların efsanelerinden ilham alan bir grup genç avcı, türlerini "
 "kurtuluşa doğru bir yolculuğa çıkarmaya hazırlanıyor."
@@ -168,7 +168,7 @@ msgid ""
 " more flights to betray the Ways of Morogor than uphold them."
 msgstr ""
 "Birer birer, en çaresiz sürüler yoldan çıktı. Komşularının bölgelerini işgal"
-" ederek ejderhalar arasındaki uzun barışı bozdular. Birer birer, yoldan "
+" ederek ejderler arasındaki uzun barışı bozdular. Birer birer, yoldan "
 "çıkanlar, Yollar'a uygun olarak onurlu sürüler tarafından yok edildi. Daha "
 "fazlası döndü; ikişer ikişer, sonra dörder dörder. Yakında Morogor'un "
 "Yollarını desteklemekten çok, onlara ihanet eden sürüler olacaktı."
@@ -202,8 +202,8 @@ msgid ""
 "ago. To this wider world we needed return."
 msgstr ""
 "Çünkü Sözlü Anıları, diğer kastların unuttuklarını anlatıyordu. Morogor'un "
-"ötesinde, Büyük Okyanus'un karşısında topraklar var. Ejderhalar çok uzun "
-"zaman önce oradan geldi. Bu daha geniş dünyaya geri dönmemiz gerekiyordu."
+"ötesinde, Büyük Okyanus'un karşısında topraklar var. Ejderler çok uzun zaman"
+" önce oradan geldi. Bu daha geniş dünyaya geri dönmemiz gerekiyordu."
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:49
@@ -774,7 +774,7 @@ msgstr ""
 "Kuşatma aptallıktır.\n"
 "Avımızın bizi engelleyebileceğini düşünmesine izin verelim.\n"
 "\n"
-"İki eşit ejderha kanadı.\n"
+"İki eşit ejder kanadı.\n"
 "İlk kanat ilk şafakta güneydoğu gözetleme kulesine saldırır.\n"
 "Yaratıklar, sadece yarım bir güç olmasına rağmen, üzerine düşmek için toplanacaklar.\n"
 "İkinci şafakta, ikinci kanat kuzeybatıdan zıt yönde saldırır.\n"
@@ -901,7 +901,7 @@ msgid ""
 "Capture Viragar by surrounding him with drakes on all six sides\n"
 "(best do so before Karron’s wing gets to him)\n"
 msgstr ""
-"Viragar'ı altı taraftan ejderhalarla kuşatarak yakalayın\n"
+"Viragar'ı altı taraftan ejderlerle kuşatarak yakalayın\n"
 "(Karron'un kanadı ona ulaşmadan önce yapmak en iyisidir)\n"
 
 #. [objective]: condition=win
@@ -964,7 +964,7 @@ msgstr ""
 #. By ‘wyrms’ he is referring to the drakes in a belittling way.
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:330
 msgid "These vomiting wyrms again!? I HATE THEM!!!"
-msgstr "Yine mi bu kusan ejderhalar!? ONLARDAN NEFRET EDİYORUM!!!"
+msgstr "Yine mi bu kusan ejderler!? ONLARDAN NEFRET EDİYORUM!!!"
 
 #. [message]: speaker=Viragar
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:340
@@ -973,7 +973,7 @@ msgid ""
 "\n"
 "Pull our boats back and keep the fire breathers off them!"
 msgstr ""
-"Toplanın! Toplanın! Görev yerlerinize geçin, pislikler! Ejderhalar üzerimize yağıyor!\n"
+"Toplanın! Toplanın! Görev yerlerinize geçin, pislikler! Ejderler üzerimize yağıyor!\n"
 "\n"
 "Teknelerimizi geri çekin ve ateş püskürtenleri onlardan uzak tutun!"
 
@@ -984,9 +984,9 @@ msgid ""
 "\n"
 "Wyrms breathe fire... boats are wood... fire is BAD for wood."
 msgstr ""
-"Sana teknelerimi o ejderhalardan uzak tutmanı söylemiştim, işe yaramaz PİSLİK!\n"
+"Sana teknelerimi o ejderlerden uzak tutmanı söylemiştim, işe yaramaz PİSLİK!\n"
 "\n"
-"Ejderhalar ateş püskürür... tekneler ahşaptır... ateş ahşap için KÖTÜDÜR."
+"Ejderler ateş püskürür... tekneler ahşaptır... ateş ahşap için KÖTÜDÜR."
 
 #. [message]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:374
@@ -994,7 +994,7 @@ msgid ""
 "Oh, fire breathing ‘wyrms’ ... thought you meant protect the boats from woodworms.\n"
 "That makes more sense; never heard of fire breathing woodworms."
 msgstr ""
-"Ah, ateş püskürten 'ejderhalar'... tekneleri ağaç kurtlarından korumak istediğini sanmıştım.\n"
+"Ah, ateş püskürten 'ejderler'... tekneleri ağaç kurtlarından korumak istediğini sanmıştım.\n"
 "Bu daha mantıklı; hiç ateş püskürten ağaç kurtları duymadım."
 
 #. [message]: speaker=Viragar
@@ -1083,21 +1083,21 @@ msgid ""
 "\n"
 "26th day of the Eastward Oceanic Expedition</i>"
 msgstr ""
-"...ejderhalar arasında korkunç bir savaşın hızla yaklaştığını.\n"
+"...ejderler arasında korkunç bir savaşın hızla yaklaştığını.\n"
 "\n"
 "Her uçuşa bir 'dominant' liderlik eder ve üç rütbeli intendant tarafından danışmanlık yapılır. Bunların altında, dominantlığa yükselişleri bir yarışmayla belirlenen, prensliğe benzer bir konuma sahip adaylar bulunur. Ayrıca uçuşları kesen, dört kasttan oluşan bir kast sistemi de vardır—\n"
 "\n"
-"— Yakıcılar stratejik düşünürlerdir ve diğer ejderhalara özel bir ilgi gösterirler. Doğal liderlerdir. Ancak gururlu ve yenilgiye yol açan küçük şeyleri gözden kaçırmaya eğilimlidirler.\n"
+"— Yakıcılar stratejik düşünürlerdir ve diğer ejderlere özel bir ilgi gösterirler. Doğal liderlerdir. Ancak gururlu ve yenilgiye yol açan küçük şeyleri gözden kaçırmaya eğilimlidirler.\n"
 "\n"
-"— Çarpışmacılar, Morogor Yollarını adil bir şekilde uygulamak için herkes tarafından güvenilir. Ejderha kuluçkahanelerini ve ayrıca seramik tabletlere işlenmiş gizli bilgi kütüphanelerini korurlar. Bu sırları sadece bizden değil, <i>diğer kastlardan</i> da saklarlar.\n"
+"— Çarpışmacılar, Morogor Yollarını adil bir şekilde uygulamak için herkes tarafından güvenilir. Ejder kuluçkahanelerini ve ayrıca seramik tabletlere işlenmiş gizli bilgi kütüphanelerini korurlar. Bu sırları sadece bizden değil, <i>diğer kastlardan</i> da saklarlar.\n"
 "\n"
 "— Savaşçılar cesurdur. Hızlı düşünürler ama kısa görüşlülük noktasına kadar kararlıdırlar. Buradaki en büyük sorunumuz onlar.\n"
 "\n"
 "— Süzülenler, diğer kastlar tarafından bilinmeyen bir tür sözlü tarih olan 'Konuşulan Anılar'a dalmış meraklı bir zihne sahiptirler. İzci, haberci ve avlanma alanlarının sorumluları olarak Morogor'un battığını bilirler. Ancak diğer kastlar uyarılarını görmezden gelir.\n"
 "\n"
-"Genç bir süzülen olan Reşa, kastının Morogor'dan kaçmayı umduğunu söyledi ve buraya gelişimizin onları cesaretlendirmiş olabileceğinden şüpheleniyorum. Neyse ki, Jessene tüm navigasyon haritalarını kilit altında tutuyor. Eğer tutmasaydı, Güney Körfezi üzerinde ejderha kanatlarının çırpınışı duyulabilirdi!\n"
+"Genç bir süzülen olan Reşa, kastının Morogor'dan kaçmayı umduğunu söyledi ve buraya gelişimizin onları cesaretlendirmiş olabileceğinden şüpheleniyorum. Neyse ki, Jessene tüm navigasyon haritalarını kilit altında tutuyor. Eğer tutmasaydı, Güney Körfezi üzerinde ejder kanatlarının çırpınışı duyulabilirdi!\n"
 "\n"
-"Jessene, halkının bu ejderhalara aşina olduğunu söylüyor. Kitapları, Wesfolk'u uzak batıdan süren böyle bir canavar ırkını anlatıyor. Ve süzülenlerin de Morogor'un çok ötesinde yaşayan ejderhalar hakkında hikayeleri var. Reşa bana bu hikayelerden birkaçını anlattı, müzakeremiz savaşçı kastından gelen başka bir isyanla bozulmadan önce.\n"
+"Jessene, halkının bu ejderlere aşina olduğunu söylüyor. Kitapları, Wesfolk'u uzak batıdan süren böyle bir canavar ırkını anlatıyor. Ve süzülenlerin de Morogor'un çok ötesinde yaşayan ejderler hakkında hikayeleri var. Reşa bana bu hikayelerden birkaçını anlattı, müzakeremiz savaşçı kastından gelen başka bir isyanla bozulmadan önce.\n"
 "\n"
 "<i>― Güney Körfezi Prensi Leodren,\n"
 "\n"
@@ -1487,7 +1487,7 @@ msgstr ""
 "Nihayet, okyanusun kendisi kadar engin bir diyar olan Büyük Diyar.\n"
 "Aynı derecede gizemli.\n"
 "\n"
-"Sözlü Anılar bize ejderhaların bir zamanlar Kargaşa Zamanı'na kadar orada geliştiğini anlatır.\n"
+"Sözlü Anılar bize ejderlerin bir zamanlar Kargaşa Zamanı'na kadar orada geliştiğini anlatır.\n"
 "Neredeyse hepsi bilinmeyen bir felakette yok olduğunda."
 
 #. [part]
@@ -1609,7 +1609,7 @@ msgstr "Gorlack'ın yenilgisi"
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:231
 msgid "You must recruit one drake from each caste before recruiting any more"
-msgstr "Daha fazla ejderha almadan önce her kasttan birer ejderha almalısın"
+msgstr "Daha fazla ejder almadan önce her kasttan birer ejder almalısın"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:234
@@ -1622,7 +1622,7 @@ msgid ""
 "Any drake you lose in combat will not be killed and may be recalled in "
 "future scenarios"
 msgstr ""
-"Savaşta kaybettiğiniz hiçbir ejderha ölmeyecek ve gelecekteki senaryolarda "
+"Savaşta kaybettiğiniz hiçbir ejder ölmeyecek ve gelecekteki senaryolarda "
 "geri çağrılabilir"
 
 #. [note]
@@ -1633,8 +1633,8 @@ msgid ""
 " it as long as that drake is level 2 or higher"
 msgstr ""
 "Bundan böyle, Gorlack'ın savaşçı ve dövüşçü kastlarından sadık intendantları"
-" olacak; eğer biri ölürse, aynı kasttan bir sonraki geri çağrılan ejderha, o"
-" ejderha 2. seviye veya daha yüksek olduğu sürece onun yerini alacak"
+" olacak; eğer biri ölürse, aynı kasttan bir sonraki geri çağrılan ejder, o "
+"ejder 2. seviye veya daha yüksek olduğu sürece onun yerini alacak"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:252
@@ -1702,7 +1702,7 @@ msgid ""
 "\n"
 "Worse than these all— your hearts bleed fear!"
 msgstr ""
-"Ejderhalar!\n"
+"Ejderler!\n"
 "\n"
 "Tüm kastlardan yoldaşlar, beni dinleyin!\n"
 "\n"
@@ -2115,14 +2115,14 @@ msgstr ""
 #. [message]: speaker=Nemas
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:212
 msgid "My liege! Drakes have made landfall to your south!"
-msgstr "Efendim! Ejderhalar güneyinize karaya çıktı!"
+msgstr "Efendim! Ejderler güneyinize karaya çıktı!"
 
 #. [message]: speaker=Poseira
 #. By ‘rocks’ he is referring to the Morogor Archipelago in a belittling way.
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:217
 msgid "Drakes?! By the gods, how can they be out this far from their rocks?"
 msgstr ""
-"Ejderhalar mı?! Tanrılar aşkına, kayalıklarından bu kadar uzakta nasıl "
+"Ejderler mı?! Tanrılar aşkına, kayalıklarından bu kadar uzakta nasıl "
 "olabilirler?"
 
 #. [message]: speaker=Shussek
@@ -2256,7 +2256,7 @@ msgstr "Bunu düşüneceğim."
 #. [message]: speaker=Nemas
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:310
 msgid "My liege, permission to engage the drakes?"
-msgstr "Efendim, ejderhalarla çatışmaya girme izni?"
+msgstr "Efendim, ejderlerle çatışmaya girme izni?"
 
 #. [message]: speaker=Poseira
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:314
@@ -2856,9 +2856,9 @@ msgid ""
 "\n"
 "Hail, dragons! (<i>rapid clicking</i>) Down here!"
 msgstr ""
-"Demek bunlar Ateş Ejderhaları, ha Zedrix?\n"
+"Demek bunlar Ateş Ejderleri, ha Zedrix?\n"
 "\n"
-"Selam, ejderhalar! (<i>hızlı tıklama</i>) Buraya!"
+"Selam, ejderler! (<i>hızlı tıklama</i>) Buraya!"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:602
@@ -2871,7 +2871,7 @@ msgid ""
 "Hail-loooo! Dragons, can you ssspeak? Zedrix, you sssaid dragons can "
 "ssssspeak!"
 msgstr ""
-"Selam-laaaam! Ejderhalar, konuşabiliyor musunuz? Zedrix, ejderhaların "
+"Selam-laaaam! Ejderler, konuşabiliyor musunuz? Zedrix, ejderlerin "
 "konuşabildiğini söylemiştin!"
 
 #. [message]: speaker=Gorlack
@@ -2917,7 +2917,7 @@ msgid ""
 "We would be wise to secure all settlements before then."
 msgstr ""
 "Haldric yaratıkları daha önce iki kez bir Morogor adasını ele geçirdi.\n"
-"Bunu yapmış olmak için, neredeyse ejderha benzeri bir kurnazlığa sahip olmalılar.\n"
+"Bunu yapmış olmak için, neredeyse ejder benzeri bir kurnazlığa sahip olmalılar.\n"
 "Yenilginin yaklaştığını hissederlerse...\n"
 "\n"
 "İçindeki erzak depolarını bize vermemek için yerleşim yerlerini ateşe verebilirler.\n"
@@ -3190,7 +3190,7 @@ msgstr "Çok erken gelmişlerdi..."
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:37
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:63
 msgid "Drakes"
-msgstr "Ejderhalar"
+msgstr "Ejderler"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:137
@@ -3214,7 +3214,7 @@ msgstr ""
 "\n"
 "Vladnir bana burada öğüt verdi.\n"
 "Bu yüzden bana bahşettiğin gençleri diğer uçuşlarla takas ettim,\n"
-"yolculuğu yapabilecek en iyi ejderhalar karşılığında."
+"yolculuğu yapabilecek en iyi ejderler karşılığında."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:153
@@ -3272,7 +3272,7 @@ msgstr ""
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:195
 msgid "They are ‘saurians’."
-msgstr "Onlar 'saurianlar'."
+msgstr "Onlar 'sürüngenler'."
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:199
@@ -3338,7 +3338,7 @@ msgid ""
 msgstr ""
 "Saçmalık değil! Gördüğün yaratıklar kendilerine 'insan' diyorlar. Onlar hantal, kaba, iğrenç, kurbağa derisi gibi nemli derili canavarlar. Onlar, derin, karanlık Wesmere Ormanı'nın elfleri tarafından dünyanın altından çağrılmış kiralık askerler.\n"
 "\n"
-"Bu insanlar tüm klanımı katlettiler! Kuluçka yerimin kalıntıları üzerine devasa Elensse Kalesi'ni inşa ettiler. Dua edin ejderhalar, bu iğrençliklerin üzerine sadece ateş yağdırın!"
+"Bu insanlar tüm klanımı katlettiler! Kuluçka yerimin kalıntıları üzerine devasa Elensse Kalesi'ni inşa ettiler. Dua edin ejderler, bu iğrençliklerin üzerine sadece ateş yağdırın!"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:256
@@ -3540,8 +3540,8 @@ msgid ""
 "Saurians attacking from the north\n"
 msgstr ""
 "Takviyeleri çağırmak için herhangi birini işaret fişeğine taşı:\n"
-"Batıdan saldıran deneyimli ejderhalarla Karron\n"
-"Kuzeyden saldıran Saurianlar\n"
+"Batıdan saldıran deneyimli ejderlerle Karron\n"
+"Kuzeyden saldıran Sürüngenler\n"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:160
@@ -3551,7 +3551,7 @@ msgstr "Çatışmacılar tekrar işe alınabilir ve geri çağrılabilir"
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:163
 msgid "Saurians can be recruited and recalled now"
-msgstr "Saurianlar artık işe alınabilir ve geri çağrılabilir"
+msgstr "Sürüngenler artık işe alınabilir ve geri çağrılabilir"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:186
@@ -3616,12 +3616,12 @@ msgstr "Kaç ork var? Henüz karaya çıktılar mı?"
 #. [message]: speaker=Iryn
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:246
 msgid "Not orcs, sir, dragons."
-msgstr "Ork değil, efendim, ejderhalar."
+msgstr "Ork değil, efendim, ejderler."
 
 #. [message]: speaker=Vorlyan
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:250
 msgid "Dragons?!"
-msgstr "Ejderhalar mı?!"
+msgstr "Ejderler mı?!"
 
 #. [message]: speaker=Iryn
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:256
@@ -3656,7 +3656,7 @@ msgid ""
 "situation directly to King Haldric the Dragonbane."
 msgstr ""
 "Sonra kendin nehir yukarı, Fort Weldyn'e kadar git. Durumumuz hakkında "
-"doğrudan Ejderha Katili Kral Haldric'e haber ver."
+"doğrudan Ejder Katili Kral Haldric'e haber ver."
 
 #. [message]: speaker=Iryn
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:279
@@ -3710,7 +3710,7 @@ msgid ""
 "more!"
 msgstr ""
 "Fort Elenssse yanıyor, sonsuza dek gitti! Kuluçka yerim özgür ve halkım "
-"burada tekrar yaşamaya dönebilir. Saurian İmparatorluğu on üç bin yıl daha "
+"burada tekrar yaşamaya dönebilir. Sürüngen İmparatorluğu on üç bin yıl daha "
 "sürecek!"
 
 #. [message]: speaker=Gorlack
@@ -3862,7 +3862,7 @@ msgid ""
 msgstr ""
 "Görüyorum ki aklın henüz yerine gelmemiş, Resha!\n"
 "\n"
-"Dominant Morogor kendi akrabalarına ihanet etti; ittifak yemini ettiği ejderhalara saldırdı!"
+"Dominant Morogor kendi akrabalarına ihanet etti; ittifak yemini ettiği ejderlere saldırdı!"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:64
@@ -3875,7 +3875,7 @@ msgid ""
 "I should have long ago Spoken the whole of this Memory to you.\n"
 "Yet I had concern it was more than you could believe by word alone."
 msgstr ""
-"Hayır, saldırdığı ejderhalar değildi...\n"
+"Hayır, saldırdığı ejderler değildi...\n"
 "\n"
 "Morogor'un ihanet ettiği o müttefikler, yabancı bir türün yaratıklarıydı.\n"
 "Belki de avcılarımızın şimdi çimenli düzlüklerde kovaladığı türün aynısıydı.\n"
@@ -3916,7 +3916,7 @@ msgid ""
 msgstr ""
 "Yine de gerçekten öyleydi.\n"
 "\n"
-"Ejderhalar bir zamanlar ihtiyaç anında birçok soylu yaratığı müttefik sayarlardı — hızlı ayaklılar, ejderha akrabaları, zanaatkarlar, yılanlar, büyücüler.\n"
+"Ejderler bir zamanlar ihtiyaç anında birçok soylu yaratığı müttefik sayarlardı — hızlı ayaklılar, ejder akrabaları, zanaatkarlar, yılanlar, büyücüler.\n"
 "\n"
 "Aynı şekilde korkunç doğaya sahip olanlar da vardı — Orda, Jotnar... Periler.\n"
 "Korkarım ki bu ırklardan biri, halkımızı bu Büyük Diyar'dan çok uzun zaman önce süpürenlerdir."
@@ -3986,7 +3986,7 @@ msgstr ""
 "\n"
 "Atalarımızın bilgelikleri, güçleri, hikayeleri.\n"
 "\n"
-"Bunlar bir zamanlar tüm ejderhalar arasında özgürce paylaşılırdı.\n"
+"Bunlar bir zamanlar tüm ejderler arasında özgürce paylaşılırdı.\n"
 "Ta ki sürgünümüzle acı çeken Dominant Morogor, bunların anlatılmasını yasaklayana kadar.\n"
 "Yalnızca süzülen kastınız buna uymadı.\n"
 "Şerefimiz üzerine, biz uyduk.\n"
@@ -4233,7 +4233,7 @@ msgid ""
 "wildfires (due to enchanted leaf litter)"
 msgstr ""
 "Ormanda duran herhangi birine yapılan ateş saldırıları, geniş çaplı orman "
-"yangınlarını tetikleyecektir (büyülü yaprak döküntüsü nedeniyle)"
+"yangınlarını tetikleyecektir (sihirli yaprak döküntüsü nedeniyle)"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:272
@@ -4707,7 +4707,7 @@ msgstr "Garip Yaratıklar"
 #. [leader]: id=Lich-Lord Selmar, type=Ancient Lich
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:74
 msgid "Lich-Lord Selmar"
-msgstr "Lich-Lord Selmar"
+msgstr "Umacı-Lord Selmar"
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:107
@@ -4754,7 +4754,7 @@ msgid ""
 "To command ressspect, our alliance with dragons mussst have <b>sssssome</b> "
 "name!"
 msgstr ""
-"Ssaygı uyandırmak için, ejderhalarla ittifakımızın <b>mutlaka</b> bir adı "
+"Ssaygı uyandırmak için, ejderlerle ittifakımızın <b>mutlaka</b> bir adı "
 "olmalı!"
 
 #. [message]: speaker=Zedrix
@@ -4866,7 +4866,7 @@ msgstr "Dikkatli ol, Arinexis, dikkatli ol! Ateş tozu etrafa saçılmış."
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:370
 msgid "Dragons, do not breath on thisss dussst!"
-msgstr "Ejderhalar, bu toza nefes vermeyin!"
+msgstr "Ejderler, bu toza nefes vermeyin!"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:374
@@ -4991,7 +4991,7 @@ msgstr ""
 "\n"
 "Ancak, oduncularımız ormandan daha fazla mantar yemi toplayamıyorlar, çünkü elfler onları rahatsız ediyor ve lodestane madenleri damarlarının sonuna yaklaşıyor.\n"
 "\n"
-"Belki de bu mağarayı o tuhaf “lich” yaratığına satmalıyım. Ne olursa olsun umurumda değil; eğer elfler geri gelirse, o zaman onunla uğraşırlar."
+"Belki de bu mağarayı o tuhaf “umacı” yaratığına satmalıyım. Ne olursa olsun umurumda değil; eğer elfler geri gelirse, o zaman onunla uğraşırlar."
 
 #. [message]: speaker=Lich-Lord Selmar
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:579
@@ -5129,7 +5129,7 @@ msgid ""
 msgstr ""
 "<i>*dilini şıklatır*</i>\n"
 "\n"
-"Ejderhalar! Konuşan kemiklerin arkasındaki kapı taze hava kokuyor. Dağdan geçiş yolu bu. O kapıyı kırmalıyız! Acele edin, ejderhalar!"
+"Ejderler! Konuşan kemiklerin arkasındaki kapı taze hava kokuyor. Dağdan geçiş yolu bu. O kapıyı kırmalıyız! Acele edin, ejderler!"
 
 #. [message]: speaker=Lich-Lord Selmar
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:667
@@ -5461,7 +5461,7 @@ msgid ""
 "mere liar could not speak so bravely before a dragon."
 msgstr ""
 "Gerçekten de cesursun, küçük sürüngen. Bana söylediklerin yanlış, yine de "
-"sıradan bir yalancı bir ejderhanın önünde bu kadar cesurca konuşamazdı."
+"sıradan bir yalancı bir ejderin önünde bu kadar cesurca konuşamazdı."
 
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:522
@@ -5788,8 +5788,8 @@ msgid ""
 "Sae whit hae we ’ere? Dragons... Sae mony dragons mah een cannae hawp whit "
 "thay’re seeing."
 msgstr ""
-"Peki burada neyimiz var? Ejderhalar... Gözlerim gördüklerine inanamıyor, o "
-"kadar çok ejderha var ki."
+"Peki burada neyimiz var? Ejderler... Gözlerim gördüklerine inanamıyor, o "
+"kadar çok ejder var ki."
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:498
@@ -5800,7 +5800,7 @@ msgstr "Konuşuyor ama kelime duymuyorum... derinlik sakinleri sarhoş olmalı."
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:504
 msgid "It sssaid “dragons” and... <i>sssssomething</i> about dragons."
-msgstr "“Ejderhalar” dedi ve... ejderhalar hakkında <i>bir şssşeyler</i>."
+msgstr "“Ejderler” dedi ve... ejderler hakkında <i>bir şssşeyler</i>."
 
 #. [message]: speaker=Thurdakor
 #. Here "you-know-what" is being used as a euphemism for 'raw sewage'.
@@ -5818,8 +5818,8 @@ msgid ""
 " come spring, wull mak’ fur a stowed oot Knalgan gusher, if ye ken whit ah "
 "mean."
 msgstr ""
-"Pekala, şimdi beni dinleyin, ejderhalar. Tüm kış boyunca donmuş yamaçlara "
-"'ne olduğunu bilirsiniz'i boşaltıp durmanıza izin veremem, ki bu, bahar "
+"Pekala, şimdi beni dinleyin, ejderler. Tüm kış boyunca donmuş yamaçlara 'ne "
+"olduğunu bilirsiniz'i boşaltıp durmanıza izin veremem, ki bu, bahar "
 "geldiğinde, ne demek istediğimi anlarsanız, tıkanmış bir Knalgan "
 "fışkırmasına neden olacaktır."
 
@@ -5869,7 +5869,7 @@ msgid ""
 "axes."
 msgstr ""
 "Pekala, o zaman bu kadar, küçük dostlar. Hepiniz ne kadar makul olmaya "
-"çalıştığımı gördünüz. Ama ejderhalarla mantık yürütmek olmaz. Onlar sadece "
+"çalıştığımı gördünüz. Ama ejderlerle mantık yürütmek olmaz. Onlar sadece "
 "baltalarımızın ısırığını bilirler."
 
 #. [message]: speaker=Thurdakor
@@ -5942,7 +5942,7 @@ msgstr ""
 #. "You're not easy to haggle with, dragon."
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:651
 msgid "Yer nae easy tae haggle with, dragon."
-msgstr "Seninle pazarlık etmek kolay değil, ejderha."
+msgstr "Seninle pazarlık etmek kolay değil, ejder."
 
 #. [message]: speaker=Thurdakor
 #. "So be it, a deal we have. I will even set free my little pet dragon for
@@ -6142,7 +6142,7 @@ msgstr ""
 "\n"
 "Sürgün edilmiş atalarımız gibi, en kısa yoldan gururla uçarız.\n"
 "Önümüze çıkan her yaratığı, hatta birbirimizi bile keseriz.\n"
-"Kadim düşmanlardan biri haline geliriz — Orda, Jotnar, Periler... Ejderhalar.\n"
+"Kadim düşmanlardan biri haline geliriz — Orda, Jotnar, Periler... Ejderler.\n"
 "Tıpkı bizden önceki Egemen Morogor gibi yenilgiyle şaşırana dek.\n"
 "Çünkü tüm korkudan kaçınırız.\n"
 "\n"
@@ -6407,7 +6407,7 @@ msgstr "???"
 #. [message]: speaker=unit
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:553
 msgid "Thisss ssstone has drake markingsss, maybe one of them can read it."
-msgstr "Bu taşta ejderha işaretleri var, belki biri okuyabilir."
+msgstr "Bu taşta ejder işaretleri var, belki biri okuyabilir."
 
 #. [message]: speaker=unit
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:570
@@ -6480,15 +6480,15 @@ msgstr ""
 "\n"
 "Uzakta bir gürültü vardı. Ufkun ötesinden duman bulutları yükseldi. Sonra yavaşça göründüler, iki devasa metal şampiyon.\n"
 "\n"
-"Ejderha otomatı ilk olarak göründü, çünkü ikisinden daha hızlıydı. <i>Ejderha soyuna</i> belirsiz bir benzerlik taşıyordu, ancak kanatsız, kuyruksuzdu. Dört bacağının altında ayak yerine tekerlekler vardı. Metal kabuğu altın güneş ışığı gibi parıldarken tehditkar siyah bir duman soluyordu.\n"
+"Ejder otomatı ilk olarak göründü, çünkü ikisinden daha hızlıydı. <i>Ejder soyuna</i> belirsiz bir benzerlik taşıyordu, ancak kanatsız, kuyruksuzdu. Dört bacağının altında ayak yerine tekerlekler vardı. Metal kabuğu altın güneş ışığı gibi parıldarken tehditkar siyah bir duman soluyordu.\n"
 "\n"
 "Sonra <i>zanaatkar</i> otomatı göründü. Yaratıcıları gibi, daha küçük, daha yavaştı. Onu taşıyan tekerlekler, ilerledikçe yere değmek için dönen ilginç metal ayaklarla kaplıydı. Güzel, neredeyse bulut gibi bir duman soluyordu.\n"
 "\n"
 "Otomatlar arenadaki yerlerini aldılar, birbirlerine bakıyorlardı. İç mekanizmaları durmaksızın gürültü yapıyordu. Düelloyu başlatma çağrısı yapıldı.\n"
 "\n"
-"Sağır edici bir çığlıkla, ejderha otomatı öne doğru atılırken alev duvarları püskürttü. Hatta kum bile önünde yanıyor gibiydi, karanlık, iğrenç bir duman arenanın yarısını kapladı. Sonra <i>zanaatkar</i> otomatı dumanın içinden, rakibinin yanına doğru çıktı. Döner çekiciyle kurbanından bir tekerleği kopardı. Buna rağmen, ejderha otomatı dönmeyi başardı, sonra düşmanının kumanda odasını, içindeki zavallı <i>zanaatkarlarla</i> birlikte ezmek için koçbaşıyla geri vurdu.\n"
+"Sağır edici bir çığlıkla, ejder otomatı öne doğru atılırken alev duvarları püskürttü. Hatta kum bile önünde yanıyor gibiydi, karanlık, iğrenç bir duman arenanın yarısını kapladı. Sonra <i>zanaatkar</i> otomatı dumanın içinden, rakibinin yanına doğru çıktı. Döner çekiciyle kurbanından bir tekerleği kopardı. Buna rağmen, ejder otomatı dönmeyi başardı, sonra düşmanının kumanda odasını, içindeki zavallı <i>zanaatkarlarla</i> birlikte ezmek için koçbaşıyla geri vurdu.\n"
 "\n"
-"Kaderi bir darbe gibi görünüyordu. Ta ki <i>zanaatkarın</i> otomatı geri yuvarlanana, ateş asasıyla nişan alana, sonra ejderhanın alev püskürtücüsünü koparana kadar. Otomatları alev alınca, çarpışmacı kumandacılar enkazından çıktılar. Muzaffer rakiplerini onurlandırmak için <i>zanaatkar</i> otomatına gittiler. Ancak övgülerini almak için ondan hiçbir <i>zanaatkar</i> çıkmadı. <i>Zanaatkarların</i> sık sık yaptığı gibi böbürlenmek için de.\n"
+"Kaderi bir darbe gibi görünüyordu. Ta ki <i>zanaatkarın</i> otomatı geri yuvarlanana, ateş asasıyla nişan alana, sonra ejderin alev püskürtücüsünü koparana kadar. Otomatları alev alınca, çarpışmacı kumandacılar enkazından çıktılar. Muzaffer rakiplerini onurlandırmak için <i>zanaatkar</i> otomatına gittiler. Ancak övgülerini almak için ondan hiçbir <i>zanaatkar</i> çıkmadı. <i>Zanaatkarların</i> sık sık yaptığı gibi böbürlenmek için de.\n"
 "\n"
 "Bir <i>zanaatkar</i> rün ustası arenaya doğru yürüdü, giderken gülüyordu. Şaşkın çarpışmacılara otomatının içinde kimsenin olmadığını, iç mekanizmalarını kimsenin kullanmadığını söyledi. Glif yapımıyla bu şeye kendi İradesini bahşetmişti. Otomata tekrar dönen çarpışmacılar, ona mütevazı bir baş selamı verdiler.\n"
 "\n"
@@ -6725,8 +6725,8 @@ msgid ""
 "scattered far across the Greatland as more poured over from Morogor to "
 "supplant them."
 msgstr ""
-"Sayısız ejderha, ihtiyaçlarıyla Büyük Diyar'ı kavurmak için Morogor'dan akın"
-" etti. Avlarından sağ kurtulan yaratıklar, ölümcül bir kurnazlıkla büyük "
+"Sayısız ejder, ihtiyaçlarıyla Büyük Diyar'ı kavurmak için Morogor'dan akın "
+"etti. Avlarından sağ kurtulan yaratıklar, ölümcül bir kurnazlıkla büyük "
 "ordular oluşturdular. Kısa süre sonra, tüm uçuşlar kendi avlarına yenik "
 "düştü. Diğerleri, yerlerini almak için Morogor'dan daha fazlası akın ettikçe"
 " Büyük Diyar'ın dört bir yanına dağıldı."
@@ -6892,7 +6892,7 @@ msgstr ""
 "kuşlardır. Delici, bronz gagaları en sert kemiği bile çiğneyebilir ve güçlü "
 "kanat açıklıkları, kurbanlarına topluca fırlatabilecekleri bıçak "
 "keskinliğinde tüylerle kaplıdır. Çoğu insan bu kuşun çağrısından kaçarken, "
-"bazı ejderhalar onları avlamak için üstün güçlerini kullanır."
+"bazı ejderler onları avlamak için üstün güçlerini kullanır."
 
 #. [attack]: type=pierce
 #: data/campaigns/Winds_of_Fate/units/Stymphalian.cfg:73
@@ -6907,7 +6907,7 @@ msgstr "bıçaklı tüyler"
 #. [unit_type]: id=Wyrm, race=monster
 #: data/campaigns/Winds_of_Fate/units/Wyrm.cfg:5
 msgid "Wyrm"
-msgstr "Ejderha"
+msgstr "Ejder"
 
 #. [unit_type]: id=Wyrm, race=monster
 #: data/campaigns/Winds_of_Fate/units/Wyrm.cfg:9
@@ -6917,9 +6917,9 @@ msgid ""
 "or dragon. Mature Wyrms have excellent control of their fire breath attack, "
 "as if they are themselves miniature dragons."
 msgstr ""
-"Ejderhalar garip yaratıklardır; kanatlı, ancak bacakları olmayan tıknaz "
+"Ejderler garip yaratıklardır; kanatlı, ancak bacakları olmayan tıknaz "
 "yılanlardır. Nispeten nadirdirler ve varlıkları bazı eksantrik büyücülere "
-"veya ejderhalara atfedilir. Olgun Ejderhalar, sanki kendileri minyatür "
+"veya ejderlere atfedilir. Olgun Ejderler, sanki kendileri minyatür "
 "ejderhalarmış gibi ateş nefesi saldırılarını mükemmel bir şekilde kontrol "
 "ederler."
 

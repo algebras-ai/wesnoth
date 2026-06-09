@@ -1692,7 +1692,7 @@ msgid ""
 "I come with an offer. An offer of training in the magical arts. An offer of "
 "learning, adventure, and escape from this town."
 msgstr ""
-"Bir teklifle geldim. Büyülü sanatlarda bir eğitim teklifi. Bir öğrenim, "
+"Bir teklifle geldim. Sihirli sanatlarda bir eğitim teklifi. Bir öğrenim, "
 "macera ve bu kasabadan kaçış önerisi."
 
 #. [message]: speaker=Carcyn Fisher
@@ -2482,7 +2482,7 @@ msgid ""
 " Recently, I have learned where to find him."
 msgstr ""
 "Memnuniyetle. Sanırım tarih dersinde Krelanu'daki büyük büyücüyü okudun. "
-"Kral I. Haldrik ile savaştı. Yeşil Adanın ölümsüz beyleriyle doğrudan "
+"Kral I. Haldrik ile savaştı. Yeşil Adanın yarı ölü beyleriyle doğrudan "
 "karşılaştığı için, şüphesiz onların yöntemleri hakkında bizden daha fazla "
 "şey biliyor. Son zamanlarda nerede bulunduğunu öğrendim."
 
@@ -3268,7 +3268,7 @@ msgid ""
 msgstr ""
 "21 VI, 23 VY\n"
 "\n"
-"Bir süre tünel boyunca son derece karanlıkta ilerledik. Karanlık hiçbir zorluk getirmedi: Yarasalar mükemmel bir şekilde yollarını buluyordu ve tüm sihirbazlar tam olarak nerede olduklarını hissedebiliyorlardı. Ras-Taban ve ben konuştuk. Planı Elensefar'a gitmek. Şehri yıkıp, kendini ölümsüz bir imparatorluğun hükümdarı ilan edebileceğine inanıyor. Vatandaşlar yarıölü olarak ister istemez ona katılacak ve gönüllü olmayanlar geçişin doğasından ötürü ister istemez akılsız köleler olacaklar."
+"Bir süre tünel boyunca son derece karanlıkta ilerledik. Karanlık hiçbir zorluk getirmedi: Yarasalar mükemmel bir şekilde yollarını buluyordu ve tüm sihirbazlar tam olarak nerede olduklarını hissedebiliyorlardı. Ras-Taban ve ben konuştuk. Planı Elensefar'a gitmek. Şehri yıkıp, kendini yarı ölü bir imparatorluğun hükümdarı ilan edebileceğine inanıyor. Vatandaşlar yarıölü olarak ister istemez ona katılacak ve gönüllü olmayanlar geçişin doğasından ötürü ister istemez akılsız köleler olacaklar."
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/19_Lava_and_Stone.cfg:25
@@ -3333,7 +3333,7 @@ msgid ""
 "I had heard that mountains sometimes breathed fire like dragons, but that "
 "seemed a fanciful tale. From the look of this, that may actually be true."
 msgstr ""
-"Dağların bazen ejderhalar gibi ateşli nefesler aldığını duymuştum, ama bu "
+"Dağların bazen ejderler gibi ateşli nefesler aldığını duymuştum, ama bu "
 "hayali bir masal gibiydi. Buna bakıldığında, bu gerçek olabilir."
 
 #. [message]: speaker=Ras-Tabahn
@@ -4420,7 +4420,7 @@ msgstr "YP:"
 #. [lua]: select
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie_recruit_dialog.lua:23
 msgid "MP: "
-msgstr "HP:"
+msgstr "YP:"
 
 #. [lua]: select
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie_recruit_dialog.lua:23

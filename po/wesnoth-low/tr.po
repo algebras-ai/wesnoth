@@ -2754,7 +2754,7 @@ msgid ""
 "Looks like your mage friend is in trouble. There is a horde of drakes "
 "attacking him!"
 msgstr ""
-"Büyücü dostunuzun sorunları var gibi görünüyor. Ona bir Ejderha grubu "
+"Büyücü dostunuzun sorunları var gibi görünüyor. Ona bir Ejder grubu "
 "saldırıyor!"
 
 #. [message]: id=Kalenz
@@ -2787,9 +2787,9 @@ msgid ""
 "great drake wizard of Morogoth."
 msgstr ""
 "Ben ölüyorum, fakat intikamım alınacak! Lanet olsun sana Kalenz! Yıllar "
-"geçse de barışı asla bulamayasın. Morogot’un büyük ejderha büyücüsü "
-"Akuagar'ı öldürmenin bedeli olarak tüm saygınlığını kaybedesin; Krelanu, "
-"kitabın seni ve gelecekteki sahiplerini daima taciz etsin."
+"geçse de barışı asla bulamayasın. Morogot’un büyük ejder büyücüsü Akuagar'ı "
+"öldürmenin bedeli olarak tüm saygınlığını kaybedesin; Krelanu, kitabın seni "
+"ve gelecekteki sahiplerini daima taciz etsin."
 
 #. [message]: id=Olurf
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/11_Battle_of_the_Book.cfg:276

@@ -1959,8 +1959,8 @@ msgid ""
 "Oh yes, I know you, Tallin. I have been watching you for a long time. You "
 "are a perfect candidate to become one of my immortal generals."
 msgstr ""
-"Oh evet, seni tanıyorum, Talin. Seni uzun zamandır izliyordum. Benim ölümsüz"
-" generallerimden biri haline gelmek için harika bir adaysın."
+"Oh evet, seni tanıyorum, Talin. Seni uzun zamandır izliyordum. Benim yarı "
+"ölü generallerimden biri haline gelmek için harika bir adaysın."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg:336

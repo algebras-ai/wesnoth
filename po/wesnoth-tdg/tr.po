@@ -309,13 +309,13 @@ msgstr "Pasif:"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:20
 msgid "Magic Missile"
-msgstr "Büyülü Füze"
+msgstr "Sihirli Füze"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:22
 msgid ""
 "Ranged 7x3 fire, <i><ref dst='weaponspecial_magical'>magical</ref></i>."
 msgstr ""
-"Menzilli 7x3 ateş, <i><ref dst='weaponspecial_magical'>büyülü</ref></i>."
+"Menzilli 7x3 ateş, <i><ref dst='weaponspecial_magical'>sihirli</ref></i>."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:29
 msgid "Shield"
@@ -328,7 +328,7 @@ msgid ""
 msgstr ""
 "Bir sonraki turunuzun başlangıcına kadar veya iptal edilene kadar ek <i>%20 "
 "arazi savunması</i> (kaçınma şansı) kazanmak için <span color='#00bbe6' "
-"style='italic'>8 XP</span> harcayın."
+"style='italic'>8 TP</span> harcayın."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:39
 msgid "Panacea"
@@ -340,7 +340,7 @@ msgid ""
 "          attacks, strikes, and damage by its level. <span color='#dd0000' weight='bold'>Next turn, it dies.</span>"
 msgstr ""
 "En düşük cana sahip bitişik insan müttefiki tamamen iyileştirmek için <span "
-"color='#00bbe6' style='italic'>8 XP</span> harcayın ve saldırılarını, "
+"color='#00bbe6' style='italic'>8 TP</span> harcayın ve saldırılarını, "
 "vuruşlarını ve hasarını seviyesi kadar artırın. <span color='#dd0000' "
 "weight='bold'>Bir sonraki turda ölür.</span>"
 
@@ -354,7 +354,7 @@ msgid ""
 "               while adjacent to you, but dissolve at the end of each scenario."
 msgstr ""
 "<i><ref dst='unit_Mudcrawler'>Çamur Sürüngenleri</ref></i> toplamayı "
-"öğrenin. Çamur Sürüngenleri size bitişik olduklarında +%100 hasar ve XP "
+"öğrenin. Çamur Sürüngenleri size bitişik olduklarında +%100 hasar ve TP "
 "kazanır, ancak her senaryonun sonunda çözülürler."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:63
@@ -382,7 +382,7 @@ msgid ""
 msgstr ""
 "Bir sonraki turunuzun başlangıcına kadar veya iptal edilene kadar "
 "<i>uçuş</i> ve <i><ref dst='ability_skirmisher'>çatışmacı</ref></i> "
-"yeteneğini kazanmak için <span color='#00bbe6' style='italic'>4 XP</span> "
+"yeteneğini kazanmak için <span color='#00bbe6' style='italic'>4 TP</span> "
 "harcayın."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:82
@@ -395,7 +395,7 @@ msgid ""
 "               Your familiar’s level and XP persist across scenarios, but reset if it dies."
 msgstr ""
 "Her senaryoya güvenilir evcil hayvanınız <i><ref dst='unit_Raven'>Kuzgun</ref></i> ile başlayın.\n"
-"               Yoldaşınızın seviyesi ve XP'si senaryolar arasında kalır, ancak ölürse sıfırlanır."
+"               Yoldaşınızın seviyesi ve TP'si senaryolar arasında kalır, ancak ölürse sıfırlanır."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:91
 msgid "Mnemonic"
@@ -404,7 +404,7 @@ msgstr "Ezberleme"
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:93
 msgid "Whenever an adjacent ally gains XP, you gain the same amount of XP."
 msgstr ""
-"Bitişik bir müttefik XP kazandığında, siz de aynı miktarda XP kazanırsınız."
+"Bitişik bir müttefik TP kazandığında, siz de aynı miktarda TP kazanırsınız."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:105
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:171
@@ -416,7 +416,7 @@ msgstr "Ateş Topu"
 msgid ""
 "Ranged 8x4 fire, <i><ref dst='weaponspecial_magical'>magical</ref></i>."
 msgstr ""
-"Menzilli 8x4 ateş, <i><ref dst='weaponspecial_magical'>büyülü</ref></i>."
+"Menzilli 8x4 ateş, <i><ref dst='weaponspecial_magical'>sihirli</ref></i>."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:114
 msgid "Siphon"
@@ -427,7 +427,7 @@ msgid ""
 "Ranged 8x4 arcane, <i><ref dst='weaponspecial_magical'>magical</ref></i> and"
 " <i><ref dst='weaponspecial_drains'>drains</ref></i>."
 msgstr ""
-"Menzilli 8x4 gizemli, <i><ref dst='weaponspecial_magical'>büyülü</ref></i> "
+"Menzilli 8x4 gizemli, <i><ref dst='weaponspecial_magical'>sihirli</ref></i> "
 "ve <i><ref dst='weaponspecial_drains'>emer</ref></i>."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:123
@@ -443,7 +443,7 @@ msgid ""
 msgstr ""
 "Düşman birimlerini <i><ref dst='weaponspecial_slows'>yavaşlatmak</ref></i> "
 "ve 3 karelik bir yarıçaptaki araziyi dondurmak için <span color='#00bbe6' "
-"style='italic'>16 XP</span> ve <span color='#c06a61' "
+"style='italic'>16 TP</span> ve <span color='#c06a61' "
 "style='italic'>saldırınızı</span> harcayın."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:133
@@ -455,7 +455,7 @@ msgid ""
 "Spend <span color='#00bbe6' style='italic'>16 XP</span> to <i>disallow <ref dst='weaponspecial_magical'>magical</ref> attacks</i> in a 3-hex radius, until cancelled.\n"
 "          Disables Delfador’s spells, but not his passive skills."
 msgstr ""
-"İptal edilene kadar 3 karelik bir yarıçapta <i><ref dst='weaponspecial_magical'>büyülü</ref> saldırıları engellemek</i> için <span color='#00bbe6' style='italic'>16 XP</span> harcayın.\n"
+"İptal edilene kadar 3 karelik bir yarıçapta <i><ref dst='weaponspecial_magical'>sihirli</ref> saldırıları engellemek</i> için <span color='#00bbe6' style='italic'>16 TP</span> harcayın.\n"
 "          Delfador'un büyülerini devre dışı bırakır, ancak pasif yeteneklerini etkilemez."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:143
@@ -467,7 +467,7 @@ msgid ""
 "Transform into a <ref dst='unit_Frost Stoat Poly'>stoat</ref> (<span color='#00bbe6' style='italic'>1 XP</span>), <ref dst='unit_Cave Bear Poly'>bear</ref> (<span color='#00bbe6' style='italic'>8 XP</span>), <ref dst='unit_Giant Crab'>crab</ref> (<span color='#00bbe6' style='italic'>16 XP</span>), or <ref dst='unit_Roc'>roc</ref> (<span color='#00bbe6' style='italic'>32 XP</span>). Lasts until cancelled.\n"
 "           Replaces Delfador’s attacks, spells, and passives, but does not affect hitpoints."
 msgstr ""
-"Bir <ref dst='unit_Frost Stoat Poly'>kakım</ref> (<span color='#00bbe6' style='italic'>1 XP</span>), <ref dst='unit_Cave Bear Poly'>ayı</ref> (<span color='#00bbe6' style='italic'>8 XP</span>), <ref dst='unit_Giant Crab'>yengeç</ref> (<span color='#00bbe6' style='italic'>16 XP</span>) veya <ref dst='unit_Roc'>roc</ref> (<span color='#00bbe6' style='italic'>32 XP</span>) haline dönüşün. İptal edilene kadar sürer.\n"
+"Bir <ref dst='unit_Frost Stoat Poly'>kakım</ref> (<span color='#00bbe6' style='italic'>1 TP</span>), <ref dst='unit_Cave Bear Poly'>ayı</ref> (<span color='#00bbe6' style='italic'>8 TP</span>), <ref dst='unit_Giant Crab'>yengeç</ref> (<span color='#00bbe6' style='italic'>16 TP</span>) veya <ref dst='unit_Roc'>roc</ref> (<span color='#00bbe6' style='italic'>32 TP</span>) haline dönüşün. İptal edilene kadar sürer.\n"
 "           Delfador'un saldırılarını, büyülerini ve pasiflerini değiştirir, ancak can puanlarını etkilemez."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:157
@@ -484,7 +484,7 @@ msgstr ""
 msgid ""
 "Ranged 12x4 fire, <i><ref dst='weaponspecial_magical'>magical</ref></i>."
 msgstr ""
-"Menzilli 12x4 ateş, <i><ref dst='weaponspecial_magical'>büyülü</ref></i>."
+"Menzilli 12x4 ateş, <i><ref dst='weaponspecial_magical'>sihirli</ref></i>."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:180
 msgid "Dancing Daggers"
@@ -507,8 +507,8 @@ msgid ""
 "          Enemies in a 2-hex radius suffer a -10% penalty to both their terrain defense\n"
 "          (chance to evade) and chance to hit (except for magical attacks). Lasts until cancelled."
 msgstr ""
-"Kendinizi büyüleyici bir ejderha olarak sihirli bir şekilde gizlemek için <span color='#00bbe6' style='italic'>48 XP</span> ve <span color='#c06a61' style='italic'>saldırınızı</span> harcayın.\n"
-"          2 karelik bir yarıçaptaki düşmanlar, hem arazi savunmalarına (kaçınma şansı) hem de isabet şanslarına (büyülü saldırılar hariç) %-10 ceza alırlar. İptal edilene kadar sürer."
+"Kendinizi büyüleyici bir ejder olarak sihirli bir şekilde gizlemek için <span color='#00bbe6' style='italic'>48 TP</span> ve <span color='#c06a61' style='italic'>saldırınızı</span> harcayın.\n"
+"          2 karelik bir yarıçaptaki düşmanlar, hem arazi savunmalarına (kaçınma şansı) hem de isabet şanslarına (sihirli saldırılar hariç) %-10 ceza alırlar. İptal edilene kadar sürer."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:199
 msgid "Animate Fire"
@@ -520,7 +520,7 @@ msgid ""
 "               while adjacent to you, but dissipate at the end of each scenario."
 msgstr ""
 "<i><ref dst='unit_Fire Guardian'>Ateş Muhafızları</ref></i> toplamayı "
-"öğrenin. Ateş Muhafızları size bitişik olduklarında +%100 hasar ve XP "
+"öğrenin. Ateş Muhafızları size bitişik olduklarında +%100 hasar ve TP "
 "kazanır, ancak her senaryonun sonunda dağılırlar."
 
 #. [floating_text]
@@ -542,7 +542,7 @@ msgstr ""
 msgid ""
 "Ranged 17x4 fire, <i><ref dst='weaponspecial_magical'>magical</ref></i>."
 msgstr ""
-"Menzilli 17x4 ateş, <i><ref dst='weaponspecial_magical'>büyülü</ref></i>."
+"Menzilli 17x4 ateş, <i><ref dst='weaponspecial_magical'>sihirli</ref></i>."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:231
 msgid "Chain Lightning"
@@ -553,7 +553,7 @@ msgid ""
 "Ranged 14x3 fire, <i><ref dst='weaponspecial_magical'>magical</ref></i>. This attack can be used multiple times on offense, but\n"
 "              consecutive uses strike one fewer time."
 msgstr ""
-"Menzilli 14x3 ateş, <i><ref dst='weaponspecial_magical'>büyülü</ref></i>. Bu saldırı hücumda birden çok kez kullanılabilir, ancak\n"
+"Menzilli 14x3 ateş, <i><ref dst='weaponspecial_magical'>sihirli</ref></i>. Bu saldırı hücumda birden çok kez kullanılabilir, ancak\n"
 "              ardışık kullanımlar birer kez daha az vurur."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:240
@@ -565,7 +565,7 @@ msgid ""
 "Spend <span color='#00bbe6' style='italic'>48 XP</span> to grant yourself and all allies double movement and a second attack this turn.\n"
 "          When this turn ends, affected units become <ref dst='weaponspecial_slows'>slowed</ref>."
 msgstr ""
-"Bu turda kendinize ve tüm müttefiklere iki kat hareket ve ikinci bir saldırı hakkı vermek için <span color='#00bbe6' style='italic'>48 XP</span> harcayın.\n"
+"Bu turda kendinize ve tüm müttefiklere iki kat hareket ve ikinci bir saldırı hakkı vermek için <span color='#00bbe6' style='italic'>48 TP</span> harcayın.\n"
 "          Bu tur sona erdiğinde, etkilenen birimler <ref dst='weaponspecial_slows'>yavaşlar</ref>."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:250
@@ -577,7 +577,7 @@ msgid ""
 "Spend <span color='#00bbe6' style='italic'>99 XP</span> and <span color='#c06a61' style='italic'>your attack</span> to blast everything in a 5-hex radius. Units (except Delfador) will be reduced\n"
 "          to 1 HP. Dries water, melts snow, burns forest, and levels castles/villages."
 msgstr ""
-"5 karelik bir yarıçaptaki her şeyi patlatmak için <span color='#00bbe6' style='italic'>99 XP</span> ve <span color='#c06a61' style='italic'>saldırınızı</span> harcayın. Birimler (Delfador hariç) 1 Can Puanına düşürülecektir.\n"
+"5 karelik bir yarıçaptaki her şeyi patlatmak için <span color='#00bbe6' style='italic'>99 TP</span> ve <span color='#c06a61' style='italic'>saldırınızı</span> harcayın. Birimler (Delfador hariç) 1 Can Puanına düşürülecektir.\n"
 "          Suyu kurutur, karı eritir, ormanı yakar ve kaleleri/köyleri yerle bir eder."
 
 #. [lua]: display_skills_dialog
@@ -606,8 +606,8 @@ msgid ""
 "<span size='small'><i>Delfador knows many useful spells, and will learn more as he levels-up automatically throughout the campaign. Delfador does not use XP to level-up. Instead,\n"
 "Delfador uses XP to cast certain spells. If you select spells that cost XP, <b>double- or right-click on Delfador to cast them</b>. You can only cast 1 spell per turn.</i></span>"
 msgstr ""
-"<span size='small'><i>Delfador birçok faydalı büyü bilir ve sefer boyunca otomatik olarak seviye atladıkça daha fazlasını öğrenecektir. Delfador seviye atlamak için XP kullanmaz. Bunun yerine,\n"
-"Delfador belirli büyüleri yapmak için XP kullanır. XP maliyeti olan büyüleri seçerseniz, <b>onları yapmak için Delfador'a çift tıklayın veya sağ tıklayın</b>. Her turda yalnızca 1 büyü yapabilirsiniz.</i></span>"
+"<span size='small'><i>Delfador birçok faydalı büyü bilir ve sefer boyunca otomatik olarak seviye atladıkça daha fazlasını öğrenecektir. Delfador seviye atlamak için TP kullanmaz. Bunun yerine,\n"
+"Delfador belirli büyüleri yapmak için TP kullanır. TP maliyeti olan büyüleri seçerseniz, <b>onları yapmak için Delfador'a çift tıklayın veya sağ tıklayın</b>. Her turda yalnızca 1 büyü yapabilirsiniz.</i></span>"
 
 #. [lua]: display_skills_dialog
 #: data/campaigns/The_Deceivers_Gambit/lua/spellcasting.lua:57
@@ -615,8 +615,8 @@ msgid ""
 "<span size='small'><i>The apprentice knows several useful spells, and will learn more as he levels-up automatically throughout the campaign. The apprentice does not use XP to level-up. Instead,\n"
 "he uses XP to cast certain spells. If you select spells that cost XP,<b>double- or right-click on the apprentice to cast them</b>. You can only cast 1 spell per turn.</i></span>"
 msgstr ""
-"<span size='small'><i>Çırak birçok faydalı büyü bilir ve sefer boyunca otomatik olarak seviye atladıkça daha fazlasını öğrenecektir. Çırak seviye atlamak için XP kullanmaz. Bunun yerine,\n"
-"belirli büyüleri yapmak için XP kullanır. XP maliyeti olan büyüleri seçerseniz, <b>onları yapmak için çırağa çift tıklayın veya sağ tıklayın</b>. Her turda yalnızca 1 büyü yapabilirsiniz.</i></span>"
+"<span size='small'><i>Çırak birçok faydalı büyü bilir ve sefer boyunca otomatik olarak seviye atladıkça daha fazlasını öğrenecektir. Çırak seviye atlamak için TP kullanmaz. Bunun yerine,\n"
+"belirli büyüleri yapmak için TP kullanır. TP maliyeti olan büyüleri seçerseniz, <b>onları yapmak için çırağa çift tıklayın veya sağ tıklayın</b>. Her turda yalnızca 1 büyü yapabilirsiniz.</i></span>"
 
 #. [lua]: display_skills_dialog
 #: data/campaigns/The_Deceivers_Gambit/lua/spellcasting.lua:131
@@ -638,7 +638,7 @@ msgid ""
 " chance to hit (except for magical attacks)."
 msgstr ""
 "sersemlemiş: Bu birim sersemlemiştir. Hem savunmasına hem de isabet şansına "
-"(büyülü saldırılar hariç) %-10 ceza uygulanır."
+"(sihirli saldırılar hariç) %-10 ceza uygulanır."
 
 #. [scenario]: id=00_Graduation
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:6
@@ -678,7 +678,7 @@ msgid ""
 "<i>In honor of master Heryera, who gave her life in defense of Elensefar "
 "against the lich Ras-Tabahn.</i>"
 msgstr ""
-"<i>Elensefar'ı lich Ras-Tabahn'a karşı savunurken hayatını veren usta "
+"<i>Elensefar'ı umacı Ras-Tabahn'a karşı savunurken hayatını veren usta "
 "Heryera'nın anısına.</i>"
 
 #. [unit]: id=Leollyn
@@ -739,7 +739,7 @@ msgid ""
 "Hey, how was I supposed to know the halfway cave was warded! All I did was "
 "throw a few celebratory firebolts! For the spectators, you know?"
 msgstr ""
-"Hey, yarı yol mağarasının büyülü olduğunu nereden bilecektim! Yaptığım tek "
+"Hey, yarı yol mağarasının sihirli olduğunu nereden bilecektim! Yaptığım tek "
 "şey birkaç kutlama ateş topu atmaktı! Seyirciler için, anlıyor musun?"
 
 #. [message]: speaker=Methor
@@ -898,8 +898,8 @@ msgid ""
 "with this much magical aptitude who wouldn’t want to show off?"
 msgstr ""
 "Evet diyorum. Çırağımın ilgi odağı olmayı çoğu kişiden daha çok sevdiğini "
-"kabul ediyorum, ancak bu kadar büyülü yeteneğe sahipken kim gösteriş yapmak "
-"istemez ki?"
+"kabul ediyorum, ancak bu kadar sihirli yeteneğe sahipken kim gösteriş yapmak"
+" istemez ki?"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:558
@@ -1010,9 +1010,9 @@ msgid ""
 "achievements, the restless king could find no peace."
 msgstr ""
 "Estmarklar güvence altına alınıp güneydeki haydutlar yatıştırıldığında, "
-"imparatorluğu büyümüş ve güçlenmişti. Garard'ın genç Asheviere ile evliliği "
-"ona bir kraliçe ve bir varis vaadi sağlamıştı. Ancak tüm bu başarılara "
-"rağmen, huzursuz kral bir türlü huzur bulamıyordu."
+"imparatorluğu büyümüş ve güçlenmişti. Garard'ın genç Aşivye ile evliliği ona"
+" bir kraliçe ve bir varis vaadi sağlamıştı. Ancak tüm bu başarılara rağmen, "
+"huzursuz kral bir türlü huzur bulamıyordu."
 
 #. [part]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:35
@@ -1263,7 +1263,7 @@ msgid ""
 " are difficult to evade. They have few hitpoints and are highly vulnerable "
 "in melee combat, so take good care of them!"
 msgstr ""
-"Büyücüler, isabetli <i>büyülü</i> saldırılarıyla kaçınması zor, ölümcül "
+"Büyücüler, isabetli <i>sihirli</i> saldırılarıyla kaçınması zor, ölümcül "
 "menzilli saldırganlardır. Az can puanları vardır ve yakın dövüşte oldukça "
 "savunmasızdırlar, bu yüzden onlara iyi bakın!"
 
@@ -2471,7 +2471,7 @@ msgstr ""
 #. [option]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:513
 msgid "Play the puzzle <i>(includes XP)</i>"
-msgstr "Bulmacayı oyna <i>(XP içerir)</i>"
+msgstr "Bulmacayı oyna <i>(TP içerir)</i>"
 
 #. [option]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:516
@@ -2749,7 +2749,7 @@ msgid ""
 "Lich’s eye and brother’s bone; what have you sacrificed to save your people,"
 " Kalenz? Your greatest fear stands before you... ahead of you?"
 msgstr ""
-"Lich'in gözü ve kardeşin kemiği; halkını kurtarmak için ne feda ettin, "
+"Umacı'nın gözü ve kardeşin kemiği; halkını kurtarmak için ne feda ettin, "
 "Kalenz? En büyük korkun önünde duruyor... ileride mi?"
 
 #. [message]
@@ -2841,7 +2841,7 @@ msgid ""
 " next turn or until cancelled."
 msgstr ""
 "Bir sonraki turunuzun başlangıcına kadar veya iptal edilene kadar uçuş ve "
-"çatışmacı yeteneği kazanmak için 4 XP harcayın."
+"çatışmacı yeteneği kazanmak için 4 TP harcayın."
 
 #. [message]
 #. pale spy meaning Asheviere. Referencing Asheviere resolving to kill Garard,
@@ -2872,8 +2872,8 @@ msgstr ""
 msgid ""
 "Spend 16 XP to disallow magical attacks in a 3-hex radius, until cancelled."
 msgstr ""
-"İptal edilene kadar 3 altıgenlik bir yarıçapta büyülü saldırıları engellemek"
-" için 16 XP harcayın."
+"İptal edilene kadar 3 altıgenlik bir yarıçapta sihirli saldırıları "
+"engellemek için 16 TP harcayın."
 
 #. [message]
 #. referencing the civil war when Asheviere takes power
@@ -2895,7 +2895,7 @@ msgid ""
 "attack this turn. When this turn ends, affected units become slowed."
 msgstr ""
 "Bu turda kendinize ve tüm müttefiklerinize çift hareket ve ikinci bir "
-"saldırı hakkı vermek için 48 XP harcayın. Bu tur sona erdiğinde, etkilenen "
+"saldırı hakkı vermek için 48 TP harcayın. Bu tur sona erdiğinde, etkilenen "
 "birimler yavaşlar."
 
 #. [message]
@@ -3452,7 +3452,7 @@ msgid ""
 "(aghast) That’s— They’ve captured the queen! Asheviere’s no warrior, and "
 "fragile with pregnancy. We have to rescue her!"
 msgstr ""
-"(dehşet içinde) Bu— Kraliçeyi yakalamışlar! Asheviere savaşçı değil ve "
+"(dehşet içinde) Bu— Kraliçeyi yakalamışlar! Aşivye savaşçı değil ve "
 "hamilelikle kırılgan. Onu kurtarmalıyız!"
 
 #. [message]: speaker=Deoran
@@ -3464,7 +3464,7 @@ msgid ""
 "break through to us!"
 msgstr ""
 "Kuşatıldık ve kraliçe yok; bu bir felaket! Çabuk, tacın piyadelerinden "
-"geriye kalanı toplamalıyız. Kraliçe Asheviere'i kurtarmak için bir birlik "
+"geriye kalanı toplamalıyız. Kraliçe Aşivye'i kurtarmak için bir birlik "
 "gönderin ve geri kalanını Kral Garard'ı Lionel ve Arand bize ulaşana kadar "
 "korumalarını sağlayın!"
 
@@ -3476,15 +3476,14 @@ msgstr "Seni hayal kırıklığına uğratmayacağım! Wesnoth için!"
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:515
 msgid "Fail to rescue Asheviere before turns run out"
-msgstr "Süre bitmeden Asheviere'i kurtaramamak"
+msgstr "Süre bitmeden Aşivye'i kurtaramamak"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:518
 msgid ""
 "Defeat Irbirch to recapture Asheviere, then survive until turns run out"
 msgstr ""
-"Asheviere'i geri almak için Irbirch'i yen, sonra süre bitene kadar hayatta "
-"kal"
+"Aşivye'i geri almak için Irbirch'i yen, sonra süre bitene kadar hayatta kal"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:525
@@ -3494,7 +3493,7 @@ msgstr "Süre bitene kadar hayatta kal"
 #. [objective]: condition=lose
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:552
 msgid "Death of Garard, Asheviere, or Methor"
-msgstr "Garard, Asheviere veya Methor'un ölümü"
+msgstr "Garard, Aşivye veya Methor'un ölümü"
 
 #. [message]: speaker=Ssisaix
 #. the player (and Garard) is still alive. The orcs and saurians expected them
@@ -3768,8 +3767,8 @@ msgid ""
 "nephew are able to stabilize the eastern front around Fort Garard. Whitefang"
 " orcs still firmly hold the hills, but limited settlement begins."
 msgstr ""
-"Bu arada, Asheviere sağlıklı bir erkek bebek dünyaya getirir — Veliaht Prens"
-" Eldred. Hem ebeveynlerinden gelen yoğun baskı altında hem de General "
+"Bu arada, Aşivye sağlıklı bir erkek bebek dünyaya getirir — Veliaht Prens "
+"Eldred. Hem ebeveynlerinden gelen yoğun baskı altında hem de General "
 "Lionel'in vesayetiyle Eldred hızla bir prens-asker olarak olgunlaşır. Prens "
 "Arand, Eldred'i kanatları altına alır ve birlikte çalışarak amca ve yeğen, "
 "Garard Kalesi çevresindeki doğu cephesini stabilize etmeyi başarırlar. Beyaz"
@@ -3965,7 +3964,7 @@ msgstr ""
 "\n"
 "Hırsızlar, ayak izinin menzilli saldırısını geliştirilmiş yakın dövüş hasarı için takas eder ve bir düşmana arkadan saldırırken özellikle ölümcüldürler.\n"
 "\n"
-"Haydut Büyücüler, hem fiziksel hem de büyülü saldırılara sahip kırılgan savaşçılardır."
+"Haydut Büyücüler, hem fiziksel hem de sihirli saldırılara sahip kırılgan savaşçılardır."
 
 #. [message]: speaker=Delfador
 #. the player has spotted a goblin or saurian on lookout duty
@@ -4268,7 +4267,7 @@ msgid ""
 "treasure-seekers and other such nonsense. What do you make of it all, "
 "brother?"
 msgstr ""
-"Karım bile! Delfador bize o kehaneti ilk anlattığından beri, Asheviere'den "
+"Karım bile! Delfador bize o kehaneti ilk anlattığından beri, Aşivye'den "
 "duyduğum tek şey dedikodu; soylular, keşifler, hazine avcıları ve benzeri "
 "saçmalıklar hakkında söylentiler. Bütün bunlar hakkında ne düşünüyorsun, "
 "kardeşim?"
@@ -4396,7 +4395,7 @@ msgstr "Artrax"
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:118
 msgid "Saurian Juveniles"
-msgstr "Saurian Gençleri"
+msgstr "Sürüngen Gençleri"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:356
@@ -4404,8 +4403,8 @@ msgid ""
 "The seven saurian matriarchs lie somewhere in this swamp. With most of their"
 " warriors away at war, they will be vulnerable."
 msgstr ""
-"Yedi saurian anaerkil bu bataklığın bir yerinde yatıyor. Savaşçılarının çoğu"
-" savaştayken, savunmasız olacaklar."
+"Yedi sürüngen anaerkil bu bataklığın bir yerinde yatıyor. Savaşçılarının "
+"çoğu savaştayken, savunmasız olacaklar."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:360
@@ -4609,7 +4608,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:651
 msgid "Defeat three of the seven saurian leaders"
-msgstr "Yedi saurian liderinden üçünü yen"
+msgstr "Yedi sürüngen liderinden üçünü yen"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:668
@@ -4622,7 +4621,7 @@ msgid ""
 "Surprise attack: The saurians will not spot you until you approach within 4 "
 "hexes of a matriarch."
 msgstr ""
-"Sürpriz saldırı: Saurianlar, bir anaçın 4 kare yakınına gelene kadar sizi "
+"Sürpriz saldırı: Sürüngenler, bir anaçın 4 kare yakınına gelene kadar sizi "
 "fark etmeyecekler."
 
 #. [message]: speaker=Delfador
@@ -4631,7 +4630,7 @@ msgid ""
 "That saurian has different markings than the others I’ve seen, and is "
 "somewhat smaller. A juvenile or invalid, perhaps?"
 msgstr ""
-"O saurian, gördüğüm diğerlerinden farklı işaretlere sahip ve biraz daha "
+"O sürüngen, gördüğüm diğerlerinden farklı işaretlere sahip ve biraz daha "
 "küçük. Belki bir yavru ya da hasta bir birey?"
 
 #. [message]: speaker=second_unit
@@ -4712,7 +4711,7 @@ msgid ""
 "We sssauriansss are finally united... the Great One makesss usss... "
 "ssstrong..."
 msgstr ""
-"Biz saurianlar sonunda birleştik... Ulu Olan bizi... güçlü... yapıyor..."
+"Biz sürüngenler sonunda birleştik... Ulu Olan bizi... güçlü... yapıyor..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:805
@@ -4843,7 +4842,7 @@ msgid ""
 "A drago— your great one is a dragon!? ...yes, I am a great dragon as well. "
 "Do you not see my fire? Do you not see my flight?"
 msgstr ""
-"Bir ejder— senin ulu olanın bir ejderha mı!? ...evet, ben de ulu bir "
+"Bir ejder— senin ulu olanın bir ejder mı!? ...evet, ben de ulu bir "
 "ejderhayım. Ateşimi görmüyor musun? Uçuşumu görmüyor musun?"
 
 #. [message]: speaker=Delfador
@@ -4852,7 +4851,7 @@ msgid ""
 "Now you shall tell me where I may find the dragon —the other dragon. The two"
 " of us have much business together."
 msgstr ""
-"Şimdi bana ejderhayı —diğer ejderhayı— nerede bulabileceğimi söyleyeceksin. "
+"Şimdi bana ejderi —diğer ejderi— nerede bulabileceğimi söyleyeceksin. "
 "İkimizin birlikte çok işi var."
 
 #. [message]: speaker=$unit.id
@@ -4889,7 +4888,7 @@ msgid ""
 "The main orcish army has caught up to us! Even if we defeat this vanguard "
 "and flee onwards, we’ve missed our chance to break the saurian alliance..."
 msgstr ""
-"Ana ork ordusu bize yetişti! Bu öncü birliği yenip kaçsak bile, saurian "
+"Ana ork ordusu bize yetişti! Bu öncü birliği yenip kaçsak bile, sürüngen "
 "ittifakını bozma şansımızı kaçırdık..."
 
 #. [scenario]: id=08x_Field_Hospital
@@ -5222,7 +5221,7 @@ msgid ""
 "Hmph. What’s she so afraid of. Dragons are powerful, but hardly "
 "invulnerable."
 msgstr ""
-"Hmph. Neden bu kadar korkuyor ki? Ejderhalar güçlüdür ama pek de yenilmez "
+"Hmph. Neden bu kadar korkuyor ki? Ejderler güçlüdür ama pek de yenilmez "
 "değillerdir."
 
 #. [message]: speaker=Delfador
@@ -5232,7 +5231,7 @@ msgid ""
 " heroes of old used to slay dragons all the time."
 msgstr ""
 "Şairler Weldyn sokaklarında benim övgülerimi söyleyecek! Ne de olsa, eski "
-"kahramanlar her zaman ejderha öldürürlerdi."
+"kahramanlar her zaman ejder öldürürlerdi."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:491
@@ -5240,7 +5239,7 @@ msgid ""
 "Well, now that I think of it, I only remember reading about one single slain"
 " dragon, many years ago."
 msgstr ""
-"Şey, şimdi düşününce, sadece bir tane öldürülmüş ejderha hakkında okuduğumu "
+"Şey, şimdi düşününce, sadece bir tane öldürülmüş ejder hakkında okuduğumu "
 "hatırlıyorum, yıllar önce."
 
 #. [message]: speaker=Delfador
@@ -5283,8 +5282,8 @@ msgid ""
 "...wait a minute, that’s not a dragon, it’s merely a drake! The saurians "
 "must have mistaken it for a true dragon on account of its fire breath."
 msgstr ""
-"...bir dakika, o bir ejderha değil, sadece bir ejderha yavrusu! Saurianlar "
-"onu ateş nefesi yüzünden gerçek bir ejderha sanmış olmalılar."
+"...bir dakika, o bir ejder değil, sadece bir ejder yavrusu! Sürüngenler onu "
+"ateş nefesi yüzünden gerçek bir ejder sanmış olmalılar."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:539
@@ -5308,10 +5307,10 @@ msgid ""
 "it and the saurians that worship it are warring against Wesnoth, but I do "
 "know they must be stopped."
 msgstr ""
-"Bu ejderha yavrusu önemli — kaçmasına izin veremeyiz. Yoldaşlarım, ben "
-"ejderha yavrusunu içeride kovalarken bu mağara girişini korumanızı "
-"emrediyorum. Onun ve ona tapan saurianların neden Wesnoth'a karşı "
-"savaştığını bilmiyorum ama durdurulmaları gerektiğini biliyorum."
+"Bu ejder yavrusu önemli — kaçmasına izin veremeyiz. Yoldaşlarım, ben ejder "
+"yavrusunu içeride kovalarken bu mağara girişini korumanızı emrediyorum. Onun"
+" ve ona tapan saurianların neden Wesnoth'a karşı savaştığını bilmiyorum ama "
+"durdurulmaları gerektiğini biliyorum."
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:588
@@ -5411,7 +5410,7 @@ msgid ""
 "entrance we can trap the zombies inside!"
 msgstr ""
 "Bakın, donmuş bir mağara, tıpkı Delfador'un indiği gibi! Bahse girerim tüm "
-"ölümsüzler buradan çıkıyor. Çabuk şimdi, eğer girişi yıkarsak zombileri "
+"yarı ölüler buradan çıkıyor. Çabuk şimdi, eğer girişi yıkarsak zombileri "
 "içeride tuzağa düşürebiliriz!"
 
 #. [note]
@@ -5442,7 +5441,7 @@ msgstr "Nee— ne oluyor!?"
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:1221
 msgid "The undead have gone! Thank the gods! It’s finally over."
-msgstr "Ölümsüzler gitti! Tanrılara şükür! Sonunda bitti."
+msgstr "Yarı Ölüler gitti! Tanrılara şükür! Sonunda bitti."
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:1225
@@ -5496,7 +5495,7 @@ msgid ""
 "Stand and fight me, drake! You and your saurians have caused Wesnoth enough "
 "harm. In the name of King Garard, your villainy ends here."
 msgstr ""
-"Dur ve benimle savaş, ejderha! Sen ve kertenkelelerin Wesnoth'a yeterince "
+"Dur ve benimle savaş, ejder! Sen ve kertenkelelerin Wesnoth'a yeterince "
 "zarar verdiniz. Kral Garard adına, kötülüğünüz burada sona eriyor."
 
 #. [message]: speaker=Delfador
@@ -5513,7 +5512,7 @@ msgstr "Omaranth'ı Bul"
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:210
 msgid "A drakish tomb? This looks ominous..."
-msgstr "Bir ejderha mezarı mı? Bu uğursuz görünüyor..."
+msgstr "Bir ejder mezarı mı? Bu uğursuz görünüyor..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:245
@@ -5569,7 +5568,7 @@ msgid ""
 "Speak, spectre! Tell me of this place. Where is the drake they call the "
 "“Great One”?"
 msgstr ""
-"Konuş, hayalet! Bana bu yeri anlat. 'Büyük Olan' dedikleri ejderha nerede?"
+"Konuş, hayalet! Bana bu yeri anlat. 'Büyük Olan' dedikleri ejder nerede?"
 
 #. [message]: speaker=Aethyr
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:311
@@ -5577,8 +5576,8 @@ msgid ""
 "I do not know. I know nothing of drakes. I am a man. My name is Aethyr... I "
 "had almost forgotten. I died long ago, in a great battle..."
 msgstr ""
-"Bilmiyorum. Ejderhalar hakkında hiçbir şey bilmiyorum. Ben bir insanım. Adım"
-" Aethyr... Neredeyse unutmuştum. Çok uzun zaman önce, büyük bir savaşta "
+"Bilmiyorum. Ejderler hakkında hiçbir şey bilmiyorum. Ben bir insanım. Adım "
+"Aethyr... Neredeyse unutmuştum. Çok uzun zaman önce, büyük bir savaşta "
 "öldüm..."
 
 #. [event]
@@ -5592,7 +5591,7 @@ msgid ""
 "You’re the spirit of a human? How did you come to roam these drakish halls, "
 "so far from the lands of men?"
 msgstr ""
-"Sen bir insan ruhu musun? İnsan topraklarından bu kadar uzakta, bu ejderha "
+"Sen bir insan ruhu musun? İnsan topraklarından bu kadar uzakta, bu ejder "
 "salonlarında nasıl dolaşmaya başladın?"
 
 #. [message]: speaker=Aethyr
@@ -5694,8 +5693,8 @@ msgid ""
 " rest of you did not?"
 msgstr ""
 "Sen bir ejderhasın ve Iliah-Malal evini... yaşayan insanlardan oluşan bir "
-"orduyla birlikte mi yerle bir etti? Peki Omaranth adlı ejderhaya ne oldu; "
-"geri kalanlarınız hayatta kalamazken o nasıl hayatta kaldı?"
+"orduyla birlikte mi yerle bir etti? Peki Omaranth adlı ejdere ne oldu; geri "
+"kalanlarınız hayatta kalamazken o nasıl hayatta kaldı?"
 
 #. [message]: speaker=VellinKa
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:465
@@ -5771,7 +5770,7 @@ msgid ""
 "Are you a drake? Do you know anything about Omaranth, or this necromancer "
 "Iliah-Malal?"
 msgstr ""
-"Sen bir ejderha mısın? Omaranth hakkında veya bu nekromanser Iliah-Malal "
+"Sen bir ejder mısın? Omaranth hakkında veya bu nekromanser Iliah-Malal "
 "hakkında bir şey biliyor musun?"
 
 #. [message]: speaker=Melinna
@@ -5838,9 +5837,9 @@ msgid ""
 "don’t entirely understand what’s going on here, but I do know that you’re an"
 " enemy of Wesnoth, and that’s good enough for me."
 msgstr ""
-"Sen! Etrafta bu kadar çok ölümsüz varken nekromanseri bulmayı bekliyordum..."
-" Burada neler olup bittiğini tam olarak anlamıyorum ama Wesnoth'un düşmanı "
-"olduğunu biliyorum ve bu bana yeter."
+"Sen! Etrafta bu kadar çok yarı ölü varken nekromanseri bulmayı "
+"bekliyordum... Burada neler olup bittiğini tam olarak anlamıyorum ama "
+"Wesnoth'un düşmanı olduğunu biliyorum ve bu bana yeter."
 
 #. [message]: speaker=Omaranth
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:740
@@ -5895,8 +5894,8 @@ msgid ""
 "You led the saurians to join Clan Blackcrest, and you sent them to war "
 "against Wesnoth. But why? How does all this fighting benefit a mage?"
 msgstr ""
-"Bu ejderha sürüsünü yok ettin ve liderlerinin suretini aldın. Saurianları "
-"Kara Tepe Klanı'na katılmaya yönlendirdin ve onları Wesnoth'a karşı savaşa "
+"Bu ejder sürüsünü yok ettin ve liderlerinin suretini aldın. Saurianları Kara"
+" Tepe Klanı'na katılmaya yönlendirdin ve onları Wesnoth'a karşı savaşa "
 "gönderdin. Ama neden? Tüm bu savaş bir büyücüye nasıl fayda sağlar?"
 
 #. [message]: speaker=Iliah-Malal
@@ -6197,7 +6196,7 @@ msgstr "Galcadar"
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:51
 msgid "Saurian Defectors"
-msgstr "Saurian Hainleri"
+msgstr "Sürüngen Hainleri"
 
 #. [side]: type=Orcish Sovereign, id=Ghuvog
 #. [unit]: type=Orcish Sovereign, id=Ghuvog
@@ -6267,7 +6266,7 @@ msgid ""
 "\n"
 "Now form up and get in line, before I have to beat some discipline into you!"
 msgstr ""
-"Kapatın çenenizi hepiniz! Neden herhangi birinizin bu markasız ejderhanın ne dediğini umursadığını bilmiyorum, ama unutmayın ki siz kertenkeleler Wesnoth'a karşı bizimle savaşmak için anlaşma yaptınız. Hatta bu ayrıcalık için <i>bize</i> para ödediniz, aptal küçük solucanlar!\n"
+"Kapatın çenenizi hepiniz! Neden herhangi birinizin bu markasız ejderin ne dediğini umursadığını bilmiyorum, ama unutmayın ki siz kertenkeleler Wesnoth'a karşı bizimle savaşmak için anlaşma yaptınız. Hatta bu ayrıcalık için <i>bize</i> para ödediniz, aptal küçük solucanlar!\n"
 "\n"
 "Şimdi toplanın ve sıraya girin, yoksa size biraz disiplin öğretmek zorunda kalacağım!"
 
@@ -6776,7 +6775,7 @@ msgid ""
 "My friend, you deserve it. Without their saurian allies Clan Blackcrest is "
 "on the run, and Clan Whitefang is falling back out of the eastern hills."
 msgstr ""
-"Dostum, bunu hak ediyorsun. Saurian müttefikleri olmadan Kara Tepe Klanı "
+"Dostum, bunu hak ediyorsun. Sürüngen müttefikleri olmadan Kara Tepe Klanı "
 "kaçıyor ve Beyaz Diş Klanı doğu tepelerinden geri çekiliyor."
 
 #. [message]: speaker=Deoran
@@ -7321,7 +7320,7 @@ msgid ""
 "Eldred is the traitor! Eldred and Asheviere are the traitors, not me!"
 msgstr ""
 "Asa üzerine yemin ederim ki kardeşim Garard’a karşı asla komplo kurmadım. "
-"Hain Eldred’dir! Hainler Eldred ve Asheviere’dir, ben değil!"
+"Hain Eldred’dir! Hainler Eldred ve Aşivye’dir, ben değil!"
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:591
@@ -7936,7 +7935,7 @@ msgid ""
 "up warmongering until we were all dead; at least this way maybe I can get "
 "back to Alduin in one piece!"
 msgstr ""
-"Aptal değilim, Deoran; Asheviere'in oğlunu nasıl yetiştirdiğine dair "
+"Aptal değilim, Deoran; Aşivye'in oğlunu nasıl yetiştirdiğine dair "
 "fısıltıları duydum. Ama hepsi en iyisi için değil mi? Garard hepimiz ölene "
 "kadar savaş çığırtkanlığını bırakmayacaktı; en azından bu şekilde belki "
 "Alduin'e sağ salim dönebilirim!"
@@ -8502,7 +8501,7 @@ msgid ""
 "Whitefangs, Blackcrests. Saurians, Arand. I really thought I was doing "
 "something great; fighting the good fight for king and country."
 msgstr ""
-"Beyazdişler, Karatepeler. Saurianlar, Arand. Gerçekten harika bir şey "
+"Beyazdişler, Karatepeler. Sürüngenler, Arand. Gerçekten harika bir şey "
 "yaptığımı sanmıştım; kral ve ülke için iyi bir savaş veriyordum."
 
 #. [message]: speaker=Delfador
@@ -8732,7 +8731,7 @@ msgid ""
 "Queen Asheviere back in Weldyn?"
 msgstr ""
 "Patron, o kadar çok kişiyle nasıl savaşacağız!? Savaşabilsek bile, "
-"Weldyn'deki Kraliçe Asheviere ne olacak?"
+"Weldyn'deki Kraliçe Aşivye ne olacak?"
 
 #. [message]: speaker=$horselord_id
 #. said by a male Horseman-line or Cavalryman-line unit
@@ -8746,7 +8745,7 @@ msgid ""
 msgstr ""
 "Gerçekten de! Söylentilere göre sarayın yarısını öldürmüş ve geri kalanına "
 "rüşvet vermiş; şehrin kalan lordları sadece ona sadık! Eldred kral olabilir,"
-" ama dizginler Asheviere'in elinde."
+" ama dizginler Aşivye'in elinde."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:612
@@ -9022,7 +9021,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:868
 msgid ""
 "Is that— are you holding <i>lich’s blood</i>!? How— Put it down, Eldred!"
-msgstr "Bu— <i>ölümsüz kanı</i> mı tutuyorsun!? Nasıl— Bırak onu, Eldred!"
+msgstr "Bu— <i>yarı ölü kanı</i> mı tutuyorsun!? Nasıl— Bırak onu, Eldred!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:872
@@ -9161,7 +9160,7 @@ msgid ""
 " army, but reinforcements from Weldyn eventually repulse the beleaguered "
 "rebels. Neither side wins a decisive military victory."
 msgstr ""
-"Yorgun Delfador, Eldred'in — şimdi Asheviere'in — ordusuna karşı cesurca "
+"Yorgun Delfador, Eldred'in — şimdi Aşivye'in — ordusuna karşı cesurca "
 "savaşır, ancak Weldyn'den gelen takviyeler sonunda kuşatılmış isyancıları "
 "püskürtür. İki taraf da belirleyici bir askeri zafer kazanamaz."
 
@@ -9604,7 +9603,7 @@ msgstr "Fener"
 #. [unit_type]: id=Saurian Devotee, race=lizard, gender=male
 #: data/campaigns/The_Deceivers_Gambit/units/Saurian_Devotee.cfg:23
 msgid "Saurian Devotee"
-msgstr "Saurian Adanmışı"
+msgstr "Sürüngen Adanmışı"
 
 #. [unit_type]: id=Saurian Devotee, race=lizard, gender=male
 #: data/campaigns/The_Deceivers_Gambit/units/Saurian_Devotee.cfg:37
@@ -9613,7 +9612,7 @@ msgid ""
 "Devotees. Although they still lack the strength of Augurs and Prophets, they"
 " can still use their abilities to defend their clan in times of need."
 msgstr ""
-"Büyülü sanatlara özellikle düşkün genç kertenkeleler Adanmışlar olarak "
+"Sihirli sanatlara özellikle düşkün genç kertenkeleler Adanmışlar olarak "
 "eğitilir. Hâlâ Kahinler ve Peygamberler kadar güçlü olmasalar da, ihtiyaç "
 "anında klanlarını savunmak için yeteneklerini kullanabilirler."
 
@@ -9769,7 +9768,7 @@ msgstr "karşı büyü yapıldı"
 #. [disable]: id=skill_counterspell
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1029
 msgid "Counterspell is nullifying this magical attack."
-msgstr "Karşı büyü bu büyülü saldırıyı etkisiz hale getiriyor."
+msgstr "Karşı büyü bu sihirli saldırıyı etkisiz hale getiriyor."
 
 #. [message]: speaker=Delfador
 #. Delfador has just cast his Counterspell spell. Magical attacks (including
@@ -9807,7 +9806,7 @@ msgstr "isabet:"
 #. Delfador is magically disguised as a drake, and has just case a fireball
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1600
 msgid "Taste drakefire!"
-msgstr "Ejderha ateşini tadın!"
+msgstr "Ejder ateşini tadın!"
 
 #. [message]: speaker=Delfador
 #. Delfador has just saved a unit from lethal damage with the Contingency
@@ -9914,7 +9913,7 @@ msgstr "Arand"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:105
 msgid "Asheviere"
-msgstr "Asheviere"
+msgstr "Aşivye"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:144
 msgid "Lionel"

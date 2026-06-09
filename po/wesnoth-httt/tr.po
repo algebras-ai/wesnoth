@@ -867,7 +867,7 @@ msgid ""
 "Safe voyage to you, friends. Rest assured that we will never surrender to "
 "the forces of the Dark Queen."
 msgstr ""
-"Rüzgarınız bol olsun dostlarım. Karanlık Kraliçe’nin gücüne teslim "
+"Rüzgarınız bol olsun dostlarım. Kara Kraliçe’nin gücüne teslim "
 "olmayacağımızdan emin olabilirsiniz."
 
 #. [message]: speaker=unit
@@ -6072,7 +6072,7 @@ msgstr "Amanin! Bir yaratık!"
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/19c_Cliffs_of_Thoria.cfg:313
 msgid "A dragon! A big one!"
-msgstr "Bir Ejderha! Dev gibi!"
+msgstr "Bir Ejder! Dev gibi!"
 
 #. [message]: speaker=Keh Ohn
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/19c_Cliffs_of_Thoria.cfg:318
@@ -6101,8 +6101,8 @@ msgid ""
 "With all due respect, Your Highnesses, you are both wrong. This is not a "
 "dragon. This is a drake."
 msgstr ""
-"Tüm saygıma rağmen, ekselansları, ikiniz de hatalısınız. Bu bir Ejderha "
-"değil. Bu bir Ejder."
+"Tüm saygıma rağmen, ekselansları, ikiniz de hatalısınız. Bu bir Ejder değil."
+" Bu bir Ejder."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/19c_Cliffs_of_Thoria.cfg:334
@@ -7787,8 +7787,8 @@ msgid ""
 "there you can return to Wesnoth and surprise the Dark Queen, catching her "
 "off guard."
 msgstr ""
-"Vesnot’a dönebileceğiniz bir yol daha var. Ejderhaların dağından ve karanlık"
-" vadiden geçerek doğu topraklarından Vesnot’a dönebilir ve Kara Kraliçe’yi "
+"Vesnot’a dönebileceğiniz bir yol daha var. Ejderlerin dağından ve karanlık "
+"vadiden geçerek doğu topraklarından Vesnot’a dönebilir ve Kara Kraliçe’yi "
 "şaşırtabilirsiniz. Böylece onun gardını düşürürsünüz."
 
 #. [message]: speaker=Konrad
@@ -7797,7 +7797,7 @@ msgid ""
 "Mountains of the dragons? That sounds very dangerous! I didn’t even think "
 "there were such things as dragons!"
 msgstr ""
-"Ejderhaların dağları mı? Çok tehlikeli görünüyor! Ejderha diye bir şeyin "
+"Ejderlerin dağları mı? Çok tehlikeli görünüyor! Ejder diye bir şeyin "
 "olduğunu bile düşünemiyordum!"
 
 #. [message]: speaker=Delfador
@@ -7807,8 +7807,8 @@ msgid ""
 "retain their name of old. Still, that path will be dangerous for us. Is "
 "there not another route we might take?"
 msgstr ""
-"Yıllardır o dağlarda hiç bir ejderha görülmedi fakat isim eskiden kalma. "
-"Yine de yol çok tehlikeli. Gidebileceğimiz başka bir yol yok mu?"
+"Yıllardır o dağlarda hiç bir ejder görülmedi fakat isim eskiden kalma. Yine "
+"de yol çok tehlikeli. Gidebileceğimiz başka bir yol yok mu?"
 
 #. [message]: speaker=Uradredia
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/21_Elven_Council.cfg:291
@@ -7919,8 +7919,8 @@ msgstr ""
 "Kalenz’in saray mensubu şampiyonlarından oluşan bir öncü kolu orman boyunca "
 "Konrad ve Delfador’a eşlik etti. Savaş, Kuzey Ülkelerine yayılmıştı, fakat "
 "fırtınalı doğu tepeleri boyunca uzun ıssız patikalarda yol alarak, isyankar "
-"grupları bulmayı başaramamıştı. Ejderha dağlarının yüksek sarp tepeleri "
-"uzakta görünmüştü."
+"grupları bulmayı başaramamıştı. Ejder dağlarının yüksek sarp tepeleri uzakta"
+" görünmüştü."
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/22_Return_to_Wesnoth.cfg:152
@@ -9228,7 +9228,7 @@ msgid ""
 "The Sceptre makes its wielder powerful, but hardly immortal, child. Use it "
 "prudently. Now come, I believe there is an exit to the north!"
 msgstr ""
-"Asa, kullanıcısını güçlü fakat kesinlikle ölümsüz yapar, yavrum. Onu "
+"Asa, kullanıcısını güçlü fakat kesinlikle yarı ölü yapar, yavrum. Onu "
 "akıllıca kullan. Şimdi gel, kuzeyde bir çıkış var, sanırım!"
 
 #. [message]: speaker=Li'sar

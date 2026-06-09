@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -19,40 +20,39 @@ msgstr ""
 msgid "Dusk of Dawn"
 msgstr "Şafağın Alacakaranlığı"
 
-
 #. [campaign]: id=Dusk_of_Dawn
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:13
 msgid "DoD"
 msgstr "ŞA"
-
 
 #. [campaign]: id=Dusk_of_Dawn
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:19
 msgid ""
 "Deep underneath the Heart Mountains, a new tribe of trolls awakens. Help "
 "them grow and eventually fulfill Ougl Firstborn’s biggest dream."
-msgstr "Kalp Dağları'nın derinliklerinde yeni bir trol kabilesi uyanır. Onların büyümesine yardım edin ve eninde sonunda Ougl Doğan'ın en büyük hayalini gerçekleştirin."
-
+msgstr ""
+"Kalp Dağları'nın derinliklerinde yeni bir trol kabilesi uyanır. Onların "
+"büyümesine yardım edin ve eninde sonunda Ougl Doğan'ın en büyük hayalini "
+"gerçekleştirin."
 
 #. [campaign]: id=Dusk_of_Dawn
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:21
 msgid ""
 "This is an excerpt from the Book of Crelanu, as transcribed by the Weldyn "
 "Royal Scholars Society."
-msgstr "Bu, Weldyn Kraliyet Bilginler Derneği tarafından yazıya dökülen Crelanu Kitabı'ndan bir alıntıdır."
-
+msgstr ""
+"Bu, Weldyn Kraliyet Bilginler Derneği tarafından yazıya dökülen Crelanu "
+"Kitabı'ndan bir alıntıdır."
 
 #. [campaign]: id=Dusk_of_Dawn
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:23
 msgid "(Novice level, 4 scenarios)"
 msgstr "(Acemi seviyesi, 4 senaryo)"
 
-
 #. [campaign]: id=Dusk_of_Dawn
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:27
 msgid "Easy"
 msgstr "Kolay"
-
 
 #. [campaign]: id=Dusk_of_Dawn
 #. [unit]: type=Fire Wraith, id=SK
@@ -63,7 +63,6 @@ msgstr "Kolay"
 msgid "Spark"
 msgstr "Kıvılcım"
 
-
 #. [campaign]: id=Dusk_of_Dawn
 #. [modify_unit]: id=FE
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:28
@@ -72,145 +71,123 @@ msgstr "Kıvılcım"
 msgid "Flame"
 msgstr "Alev"
 
-
 #. [campaign]: id=Dusk_of_Dawn
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:28
 msgid "Normal"
 msgstr "Normal"
-
 
 #. [about]
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:31
 msgid "Author"
 msgstr "Yazar"
 
-
 #. [about]
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:37
 msgid "Prose and Story Editing, Code Preparation"
 msgstr "Nesir ve Hikaye Düzenleme, Kod Hazırlığı"
-
 
 #. [about]
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:43
 msgid "Art - Sprites"
 msgstr "Sanat - Grafikler"
 
-
 #. [about]
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:50
 msgid "Wild and Beast Saurian Sprites"
 msgstr "Vahşi ve Yaratık Sorian Grafikleri"
-
 
 #. [about]
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:56
 msgid "Text Proofreading"
 msgstr "Metin Tashihi"
 
-
 #. [about]
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:62
 msgid "WML Assistance"
 msgstr "WML Desteği"
-
 
 #. [about]
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:68
 msgid "Beta Testing"
 msgstr "Beta Testi"
 
-
 #. [achievement]: id=dod_sbc
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:8
 msgid "Scenario 1: Small but Cunning"
 msgstr "Senaryo 1: Küçük Ama Kurnaz"
-
 
 #. [achievement]: id=dod_sbc
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:9
 msgid "Find a way to light the brazier in <i>First Steps</i>."
 msgstr "<i>İlk Adımlar</i>'da mangalı yakmanın bir yolunu bulun."
 
-
 #. [achievement]: id=dod_ras
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:16
 msgid "Scenario 1b: Rock and Stone"
 msgstr "Senaryo 1b: Kaya ve Taş"
-
 
 #. [achievement]: id=dod_ras
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:17
 msgid "Complete the <i>Secret</i> on Normal difficulty."
 msgstr "Normal zorlukta <i>Sır</i>'ı tamamlayın."
 
-
 #. [achievement]: id=dod_ltb
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:24
 msgid "Scenario 2: Let Them Burn!"
 msgstr "Senaryo 2: Yansınlar!"
-
 
 #. [achievement]: id=dod_ltb
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:25
 msgid "Advance a Fire Guardian into a Fire Wraith in <i>A Dream</i>."
 msgstr "<i>Bir Rüya</i>'da bir Ateş Bekçisi'ni Ateş Hayaletine terfi ettirin."
 
-
 #. [achievement]: id=dod_se
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:32
 msgid "Scenario 2: Scorched Earth"
 msgstr "Senaryo 2: Yanmış Toprak"
-
 
 #. [achievement]: id=dod_se
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:33
 msgid "Fully burn 10 tiles of forest in <i>A Dream</i>."
 msgstr "<i>Bir Rüya</i>'da 10 orman karesini tamamen yakın."
 
-
 #. [achievement]: id=dod_gs
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:40
 msgid "Scenario 2: Green Souvenir"
 msgstr "Senaryo 2: Yeşil Hatıra"
-
 
 #. [achievement]: id=dod_gs
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:41
 msgid "Find the Wose Branch in <i>A Dream</i>."
 msgstr "<i>Bir Rüya</i>'da Ulu Ağaç Dalı'nı bulun."
 
-
 #. [achievement]: id=dod_mp
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:48
 msgid "Scenario 3: Mushroom Picking"
 msgstr "Senaryo 3: Mantar Toplama"
 
-
 #. [achievement]: id=dod_mp
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:49
 msgid "Harvest at least half of the mushroom groves in <i>Fateful Day</i>."
-msgstr "<i>Kader Günü</i>'nde mantar koruluklarının en az yarısını hasat edin."
-
+msgstr ""
+"<i>Kader Günü</i>'nde mantar koruluklarının en az yarısını hasat edin."
 
 #. [achievement]: id=dod_hb
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:56
 msgid "Scenario 3: Hiss Battle"
 msgstr "Senaryo 3: Tıslama Savaşı"
 
-
 #. [achievement]: id=dod_hb
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:57
 msgid ""
 "Attack the Blue Blood Saurian leader with Refumee in <i>Fateful Day</i>."
-msgstr "<i>Kader Günü</i>'nde Refumee ile Mavi Kanlı Sorian liderini saldırın."
-
+msgstr ""
+"<i>Kader Günü</i>'nde Refumee ile Mavi Kanlı Sorian liderini saldırın."
 
 #. [scenario]: id=00_Being_Born
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:5
 msgid "Being Born"
 msgstr "Doğuş"
-
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:20
@@ -218,17 +195,21 @@ msgid ""
 "The Heart Mountains have the word Heart in their name for a reason. This is "
 "the largest mountain range in the known world, forming a natural wall that "
 "splits the Northlands in two."
-msgstr "Kalp Dağları'nın adında Kalp kelimesinin bulunmasının bir nedeni vardır. Bu, bilinen dünyanın en büyük dağ silsilesini oluşturan ve Kuzey Toprakları'nı ikiye bölen doğal bir duvar niteliğindedir."
-
+msgstr ""
+"Kalp Dağları'nın adında Kalp kelimesinin bulunmasının bir nedeni vardır. Bu,"
+" bilinen dünyanın en büyük dağ silsilesini oluşturan ve Kuzey Toprakları'nı "
+"ikiye bölen doğal bir duvar niteliğindedir."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:24
 msgid ""
 "This vast expanse of craggy hills and mountain peaks is home to many "
-"dwarves, who are usually engrossed in a feverish search for ever rarer ores, "
-"or else getting themselves drunk on honey."
-msgstr "Bu engin pürüzlü tepe ve dağ zirveleri birçok cüceye ev sahipliği yapar; onlar genellikle ya giderek daha da nadir bulunan cevherlerin ateşli arayışıyla meşguldür ya da kendilerini bala badava içirir."
-
+"dwarves, who are usually engrossed in a feverish search for ever rarer ores,"
+" or else getting themselves drunk on honey."
+msgstr ""
+"Bu engin pürüzlü tepe ve dağ zirveleri birçok cüceye ev sahipliği yapar; "
+"onlar genellikle ya giderek daha da nadir bulunan cevherlerin ateşli "
+"arayışıyla meşguldür ya da kendilerini bala badava içirir."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:28
@@ -236,17 +217,21 @@ msgid ""
 "Other creatures also live in the shadows of the dark caves and earthy "
 "grottos. Creatures great and terrible in appearance, but naive in nature, "
 "and easy to manipulate."
-msgstr "Karanlık mağaraların ve toprak dehlizlerin gölgesinde başka yaratıklar da yaşar. Görünüşte iri ve ürkütücü ama özünde saf ve kolayca etkilenebilir yaratıklar."
-
+msgstr ""
+"Karanlık mağaraların ve toprak dehlizlerin gölgesinde başka yaratıklar da "
+"yaşar. Görünüşte iri ve ürkütücü ama özünde saf ve kolayca etkilenebilir "
+"yaratıklar."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:32
 msgid ""
-"These are trolls. They are often thought of as beasts, bloodthirsty monsters "
-"who only do bad things, but this is not true at all. As I have said before, "
-"they are merely naive... and perhaps sometimes a little bit too reckless."
-msgstr "Bunlar trollardır. Çoğunlukla sadece kötülük yapan kana susamış canavarlar olarak düşünülürler ama bu hiç doğru değil. Daha önce de söylediğim gibi, onlar sadece safattır... ve belki de zaman zaman biraz fazla gözüpek."
-
+"These are trolls. They are often thought of as beasts, bloodthirsty monsters"
+" who only do bad things, but this is not true at all. As I have said before,"
+" they are merely naive... and perhaps sometimes a little bit too reckless."
+msgstr ""
+"Bunlar trollardır. Çoğunlukla sadece kötülük yapan kana susamış canavarlar "
+"olarak düşünülürler ama bu hiç doğru değil. Daha önce de söylediğim gibi, "
+"onlar sadece safattır... ve belki de zaman zaman biraz fazla gözüpek."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:37
@@ -254,14 +239,15 @@ msgid ""
 "The story I am about to tell you happened sixteen years after we, humans, "
 "first came to the Great Continent. This is a story of the evil that pursued "
 "us here, and the sadness that has come to the trolls..."
-msgstr "Size anlatmak üzere olduğum bu hikaye, biz insanların Büyük Kıta'ya ilk gelişimizden on altı yıl sonra yaşandı. Bu, bizi buraya kadar takip eden kötülüğün ve trollara gelen hüznün hikayesidir..."
-
+msgstr ""
+"Size anlatmak üzere olduğum bu hikaye, biz insanların Büyük Kıta'ya ilk "
+"gelişimizden on altı yıl sonra yaşandı. Bu, bizi buraya kadar takip eden "
+"kötülüğün ve trollara gelen hüznün hikayesidir..."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:39
 msgid "Crelanu the Wise"
 msgstr "Bilge Crelanu"
-
 
 #. [side]
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:52
@@ -274,64 +260,58 @@ msgstr "Bilge Crelanu"
 msgid "Golden Flame Tribe"
 msgstr "Altın Alev Kabilesi"
 
-
 #. [side]
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:65
 msgid "Newborn"
 msgstr "Yeni Doğan"
-
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:75
 msgid "One day in the Heart Mountains."
 msgstr "Kalp Dağları'nda bir gün."
 
-
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:101
 msgid "In a silent moment, a stone wall came to life."
 msgstr "Sessiz bir anda, taş bir duvar canlandı."
-
 
 #. [unit]: type=Strong Troll Whelp, id=OL_PROLOG
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:109
 msgid "Nameless Troll"
 msgstr "İsimsiz Trol"
 
-
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:126
 msgid "...And it suddenly shattered."
 msgstr "...Ve aniden parçalandı."
-
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:143
 msgid ""
 "The newborn troll began to crawl. He moved very slowly. It was as if he was "
 "still dreaming, or as if his inner flame had only just begun to warm."
-msgstr "Yeni doğan trol sürünmeye başladı. Çok yavaş ilerliyordu. Sanki hâlâ rüya görüyormuş ya da içsel alevi yeni ısınmaya başlamış gibi."
-
+msgstr ""
+"Yeni doğan trol sürünmeye başladı. Çok yavaş ilerliyordu. Sanki hâlâ rüya "
+"görüyormuş ya da içsel alevi yeni ısınmaya başlamış gibi."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:170
 msgid ""
-"With each step, his flame of life grew stronger. The troll’s heart shimmered "
-"with golden light."
-msgstr "Her adımla birlikte hayat alevi güçlendi. Trolün kalbi altın bir ışıltıyla parıldadı."
-
+"With each step, his flame of life grew stronger. The troll’s heart shimmered"
+" with golden light."
+msgstr ""
+"Her adımla birlikte hayat alevi güçlendi. Trolün kalbi altın bir ışıltıyla "
+"parıldadı."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:190
 msgid "The newborn wanted to roar, but he knew no words."
 msgstr "Yeni doğan kükremek istedi ama hiç kelime bilmiyordu."
 
-
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:244
 msgid "Turning, the newborn realized he was alone."
 msgstr "Dönen yeni doğan yalnız olduğunu fark etti."
-
 
 #. [message]: speaker=OL_PROLOG
 #. [message]: speaker=OL
@@ -341,12 +321,10 @@ msgstr "Dönen yeni doğan yalnız olduğunu fark etti."
 msgid "..."
 msgstr "..."
 
-
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:260
 msgid "He tried again to speak and... This time he succeeded."
 msgstr "Yeniden konuşmaya çalıştı ve... Bu sefer başardı."
-
 
 #. [message]: speaker=OL_PROLOG
 #. [message]: speaker=OL
@@ -358,13 +336,11 @@ msgstr "Yeniden konuşmaya çalıştı ve... Bu sefer başardı."
 msgid "Ougl!!"
 msgstr "Ougl!!"
 
-
 #. [modify_unit]
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:276
 #: data/campaigns/Dusk_of_Dawn/utils/characters.cfg:6
 msgid "Ougl Firstborn"
 msgstr "Ougl Doğan"
-
 
 #. [message]: speaker=OL_PROLOG
 #. [message]: speaker=unit
@@ -378,37 +354,33 @@ msgstr "Ougl Doğan"
 msgid "...?"
 msgstr "...?"
 
-
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:339
 msgid "New motion suddenly disturbed the underground calm."
 msgstr "Yeni bir hareket aniden yeraltının sessizliğini bozdu."
 
-
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:362
 msgid ""
 "As if prompted by Ougl’s roar, other trolls also awoke from their sleep."
-msgstr "Ougl'un kükreyişiyle uyandırılmış gibi, diğer trollar da uykularından uyandılar."
-
+msgstr ""
+"Ougl'un kükreyişiyle uyandırılmış gibi, diğer trollar da uykularından "
+"uyandılar."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:399
 msgid "This is how trolls are born."
 msgstr "Trollar böyle doğar."
 
-
 #. [scenario]: id=01_First_Steps
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:5
 msgid "First Steps"
 msgstr "İlk Adımlar"
 
-
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:27
 msgid "As the first awakened, Ougl became the leader of his tribe."
 msgstr "İlk uyanan olarak Ougl, kabilesinin lideri oldu."
-
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:31
@@ -416,17 +388,21 @@ msgid ""
 "The children of stone moved forward. Their path — not an easy one — led "
 "through intricate corridors deep underground. They did not know light, for "
 "it never reached these deep places. The air was cold."
-msgstr "Taşın çocukları ilerledi. Yolları — kolay bir yol değildi — yeraltının derinliklerindeki çetrefilli koridorlardan geçiyordu. Işığı bilmiyorlardı, zira ışık bu derin yerlere hiç ulaşmıyordu. Hava soğuktu."
-
+msgstr ""
+"Taşın çocukları ilerledi. Yolları — kolay bir yol değildi — yeraltının "
+"derinliklerindeki çetrefilli koridorlardan geçiyordu. Işığı bilmiyorlardı, "
+"zira ışık bu derin yerlere hiç ulaşmıyordu. Hava soğuktu."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:36
 msgid ""
-"When the Golden Flame Tribe (as I will henceforth call them) entered tunnels "
-"that had once belonged to the bearded race, one of the trolls began to "
+"When the Golden Flame Tribe (as I will henceforth call them) entered tunnels"
+" that had once belonged to the bearded race, one of the trolls began to "
 "behave quite unusually."
-msgstr "Altın Alev Kabilesi (bundan böyle onları böyle çağıracağım) bir zamanlar sakallı ırka ait olan tünellere girdiğinde, trolllardan biri oldukça alışılmadık davranmaya başladı."
-
+msgstr ""
+"Altın Alev Kabilesi (bundan böyle onları böyle çağıracağım) bir zamanlar "
+"sakallı ırka ait olan tünellere girdiğinde, trolllardan biri oldukça "
+"alışılmadık davranmaya başladı."
 
 #. [side]
 #. [unit]: type=Fire Guardian, id=IF
@@ -435,24 +411,20 @@ msgstr "Altın Alev Kabilesi (bundan böyle onları böyle çağıracağım) bir
 msgid "Inner Flame"
 msgstr "İç Alev"
 
-
 #. [side]
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:107
 msgid "Ash Flame Tribe"
 msgstr "Kül Alevi Kabilesi"
-
 
 #. [side]
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:135
 msgid "Cave Dwellers"
 msgstr "Mağara Sakinleri"
 
-
 #. [objective]: condition=win
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:166
 msgid "Defeat the Inner Flame and Ash Flame leaders"
 msgstr "İç Alev ve Kül Alevi liderlerini yenin"
-
 
 #. [objective]: condition=lose
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:170
@@ -464,55 +436,46 @@ msgstr "İç Alev ve Kül Alevi liderlerini yenin"
 msgid "Death of Ougl"
 msgstr "Ougl'un ölümü"
 
-
 #. [unit]: type=Troll Whelp, id=AU
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:229
 msgid "Arru"
 msgstr "Arru"
-
 
 #. [unit]: type=Troll Whelp, id=GO
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:246
 msgid "Gao"
 msgstr "Gao"
 
-
 #. [unit]: type=Troll Whelp, id=NM
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:263
 msgid "Nuum"
 msgstr "Nuum"
-
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:280
 msgid "Suddenly, one of the trolls began to behave strangely."
 msgstr "Aniden trolllardan biri tuhaf davranmaya başladı."
 
-
 #. [unit]: type=Troll Whelp, id=UG
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:286
 msgid "Strange Troll"
 msgstr "Tuhaf Trol"
-
 
 #. [message]: speaker=UG
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:360
 msgid "Ullg!!"
 msgstr "Ullg!!"
 
-
 #. [modify_unit]
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:387
 msgid "Ullg the Flameless"
 msgstr "Alevsiz Ullg"
-
 
 #. [message]: speaker=IF
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:443
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:821
 msgid "S s s s...!"
 msgstr "S s s s...!"
-
 
 #. [message]: speaker=OL
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:482
@@ -522,132 +485,124 @@ msgstr "S s s s...!"
 msgid "Ougl?"
 msgstr "Ougl?"
 
-
 #. [message]: speaker=unit
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:638
 msgid "H i s s...!"
 msgstr "H i s s...!"
-
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:705
 msgid "The finder of the mysterious egg made a decision without much thought."
 msgstr "Gizemli yumurtayı bulan, fazla düşünmeden bir karar verdi."
 
-
 #. [unit]: type=Fire Ant, id=LA
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:739
 msgid "Lonely Ant"
 msgstr "Yalnız Karınca"
-
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:776
 msgid ""
 "There are many unexplainable things in this world. This is one of them: the "
 "little ant decided to join the trolls."
-msgstr "Bu dünyada pek çok açıklanamaz şey vardır. Bu da onlardan biri: küçük karınca trolllara katılmaya karar verdi."
-
+msgstr ""
+"Bu dünyada pek çok açıklanamaz şey vardır. Bu da onlardan biri: küçük "
+"karınca trolllara katılmaya karar verdi."
 
 #. [message]: speaker=UG
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:833
 msgid "Ullg...!"
 msgstr "Ullg...!"
 
-
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:848
 msgid ""
-"Ougl has learned how to control his inner flame. You can now recruit <b>Fire "
-"Guardians</b>."
-msgstr "Ougl iç alevini nasıl kontrol edeceğini öğrendi. Artık <b>Ateş Bekçileri</b> toplayabilirsiniz."
-
+"Ougl has learned how to control his inner flame. You can now recruit <b>Fire"
+" Guardians</b>."
+msgstr ""
+"Ougl iç alevini nasıl kontrol edeceğini öğrendi. Artık <b>Ateş Bekçileri</b>"
+" toplayabilirsiniz."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:859
 msgid ""
 "Also... some of the trolls, like their leader, began to feel a mysterious "
 "connection to fire. You can now recruit <b>Troll Initiates</b>."
-msgstr "Ayrıca... trolllardan bazıları, liderleri gibi, ateşle gizemli bir bağ hissetmeye başladı. Artık <b>Trol Adayları</b> toplayabilirsiniz."
-
+msgstr ""
+"Ayrıca... trolllardan bazıları, liderleri gibi, ateşle gizemli bir bağ "
+"hissetmeye başladı. Artık <b>Trol Adayları</b> toplayabilirsiniz."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:877
 msgid ""
 "There is an open trapdoor in the ruined dwarven castle. Do you want to go "
 "through it and play the bonus puzzle level?"
-msgstr "Harap cüce kalesinde açık bir kapak var. İçinden geçip bonus bulmaca bölümünü oynamak ister misiniz?"
-
+msgstr ""
+"Harap cüce kalesinde açık bir kapak var. İçinden geçip bonus bulmaca "
+"bölümünü oynamak ister misiniz?"
 
 #. [option]
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:879
 msgid "I will play the bonus puzzle scenario."
 msgstr "Bonus bulmaca senaryosunu oynayacağım."
 
-
 #. [option]
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:890
 msgid "I don’t want to play the bonus puzzle scenario."
 msgstr "Bonus bulmaca senaryosunu oynamak istemiyorum."
-
 
 #. [scenario]: id=02_A_Dream
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:5
 msgid "A Dream"
 msgstr "Bir Rüya"
 
-
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:22
 msgid ""
 "Soon Ougl saw that they had come to a dead end. The way forward was blocked "
 "by rock and stone."
-msgstr "Kısa süre sonra Ougl bir çıkmaz sokağa geldiklerini gördü. İlerisi kaya ve taşla tıkanmıştı."
-
+msgstr ""
+"Kısa süre sonra Ougl bir çıkmaz sokağa geldiklerini gördü. İlerisi kaya ve "
+"taşla tıkanmıştı."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:26
 msgid ""
 "There were two options. The trolls could either turn back the way they came "
 "or... break through."
-msgstr "İki seçenek vardı. Trollar ya geldikleri yoldan geri dönebilirdi ya da... delebilirdi."
-
+msgstr ""
+"İki seçenek vardı. Trollar ya geldikleri yoldan geri dönebilirdi ya da... "
+"delebilirdi."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:31
 msgid "Of course, they chose the latter."
 msgstr "Elbette ikincisini seçtiler."
 
-
 #. [side]
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:77
 msgid "Grove Guardians"
 msgstr "Koruluk Bekçileri"
-
 
 #. [side]
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:102
 msgid "Emmm the Oak"
 msgstr "Meşe Emmm"
 
-
 #. [side]
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:103
 msgid "Ummm the Birch"
 msgstr "Kayın Ummm"
-
 
 #. [side]
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:104
 msgid "Immm the Linden"
 msgstr "Ihlamur Immm"
 
-
 #. [unit]: type=Wose Shaman, id=OM
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:109
 msgid "Ommm the Oldest"
 msgstr "En Yaşlı Ommm"
-
 
 #. [objective]: condition=win
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:169
@@ -655,15 +610,15 @@ msgstr "En Yaşlı Ommm"
 msgid "Survive until turns run out"
 msgstr "Turlar bitene kadar hayatta kalın"
 
-
 #. [note]
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:183
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1169
 msgid ""
 "If a Fire Guardian or Fire Wraith moves on a forest or grass tile it will "
 "partially burn down. Enter a tile twice to completely burn it down."
-msgstr "Bir Ateş Bekçisi veya Ateş Hayaleti bir orman ya da çimen karesine hareket ederse kısmen yanar. Tamamen yakmak için bir kareye iki kez girin."
-
+msgstr ""
+"Bir Ateş Bekçisi veya Ateş Hayaleti bir orman ya da çimen karesine hareket "
+"ederse kısmen yanar. Tamamen yakmak için bir kareye iki kez girin."
 
 #. [note]
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:187
@@ -671,8 +626,9 @@ msgstr "Bir Ateş Bekçisi veya Ateş Hayaleti bir orman ya da çimen karesine h
 msgid ""
 "The grove area has a special time of day: Mystic Light, which gives lawful "
 "units bonus +25%, and chaotic -25%."
-msgstr "Koruluk alanı özel bir günün saatine sahiptir: Gizemli Işık — adil birimlere +%25 bonus, kaotik birimlere -%25 verir."
-
+msgstr ""
+"Koruluk alanı özel bir günün saatine sahiptir: Gizemli Işık — adil birimlere"
+" +%25 bonus, kaotik birimlere -%25 verir."
 
 #. [note]
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:191
@@ -680,42 +636,44 @@ msgstr "Koruluk alanı özel bir günün saatine sahiptir: Gizemli Işık — ad
 msgid "Woses teleport from the castle through the Great Trees."
 msgstr "Ulu Ağaçlar aracılığıyla Ulu Ağaçlar kaleden ışınlanır."
 
-
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:237
 msgid ""
 "Now that Ougl was able to control his inner flame, he could easily break "
 "through stone walls."
-msgstr "Ougl artık iç alevini kontrol edebildiğinden, taş duvarları kolayca delebiliyordu."
-
+msgstr ""
+"Ougl artık iç alevini kontrol edebildiğinden, taş duvarları kolayca "
+"delebiliyordu."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:366
 msgid "First the stone wall was heated, and then Ougl smashed it."
 msgstr "Önce taş duvar ısıtıldı, ardından Ougl onu parçaladı."
 
-
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:372
-msgid "I have no idea why such a thing should work, but it made sense to Ougl."
-msgstr "Böyle bir şeyin neden işe yaraması gerektiği hakkında hiçbir fikrim yok ama Ougl için mantıklıydı."
-
+msgid ""
+"I have no idea why such a thing should work, but it made sense to Ougl."
+msgstr ""
+"Böyle bir şeyin neden işe yaraması gerektiği hakkında hiçbir fikrim yok ama "
+"Ougl için mantıklıydı."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:628
 msgid ""
-"Ougl broke through the rocks again and again until he opened a way to a very "
-"mysterious place."
-msgstr "Ougl çok gizemli bir yere giden yolu açana kadar defalarca kayaları deldi."
-
+"Ougl broke through the rocks again and again until he opened a way to a very"
+" mysterious place."
+msgstr ""
+"Ougl çok gizemli bir yere giden yolu açana kadar defalarca kayaları deldi."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:634
 msgid ""
 "They were no longer as deep underground as before and the darkness was not "
 "as thick."
-msgstr "Artık daha önce olduğu kadar derin yeraltında değillerdi ve karanlık o kadar yoğun değildi."
-
+msgstr ""
+"Artık daha önce olduğu kadar derin yeraltında değillerdi ve karanlık o kadar"
+" yoğun değildi."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:724
@@ -723,12 +681,10 @@ msgid ""
 "Ougl loved this strange new green color, and there was plenty of it here."
 msgstr "Ougl bu tuhaf yeni yeşil rengi sevdi ve burada bolca vardı."
 
-
 #. [unit]: type=Wose, id=AM
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:735
 msgid "Ammm the Maple"
 msgstr "Akçaağaç Ammm"
-
 
 #. [message]: speaker=AM
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:760
@@ -736,12 +692,10 @@ msgstr "Akçaağaç Ammm"
 msgid "A m m m...?"
 msgstr "A m m m...?"
 
-
 #. [message]: speaker=AM
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:789
 msgid "A m m m...!"
 msgstr "A m m m...!"
-
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:795
@@ -749,40 +703,39 @@ msgid ""
 "Ougl could not guess what the leafy creature might want from him and his "
 "brothers, for Ougl could not speak or understand the language of other "
 "beings. He only knew feelings and emotions."
-msgstr "Ougl, yapraklı yaratığın ondan ve kardeşlerinden ne isteyebileceğini tahmin edemedi; zira Ougl konuşamıyor ya da diğer varlıkların dilini anlayamıyordu. Sadece hisleri ve duyguları biliyordu."
-
+msgstr ""
+"Ougl, yapraklı yaratığın ondan ve kardeşlerinden ne isteyebileceğini tahmin "
+"edemedi; zira Ougl konuşamıyor ya da diğer varlıkların dilini anlayamıyordu."
+" Sadece hisleri ve duyguları biliyordu."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:806
 msgid ""
-"...And from moment to moment he felt more and more anger from the tree folk, "
-"which waved its branches menacingly at the nearby Fire Wraith."
-msgstr "...Ve her an yakınlardaki Ateş Hayaleti'ne tehditkar dallarını sallayan ağaç halkından giderek daha fazla öfke hissetti."
-
+"...And from moment to moment he felt more and more anger from the tree folk,"
+" which waved its branches menacingly at the nearby Fire Wraith."
+msgstr ""
+"...Ve her an yakınlardaki Ateş Hayaleti'ne tehditkar dallarını sallayan ağaç"
+" halkından giderek daha fazla öfke hissetti."
 
 #. [message]: speaker=OL
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:820
 msgid "Ougl...?"
 msgstr "Ougl...?"
 
-
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:836
 msgid "There was nothing left for the trolls to do but defend themselves."
 msgstr "Trolllara kendilerini savunmaktan başka yapacak bir şey kalmamıştı."
-
 
 #. [unit]: type=Wild Saurian, id=RE
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1079
 msgid "Refumee the Swampling"
 msgstr "Bataklık Cini Refumee"
 
-
 #. [message]: speaker=RE
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1101
 msgid "S y s y...!"
 msgstr "S y s y...!"
-
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1112
@@ -790,37 +743,40 @@ msgid ""
 "The Saurian’s speech meant nothing to Ougl, but Ougl felt that he could "
 "trust and rely on her. He felt that the swamp dweller was not hostile and "
 "wanted to support him."
-msgstr "Sorian'ın konuşması Ougl için anlam taşımıyordu ama Ougl ona güvenip güvenebileceğini hissetti. Bataklık sakinin düşmanca olmadığını ve onu desteklemek istediğini hissetti."
-
+msgstr ""
+"Sorian'ın konuşması Ougl için anlam taşımıyordu ama Ougl ona güvenip "
+"güvenebileceğini hissetti. Bataklık sakinin düşmanca olmadığını ve onu "
+"desteklemek istediğini hissetti."
 
 #. [message]: speaker=RE
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1124
 msgid "S y s y..."
 msgstr "S y s y..."
 
-
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1140
 msgid ""
-"The young trolls spotted a huge tree within the underground forest. This was "
-"one of the great woses, the guardians of the grove, and it glared menacingly "
-"at the stone creatures who it believed were threatening saplings."
-msgstr "Genç trollar yeraltı ormanında devasa bir ağaç fark etti. Bu, koruluk bekçileri olan büyük ulu ağaçlardan biriydi ve fidanları tehdit ettiğini düşündüğü taş yaratıklara tehditkar gözlerle baktı."
-
+"The young trolls spotted a huge tree within the underground forest. This was"
+" one of the great woses, the guardians of the grove, and it glared "
+"menacingly at the stone creatures who it believed were threatening saplings."
+msgstr ""
+"Genç trollar yeraltı ormanında devasa bir ağaç fark etti. Bu, koruluk "
+"bekçileri olan büyük ulu ağaçlardan biriydi ve fidanları tehdit ettiğini "
+"düşündüğü taş yaratıklara tehditkar gözlerle baktı."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1146
 msgid ""
 "Ougl was quick to guess that the death of any Elder Wose would only further "
 "enrage the treefolk, and resolved to keep his distance from them."
-msgstr "Ougl, herhangi bir Yaşlı Ulu Ağaç'ın ölümünün ağaç halkını daha da kızdıracağını çabuk tahmin etti ve onlardan uzak durmaya karar verdi."
-
+msgstr ""
+"Ougl, herhangi bir Yaşlı Ulu Ağaç'ın ölümünün ağaç halkını daha da "
+"kızdıracağını çabuk tahmin etti ve onlardan uzak durmaya karar verdi."
 
 #. [objective]: condition=lose
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1159
 msgid "Death of any of the Elder Woses located on the Great Trees"
 msgstr "Büyük Ağaçlarda bulunan herhangi bir Yaşlı Ulu Ağaç'ın ölümü"
-
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1191
@@ -828,22 +784,24 @@ msgid ""
 "With the death of one of the three great guardians of the grove, the woses "
 "went into a frenzy. The trolls, helpless in the face of these strange new "
 "creatures, knew it was their end."
-msgstr "Koruluk'un üç büyük bekçisinden birinin ölümüyle ulu ağaçlar çılgınlığa büründü. Bu tuhaf yeni yaratıklar karşısında çaresiz kalan trollar bunun sonları olduğunu anladılar."
-
+msgstr ""
+"Koruluk'un üç büyük bekçisinden birinin ölümüyle ulu ağaçlar çılgınlığa "
+"büründü. Bu tuhaf yeni yaratıklar karşısında çaresiz kalan trollar bunun "
+"sonları olduğunu anladılar."
 
 #. [message]: speaker=OM
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1245
 msgid "O m m m...!!"
 msgstr "O m m m...!!"
 
-
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1251
 msgid ""
 "As the sound of battle echoed through the grove, a great old tree finally "
 "began to stir."
-msgstr "Savaş sesi korulukta yankılandıkça, büyük yaşlı bir ağaç nihayet kımıldamaya başladı."
-
+msgstr ""
+"Savaş sesi korulukta yankılandıkça, büyük yaşlı bir ağaç nihayet kımıldamaya"
+" başladı."
 
 #. [message]: speaker=OM
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1266
@@ -852,42 +810,42 @@ msgstr "Savaş sesi korulukta yankılandıkça, büyük yaşlı bir ağaç nihay
 msgid "O m m m..."
 msgstr "O m m m..."
 
-
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1319
 msgid ""
 "The awakened Wose Shaman spoke to Ougl in a strange way, and Ougl "
-"understood. The Wose’s name was Ommm, and it was the leader of the tree folk."
-msgstr "Uyanan Ulu Ağaç Şamanı Ougl ile tuhaf bir şekilde konuştu ve Ougl anladı. Ulu Ağaç’ın adı Ommm idi ve o ağaç halkının lideriydi."
-
+"understood. The Wose’s name was Ommm, and it was the leader of the tree "
+"folk."
+msgstr ""
+"Uyanan Ulu Ağaç Şamanı Ougl ile tuhaf bir şekilde konuştu ve Ougl anladı. "
+"Ulu Ağaç’ın adı Ommm idi ve o ağaç halkının lideriydi."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1330
 msgid ""
 "Ommm used a mysterious magic to see the purpose of the troll’s journey, and "
 "whether they had evil intentions towards the green grove."
-msgstr "Ommm, trolün yolculuğunun amacını ve yeşil koruluk hakkında kötü niyetleri olup olmadığını görmek için gizemli bir büyü kullandı."
-
+msgstr ""
+"Ommm, trolün yolculuğunun amacını ve yeşil koruluk hakkında kötü niyetleri "
+"olup olmadığını görmek için gizemli bir büyü kullandı."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1336
 msgid ""
 "It soon realized that the trolls were not to blame for the unfortunate "
 "skirmish."
-msgstr "Kısa süre sonra trollların talihsiz çatışmadan sorumlu olmadığını fark etti."
-
+msgstr ""
+"Kısa süre sonra trollların talihsiz çatışmadan sorumlu olmadığını fark etti."
 
 #. [message]: speaker=OM
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1341
 msgid "O m m m...?"
 msgstr "O m m m...?"
 
-
 #. [message]: speaker=OL
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1351
 msgid "Ougl..."
 msgstr "Ougl..."
-
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1362
@@ -895,16 +853,19 @@ msgid ""
 "Ougl wanted to travel further upwards, but the Wose Shaman advised him "
 "against it. The woses warned that the surface held many creatures who were "
 "not guided by goodness of heart, but by the law of strength."
-msgstr "Ougl daha yukarılara gitmek istedi ama Ulu Ağaç Şamanı buna karşı çıktı. Ulu ağaçlar, yüzeyin iyi kalplilikle değil güç kanunuyla yönlendirilen pek çok yaratığa ev sahipliği yaptığı konusunda uyardı."
-
+msgstr ""
+"Ougl daha yukarılara gitmek istedi ama Ulu Ağaç Şamanı buna karşı çıktı. Ulu"
+" ağaçlar, yüzeyin iyi kalplilikle değil güç kanunuyla yönlendirilen pek çok "
+"yaratığa ev sahipliği yaptığı konusunda uyardı."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1368
 msgid ""
-"But Ougl had seen green lands now, and he began to dream of seeing more. The "
-"higher he climbed, the more green there would be."
-msgstr "Ama Ougl artık yeşil topraklar görmüştü ve daha fazlasını görmeyi hayal etmeye başladı. Ne kadar yükseklere çıkarsa, o kadar çok yeşil olacaktı."
-
+"But Ougl had seen green lands now, and he began to dream of seeing more. The"
+" higher he climbed, the more green there would be."
+msgstr ""
+"Ama Ougl artık yeşil topraklar görmüştü ve daha fazlasını görmeyi hayal "
+"etmeye başladı. Ne kadar yükseklere çıkarsa, o kadar çok yeşil olacaktı."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1385
@@ -912,8 +873,10 @@ msgid ""
 "After some thought, the Wose Shaman agreed to give the trolls directions to "
 "the surface. But the trolls were to first plant new trees in place of the "
 "ones that had fallen during the battle."
-msgstr "Biraz düşündükten sonra Ulu Ağaç Şamanı trollara yüzeye giden yolu tarif etmeyi kabul etti. Ama trollların önce savaş sırasında düşen ağaçların yerine yeni ağaçlar dikmesi gerekiyordu."
-
+msgstr ""
+"Biraz düşündükten sonra Ulu Ağaç Şamanı trollara yüzeye giden yolu tarif "
+"etmeyi kabul etti. Ama trollların önce savaş sırasında düşen ağaçların "
+"yerine yeni ağaçlar dikmesi gerekiyordu."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1394
@@ -921,61 +884,67 @@ msgid ""
 "After some thought, the Wose Shaman agreed to give the trolls directions to "
 "the surface, but again warned Ougl that sometimes dreams are better left in "
 "the realm of dreams."
-msgstr "Biraz düşündükten sonra Ulu Ağaç Şamanı trollara yüzeye giden yolu tarif etmeyi kabul etti ama Ougl'u yine de bazen rüyaların rüya aleminde kalmasının daha iyi olduğu konusunda uyardı."
-
+msgstr ""
+"Biraz düşündükten sonra Ulu Ağaç Şamanı trollara yüzeye giden yolu tarif "
+"etmeyi kabul etti ama Ougl'u yine de bazen rüyaların rüya aleminde "
+"kalmasının daha iyi olduğu konusunda uyardı."
 
 #. [scenario]: id=03_Fateful_Day
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:5
 msgid "Fateful Day"
 msgstr "Kader Günü"
 
-
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:27
 msgid ""
 "The Wose Shaman, as promised, told the trolls where they should go to get "
 "out of the caves."
-msgstr "Ulu Ağaç Şamanı, söz verdiği gibi trolllara mağaralardan çıkmak için nereye gitmeleri gerektiğini söyledi."
-
+msgstr ""
+"Ulu Ağaç Şamanı, söz verdiği gibi trolllara mağaralardan çıkmak için nereye "
+"gitmeleri gerektiğini söyledi."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:31
 msgid ""
 "It also put a peculiar charm on Ougl, allowing him to understand the speech "
 "of other beings despite not knowing how to speak himself."
-msgstr "Aynı zamanda Ougl'a kendisi konuşmayı bilmesine rağmen diğer varlıkların konuşmasını anlamasını sağlayan tuhaf bir büyü yaptı."
-
+msgstr ""
+"Aynı zamanda Ougl'a kendisi konuşmayı bilmesine rağmen diğer varlıkların "
+"konuşmasını anlamasını sağlayan tuhaf bir büyü yaptı."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:35
 msgid ""
-"The trolls soon left the woses and continued on their journey. The going was "
-"difficult, for the rocks they now climbed were very earthy and crumbly."
-msgstr "Trolllar kısa süre sonra ulu ağaçlardan ayrılıp yollarına devam ettiler. İlerleme güçtü zira tırmandıkları kayalar çok topraklı ve ufalanırdı."
-
+"The trolls soon left the woses and continued on their journey. The going was"
+" difficult, for the rocks they now climbed were very earthy and crumbly."
+msgstr ""
+"Trolllar kısa süre sonra ulu ağaçlardan ayrılıp yollarına devam ettiler. "
+"İlerleme güçtü zira tırmandıkları kayalar çok topraklı ve ufalanırdı."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:39
 msgid ""
 "There was also less food than on the deeper levels. The trolls found only "
-"mushrooms, and Ougl disliked mushrooms. But this did not discourage him, for "
-"Ougl now had a dream and a goal for his trek."
-msgstr "Daha derin seviyelere kıyasla yiyecek de daha azdı. Trolllar yalnızca mantar buldu ve Ougl mantardan hoşlanmıyordu. Ama bu onu cesaretsiz etmedi zira artık Ougl'un bir hayali ve yolculuğu için bir amacı vardı."
-
+"mushrooms, and Ougl disliked mushrooms. But this did not discourage him, for"
+" Ougl now had a dream and a goal for his trek."
+msgstr ""
+"Daha derin seviyelere kıyasla yiyecek de daha azdı. Trolllar yalnızca mantar"
+" buldu ve Ougl mantardan hoşlanmıyordu. Ama bu onu cesaretsiz etmedi zira "
+"artık Ougl'un bir hayali ve yolculuğu için bir amacı vardı."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:43
 msgid "Despite their incautious nature, trolls are not simple at all."
 msgstr "Tedbirsiz doğalarına rağmen trolllar hiç de basit değildir."
 
-
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:47
 msgid ""
-"When they tame their inner flame, they move in the realm of feelings and can "
-"guess the intentions of others without the need for speech."
-msgstr "İç alevlerini ehlileştirdiklerinde, hisler alemine girerler ve konuşmaya ihtiyaç duymadan başkalarının niyetlerini tahmin edebilirler."
-
+"When they tame their inner flame, they move in the realm of feelings and can"
+" guess the intentions of others without the need for speech."
+msgstr ""
+"İç alevlerini ehlileştirdiklerinde, hisler alemine girerler ve konuşmaya "
+"ihtiyaç duymadan başkalarının niyetlerini tahmin edebilirler."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:51
@@ -983,8 +952,10 @@ msgid ""
 "Ougl and his friends knew from the beginning that the tree folk were not "
 "evil, and they did not understand why the trees decided to attack them. If "
 "the trolls had done nothing wrong, then why were they attacked?"
-msgstr "Ougl ve arkadaşları başından beri ağaç halkının kötü olmadığını biliyordu ve neden ağaçların onlara saldırmaya karar verdiğini anlayamıyorlardı. Trolllar yanlış bir şey yapmadıysa, neden saldırıya uğradılar?"
-
+msgstr ""
+"Ougl ve arkadaşları başından beri ağaç halkının kötü olmadığını biliyordu ve"
+" neden ağaçların onlara saldırmaya karar verdiğini anlayamıyorlardı. "
+"Trolllar yanlış bir şey yapmadıysa, neden saldırıya uğradılar?"
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:56
@@ -992,8 +963,10 @@ msgid ""
 "The Golden Flame Tribe thought for a long time about what had happened and "
 "what might yet happen. After much travel and much thought, they happened "
 "across an underground lake."
-msgstr "Altın Alev Kabilesi, yaşananlar ve daha neler olabileceği hakkında uzun süre düşündü. Uzun bir yolculuk ve çok düşünceden sonra, yeraltı gölüne rastladılar."
-
+msgstr ""
+"Altın Alev Kabilesi, yaşananlar ve daha neler olabileceği hakkında uzun süre"
+" düşündü. Uzun bir yolculuk ve çok düşünceden sonra, yeraltı gölüne "
+"rastladılar."
 
 #. [side]: type=Naga Warrior, id=SA, gender=female
 #. [side]
@@ -1002,30 +975,25 @@ msgstr "Altın Alev Kabilesi, yaşananlar ve daha neler olabileceği hakkında u
 msgid "Purple Eye Naga"
 msgstr "Mor Gözlü Naga"
 
-
 #. [side]: type=Naga Warrior, id=SA, gender=female
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:97
 msgid "Sessa Purple Eye"
 msgstr "Mor Göz Sessa"
-
 
 #. [side]: type=Naga Warrior, id=SA, gender=female
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:128
 msgid "Irxa"
 msgstr "Irxa"
 
-
 #. [side]: type=Naga Warrior, id=SA, gender=female
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:129
 msgid "Neillei"
 msgstr "Neillei"
 
-
 #. [side]: type=Naga Warrior, id=SA, gender=female
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:130
 msgid "Oaserss"
 msgstr "Oaserss"
-
 
 #. [side]: type=Orcish Warlord, id=AR
 #. [side]: type=Goblin Pillager, id=NG
@@ -1036,7 +1004,6 @@ msgstr "Oaserss"
 msgid "Red Cry Horde"
 msgstr "Kızıl Çığlık Sürüsü"
 
-
 #. [side]: type=Orcish Warlord, id=AR
 #. [unit]: type=Orcish Warlord, id=AR
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:159
@@ -1044,30 +1011,25 @@ msgstr "Kızıl Çığlık Sürüsü"
 msgid "Agnar Red Cry"
 msgstr "Kızıl Çığlık Agnar"
 
-
 #. [side]: type=Orcish Warlord, id=AR
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:185
 msgid "Omag"
 msgstr "Omag"
-
 
 #. [side]: type=Goblin Pillager, id=NG
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:206
 msgid "Nuug The Firebug"
 msgstr "Ateş Böceği Nuug"
 
-
 #. [side]: type=Goblin Pillager, id=NG
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:232
 msgid "Uod"
 msgstr "Uod"
 
-
 #. [side]: type=Goblin Pillager, id=NG
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:233
 msgid "Marl"
 msgstr "Marl"
-
 
 #. [side]: type=Saurian Oracle, id=MZ
 #. [side]
@@ -1076,7 +1038,6 @@ msgstr "Marl"
 msgid "Blue Blood Saurians"
 msgstr "Mavi Kanlı Sorianlar"
 
-
 #. [side]: type=Saurian Oracle, id=MZ
 #. [unit]: type=Saurian Oracle, id=MZ
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:254
@@ -1084,24 +1045,20 @@ msgstr "Mavi Kanlı Sorianlar"
 msgid "Moarxz Blue Blood"
 msgstr "Mavi Kan Moarxz"
 
-
 #. [side]: type=Saurian Oracle, id=MZ
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:280
 msgid "Zarx"
 msgstr "Zarx"
-
 
 #. [side]: type=Saurian Oracle, id=MZ
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:281
 msgid "Azzaris"
 msgstr "Azzaris"
 
-
 #. [side]: type=Saurian Oracle, id=MZ
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:282
 msgid "Sonikss"
 msgstr "Sonikss"
-
 
 #. [objective]: condition=win
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:294
@@ -1109,22 +1066,21 @@ msgstr "Sonikss"
 msgid "Defeat every enemy unit"
 msgstr "Tüm düşman birimlerini yenin"
 
-
 #. [objective]: condition=lose
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:302
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:652
 msgid "Death of Sessa"
 msgstr "Sessa'nın ölümü"
 
-
 #. [note]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:311
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:661
 msgid ""
-"Ougl’s control over fire has improved. Fire guardians can now move faster in "
-"cave terrain."
-msgstr "Ougl'un ateş üzerindeki kontrolü gelişti. Ateş bekçileri artık mağara arazisinde daha hızlı hareket edebilir."
-
+"Ougl’s control over fire has improved. Fire guardians can now move faster in"
+" cave terrain."
+msgstr ""
+"Ougl'un ateş üzerindeki kontrolü gelişti. Ateş bekçileri artık mağara "
+"arazisinde daha hızlı hareket edebilir."
 
 #. [note]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:315
@@ -1132,112 +1088,99 @@ msgstr "Ougl'un ateş üzerindeki kontrolü gelişti. Ateş bekçileri artık ma
 msgid "Ally and enemy guard units have 0 movement points."
 msgstr "Müttefik ve düşman bekçi birimlerinin 0 hareket puanı vardır."
 
-
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:354
 msgid "Drums could be heard in the distance."
 msgstr "Uzaktan davul sesleri duyulabiliyordu."
-
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:370
 msgid "It didn’t take long for the trolls to understand what was happening."
 msgstr "Trollların neler olduğunu anlaması uzun sürmedi."
 
-
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:404
 msgid ""
 "Some creatures were about to attack some other creatures. Both creatures’ "
 "appearances were strange and monstrous."
-msgstr "Bazı yaratıklar diğer bazı yaratıkları saldırmak üzereydi. Her iki yaratığın görünüşü de tuhaf ve canavarcaydı."
-
+msgstr ""
+"Bazı yaratıklar diğer bazı yaratıkları saldırmak üzereydi. Her iki yaratığın"
+" görünüşü de tuhaf ve canavarcaydı."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:410
 msgid "However, Ougl could feel who was not driven by a good heart."
-msgstr "Oysa Ougl, kimin iyi bir kalpten yönlendirilmediğini hissedebiliyordu."
-
+msgstr ""
+"Oysa Ougl, kimin iyi bir kalpten yönlendirilmediğini hissedebiliyordu."
 
 #. [message]: speaker=SA
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:420
 msgid "<b>S s a s...! ?</b> (Another enemy!?)"
 msgstr "<b>S s a s...! ?</b> (Bir düşman daha!?)"
 
-
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:433
 msgid "Ougl shook his head in denial."
 msgstr "Ougl başını hayır der gibi salladı."
-
 
 #. [message]: speaker=SA
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:438
 msgid "<b>S s a s...?</b> (A friend, then?)"
 msgstr "<b>S s a s...?</b> (O zaman bir dost mu?)"
 
-
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:451
 msgid "Ougl nodded."
 msgstr "Ougl başını salladı."
 
-
 #. [message]: speaker=AR
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:461
 msgid ""
-"<b>Arg-hah!</b> (There is no more hope for you. No matter how many help you, "
-"death awaits you anyway.)"
-msgstr "<b>Arg-hah!</b> (Sizin için artık umut yok. Kaç kişi yardım etse etsin, ölüm her halükarda sizi bekliyor.)"
-
+"<b>Arg-hah!</b> (There is no more hope for you. No matter how many help you,"
+" death awaits you anyway.)"
+msgstr ""
+"<b>Arg-hah!</b> (Sizin için artık umut yok. Kaç kişi yardım etse etsin, ölüm"
+" her halükarda sizi bekliyor.)"
 
 #. [message]: speaker=MZ
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:471
 msgid "<b>S y s s...!</b> (Give up your treasures and we will spare you!)"
 msgstr "<b>S y s s...!</b> (Hazinelerinizi teslim edin, sizi bağışlayalım!)"
 
-
 #. [message]: speaker=SA
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:476
 msgid "<b>S s a s...!</b> (Never!)"
 msgstr "<b>S s a s...!</b> (Asla!)"
-
 
 #. [message]: speaker=NG
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:481
 msgid "<b>Urg-hah!</b> (Then die!)"
 msgstr "<b>Urg-hah!</b> (O zaman ölün!)"
 
-
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:499
 msgid "The Nagini looked again at the trolls."
 msgstr "Nagini yeniden trolllara baktı."
-
 
 #. [message]: speaker=SA
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:504
 msgid "<b>S s a s...?</b> (Will you help us?)"
 msgstr "<b>S s a s...?</b> (Bize yardım eder misiniz?)"
 
-
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:517
 msgid "Ougl said only one thing."
 msgstr "Ougl yalnızca bir şey söyledi."
-
 
 #. [message]: speaker=RE
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:550
 msgid "<b>S y s y...!</b> (I want to fight too!)"
 msgstr "<b>S y s y...!</b> (Ben de savaşmak istiyorum!)"
 
-
 #. [message]: speaker=RE
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:562
 msgid "<b>S y s y...</b> (Let me deal with this one.)"
 msgstr "<b>S y s y...</b> (Bunu bana bırakın.)"
-
 
 #. [message]: speaker=unit
 #. [message]: speaker=OL
@@ -1247,127 +1190,114 @@ msgstr "<b>S y s y...</b> (Bunu bana bırakın.)"
 msgid "...!"
 msgstr "...!"
 
-
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:633
 msgid ""
 "The hungry troll gorged itself on the mushrooms. They weren’t very tasty. "
 "Could they have been poisonous?"
-msgstr "Aç trol mantarları tıkındı. Pek lezzetli değillerdi. Zehirli olabilirler miydi?"
-
+msgstr ""
+"Aç trol mantarları tıkındı. Pek lezzetli değillerdi. Zehirli olabilirler "
+"miydi?"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:639
 msgid "The troll suddenly feels an overwhelming rage."
 msgstr "Trol aniden bunaltıcı bir öfke hisseder."
 
-
 #. [note]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:669
 msgid ""
 "In this scenario, trolls entering mushroom terrain will destroy the "
 "mushrooms and gain berserk on their melee attacks."
-msgstr "Bu senaryoda mantar arazisine giren trollar mantarları yok edecek ve yakın saldırılarında cinnet kazanacak."
-
+msgstr ""
+"Bu senaryoda mantar arazisine giren trollar mantarları yok edecek ve yakın "
+"saldırılarında cinnet kazanacak."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:686
 msgid ""
 "Ougl bit into a piece of mushroom, but as soon as he tasted it, he spat it "
 "out in disgust. He was not interested in rage."
-msgstr "Ougl bir parça mantara ısırdı ama tatması anında iğrenerek tükürdü. Öfkeyle ilgilenmiyordu."
-
+msgstr ""
+"Ougl bir parça mantara ısırdı ama tatması anında iğrenerek tükürdü. Öfkeyle "
+"ilgilenmiyordu."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:834
 msgid ""
-"Drums once again echoed through the cavern. Enemy reinforcements had arrived."
+"Drums once again echoed through the cavern. Enemy reinforcements had "
+"arrived."
 msgstr "Davullar yeniden mağarada yankılandı. Düşman takviyesi gelmişti."
-
 
 #. [message]: speaker=AR
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:860
 msgid "<b>Arg-hah!</b> (I won’t lose!)"
 msgstr "<b>Arg-hah!</b> (Kaybedemem!)"
 
-
 #. [message]: speaker=AR
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:872
 msgid "<b>Arg-hah!</b> (You’ll pay for this, you dirty troll!)"
 msgstr "<b>Arg-hah!</b> (Bunun bedelini ödeyeceksin, kirli trol!)"
-
 
 #. [message]: speaker=NG
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:898
 msgid "<b>Urg-hah...</b> (No! I can’t die...)"
 msgstr "<b>Urg-hah...</b> (Hayır! Ölemem...)"
 
-
 #. [message]: speaker=MZ
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:924
 msgid "<b>S y s s...!</b> (Time to retreat!)"
 msgstr "<b>S y s s...!</b> (Geri çekilme zamanı!)"
-
 
 #. [message]: speaker=SA
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:940
 msgid "<b>S s a s...!</b> (What a coward!)"
 msgstr "<b>S s a s...!</b> (Ne korkak!)"
 
-
 #. [message]: speaker=RE
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:952
 msgid "<b>S y s y...</b> (Forgive me for falling...)"
 msgstr "<b>S y s y...</b> (Düştüğüm için bağışla beni...)"
-
 
 #. [message]: speaker=RE
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:971
 msgid "<b>S y s y...</b> (You are a fool of a saurian.)"
 msgstr "<b>S y s y...</b> (Sen bir sorian aptalsın.)"
 
-
 #. [message]: speaker=MZ
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:980
 msgid "<b>S y s s...!</b> (No, you are. You saurian traitor!)"
 msgstr "<b>S y s s...!</b> (Hayır, sen öylesin. Sen sorian hain!)"
-
 
 #. [message]: speaker=RE
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:989
 msgid "<b>S y s y...!</b> (You are, not me!)"
 msgstr "<b>S y s y...!</b> (Sen öylesin, ben değil!)"
 
-
 #. [message]: speaker=MZ
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:1003
 msgid "<b>S y s s...!</b> (You are annoying...)"
 msgstr "<b>S y s s...!</b> (Sen sinir bozucusun...)"
-
 
 #. [message]: speaker=RE
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:1017
 msgid "<b>S y s y...</b> (You are more.)"
 msgstr "<b>S y s y...</b> (Sen daha fazlasısın.)"
 
-
 #. [message]: speaker=RE
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:1026
 msgid "<b>S s s s y s y s s y y...!</b> (Saurian insult, no translation.)"
 msgstr "<b>S s s s y s y s s y y...!</b> (Sorian hakareti, çevirisi yok.)"
-
 
 #. [message]: speaker=MZ
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:1035
 msgid "<b>S y s s...</b> (How dare you!)"
 msgstr "<b>S y s s...</b> (Nasıl cüret edersiniz!)"
 
-
 #. [message]: speaker=SA
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:1052
 msgid "<b>S s a s...</b> (It’s over...)"
 msgstr "<b>S s a s...</b> (Bitti...)"
-
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:1104
@@ -1375,48 +1305,47 @@ msgid ""
 "Ougl gave a victorious roar as the last of his enemies fell to the ground."
 msgstr "Son düşmanı yere düştüğünde Ougl zafer çığlığı attı."
 
-
 #. [message]: speaker=SA
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:1114
 msgid ""
 "<b>S s a s...</b> (Thank you for your help. Without your aid we would have "
 "been routed.)"
-msgstr "<b>S s a s...</b> (Yardımınız için teşekkürler. Yardımınız olmasaydı bozguna uğrardık.)"
-
+msgstr ""
+"<b>S s a s...</b> (Yardımınız için teşekkürler. Yardımınız olmasaydı bozguna"
+" uğrardık.)"
 
 #. [message]: speaker=SA
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:1119
 msgid "<b>S s a s...</b> (How can we repay you?)"
 msgstr "<b>S s a s...</b> (Sizi nasıl ödüllendiririz?)"
 
-
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:1125
 msgid "Ougl already knew how the Naga could help him."
 msgstr "Ougl, Naga'nın ona nasıl yardım edebileceğini çoktan biliyordu."
-
 
 #. [scenario]: id=04_A_Beautiful_World
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:5
 msgid "A Beautiful World"
 msgstr "Güzel Bir Dünya"
 
-
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:20
 msgid ""
 "Sessa asked the trolls how she could repay them for their help, but the "
 "trolls did not know how to speak. They pointed upwards with their hands."
-msgstr "Sessa, trolllara yardımları için onları nasıl ödüllendirebileceğini sordu ama trolllar konuşmayı bilmiyordu. Elleriyle yukarıyı işaret ettiler."
-
+msgstr ""
+"Sessa, trolllara yardımları için onları nasıl ödüllendirebileceğini sordu "
+"ama trolllar konuşmayı bilmiyordu. Elleriyle yukarıyı işaret ettiler."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:24
 msgid ""
 "Fortunately, this was not the first time the Nagas had met their kind, and "
 "after a while they understood where the trolls were going."
-msgstr "Neyse ki Nagaların kendi türleriyle karşılaşması ilk kez değildi ve bir süre sonra trollların nereye gittiğini anladılar."
-
+msgstr ""
+"Neyse ki Nagaların kendi türleriyle karşılaşması ilk kez değildi ve bir süre"
+" sonra trollların nereye gittiğini anladılar."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:29
@@ -1424,36 +1353,38 @@ msgid ""
 "The old wose’s directions had been too complicated for Ougl to follow. He "
 "had forgotten most of them already. But with a guide, the trolls would "
 "surely reach their goal."
-msgstr "Yaşlı ulu ağacın tarifleri Ougl'un takip etmesi için çok karmaşıktı. Çoğunu zaten unutmuştu. Ama bir rehberle trolllar hedeflerine kesinlikle ulaşacaktı."
-
+msgstr ""
+"Yaşlı ulu ağacın tarifleri Ougl'un takip etmesi için çok karmaşıktı. Çoğunu "
+"zaten unutmuştu. Ama bir rehberle trolllar hedeflerine kesinlikle "
+"ulaşacaktı."
 
 #. [unit]: type=Naga Fighter, id=IA, gender=female
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:67
 msgid "Ilaja"
 msgstr "Ilaja"
 
-
 #. [message]: speaker=IA
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:146
 msgid "<b>S s a s...</b> (Here we bid farewell, stone friends. Be safe.)"
-msgstr "<b>S s a s...</b> (Burada veda ediyoruz, taş dostlar. Kendinize iyi bakın.)"
-
+msgstr ""
+"<b>S s a s...</b> (Burada veda ediyoruz, taş dostlar. Kendinize iyi bakın.)"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:170
 msgid ""
 "Ougl took a step towards the exit, but hesitated for a moment. He wasn’t "
 "sure why."
-msgstr "Ougl çıkışa doğru bir adım attı ama bir an duraksadı. Nedenini bilmiyordu."
-
+msgstr ""
+"Ougl çıkışa doğru bir adım attı ama bir an duraksadı. Nedenini bilmiyordu."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:229
 msgid ""
-"The outside world was everything Ougl had imagined. Green. Full of sound and "
-"life. Ougl and the Golden Flame Tribe were filled with awe."
-msgstr "Dış dünya Ougl'un hayal ettiği her şeydi. Yeşil. Ses ve hayatla dolu. Ougl ve Altın Alev Kabilesi hayranlıkla dolup taştı."
-
+"The outside world was everything Ougl had imagined. Green. Full of sound and"
+" life. Ougl and the Golden Flame Tribe were filled with awe."
+msgstr ""
+"Dış dünya Ougl'un hayal ettiği her şeydi. Yeşil. Ses ve hayatla dolu. Ougl "
+"ve Altın Alev Kabilesi hayranlıkla dolup taştı."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:251
@@ -1461,86 +1392,82 @@ msgid ""
 "A bright light shone overhead, brighter than anything Ougl had ever seen. "
 "The light hurt to look at. The light made everything hurt to look at, but "
 "Ougl kept looking anyway."
-msgstr "Tepede parlak bir ışık vardı, Ougl'un daha önce gördüğü her şeyden daha parlak. Işığa bakmak acı veriyordu. Işık her şeye bakmayı acı verici kılıyordu ama Ougl yine de bakmaya devam etti."
-
+msgstr ""
+"Tepede parlak bir ışık vardı, Ougl'un daha önce gördüğü her şeyden daha "
+"parlak. Işığa bakmak acı veriyordu. Işık her şeye bakmayı acı verici "
+"kılıyordu ama Ougl yine de bakmaya devam etti."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:265
 msgid ""
 "Ougl’s voice ran out with joy. He felt that he had fulfilled his greatest "
 "dream."
-msgstr "Ougl'un sesi sevinçle yükseldi. En büyük hayalini gerçekleştirdiğini hissetti."
-
+msgstr ""
+"Ougl'un sesi sevinçle yükseldi. En büyük hayalini gerçekleştirdiğini "
+"hissetti."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:271
 msgid "But his happiness did not last very long..."
 msgstr "Ama mutluluğu fazla uzun sürmedi..."
 
-
 #. [message]: speaker=AR
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:297
 msgid "<b>Arg-hah!</b> (Now we've got you! You dumb troll!)"
 msgstr "<b>Arg-hah!</b> (Seni yakaladık! Sen aptal trol!)"
-
 
 #. [modify_side]
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:396
 msgid "Flameless Tribe"
 msgstr "Alevsiz Kabile"
 
-
 #. [modify_unit]
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:404
 msgid "Ougl the Flameless"
 msgstr "Alevsiz Ougl"
 
-
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:487
 msgid ""
-"The saurian stole away Ougl’s inner flame and quenched it with magic. Bitter "
-"cold cut into Ougl’s stone-like body."
-msgstr "Sorian, Ougl'un iç alevini çalıp büyüyle söndürdü. Acı soğuk Ougl'un taş gibi bedenine işledi."
-
+"The saurian stole away Ougl’s inner flame and quenched it with magic. Bitter"
+" cold cut into Ougl’s stone-like body."
+msgstr ""
+"Sorian, Ougl'un iç alevini çalıp büyüyle söndürdü. Acı soğuk Ougl'un taş "
+"gibi bedenine işledi."
 
 #. [message]: speaker=MZ
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:492
 msgid ""
 "<b>S y s s...</b> (You will follow us wherever we go if you want to regain "
 "your inner flame, troll.)"
-msgstr "<b>S y s s...</b> (İç alevini geri kazanmak istiyorsan bizi nereye gidersek takip edeceksin, trol.)"
-
+msgstr ""
+"<b>S y s s...</b> (İç alevini geri kazanmak istiyorsan bizi nereye gidersek "
+"takip edeceksin, trol.)"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:498
 msgid "...But Ougl had no intention of giving up so easily."
 msgstr "...Ama Ougl bu kadar kolay pes etmeye niyeti yoktu."
 
-
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:504
 msgid "He suddenly shouted. Trollish words rang out in the evening air."
 msgstr "Aniden bağırdı. Trolce kelimeler akşam havasında yankılandı."
-
 
 #. [message]: speaker=OL
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:513
 msgid "OUGL... NOT FOLLOW YOU!!!"
 msgstr "OUGL... SİZİ TAKİP ETMEZ!!!"
 
-
 #. [message]: speaker=AR
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:556
 msgid "<b>Arg-hah!</b> (The beast is trying to fight! Archers, to me!)"
 msgstr "<b>Arg-hah!</b> (Canavar savaşmaya çalışıyor! Okçular, bana!)"
 
-
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:643
 msgid "When Ougl felt the heat of the fire, he flew into a great rage."
 msgstr "Ougl ateşin sıcaklığını hissedince büyük bir öfkeye kapıldı."
-
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:909
@@ -1548,32 +1475,37 @@ msgid ""
 "Ougl fell to his knees. The strong troll’s gaze became absent, and his will "
 "to fight died out. His drive and vitality had faded away, and only empty "
 "space remained in his heart."
-msgstr "Ougl dizlerinin üstüne çöktü. Güçlü trolün bakışları boşaldı ve savaşma isteği söndü. Azmi ve canlılığı solup gitmişti ve kalbinde yalnızca boşluk kalmıştı."
-
+msgstr ""
+"Ougl dizlerinin üstüne çöktü. Güçlü trolün bakışları boşaldı ve savaşma "
+"isteği söndü. Azmi ve canlılığı solup gitmişti ve kalbinde yalnızca boşluk "
+"kalmıştı."
 
 #. [message]: speaker=AR
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:916
 msgid ""
 "<b>Arg-hah!</b> (You have no chance to win against me. Do you understand? "
 "Ha, ha, ha...!)"
-msgstr "<b>Arg-hah!</b> (Bana karşı kazanma şansın yok. Anlıyor musun? Ha, ha, ha...!)"
-
+msgstr ""
+"<b>Arg-hah!</b> (Bana karşı kazanma şansın yok. Anlıyor musun? Ha, ha, "
+"ha...!)"
 
 #. [message]: speaker=AR
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:923
 msgid ""
 "<b>Arg-hah!</b> (Now your leader is under our power. You trolls need a new "
 "leader. You will all follow us!)"
-msgstr "<b>Arg-hah!</b> (Artık lideriniz bizim gücümüz altında. Siz trolllara yeni bir lider lazım. Hepiniz bizi takip edeceksiniz!)"
-
+msgstr ""
+"<b>Arg-hah!</b> (Artık lideriniz bizim gücümüz altında. Siz trolllara yeni "
+"bir lider lazım. Hepiniz bizi takip edeceksiniz!)"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:936
 msgid ""
 "None of the Golden Flame Tribe were as bright or as bold as Ougl had been. "
 "They did not understand the danger of the orcs."
-msgstr "Altın Alev Kabilesi'nden hiçkimse Ougl kadar zeki ya da cesur değildi. Orkların tehlikesini anlamadılar."
-
+msgstr ""
+"Altın Alev Kabilesi'nden hiçkimse Ougl kadar zeki ya da cesur değildi. "
+"Orkların tehlikesini anlamadılar."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:942
@@ -1581,8 +1513,9 @@ msgid ""
 "The trolls joined their new leaders, and learned from them. They learned to "
 "lust for the sheen of gold and the smell of blood. They learned to spread "
 "ruin and death."
-msgstr "Trolllar yeni liderlerine katıldı ve onlardan öğrendi. Altının parlaklığına ve kanın kokusuna susamayı öğrendiler. Yıkım ve ölümü yaymayı öğrendiler."
-
+msgstr ""
+"Trolllar yeni liderlerine katıldı ve onlardan öğrendi. Altının parlaklığına "
+"ve kanın kokusuna susamayı öğrendiler. Yıkım ve ölümü yaymayı öğrendiler."
 
 #. [unit]: type=Elder Mage, id=CU
 #. [message]: speaker=narrator
@@ -1592,51 +1525,54 @@ msgstr "Trolllar yeni liderlerine katıldı ve onlardan öğrendi. Altının par
 msgid "Crelanu"
 msgstr "Crelanu"
 
-
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:1046
 msgid ""
 "Some years later, a few members of the unfortunate Golden Flame Tribe found "
-"themselves in the far north, besieging my wizard’s tower as orcs so often do."
-msgstr "Birkaç yıl sonra, talihsiz Altın Alev Kabilesi’nin birkaç üyesi uzak kuzeyde kendilerini buldu; tıpkı orklara özgü bir şekilde benim sihirbaz kulemi kuşatıyorlardı."
-
+"themselves in the far north, besieging my wizard’s tower as orcs so often "
+"do."
+msgstr ""
+"Birkaç yıl sonra, talihsiz Altın Alev Kabilesi’nin birkaç üyesi uzak kuzeyde"
+" kendilerini buldu; tıpkı orklara özgü bir şekilde benim sihirbaz kulemi "
+"kuşatıyorlardı."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:1053
 msgid ""
 "Their attack failed. I took prisoners, from whom I learned this story. And "
 "now you have learned it from me."
-msgstr "Saldırıları başarısız oldu. Esir aldım ve bu hikayeyi onlardan öğrendim. Şimdi de siz onu benden öğrendiniz."
-
+msgstr ""
+"Saldırıları başarısız oldu. Esir aldım ve bu hikayeyi onlardan öğrendim. "
+"Şimdi de siz onu benden öğrendiniz."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:1065
 msgid ""
-"Trolls are often thought of as beasts, bloodthirsty monsters who only do bad "
-"things. Perhaps many are. But many were not always so."
-msgstr "Trolllar çoğunlukla sadece kötülük yapan kana susamış canavarlar olarak düşünülür. Belki birçoğu öyledir. Ama birçoğu her zaman böyle değildi."
-
+"Trolls are often thought of as beasts, bloodthirsty monsters who only do bad"
+" things. Perhaps many are. But many were not always so."
+msgstr ""
+"Trolllar çoğunlukla sadece kötülük yapan kana susamış canavarlar olarak "
+"düşünülür. Belki birçoğu öyledir. Ama birçoğu her zaman böyle değildi."
 
 #. [scenario]: id=Secret
 #: data/campaigns/Dusk_of_Dawn/scenarios/Secret.cfg:5
 msgid "Secret"
 msgstr "Sır"
 
-
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/Secret.cfg:20
 msgid "Dwarves are a very cautious folk, carefully guarding their secrets."
 msgstr "Cüceler çok ihtiyatlı bir halktır ve sırlarını özenle korurlar."
 
-
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/Secret.cfg:24
 msgid ""
-"They are well known for frantically mining treasures and adorning themselves "
-"with jewels. Less well known is that they practice a mysterious kind of "
+"They are well known for frantically mining treasures and adorning themselves"
+" with jewels. Less well known is that they practice a mysterious kind of "
 "magic."
-msgstr "Delice hazine madenciliği yapmaları ve kendilerini mücevherle süslemeleriyle ünlüdürler. Daha az bilineni ise gizemli bir tür büyü pratiği yapmalarıdır."
-
+msgstr ""
+"Delice hazine madenciliği yapmaları ve kendilerini mücevherle süslemeleriyle"
+" ünlüdürler. Daha az bilineni ise gizemli bir tür büyü pratiği yapmalarıdır."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/Secret.cfg:28
@@ -1645,22 +1581,24 @@ msgid ""
 "left behind a primordial power far below. Through the art of runes, dwarves "
 "create energy channels that carry fragments of this power up to the surface "
 "world."
-msgstr "İlk cücelerin derinden ilk çıktıklarında, çok aşağılarda ilksel bir güç bıraktıkları söylenir. Rün sanatı aracılığıyla cüceler bu gücün parçalarını yüzey dünyasına taşıyan enerji kanalları oluşturur."
-
+msgstr ""
+"İlk cücelerin derinden ilk çıktıklarında, çok aşağılarda ilksel bir güç "
+"bıraktıkları söylenir. Rün sanatı aracılığıyla cüceler bu gücün parçalarını "
+"yüzey dünyasına taşıyan enerji kanalları oluşturur."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/Secret.cfg:33
 msgid ""
 "Descending deeper through the trapdoor, Ougl became the first of the Golden "
 "Flame Tribe to see this art in action."
-msgstr "Kapaktan daha derinlere inerken, Ougl bu sanatı eylemde gören Altın Alev Kabilesi'nin ilk üyesi oldu."
-
+msgstr ""
+"Kapaktan daha derinlere inerken, Ougl bu sanatı eylemde gören Altın Alev "
+"Kabilesi'nin ilk üyesi oldu."
 
 #. [side]
 #: data/campaigns/Dusk_of_Dawn/scenarios/Secret.cfg:64
 msgid "Guardian of the Secret Room"
 msgstr "Gizli Odanın Bekçisi"
-
 
 #. [side]
 #. [unit]: type=Stone Golem, id=STONE-HEART
@@ -1669,26 +1607,24 @@ msgstr "Gizli Odanın Bekçisi"
 msgid "Stone Heart"
 msgstr "Taş Kalp"
 
-
 #. [objective]: condition=win
 #: data/campaigns/Dusk_of_Dawn/scenarios/Secret.cfg:95
 msgid "Reach the artifact (10,2)"
 msgstr "Esere ulaşın (10,2)"
 
-
 #. [note]
 #: data/campaigns/Dusk_of_Dawn/scenarios/Secret.cfg:109
 msgid ""
-"The golem moves towards you each turn. It has 1 MP, which will increase by 1 "
-"each time it enters a tile with a rune."
-msgstr "Golem her turda size doğru ilerler. 1 HP'si vardır ve bir rün içeren kareye her girişinde 1 artar."
-
+"The golem moves towards you each turn. It has 1 MP, which will increase by 1"
+" each time it enters a tile with a rune."
+msgstr ""
+"Golem her turda size doğru ilerler. 1 YP'si vardır ve bir rün içeren kareye "
+"her girişinde 1 artar."
 
 #. [note]
 #: data/campaigns/Dusk_of_Dawn/scenarios/Secret.cfg:113
 msgid "To open the gate you need to trigger buttons: (5,7) and (15,7)."
 msgstr "Kapıyı açmak için düğmeleri tetiklemeniz gerekiyor: (5,7) ve (15,7)."
-
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/Secret.cfg:607
@@ -1696,20 +1632,19 @@ msgid ""
 "The stone statue came suddenly to life. Its eyes lit up with a bright glow."
 msgstr "Taş heykel aniden canlandı. Gözleri parlak bir ışıltıyla yandı."
 
-
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/Secret.cfg:625
 msgid ""
 "Ougl was sure that there must be something very valuable locked away behind "
 "the guardian statue. He wanted the treasure hidden by the dwarves."
-msgstr "Ougl, bekçi heykelinin arkasında çok değerli bir şeyin kilitli olduğundan emindi. Cüceler tarafından saklanan hazineyi istiyordu."
-
+msgstr ""
+"Ougl, bekçi heykelinin arkasında çok değerli bir şeyin kilitli olduğundan "
+"emindi. Cüceler tarafından saklanan hazineyi istiyordu."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/Secret.cfg:634
 msgid "But first he had to open the way by pressing two stone buttons."
 msgstr "Ama önce iki taş düğmeye basarak yolu açması gerekiyordu."
-
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/Secret.cfg:655
@@ -1717,28 +1652,28 @@ msgid ""
 "This amulet radiates an aura of power. It is engraved with the head of a "
 "raven, birds that have been great allies of the dwarves since time "
 "immemorial."
-msgstr "Bu muska bir güç aurası yayıyor. Ezelden beri cücelerin büyük müttefikleri olan kuşlar olan bir kuzgunun başı kazınmış."
-
+msgstr ""
+"Bu muska bir güç aurası yayıyor. Ezelden beri cücelerin büyük müttefikleri "
+"olan kuşlar olan bir kuzgunun başı kazınmış."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/Secret.cfg:714
 msgid ""
-"The moment Ougl’s fingers touch the amulet, the golem suddenly crumbles into "
-"fine dust."
-msgstr "Ougl'un parmaklarının muskaya dokunduğu an, golem aniden ince toza çöküverdi."
-
+"The moment Ougl’s fingers touch the amulet, the golem suddenly crumbles into"
+" fine dust."
+msgstr ""
+"Ougl'un parmaklarının muskaya dokunduğu an, golem aniden ince toza "
+"çöküverdi."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/Secret.cfg:768
 msgid "Through the art of runes, the dust begins to gather again..."
 msgstr "Rün sanatı aracılığıyla toz yeniden toplanmaya başlar..."
 
-
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/Secret.cfg:790
 msgid "...and a new golem loyal to Ougl is born."
 msgstr "...ve Ougl'a sadık yeni bir golem doğar."
-
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/Secret.cfg:903
@@ -1746,12 +1681,10 @@ msgstr "...ve Ougl'a sadık yeni bir golem doğar."
 msgid "With a squeal of rusty machinery, the gate opens."
 msgstr "Paslı makinenin gıcırtısıyla kapı açılır."
 
-
 #. [unit_type]: id=Beast Saurian, race=lizard, gender=female
 #: data/campaigns/Dusk_of_Dawn/units/Beast_Saurian.cfg:5
 msgid "Beast Saurian"
 msgstr "Yaratık Sorian"
-
 
 #. [unit_type]: id=Beast Saurian, race=lizard, gender=female
 #: data/campaigns/Dusk_of_Dawn/units/Beast_Saurian.cfg:19
@@ -1759,20 +1692,19 @@ msgid ""
 "As they grow older, Wild Saurians begin to be able to produce the poison "
 "with which they coat their sickles. This allows them to weaken their prey, "
 "which quickly falls under the strain of time."
-msgstr "Yaşlandıkça Vahşi Sorianlar tırpanlarını kapladıkları zehiri üretmeye başlar. Bu sayede avlarını zayıflatabilirler, av zaman içinde çabucak çöker."
-
+msgstr ""
+"Yaşlandıkça Vahşi Sorianlar tırpanlarını kapladıkları zehiri üretmeye "
+"başlar. Bu sayede avlarını zayıflatabilirler, av zaman içinde çabucak çöker."
 
 #. [attack]: type=blade
 #: data/campaigns/Dusk_of_Dawn/units/Beast_Saurian.cfg:29
 msgid "poisonous sickle"
 msgstr "zehirli tırpan"
 
-
 #. [unit_type]: id=Great Stone Golem, race=monster
 #: data/campaigns/Dusk_of_Dawn/units/Great_Stone_Golem.cfg:4
 msgid "Great Stone Golem"
 msgstr "Büyük Taş Golem"
-
 
 #. [unit_type]: id=Great Stone Golem, race=monster
 #. [unit_type]: id=Stone Golem, race=monster
@@ -1781,8 +1713,9 @@ msgstr "Büyük Taş Golem"
 msgid ""
 "Legends tell of great stone statues resembling dwarves that come to life "
 "through the art of runes to protect the treasures of the bearded people."
-msgstr "Efsaneler, sakallı halkın hazinelerini korumak için rün sanatı aracılığıyla canlandırılan cücelere benzeyen büyük taş heykellerden söz eder."
-
+msgstr ""
+"Efsaneler, sakallı halkın hazinelerini korumak için rün sanatı aracılığıyla "
+"canlandırılan cücelere benzeyen büyük taş heykellerden söz eder."
 
 #. [unit_type]: id=Great Stone Golem, race=monster
 #. [unit_type]: id=Stone Golem, race=monster
@@ -1790,7 +1723,6 @@ msgstr "Efsaneler, sakallı halkın hazinelerini korumak için rün sanatı arac
 #: data/campaigns/Dusk_of_Dawn/units/Stone_Golem.cfg:19
 msgid "But these are just tales. Right?"
 msgstr "Ama bunlar sadece masaldır. Değil mi?"
-
 
 #. [attack]: type=impact
 #: data/campaigns/Dusk_of_Dawn/units/Great_Stone_Golem.cfg:42
@@ -1800,12 +1732,10 @@ msgstr "Ama bunlar sadece masaldır. Değil mi?"
 msgid "fist"
 msgstr "yumruk"
 
-
 #. [unit_type]: id=Troll Initiate, race=troll
 #: data/campaigns/Dusk_of_Dawn/units/Initiate.cfg:5
 msgid "Troll Initiate"
 msgstr "Trol Adayı"
-
 
 #. [unit_type]: id=Troll Initiate, race=troll
 #: data/campaigns/Dusk_of_Dawn/units/Initiate.cfg:21
@@ -1813,40 +1743,39 @@ msgid ""
 "Some trolls are born smaller than the rest of their kin. Though weak in "
 "body, they quickly realize that they have been blessed with an unusually "
 "strong bond with fire."
-msgstr "Bazı trollar akrabalarının geri kalanından daha küçük doğar. Bedenen zayıf olmalarına rağmen, ateşle alışılmadık derecede güçlü bir bağla kutsandıklarını çabuk fark ederler."
-
+msgstr ""
+"Bazı trollar akrabalarının geri kalanından daha küçük doğar. Bedenen zayıf "
+"olmalarına rağmen, ateşle alışılmadık derecede güçlü bir bağla "
+"kutsandıklarını çabuk fark ederler."
 
 #. [attack]: type=fire
 #: data/campaigns/Dusk_of_Dawn/units/Initiate.cfg:37
 msgid "flame tongue"
 msgstr "alev dili"
 
-
 #. [unit_type]: id=Stone Golem, race=monster
 #: data/campaigns/Dusk_of_Dawn/units/Stone_Golem.cfg:4
 msgid "Stone Golem"
 msgstr "Taş Golem"
-
 
 #. [unit_type]: id=Strong Troll Whelp, race=troll
 #: data/campaigns/Dusk_of_Dawn/units/Strong_Whelp.cfg:5
 msgid "Strong Troll Whelp"
 msgstr "Güçlü Trol Yavrusu"
 
-
 #. [unit_type]: id=Strong Troll Whelp, race=troll
 #: data/campaigns/Dusk_of_Dawn/units/Strong_Whelp.cfg:18
 msgid ""
 "Some Troll Whelps are stronger and larger than others. They are usually "
 "found leading newly born troll tribes."
-msgstr "Bazı Trol Yavrularr diğerlerinden daha güçlü ve büyüktür. Genellikle yeni doğmuş trol kabilelerini liderlerken görülürler."
-
+msgstr ""
+"Bazı Trol Yavrularr diğerlerinden daha güçlü ve büyüktür. Genellikle yeni "
+"doğmuş trol kabilelerini liderlerken görülürler."
 
 #. [unit_type]: id=Wild Saurian, race=lizard, gender=female
 #: data/campaigns/Dusk_of_Dawn/units/Wild_Saurian.cfg:5
 msgid "Wild Saurian"
 msgstr "Vahşi Sorian"
-
 
 #. [unit_type]: id=Wild Saurian, race=lizard, gender=female
 #: data/campaigns/Dusk_of_Dawn/units/Wild_Saurian.cfg:19
@@ -1854,26 +1783,25 @@ msgid ""
 "Some saurians are more savage and have a greater predatory instinct. They "
 "often live alone and have developed a peculiar ability to heal themselves "
 "from wounds and poisons."
-msgstr "Bazı sorianlar daha vahşidir ve daha güçlü bir avcılık içgüdüsüne sahiptir. Çoğu zaman yalnız yaşarlar ve yaralardan ile zehirlerden kendilerini iyileştirme gibi tuhaf bir yetenek geliştirmişlerdir."
-
+msgstr ""
+"Bazı sorianlar daha vahşidir ve daha güçlü bir avcılık içgüdüsüne sahiptir. "
+"Çoğu zaman yalnız yaşarlar ve yaralardan ile zehirlerden kendilerini "
+"iyileştirme gibi tuhaf bir yetenek geliştirmişlerdir."
 
 #. [attack]: type=blade
 #: data/campaigns/Dusk_of_Dawn/units/Wild_Saurian.cfg:28
 msgid "sickle"
 msgstr "tırpan"
 
-
 #. [message]: speaker=OL
 #: data/campaigns/Dusk_of_Dawn/utils/defeat.cfg:12
 msgid "Ougl...!"
 msgstr "Ougl...!"
 
-
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:23
 msgid "Should $unit.name| drink the potion?"
 msgstr "$unit.name| iksiri içmeli mi?"
-
 
 #. [message]: speaker=$unit.id|
 #. [message]: speaker=narrator
@@ -1882,7 +1810,6 @@ msgstr "$unit.name| iksiri içmeli mi?"
 msgid "Potion grants steadfast ability and 20% resistance to impact."
 msgstr "İksir sarsılmaz yeteneği ve darbeye karşı %20 direnç verir."
 
-
 #. [option]
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:26
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:102
@@ -1890,24 +1817,20 @@ msgstr "İksir sarsılmaz yeteneği ve darbeye karşı %20 direnç verir."
 msgid "Yes"
 msgstr "Evet"
 
-
 #. [object]: id={ID}
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:30
 msgid "Blue Potion"
 msgstr "Mavi İksir"
-
 
 #. [object]: id={ID}
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:32
 msgid "A potion of unknown origin."
 msgstr "Bilinmeyen kökenden bir iksir."
 
-
 #. [message]: speaker=$unit.id|
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:48
 msgid "female^Potion grants steadfast ability and 20% resistance to impact."
 msgstr "female^İksir sarsılmaz yeteneği ve darbeye karşı %20 direnç verir."
-
 
 #. [option]
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:71
@@ -1916,12 +1839,10 @@ msgstr "female^İksir sarsılmaz yeteneği ve darbeye karşı %20 direnç verir.
 msgid "No"
 msgstr "Hayır"
 
-
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:99
 msgid "Should $unit.name| take the branch?"
 msgstr "$unit.name| dalı almalı mı?"
-
 
 #. [message]: speaker=$unit.id|
 #. [message]: speaker=narrator
@@ -1930,74 +1851,64 @@ msgstr "$unit.name| dalı almalı mı?"
 msgid "This magical branch grants +2 damage to melee attacks."
 msgstr "Bu sihirli dal yakın saldırılara +2 hasar verir."
 
-
 #. [object]: id={ID}
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:106
 msgid "Wose Branch"
 msgstr "Ulu Ağaç Dalı"
-
 
 #. [object]: id={ID}
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:108
 msgid "The magical branch of some great Wose."
 msgstr "Büyük bir Ulu Ağaç'ın sihirli dalı."
 
-
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:170
 msgid "Should $unit.name| touch the monolith?"
 msgstr "$unit.name| monoliti dokunmalı mı?"
-
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:171
 msgid "This unit will gain the stun weapon special on melee attacks."
 msgstr "Bu birim yakın saldırılarda sersemletme silah özelliği kazanacak."
 
-
 #. [object]: id={ID}
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:177
 msgid "Echoes of the Earth"
 msgstr "Yeryüzünün Yankıları"
-
 
 #. [object]: id={ID}
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:179
 msgid "Powerful echoes from the bowels of the earth."
 msgstr "Yerin bağırsaklarından güçlü yankılar."
 
-
 #. [message]: speaker=$unit.id|
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:191
 msgid "The unit gains the stun weapon special on melee attacks."
 msgstr "Birim yakın saldırılarda sersemletme silah özelliği kazanır."
-
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:209
 msgid ""
 "After $unit.name| absorbed the stone’s power, the monolith lost its magical "
 "properties."
-msgstr "$unit.name| taşın gücünü soğurduktan sonra, monolit büyülü özelliklerini kaybetti."
-
+msgstr ""
+"$unit.name| taşın gücünü soğurduktan sonra, monolit sihirli özelliklerini "
+"kaybetti."
 
 #. [time]: id=lava
 #: data/campaigns/Dusk_of_Dawn/utils/schedules.cfg:6
 msgid "Lava"
 msgstr "Lav"
 
-
 #. [time]: id=magic_light
 #: data/campaigns/Dusk_of_Dawn/utils/schedules.cfg:18
 msgid "Magic Light"
 msgstr "Sihirli Işık"
 
-
 #. [chance_to_hit]: id=unerring
 #: data/campaigns/Dusk_of_Dawn/utils/weapon_specials.cfg:6
 msgid "unerring"
 msgstr "yanılmaz"
-
 
 #. [chance_to_hit]: id=unerring
 #: data/campaigns/Dusk_of_Dawn/utils/weapon_specials.cfg:7
