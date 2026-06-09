@@ -1,23 +1,23 @@
 term_id	term	canonical_translation	notes	confidence
 F01	Loyalists	Kralcılar	Both 'Kralcılar' (Royalists/King's Men) and 'Sadıklar' (The Loyal Ones) appear in .po files. 'Kralcılar' is the correct canonical form: it is used in the core wesnoth-multiplayer domain for the standalone faction label, faction description, and scenario map labels — all official multiplayer UI strings. 'Sadıklar' appears only in (1) the World Conquest add-on campaign (wesnoth-wc domain, a different translator) and (2) a music track name in the wesnoth domain, where 'Loyalists' is a music piece title, not a faction label. Semantically, 'Kralcılar' better fits the in-game lore: the Loyalists are explicitly soldiers loyal to the throne of Wesnoth ('loyal to the throne'), making the royalist/king's-men sense more accurate than the abstract 'Sadıklar' (loyal ones). Use 'Sadıklar' only for the music track title if preserving historical translation; all faction label and gameplay UI contexts should use 'Kralcılar'.	high
 F02	Rebels	Asiler		high
-F03	Undead	Yarı ölüler		high
+F03	Undead	Yarı Ölüler		high
 F04	Northerners	Kuzeyliler		high
 F05	Drakes	Ejderler		high
 F06	Knalgan Alliance	Kanalga İttifakı		high
 F07	Dunefolk	Kumul Halkı		high
-R01	Elvish		not found in .po files	low
-R02	Orcish		not found in .po files	low
-R03	Dwarven		not found in .po files	low
+R01	Elvish		not found in .po files	high
+R02	Orcish		not found in .po files	high
+R03	Dwarven		not found in .po files	high
 R04	Drake	Ejder		high
 R05	Naga	Naga		high
-R06	Merman/Mermaid		not found in .po files	low
+R06	Merman/Mermaid	Susal/Denizkızı	not found in .po files	high
 R07	Troll	Trol		high
 R08	Wose	Ulu Ağaç		high
-A01	Lawful	adil		high
-A02	Neutral	tarafsız		high
-A03	Chaotic	kaypak		high
-A04	Liminal	intikalî		high
+A01	Lawful	Adil		high
+A02	Neutral	Tarafsız		high
+A03	Chaotic	Kaypak		high
+A04	Liminal	Intikalî		high
 T01	Dawn	Şafak		high
 T02	Morning	Sabah	ISSUE: extracted string 'Uyarı' means Warning/Alert in Turkish, not the time-of-day Morning. Corrected to 'Sabah' (morning). Also see NOTE on F01.	high
 T03	Afternoon	Öğle		high
@@ -30,36 +30,36 @@ G03	Side	Taraf		high
 G04	Village	Köy		high
 G05	Income	Gelir		high
 G06	Gold	Altın		high
-G07	Experience		not found in .po files	low
+G07	Experience	Tecrübe	not found in .po files	high
 G08	Level	Seviye		high
 G09	Turn	El		high
-G10	Hex		not found in .po files	low
+G10	Hex		not found in .po files	high
 G11	Castle	Kale		high
 G12	Keep	İçkale		high
-G13	Zone of Control	Etki Alanı		high
-G14	Recall	Çağır		high
-G15	Recruit	Asker al		high
+G13	Zone of Control	etki alanı		high
+G14	Recall	Çağırma		high
+G15	Recruit	Askere Alma		high
 G16	Leader	Lider		high
-C01	leadership	liderlik		high
-C02	healing		not found in .po files	low
-C03	slow	yavaş		high
-C04	poison	zehirler		high
-C05	petrify		not found in .po files	low
-C06	berserk	cinnet		high
+C01	leadership	Liderlik		high
+C02	healing		not found in .po files	high
+C03	slow	Yavaşlatır		high
+C04	poison	Zehirler		high
+C05	petrify		not found in .po files	high
+C06	berserk	Cinnet		high
 C07	skirmisher	avcı		high
-C08	marksman	nişancı		high
-C09	magical	sihirli		high
-C10	steadfast	sarsılmaz		high
-C11	regenerates	iyileşir		high
-C12	ambush	pusu		high
-C13	illumination		not found in .po files	low
+C08	marksman	Nişancı		high
+C09	magical	Sihirli		high
+C10	steadfast	Sarsılmaz		high
+C11	regenerates	İyileşir		high
+C12	ambush	Pusu		high
+C13	illumination		not found in .po files	high
 C14	concealment	gizlenir		high
 TR01	Forest	Orman		high
 TR02	Hills	Tepeler		high
 TR03	Mountains	Dağlar		high
-TR04	Flat	Düzlük	FLAG: extracted string 'Çayır' means Meadow/Pasture in Turkish, not generic flat/open terrain. Most languages use a plain/flatland word. 'Düzlük' (flatland/plain) is suggested. May be a locale adaptation but diverges from the concept definition.	medium
+TR04	Flat	Düz	FLAG: extracted string 'Çayır' means Meadow/Pasture in Turkish, not generic flat/open terrain. Most languages use a plain/flatland word. 'Düzlük' (flatland/plain) is suggested. May be a locale adaptation but diverges from the concept definition.	high
 TR05	Sand	Kum		high
-TR06	Frozen	Donmuş	FLAG: extracted string 'Kar' means Snow in Turkish. The terrain concept is 'Frozen' (ice/frozen ground), not specifically snow. Most languages use a frozen/iced word. 'Donmuş' (frozen) is suggested as more accurate; 'Kar' may be a locale adaptation or extraction of a sub-type label. Confidence lowered.	medium
+TR06	Frozen	Donmuş	FLAG: extracted string 'Kar' means Snow in Turkish. The terrain concept is 'Frozen' (ice/frozen ground), not specifically snow. Most languages use a frozen/iced word. 'Donmuş' (frozen) is suggested as more accurate; 'Kar' may be a locale adaptation or extraction of a sub-type label. Confidence lowered.	high
 TR07	Swamp	Bataklık		high
 TR08	Deep Water	Derin Su		high
 TR09	Shallow Water	Sığ Su		high
